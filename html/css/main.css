@@ -1,0 +1,180 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#map-canvas {
+	margin: 0;
+	padding: 0;
+	height: 400px;
+
+}
+#map-canvas img {
+	max-width: none;
+}
+/* Logo in the nav bar */
+.brand {
+	padding:0px 0px !important; 
+}
+
+/* Reference logos */
+.refer-left {
+  margin-bottom: 30px;
+  margin-right: 10px;
+}
+.refer {
+  margin-bottom: 30px;
+}
+
+/* button jmei
+eddc8a
+af9a57
+927937
+*/
+.btn-jmei {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #eddc8a;
+  *background-color: #af9a57;
+  background-image: -moz-linear-gradient(top, #f4ebbb, #af9a57);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f4ebbb), to(#af9a57));
+  background-image: -webkit-linear-gradient(top, #f4ebbb, #af9a57);
+  background-image: -o-linear-gradient(top, #f4ebbb, #af9a57);
+  background-image: linear-gradient(to bottom, #f4ebbb, #af9a57);
+  background-repeat: repeat-x;
+  border-color: #af9a57 #af9a57 #ad6704;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff4ebbb', endColorstr='#ffaf9a57', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.btn-jmei:hover,
+.btn-jmei:focus,
+.btn-jmei:active,
+.btn-jmei.active,
+.btn-jmei.disabled,
+.btn-jmei[disabled] {
+  color: #ffffff;
+  background-color: #af9a57;
+  *background-color: #997f2e;
+}
+
+.btn-jmei:active,
+.btn-jmei.active {
+  background-color: #bd9726 \9;
+}
+
+
+/* Flags in the nav bar */
+/* icons */
+[class^="cus-flag-"],
+[class*=" cus-flag-"] {
+  display: inline-block;
+  width: 17px;
+  height: 16px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-center;
+  background-image: url("../img/flags-icons.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+[class^="cus-flag-"]:last-child,
+[class*=" cus-flag-"]:last-child {
+  *margin-left: 0;
+}
+/* icons code below */
+.cus-flag-be{ background-position: 0 0; width: 16px; height: 11px; } 
+.cus-flag-de{ background-position: -21px 0; width: 16px; height: 11px; } 
+.cus-flag-fr{ background-position: -42px 0; width: 16px; height: 11px; } 
+.cus-flag-gb{ background-position: -63px 0; width: 16px; height: 11px; } 
+.cus-flag-nl{ background-position: -84px 0; width: 16px; height: 11px; } 
+.cus-flag-us{ background-position: -105px 0; width: 16px; height: 11px; } 
+
+
+
+.sidenavmix {
+  background-color: #fff;
+  background-image: none;
+}
+.sidenavmix > .active > a {
+  position: relative;
+  z-index: 2;
+  border: 0;
+  text-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+     -moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+          box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+}
+
+
+/* Sidenav 
+-------------------------------------------------- */
+
+.sidenav {
+  width: 228px;
+  margin: 30px 0 0;
+  padding: 0;
+  background-color: #fff;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.065);
+     -moz-box-shadow: 0 1px 4px rgba(0,0,0,.065);
+          box-shadow: 0 1px 4px rgba(0,0,0,.065);
+}
+.sidenav > li > a {
+  display: block;
+  width: 190px \9;
+  margin: 0 0 -1px;
+  padding: 8px 14px;
+  border: 1px solid #e5e5e5;
+}
+.sidenav > li:first-child > a {
+  -webkit-border-radius: 6px 6px 0 0;
+     -moz-border-radius: 6px 6px 0 0;
+          border-radius: 6px 6px 0 0;
+}
+.sidenav > li:last-child > a {
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+}
+.sidenav > .active > a {
+  position: relative;
+  z-index: 2;
+  padding: 9px 15px;
+  border: 0;
+  text-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+     -moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+          box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+}
+/* Chevrons */
+.sidenav .icon-chevron-right {
+  float: right;
+  margin-top: 2px;
+  margin-right: -6px;
+  opacity: .25;
+}
+.sidenav > li > a:hover {
+  background-color: #f5f5f5;
+}
+.sidenav a:hover .icon-chevron-right {
+  opacity: .5;
+}
+.sidenav .active .icon-chevron-right,
+.sidenav .active a:hover .icon-chevron-right {
+  background-image: url(../img/glyphicons-halflings-white.png);
+  opacity: 1;
+}
+.sidenav.affix {
+  top: 40px;
+}
+.sidenav.affix-bottom {
+  position: absolute;
+  top: auto;
+  bottom: 270px;
+}
+

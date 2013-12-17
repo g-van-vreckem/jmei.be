@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+	Coding: Gauthier Van Vreckem
+	Contact: gauthier [at] apricus.be
+	From: Wasseiges, Belgium
+
+	Content Editor: Manu Piraprez
+
+# THANKS
+
+    AWEX Export Investments for it's financial support
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Bootstrap
