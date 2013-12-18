@@ -14,7 +14,7 @@
       avoid miss use of transmitter.</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-TCA27/TCA27.jpg" alt="TCA27" />
+							<img class="img-polaroid" src="../img/product-TCA27/tca27.jpg" alt="TCA27" />
 						</div>
 					</div>
 					<p></p>
