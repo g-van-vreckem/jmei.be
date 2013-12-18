@@ -13,13 +13,13 @@ PAGESC;
 ?>
 			<div id="contact-feedback">
 				<form class="contact-form" method="get" data-target="#contact-feedback" action="/sendmail.php">
-					<legend>Contactez nous!</legend>
+					<legend>Contactez-nous!</legend>
 					<fieldset>
 						<label>Votre Nom <span>(Requis)</span></label>
 						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
 						<label>Votre adresse e-mail <span>(Requis)</span></label>
 						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
-						<label>Message <span>(Required)</label>
+						<label>Message <span>(Requis)</label>
 						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
 						<button id="submit-btn" type="submit" class="btn">Envois</button>
 						<input type="hidden" name="lang" value="en">
@@ -30,8 +30,9 @@ PAGESC;
             <!-- Example row of columns -->
             <div class="row">
                 <div class="span4">
-                    <h2>Contactez nous!</h2>
+                    <h2>Contactez-nous!</h2>
                     <p><b>JMei</b>
+					Solution-Electronic-Radio transmission<br>
 					Chaussée de Rochefort, 123<br>
 						B-6900 Marloie<br>
 						Belgique<br>
@@ -41,7 +42,8 @@ PAGESC;
                 </div>
                 <div class="span4">
                     <h2>Heures d'ouverture</h2>
-                    <p>Notre société est ouverte tous les jours ouvrables, de 8h à 18h</p>
+                    <p>Notre société est ouverte tous les jours ouvrables <br>
+                    (du lundi au vendredi), de 8h à 18h</p>
 				</div>
                 <div class="span4">
                     <h2>Comptabilité</h2>
