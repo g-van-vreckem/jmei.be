@@ -73,9 +73,9 @@
 							Bidirectional or not (informations are sent back to the transmitter).<br>
 							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">View details &raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/Hellice_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Hellice_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Hellice_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_4.jpg" data-type="img"></a>
                     </div>
                 </div>											
 			</div>
@@ -194,7 +194,7 @@
                         <h5 class="tile-title">Secure Starting</h5>
                         <p class="tile-intro">Uncompromized security</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB1000.jpg">
+                    <img class="right-img" src="../img/product-overview3/tca27.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -203,9 +203,9 @@
                         <div class="tile-desc">
 							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">View details &raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB1000_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/tca27_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/tca27_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/tca27_4.jpg" data-type="img"></a>
                     </div>
                 </div>													
 				<div id="i9" class="tile span4">
