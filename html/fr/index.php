@@ -12,8 +12,7 @@
 						<img src="../img/home/slide-01.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">After much efforts, IRC becomes JMei
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Read more...</a></p>
+								<p class="lead">L'équipe JMei vous souhaite de joyeuses fêtes! <a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Read more...</a></p>
 							</div>
 						</div>
 					</div>
@@ -21,7 +20,7 @@
 						<img src="../img/home/slide-02.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Quality, Cost, Reliability. Welcome in the JMei radio control world!
+								<p class="lead">Qualité, Coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -30,7 +29,7 @@
 						<img src="../img/home/slide-03.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Flexibility, focus on your specific needs.
+								<p class="lead">Flexibilité, innovation, solution à vos besoins spécifiques.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -39,7 +38,7 @@
 						<img src="../img/home/slide-04.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Strength trough constant innovation. reciver Profibus, Ethernet or Can Bus modes
+								<p class="lead">JMei puise sa force  grâce à l'innovation constante. récepteur Profibus, Ethernet ou Can Bus 
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('Helice');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -48,7 +47,7 @@
 						<img src="../img/home/slide-05.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Engineered to meet specific customer's needs.
+								<p class="lead">Conçu pour répondre aux besoins spécifiques des clients.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB3000');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -57,8 +56,8 @@
 						<img src="../img/home/slide-06.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Our strength: our references.<br>Our grow: your trust.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Read more...</a></p>
+								<p class="lead">Notre force: vos références.<br>
+							    Notre croissance: votre confiance.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Read more...</a></p>
 							</div>
 						</div>
 					</div>
@@ -66,7 +65,7 @@
 						<img src="../img/home/slide-07.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">All kinds of customization with brand new technologies.
+								<p class="lead">Après un travail de dur labeur, JMei devient l'évolution de IRC.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -75,7 +74,7 @@
 						<img src="../img/home/slide-08.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Transmitter with any possible displays, bidirectional.
+								<p class="lead">Tous les types de personnalisation avec les dernières technologies.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB90');?>">Read more...</a></p>
 							</div>
 						</div>
@@ -90,26 +89,26 @@
                     <h2>JMei</h2>
                     <p>Chaussée de Rochefort, 123<br>
 						B-6900 Marloie<br>
-						Belgium<br>
+						Belgique<br>
 						Tel. : +32 84 34.41.75<br>
 						Fax : +32 84 34.41.77<br>
 						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contact Us! &raquo;</a></p>
+                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>Radio of the Month</h2>
+                    <h2>Joyeuses fêtes!</h2>
                     <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=1" alt="Lorem Ipsum"></a>
                </div>
                 <div class="span4">
                 <ul>
-					<li>Personnalization</li>
-					<li>Flexibility</li>
+					<li>Personnalisation</li>
+					<li>Flexibilité</li>
 					<li>Innovation</li>
-					<li>Reactivity</li>
+					<li>Reactivité</li>
 					<li>Experience</li>
-					<li>Reliability</li>
+					<li>Fiabilité</li>
 				</ul>
-				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">View details &raquo;</a></p>
+				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">Voir details &raquo;</a></p>
                 </div>
             </div>
             <div class="row">
@@ -117,10 +116,10 @@
 					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=1" alt="Featured Product RCB90 RCB700"></a>
                 </div>
                 <div class="span4">
-					<p class="lead text-center">A dynamic and Professional Team</p>
-					<p class="lead text-center">A speedy and High Quality service </p>
-					<p class="lead text-center">Custom Manufacturing of your Orders</p>
-					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">View details &raquo;</a></p>
+                    <p class="lead text-center">Une équipe dynamique et professionnelle</p>
+					<p class="lead text-center">Un service rapide et de qualité </p>
+					<p class="lead text-center">Fabrication sur-mesure de vos produits</p>
+					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
 				</div>
                 <div class="span4">
 					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=1" alt="Featured Product Hélice RCB1000 RCB3000"></a>
