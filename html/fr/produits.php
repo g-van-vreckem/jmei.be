@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	include 'common.php';
 	$title .= '';
 	$description .='';
@@ -7,104 +7,233 @@
 	include 'nav.php';
 
 ?>
-			<div class="row">
-				<div class="span4">
-					<h4>Buttons' Boxes</h4>
-					<h5><a href="<?php echo Site::relativeUrl('RCB90');?>">RCB90</a></h5>
-					<img src="../img/product-overview/rcb90.jpg" alt="RCB90">
-					<p><strong>Adapted for all kinds of industrial uses.</strong></p>
-					<p>Robust, ultra-compact and economical radio control.<br>
-					Up to 14 double push buttons.<br>
-					Bidirectional or not (informations are sent back to the transmitter).</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90');?>">Read more ...</a></p>
-					
-					<hr>
-					
-					<h5><a href="<?php echo Site::relativeUrl('RCB700');?>">RCB700</a></h5>
-					<img class="photo" src="../img/product-overview/rcb700.jpg" alt="JMei Button Box Radio Command Model RCB700">
-					<p><strong>Highly robust and very ergonomic design.</strong></p>
-					<p>Transmitter made from aluminium, lightweight, to be worn on the belt.<br>
-					Up to 12 ON/OFF functions et 4 analogue channels.<br>
-					Bidirectional or not (informations are sent back to the transmitter).<br>
-					Especially well adapted for forest use, quarries, and all kinds of tough industrial environments.</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB700');?>">Read more ...</a></p>
+			<div id="r1" class="row spaced-row">
+				<div id="i1" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">RCB90</h5>
+                        <p class="tile-intro">Button box radio control</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/RCB90.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><strong>Adapted for all kinds of industrial uses.</strong><br>
+							Robust, ultra-compact and economical radio control.<br>
+							Up to 14 double push buttons.<br>
+							Bidirectional or not (informations are sent back to the transmitter).<br>
+							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB90_4.jpg" data-type="img"></a>
+                    </div>
+                </div>											
+				<div id="i2" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">RCB700</h5>
+                        <p class="tile-intro">Button box radio control</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/RCB700.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><strong>Highly robust and very ergonomic design.</strong><br>
+							Transmitter made from aluminium, lightweight, to be worn on the belt.<br>
+							Up to 12 ON/OFF functions et 4 analogue channels.<br>
+							Bidirectional or not (informations are sent back to the transmitter).<br>
+							Especially well adapted for forest use, quarries, and all kinds of tough industrial environments.<br>
+							<a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/RCB700_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB700_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB700_4.jpg" data-type="img"></a>
+					</div>
 				</div>
-				<div class="span4">
-					<h4>Control Panels</h4>
-					<h5><a href="<?php echo Site::relativeUrl('RCB3000');?>">RCB3000</a></h5>
-					<img class="photo" src="../img/product-overview/rcb3000.jpg" alt="JMei Control Panel Radio Command RCB3000 Series Models">
-					<p><strong>Compact and offering many function possibilities.</strong></p>
-					<p>Large and economical control panel.<br>
-					48 ON/OFF functions; 8 analogue channels.<br>
-					Totally customizable, offering a lot of different possibilities to the user.<br>
-					Bidirectional or not (informations are sent back to the transmitter).</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB3000');?>">Read more ...</a></p>
-
-					<hr>
-					
-					<h5><a href="<?php echo Site::relativeUrl('RCB1000');?>">RCB1000</a></h5>
-					<img class="photo" src="../img/product-overview/rcb1000.jpg" alt="RCB1000">
-					<p><strong>The "Top of the range" control panel.</strong></p>
-					<p>Very large and highly robust control panel.<br>
-					48 ON/OFF functions; 8 analogue channels.<br>
-					Its large panels offers infinite customization possibilities.<br>
-					Bidirectional or not (informations are sent back to the transmitter).</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB1000');?>">Read more ...</a></p>
-				</div>
-				<div class="span4">
-					<h4>Data Transmission</h4>
-					<h5><a href=<?php echo Site::relativeUrl('RCB7000');?>">RCB7000</a></h5>
-					<img class="photo" src="../img/product-overview/rcb7000.jpg" alt="RCB7000">
-					<p><strong>Wireless industrial data transmission.</strong></p>
-					<p>Bidirectional or unidirectional system with 4 different analogue signals.<br>
-					Digital, analogue or RS232/485 transmission.</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB7000');?>">Read more ...</a></p>
-
-					<hr>
-					
-					<h5><a href="<?php echo Site::relativeUrl('RCB6000');?>">RCB6000</a></h5>
-					<img class="photo" src="../img/product-overview/rcb6000.jpg" alt="RCB6000"></a>
-					<p><strong>Customizable wireless industrial data transmission.</strong></p>
-					<p>20 inputs and outputs (can be upgraded to 40).<br>
-					Customization up to 8 analogue inputs and outputs possible.</p>
-					<p><a href="<?php echo Site::relativeUrl('RCB6000');?>">Read more ...</a></p>
-				</div>
+				<div id="i3" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">Hélice</h5>
+                        <p class="tile-intro">The compact radio command solution</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/Helice.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><strong>Adapted for all kinds of industrial uses.</strong><br>
+							Robust, ultra-compact and economical radio control.<br>
+							Up to 14 double push buttons.<br>
+							Bidirectional or not (informations are sent back to the transmitter).<br>
+							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_4.jpg" data-type="img"></a>
+                    </div>
+                </div>											
 			</div>
-			<div class="row">
-				<div class="span4">
-					<h4>Receivers</h4>
-					<h5><a href="<?php echo Site::relativeUrl('RECB');?>">RECB</a></h5>
-					<img class="photo" src="../img/product-overview/recb.jpg" alt="RECB"></a>
-					<p><strong>Receiver for equipments like RCB90, RCB700, RCB1000, RCB3000.</strong></p>
-					<p>Extensions possibilities :<br>
-					- Analogue inputs and outputs<br>
-					- RS232/RS485 transmission<br>
-					Bidirectional or not (informations are sent back to the transmitter).<br>
-					Receiver foreseen with feedback capability (serial, digital, or analog mode) by using only one channel.</p>
-					<p><a href="<?php echo Site::relativeUrl('RECB');?>">Read more ...</a></p>
-				</div>
-				<div class="span9">
-				</div>
+		</div>
+		<!-- Detail View  -->
+		<div class="detail r1">
+			<div class="detail-close" aria-hidden="true" data-icon="&#xe001;"></div>
+			<div class="container">
 			</div>
-			<hr>
-			<div class="row">
-				<div class="span4">
-					<h4>Secured Starting</h4>
-					<h5><a href="<?php echo Site::relativeUrl('TCA27');?>">IRC patended secured starting-system</a></h5>
-					<img class="photo" src="../img/product-overview/tca27.jpg" alt="TCA27"></a>
-					<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Read more ...</a></p>
-				</div>
-				<div class="span4">
-					<h4>Identification Key</h4>
-					<h5><a href="<?php echo Site::relativeUrl('KEY');?>">Identification Key</a></h5>
-					<img class="photo" src="../img/product-overview/identification-key.jpg" alt="Configuration and Identification Key"></a>
-					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Read more ...</a></p>
-				</div>
-				<div class="span4">
-					<h4>Master / Slave System</h4>
-					<h5><a href="<?php echo Site::relativeUrl('TANDEM');?>">Master / Slave System</a></h5>
-					<img class="photo" src="../img/product-overview/tandem.jpg" alt="Master Slave System"></a>
-					<p><a href="<?php echo Site::relativeUrl('TANDEM');?>">Read more ...</a></p>
-				</div>
-			</div>					
+		</div>
+		<!--/ Detail view -->
+		<div class="container">
+			<div id="r2" class="row spaced-row">
+				<div id="i4" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">RCB3000</h5>
+                        <p class="tile-intro">Radio Control panel</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/RCB3000.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><strong>Compact and offering many function possibilities.</strong></p>
+							<p>Large and economical control panel.<br />
+							48 ON/OFF functions; 8 analogue channels.<br />
+							Totally customizable, offering a lot of different possibilities to the user.<br />
+							Bidirectional or not (informations are sent back to the transmitter).</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/RCB3000_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB3000_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB3000_4.jpg" data-type="img"></a>
+                    </div>
+                </div>											
+				<div id="i5" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">RCB1000</h5>
+                        <p class="tile-intro">Radio control panel</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/RCB1000.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><strong>The "Top of the range" control panel.</strong></p>
+							<p>Very large and highly robust control panel.<br />
+							48 ON/OFF functions; 8 analogue channels.<br />
+							Its large panels offers infinite customization possibilities.<br />
+							Bidirectional or not (informations are sent back to the transmitter).</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB1000_4.jpg" data-type="img"></a>
+                    </div>
+                </div>													
+				<div id="i6" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">RCB6000/RCB7000</h5>
+                        <p class="tile-intro">Customizable wireless industrial data transmission.</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/RCB6000.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p>Bidirectional or unidirectional system with up to 8 analogue IO signals.<br />
+							Digital, analogue or RS232/485 transmission.</p>
+							<p>20 inputs and outputs (can be upgraded to 40).</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/RCB6000_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB6000_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB6000_4.jpg" data-type="img"></a>
+                    </div>
+                </div>
+			</div>
+		</div>
+		<!-- Detail View  -->
+		<div class="detail r2">
+			<div class="detail-close" aria-hidden="true" data-icon="&#xe001;"></div>
+			<div class="container">
+			</div>
+		</div>
+		<!--/ Detail view -->
+		<div class="container">
+			<div id="r3" class="row spaced-row">
+				<div id="i5" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">Identification Key</h5>
+                        <p class="tile-intro">Exchanging emitter made easy</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/KEY.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/KEY_4.jpg" data-type="img"></a>
+                    </div>
+                </div>													
+				<div id="i8" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">Secure Starting</h5>
+                        <p class="tile-intro">Uncompromized security</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/tca27.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/tca27_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/tca27_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/tca27_4.jpg" data-type="img"></a>
+                    </div>
+                </div>													
+				<div id="i9" class="tile span4">
+                    <div class="left-text">
+                        <h5 class="tile-title">Multi Equipement Coordination</h5>
+                        <p class="tile-intro">Mastering Complex systems made easy</p>
+                    </div>
+                    <img class="right-img" src="../img/product-overview3/TANDEM.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+							<p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">View details &raquo;</a></p>
+						</div>
+                        <a href="../img/product-overview3/TANDEM_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/TANDEM_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/TANDEM_4.jpg" data-type="img"></a>
+                    </div>
+                </div>													
+			</div>
+		</div>
+		<!-- Detail View  -->
+		<div class="detail r3">
+			<div class="detail-close" aria-hidden="true" data-icon="&#xe001;"></div>
+			<div class="container">
+			</div>
+		</div>
+		<!--/ Detail view -->		
 <?php include 'footer.php';?>

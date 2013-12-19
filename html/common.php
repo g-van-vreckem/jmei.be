@@ -21,7 +21,7 @@
 			self::addPage ( new Page ( 'home', 'en', 'index' ) );
 			self::addPage ( new Page ( 'home', 'fr', 'index') );
 			
-			self::addPage ( new Page ( 'products', 'en', 'product-overview' ) );
+			self::addPage ( new Page ( 'products', 'en', 'products' ) );
 			self::addPage ( new Page ( 'products', 'fr', 'produits' ) );
 			
 			self::addPage ( new Page ( 'contact', 'en' ) );
