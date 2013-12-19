@@ -19,7 +19,7 @@
 						</ul>
 						<ul class="nav pull-right">
 							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="cus-flag-gb"></i> Français <b class="caret"></b></a>
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="cus-flag-fr"></i> Français <b class="caret"></b></a>
 								<ul class="dropdown-menu">
 									<li class="active"><a href="#"><i class="cus-flag-fr"></i> Français</a></li>
 									<li><a href="<?php echo Site::relativeUrl($pageId, 'en');?>"><i class="cus-flag-gb"></i> English</a></li>
