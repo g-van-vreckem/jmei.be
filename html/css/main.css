@@ -59,11 +59,6 @@
 	-ms-user-select: none;
 	user-select: none;
 }
-.tile-orange {
-	background-color: #999999;
-	color: #fff;
-	height: 220px;
-}
 .no-touch .tile:hover {
 	cursor: pointer;
 	cursor: hand; 
@@ -72,7 +67,7 @@
 	overflow: visible;
 }
 /* Triangles*/
-.tile:after,.tile-over:after {
+.tile-over:after {
 	pointer-events: none;
 	display: none;
 	position: absolute;
@@ -98,10 +93,6 @@
 
 /* overlay with icons*/
 .tile-over {
-/*	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;*/
-	/*display: none;*/
 	opacity: 0;
 	filter: alpha(opacity=0);
 
@@ -120,40 +111,18 @@
 	color: #fff;
 	opacity: .7;
 	filter: alpha(opacity=70);
-	/*border:18px solid white;*/
 	-webkit-transition: all 200ms ease-out;
 	   -moz-transition: all 200ms ease-out;
 	     -o-transition: all 200ms ease-out;
 	    -ms-transition: all 200ms ease-out;
 	        transition: all 200ms ease-out;
 }
-.no-touch .tile-orange:hover .tile-over {
-	background-color: #999999;
-	color: #fff;
-}
-.no-touch .tile-orange:hover .top-text p {
-	display: none;
-}
-.no-touch .tile:hover img {
-	/*opacity: 0;*/
-}
 .tile.active .tile-over {
 	opacity: 1;
 	display: block;
 	background-color: #333;
 	color: #fff;
-	/*border:20px solid #ff3300;*/
-/*	-webkit-transition: all 0.2s ease-out 0.2s;
-	   -moz-transition: all 0.2s ease-out 0.2s;
-	     -o-transition: all 0.2s ease-out 0.2s;
-	    -ms-transition: all 0.2s ease-out 0.2s;
-	        transition: all 0.2s ease-out 0.2s;*/
-}
-.tile-orange.active .top-text {
-	display: none;
-}
-.tile-orange.active .bottom-img {
-	opacity: 0;
+
 }
 .no-touch .tile.active .tile-over:hover {
 	opacity: 1;
@@ -182,16 +151,6 @@
 .bottom-img {
 	width: 100%;
 }
-.tile-orange .bottom-img {
-	position: absolute;
-	bottom: 0;
-	z-index: 0;
-}
-.right-img {
-	float: right;
-	height: 220px;
-	width: auto;
-}
 .tile h5,.detail h5 {
 	margin-top: 5px;
 	margin-bottom: 0px;
@@ -200,17 +159,6 @@
 	font-size: 16px;
 	color: #999999;
 }
-.tile-orange h5 {
-	margin-top: 5px;
-	line-height: 20px;
-	font-weight: 300;
-	font-size: 16px;
-	color: #fff;
-	margin-bottom: 0px;
-}
-/*.tile-intro {
-	font-size: 17px;
-}*/
 .tile p {
 	color: #999999;
 	font-weight: 900;
@@ -222,32 +170,8 @@
 	padding: 15px 20px 20px;
 	height: 60px; 
 }
-.tile-orange .top-text {
-	position: absolute;
-	height: auto;
-	z-index: 1;
-}
-.left-text {
-	float: left;
-	overflow:hidden; 
-	padding: 15px 20px 20px;
-	width: 180px;
-}
 .top-text p {
 	max-height: 2.4em;
-}
-.tile-orange .top-text p {
-	color: #f3f3f3;
-	max-height: 9.5em;
-}
-.left-text p {
-	max-height: 7.2em;
-}
-.footer-bg {
-	/*position: relative;*/
-	margin-top: 40px;
-	padding: 20px 0;
-	background-color: #343333;
 }
 /*/////////////////////////////////////////////////////////////////////////////
 	Detail
@@ -283,27 +207,6 @@
 	color: #ff3300;
 	/*position: absolute;*/
 }
-/*.detail-close:before,
-.detail-close:after {
-	content: '';
-	position: absolute;
-	width: 100%;
-	top: 50%;
-	height: 1px;
-	background: #999;
-	transform: rotate(45deg);
-	-webkit-transform: rotate(45deg);
-}
- 
-.detail-close:after {
-	transform: rotate(-45deg);
-	-webkit-transform: rotate(-45deg);
-}
- 
-.detail-close:hover::before,
-.detail-close:hover::after {
-	background: #ff3300;
-}*/
 
 .detail-desc-text {
 	color: #888;
@@ -312,16 +215,6 @@
 }
 .detail-desc-text ul {
 	margin-top: 10px;
-}
-
-.detail-desc-text a {
-	color: #ff3300;
-}
-.detail-desc-text a:hover {
-	color: #fff;
-}
-.detail-desc-text b {
-	color: #aaa;
 }
 
 .detail-desc h3 {
@@ -384,12 +277,7 @@
 	opacity: 1;
 	filter: alpha(opacity=100);
 }
-/*.carousel-control.right span {
-	margin-right: -4px;
-}
-.carousel-control.left span {
-	margin-left: -4px;
-}*/
+
 .carousel-inner img, .detail img {
 	width: 100%;
 }
@@ -423,8 +311,8 @@
 .btn-jmei {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #eddc8a;
-  *background-color: #af9a57;
+  *background-color: #eddc8a;
+  background-color: #af9a57;
   background-image: -moz-linear-gradient(top, #f4ebbb, #af9a57);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f4ebbb), to(#af9a57));
   background-image: -webkit-linear-gradient(top, #f4ebbb, #af9a57);
@@ -447,6 +335,7 @@
   background-color: #af9a57;
   *background-color: #997f2e;
 }
+
 
 .btn-jmei:active,
 .btn-jmei.active {
