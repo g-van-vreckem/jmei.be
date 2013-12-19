@@ -97,19 +97,20 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contact Us! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <!--<h2>Radio of the Month</h2>-->
-                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=1" alt="Lorem Ipsum"></a>
+                    <h2>Season's Greetings!</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=1" alt="Season's Greetings and Happy New Year"></a>
                </div>
                 <div class="span4">
-                <ul>
-					<li>Personalisation</li>
-					<li>Flexibility</li>
-					<li>Innovation</li>
-					<li>Reactivity</li>
-					<li>Experience</li>
-					<li>Reliability</li>
-				</ul>
-				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">View details &raquo;</a></p>
+					<h2>Our strengths</h2>
+					<ul>
+						<li>Personalisation</li>
+						<li>Flexibility</li>
+						<li>Innovation</li>
+						<li>Reactivity</li>
+						<li>Experience</li>
+						<li>Reliability</li>
+					</ul>
+					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">View details &raquo;</a></p>
                 </div>
             </div>
             <div class="row">
