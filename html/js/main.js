@@ -18,17 +18,25 @@ jQuery(document).ready(function($) {
 		event.preventDefault();
 		var $form = $(this);
 		var $target = $($form.attr('data-target'));
-		 
-		$.ajax({
-			type: $form.attr('method'),
-			url: $form.attr('action'),
-			data: $form.serialize(),
-			 
-			success: function(data, status) {
-				$target.html(data);
+		var validData = true;
+		$form.find(".control-group").removeClass("error");
+		$form.find(".required").each(function () {
+			if ($(this).val()=="") {
+				$(this).parent().addClass("error");
+				validData = false;
 			}
 		});
-	 
+		if (validData) {
+			$.ajax({
+				type: $form.attr('method'),
+				url: $form.attr('action'),
+				data: $form.serialize(),
+				 
+				success: function(data, status) {
+					$target.html(data);
+				}
+			});
+		}
 	});
 
 	// Handle hash change for section display

@@ -30,14 +30,21 @@ PAGESC;
 						<p>JMei ensure the sale in the Benelux</p>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-jmei">Contact the JMei sales team!</legend>
 						<div class="collapse" id="contact-jmei">
+							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-jmei" action="/sendmail.php">
 								<fieldset>
-									<label>Your name <span>(Required)</span></label>
-									<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
-									<label>Your email address <span>(Required)</span></label>
-									<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
-									<label>Message <span>(Required)</label>
-									<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									<div class="control-group">
+										<label>Your name <span>(Required)</span></label>
+										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+									</div>
+									<div class="control-group">
+										<label>Your email address <span>(Required)</span></label>
+										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Message <span>(Required)</label>
+										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									</div>
 									<button id="submit-btn" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact JMei">
@@ -57,14 +64,21 @@ PAGESC;
 						</ul>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-opsyselec" >Contact the Opsyselec sales team!</legend>
 						<div class="collapse" id="contact-opsyselec">
+							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-opsyselec" action="/sendmail.php">
 								<fieldset>
-									<label>Your name <span>(Required)</span></label>
-									<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
-									<label>Your email address <span>(Required)</span></label>
-									<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
-									<label>Message <span>(Required)</label>
-									<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									<div class="control-group">
+										<label>Your name <span>(Required)</span></label>
+										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+									</div>
+									<div class="control-group">
+										<label>Your email address <span>(Required)</span></label>
+										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Message <span>(Required)</label>
+										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									</div>
 									<button id="submit-btn" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact opsyelec">
@@ -82,14 +96,21 @@ PAGESC;
 						</ul>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-mediamesures" >Contact the MEDIA MESURES sales team!</legend>
 						<div class="collapse" id="contact-mediamesures">
+							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-mediamesures" action="/sendmail.php">
 								<fieldset>
-									<label>Your name <span>(Required)</span></label>
-									<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
-									<label>Your email address <span>(Required)</span></label>
-									<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
-									<label>Message <span>(Required)</label>
-									<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									<div class="control-group">
+										<label>Your name <span>(Required)</span></label>
+										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+									</div>
+									<div class="control-group">
+										<label>Your email address <span>(Required)</span></label>
+										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Message <span>(Required)</label>
+										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									</div>
 									<button id="submit-btn" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact Media Mesures">
@@ -103,14 +124,21 @@ PAGESC;
 						</ul>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-sermadep" >Contact the SER.MA.DEP sales team!</legend>
 						<div class="collapse" id="contact-sermadep">
+							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-sermadep" action="/sendmail.php">
 								<fieldset>
-									<label>Your name <span>(Required)</span></label>
-									<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
-									<label>Your email address <span>(Required)</span></label>
-									<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
-									<label>Message <span>(Required)</label>
-									<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									<div class="control-group">
+										<label>Your name <span>(Required)</span></label>
+										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+									</div>
+									<div class="control-group">
+										<label>Your email address <span>(Required)</span></label>
+										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Message <span>(Required)</label>
+										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+									</div>
 									<button id="submit-btn" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact SER.MA.DEP">
