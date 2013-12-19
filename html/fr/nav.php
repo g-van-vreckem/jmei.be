@@ -9,7 +9,7 @@
 					<a class="brand" href="./"><img class="logo-nav" src="../img/ico/jmei-nav-logo.jpg" height="40" alt="JMei"/></a>
 					<div class="nav-collapse collapse">
 						<ul class="nav">
-							<li<?php echo Site::addActiveClass('home'); ?>><a href="./">Acceuil</a></li>
+							<li<?php echo Site::addActiveClass('home'); ?>><a href="./">Accueil</a></li>
 							<li<?php echo Site::addActiveClass('about'); ?>><a href="<?php echo Site::relativeUrl('about');?>">A propos de JMei</a></li>
 							<li<?php echo Site::addActiveClass('contact'); ?>><a href="<?php echo Site::relativeUrl('contact');?>">Contact</a></li>
 							<li<?php echo Site::addActiveClass('products'); ?>><a href="<?php echo Site::relativeUrl('products');?>">Produits</a></li>
