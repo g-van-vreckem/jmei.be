@@ -9,11 +9,11 @@
 ?>
 			<div id="r1" class="row spaced-row">
 				<div id="i1" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">Button box radio control</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB90.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB90.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -32,11 +32,11 @@
                     </div>
                 </div>											
 				<div id="i2" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">Button box radio control</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB700.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB700.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -56,11 +56,11 @@
 					</div>
 				</div>
 				<div id="i3" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">Hélice</h5>
                         <p class="tile-intro">The compact radio command solution</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/Helice.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/Helice.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -90,11 +90,11 @@
 		<div class="container">
 			<div id="r2" class="row spaced-row">
 				<div id="i4" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
                         <p class="tile-intro">Radio Control panel</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB3000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB3000.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -114,11 +114,11 @@
                     </div>
                 </div>											
 				<div id="i5" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">RCB1000</h5>
                         <p class="tile-intro">Radio control panel</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB1000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB1000.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -138,11 +138,11 @@
                     </div>
                 </div>													
 				<div id="i6" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
                         <p class="tile-intro">Customizable wireless industrial data transmission.</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/RCB6000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB6000.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -171,11 +171,11 @@
 		<div class="container">
 			<div id="r3" class="row spaced-row">
 				<div id="i5" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">Identification Key</h5>
                         <p class="tile-intro">Exchanging emitter made easy</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/KEY.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/KEY.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -190,11 +190,11 @@
                     </div>
                 </div>													
 				<div id="i8" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">Secure Starting</h5>
                         <p class="tile-intro">Uncompromized security</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/tca27.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/tca27.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -209,11 +209,11 @@
                     </div>
                 </div>													
 				<div id="i9" class="tile span4">
-                    <div class="left-text">
+                    <div class="top-text">
                         <h5 class="tile-title">Multi Equipement Coordination</h5>
                         <p class="tile-intro">Mastering Complex systems made easy</p>
                     </div>
-                    <img class="right-img" src="../img/product-overview3/TANDEM.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/TANDEM.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
