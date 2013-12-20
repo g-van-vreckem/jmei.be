@@ -309,20 +309,20 @@
 
 /* button jmei */
 .btn-jmei {
-  color: #ffffff;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  *background-color: #eddc8a;
-  background-color: #af9a57;
-  background-image: -moz-linear-gradient(top, #f4ebbb, #af9a57);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f4ebbb), to(#af9a57));
-  background-image: -webkit-linear-gradient(top, #f4ebbb, #af9a57);
-  background-image: -o-linear-gradient(top, #f4ebbb, #af9a57);
-  background-image: linear-gradient(to bottom, #f4ebbb, #af9a57);
+  background-color: hsl(45, 40%, 66%) !important;
   background-repeat: repeat-x;
-  border-color: #af9a57 #af9a57 #ad6704;
-  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff4ebbb', endColorstr='#ffaf9a57', GradientType=0);
-  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cab985", endColorstr="#cab985");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#cab985), to(#cab985));
+  background-image: -moz-linear-gradient(top, #cab985, #cab985);
+  background-image: -ms-linear-gradient(top, #cab985, #cab985);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cab985), color-stop(100%, #cab985));
+  background-image: -webkit-linear-gradient(top, #cab985, #cab985);
+  background-image: -o-linear-gradient(top, #cab985, #cab985);
+  background-image: linear-gradient(#cab985, #cab985);
+  border-color: #cab985 #cab985 hsl(45, 40%, 66%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.00);
+  -webkit-font-smoothing: antialiased;
 }
 
 .btn-jmei:hover,
@@ -331,9 +331,20 @@
 .btn-jmei.active,
 .btn-jmei.disabled,
 .btn-jmei[disabled] {
-  color: #ffffff;
-  background-color: #af9a57;
-  *background-color: #997f2e;
+  background-color: hsl(48, 74%, 67%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e9d06c", endColorstr="#e9d06c");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#e9d06c), to(#e9d06c));
+  background-image: -moz-linear-gradient(top, #e9d06c, #e9d06c);
+  background-image: -ms-linear-gradient(top, #e9d06c, #e9d06c);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e9d06c), color-stop(100%, #e9d06c));
+  background-image: -webkit-linear-gradient(top, #e9d06c, #e9d06c);
+  background-image: -o-linear-gradient(top, #e9d06c, #e9d06c);
+  background-image: linear-gradient(#e9d06c, #e9d06c);
+  border-color: #e9d06c #e9d06c hsl(48, 74%, 67%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.00);
+  -webkit-font-smoothing: antialiased;
 }
 
 
