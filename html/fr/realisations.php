@@ -24,8 +24,8 @@
 						<h3>RCB3000 bidirectionelle</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="Custom RCB3000 Decembre 2013">
 						<p>RCB3000 réalisée sur-mesure selon le cahier des charges du client. <br>
-					    Modèle avec retour d'informations sur afficheurs 7 segments: Affichage de poid, température et pression.<br>
-					    Des validations de mouvements (venant du récepteur) sont indiquées par voyants LED au dessus de chaque manipulateur.
+					    Modèle avec retour d'informations sur afficheurs 7 segments: Affichage de poids, température et pression.<br>
+					    Des validations de mouvements (venant du récepteur) sont indiquées par voyants LED au-dessus de chaque manipulateur.
 						</p>
 					</section>
 					<hr>
