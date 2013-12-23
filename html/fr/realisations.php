@@ -21,15 +21,20 @@
 				<div class="span9">
 				<!--Body content-->
 					<section id="blog-2013-12">
-						<h3>Lorem Ipsum</h3>
-						<img class="img-polaroid blog" src="../img/custom-product/2013-12-helice.jpg" alt="Custom Hélice Decembre 2013">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<h3>RCB3000 bidirectionelle</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="Custom RCB3000 Decembre 2013">
+						<p>RCB3000 réalisée sur-mesure selon le cahier des charges du client. <br>
+					    Modèle avec retour d'informations sur afficheurs 7 segments: Affichage de poid, température et pression.<br>
+					    Des validations de mouvements (venant du récepteur) sont indiquées par voyants LED au dessus de chaque manipulateur.
+						</p>
 					</section>
 					<hr>
 					<section id="blog-2013-11">
-						<h3>Lorem Ipsum</h3>
-						<img class="img-polaroid blog" src="../img/custom-product/2013-12-helice.jpg" alt="Custom Hélice Decembre 2013">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<h3>RCB700 - OEM groupe Warzee Agri</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="Custom Hélice Decembre 2013">
+						<p>RCB700 entièrement personnalisée.<br>
+						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence JMei.
+						</p>
 					</section>
 					<hr>
 				</div>
