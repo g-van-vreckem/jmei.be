@@ -64,7 +64,7 @@
 						<img src="../img/home/slide-07.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Après un travail de dur labeur, JMei devient l'évolution de IRC.
+								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
@@ -104,8 +104,8 @@
                     <li>Personnalisation</li>
                     <li>Flexibilité</li>
                     <li>Innovation</li>
-                    <li>Reactivité</li>
-                    <li>Experience</li>
+                    <li>Réactivité</li>
+                    <li>Expérience</li>
                     <li>Fiabilité</li>
                   </ul>
 				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">Voir details &raquo;</a></p>
