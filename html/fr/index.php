@@ -96,7 +96,7 @@
                 </div>
                 <div class="span4">
                     <h2>Joyeuses fêtes!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=1" alt="Radiocommande Industrielle"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.gif?v=1" alt="Radiocommande Industrielle"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
