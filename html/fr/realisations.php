@@ -30,7 +30,7 @@
 					</section>
 					<hr>
 					<section id="blog-2013-11">
-						<h3>RCB700 - OEM groupe Warzee Agri</h3>
+						<h3>RCB700 - OEM groupe Warzee S.A.</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="Custom Hélice Decembre 2013">
 						<p>RCB700 entièrement personnalisée.<br>
 						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence JMei.
