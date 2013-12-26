@@ -12,9 +12,9 @@
 				<!--Sidebar content-->
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
-							<li class="nav-header">Featured Customization</li>
-							<li class="active"><a href="#2013-12">December 2013 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li><a href="#blog-2013-11">November 2013 <i class="icon-chevron-right pull-right"></i></a></li>
+							<li class="nav-header">Radiocommandes personnalisées</li>
+							<li class="active"><a href="#2013-12">Décembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-11">Novembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
 					</div>
 				</div>

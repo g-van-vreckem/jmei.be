@@ -23,9 +23,9 @@
 					<section id="blog-2013-12">
 						<h3>RCB3000 bidirectional</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="Custom RCB3000 December 2013">
-						<p>RCB3000 realized to measure according to the specifications of the customer.<br>
-Model with information feedback on displays 7 segments. Weighty display, temperature and pressure.<br>
-Validation of movement (coming from the receiver) are indicated by lights LED over each manipulator.					</p>
+						<p>RCB3000 tailored according the  customer's specifications.<br>
+Model with information feedback on 7 segments displays. Weight, temperature and pressure are displayed.<br>
+Validation of movement (coming from the receiver) are indicated by  LED's over each manipulator.					</p>
 					</section>
 					<hr>
 					<section id="blog-2013-11">
