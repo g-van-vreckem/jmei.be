@@ -22,7 +22,7 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La référence pour le levage, adaptable à toutes applications industrielles.</strong><br>
+							<p><strong>La référence pour le levage, adaptable à toute applications industrielles.</strong><br>
 							  <br>
 							Boîte à boutons robuste, compacte et économique.<br>
 							<br>
@@ -30,12 +30,12 @@
 							<br>
 							RCB90L (Light): <br>
 							- 9  boutons double enfoncement	 (2V). <br>
-							- 8 bontons 2V + 1 sélecteur 3 positions.<br>
+							- 8 boutons 2V + 1 sélecteur 3 positions.<br>
 							<br>
 							RCB90M (Medium): <br>
 							-
 							14 boutons double enfoncement	(2V). <br>
-							- 11 bontons 2V + 3 sélecteurs 3 positions.							</p>
+							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
 							<p>Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
 							  <br>
 							  Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles
@@ -60,15 +60,15 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La robustesse et la légèreté de l'aluminium, un desing ergonomique.</strong><br>
+							<p><strong>La robustesse et la légèreté de l'aluminium, un design ergonomique.</strong><br>
 							  <br>
 						    Emetteur compact pouvant être porté à la ceinture, ou placé sur support (en option).<br>
 						    <br>
 							  Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
 							  <br>
-							  Bidirectionnelles ou non (informations sont envoyées à l'émetteur).<br>
+							  Bidirectionnelles ou non (informations envoyées à l'émetteur).<br>
 							  <br>
-							  Particulièrement bien adapté pour l'utilisation en forêts, carrières, ou tout autres environnements industriels difficiles.<br>
+							  Particulièrement bien adapté pour l'utilisation en forêts, carrières, ou tout autre environnement industriel difficile.<br>
 							  <br>
 						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
@@ -91,14 +91,14 @@
                         <div class="tile-desc">
 							<p><strong>Adaptée pour tous les usages industriels.</strong><br>
 							  <br>
-							La référence des pupitres ventraux avec un encombrement minimale.<br>
+							La référence des pupitres ventraux avec un encombrement minimal.<br>
 							<br>
 							Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.							<br>
 							<br>
 							Jusqu'à 4 fonctions analogiques.
 							<br>
 							<br>
-							Se porte à le ceinture ou en bandouillère.<br>
+							Se porte à le ceinture ou en bandoulière.<br>
 							<br>
 							Modèle avec batteries interchangeables (autonomie &lt;15h, temps de charge de 4h).<br>
 							<br>
@@ -125,7 +125,7 @@
 				<div id="i4" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
-                        <p class="tile-intro">Le pupitre ventrale universelle</p>
+                        <p class="tile-intro">Le pupitre ventral universel</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/RCB3000.jpg">
                     <div class="tile-over">
