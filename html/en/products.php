@@ -194,7 +194,7 @@
                         <h5 class="tile-title">Secure Starting</h5>
                         <p class="tile-intro">Uncompromized security</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/tca27.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/TCA27.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
