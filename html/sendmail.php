@@ -4,7 +4,7 @@
  */
 $fromName = 'JMei';
 $fromEmail = 'noreply@jmei.be';
-$to = 'info@jmei.be';
+$to = 'info@jmei.be,mpiraprez@msn.com';
 $msg_replyToName=  'Annonymous';
 $msg_replyToEmail= 'noreply@jmei.be';
 $msg_text=  '';
