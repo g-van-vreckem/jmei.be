@@ -7,8 +7,6 @@
 	include 'nav.php';
 
 ?>
-<title>Radiocommandes industrielles</title>
-
 			<h4>Un nouveau départ</h4>
 			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
 
