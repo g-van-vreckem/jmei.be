@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 	$lang = 'fr';
 	$pageId = '';
 
@@ -6,7 +6,7 @@
 
 	$ogLocale = 'en_US';
 	$title = 'JMei Solution-Electronic-Radio transmission';
-	$description = 'JMei is specialized in the conception and production of tailor made industrial radio-commands. We ensure a service of top quality with fast production and are among the leader of the radio-comm market.';
+	$description = 'JMei est spécialisé dans la conception et la production de Radiocommandes industrielles sur mesure. Nous assurons un service de qualité et une production rapide.';
 	$pageFooterScripts = '';
 	$ext = '.php'; //correct URL depending on the URL rewrite rules
 	DEFINE( 'SHOW_CERTIFICATION', false);
