@@ -272,7 +272,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 							<p>Ce système de démmarage sécuritaire est disponible pour tous nos modèles de radiocommandes.<br>
 							  <br>
 							  Avec ses 256 combinaisons possibles, ce système n'autorisera les fonctions de commandes du système radio qu'après validation visuelle de l'opérateur.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/tca27_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/tca27_3.jpg" data-type="img"></a>

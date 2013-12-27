@@ -201,7 +201,7 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">View details &raquo;</a></p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">View details &raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/tca27_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/tca27_3.jpg" data-type="img"></a>
