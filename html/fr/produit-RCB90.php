@@ -10,20 +10,22 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio remote control type RCB90 L and M</h3>
+					<a name="highlight"></a>
+				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="RCB 90" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<a name="features"></a>
+					<h4>Caractéristiques</h4>
 					<ul>
-						<li>Transmitter designed with double push buttons, up to 16 possible functions all customizable.</li>
-						<li>Memory key, for easy quick change of a spare transmitters in case of breakages.</li>
-						<li>Robust, ultra-compact, lightweight and sturdy transmitter unit, made up in industrial-use reinforced polyurethane; highly ergonomic design specially suited for tough and aggressive environments.</li>
-						<li>Large shock-absorbent nylon case making the unit very easy to use and providing excellent protection for the transmitter unit.</li>
+						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
+						<li>Clé de mémoire disponible, pour le changement rapide et facile d'un émetteur de rechange en cas de casse.</li>
+						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  polyuréthane renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
+						<li>Une housse de protection   en nylon rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
 						<li>The pictograms and LED on the transmitter console are designed to the client's requirements and allows excellent visualisation of the controls.<br />
 							Working in bidirectional mode, information is fed back from the device being controlled and displayed by means of colour LED indicators mounted on the transmitter, offering many options for customising the unit.</li>
 						<li>Electrical Protection: IP65</li>
@@ -44,11 +46,13 @@
 						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours</li>
 						<li>JMei receiver, able for connection and networking to PLC application by most diverse analogue and serial interfaces, for example CAN bus, Profibus, Ethernet, RS232or RS 485</li>
 					</ul>
-					<a name="uses"></a><h4>Uses</h4>
+					<a name="uses"></a>
+				  <h4>Applications</h4>
 					<p>Master slave system for any handling equipment, overhead crane, gantry crane or any other type of mobile equipment.</p>
 					<img src="../img/product-RCB90/rcb90_2.jpg" alt="" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a name="certification"></a>
+				  <h4>Certifications</h4>
 					<ul>
 						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
 						<li>Electrical safety EN 60950</li>
