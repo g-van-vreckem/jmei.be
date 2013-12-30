@@ -20,7 +20,7 @@
 						<img src="../img/home/slide-02.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Qualité, Coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
+								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
 							</div>
 						</div>

@@ -88,8 +88,8 @@ PAGESC;
 						<hr>
 						<p><a target="_blank" href="http://www.mediamesures.com/">MEDIA MESURES</a> distribue nos produits dans le Sud-Est de la  France et couvre les départements suivants:</p>
 						<ul>
-							<li>Provence-Alpes-Cotes d'Azur (4, 5, 6, 13, 83, 84) </li>
-							<li>Rhônes-Alpes (1, 7, 26, 38, 42, 69, 73, 74)</li>
+							<li>Provence-Alpes-Côte d'Azur (4, 5, 6, 13, 83, 84) </li>
+							<li>Rhône-Alpes (1, 7, 26, 38, 42, 69, 73, 74)</li>
 							<li>Bourgogne (21, 58, 71, 89)</li>
 							<li>Franche-Comté (39)</li>
 							<li>Corse (2A, 2B)</li>

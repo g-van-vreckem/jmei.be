@@ -39,12 +39,12 @@
 				<hr>
 				<div class="row">
 					<div class="span6">
-						<h4>Mine et carrière</h4>
+						<h4>Mines et carrières</h4>
 	<img src="/img/references/carmeuse.jpg" alt="Carmeuse Natural Chemicals" class="refer-left" />
 	<img src="/img/references/caterpilar.jpg" alt="Caterpillar" class="refer" />
 					</div>
 					<div class="span6">
-						<h4>Applications maritime</h4>
+						<h4>Applications maritimes</h4>
 	<img src="/img/references/jandenul.jpg" alt="Jan de Nul group" class="refer-left" />
 	<img src="/img/references/pac.jpg" alt="Port Autonome de Charleroi" class="refer" />
 					</div>
@@ -68,7 +68,7 @@
 				<hr>
 				<div class="row">
 					<div class="span6">
-						<h4>Génie civile</h4>
+						<h4>Génie civil</h4>
 	<img src="/img/references/naessens.jpg" alt="Willy Naessens" class="refer-left" />
 	<img src="/img/references/cbr.jpg" alt="CBR" class="refer" />
 					</div>

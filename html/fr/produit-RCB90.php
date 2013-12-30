@@ -1,6 +1,7 @@
 <?php
 	include 'common.php';
-	$title .= '';
+//	$title .= '';
+	$title = 'JMei - RCB90 - Boîte à boutons';
 	$description .='';
 	$pageId = 'RCB90';
 	include 'header.php';
@@ -94,41 +95,42 @@
 						<div class="span3">
 							<h5>Customised RCB90/L and /M</h5>
 							<img src="../img/product-RCB90/rcb90_5.jpg"> 
-							<p>The IRC pictograms make it very easy to adapt the units to any new use.</p>
+							<p>The JMei pictograms make it very easy to adapt the units to any new use.</p>
 							<p>In addition, the bidirectional mode with LED display offers multiple application possibilities.</p>
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a name="accessories"></a>
+					<h4>Accessoires</h4>
 					<div class="row">
 						<div class="span3">
-							<h6>Protective leather case and carrying belt:</h6>
+							<h6>Housse de protection en cuir&nbsp;:</h6>
 							<img src="../img/product-RCB90/rcb90_6.jpg" alt="">
-							<p>Combines with the carry strap and protects the unit from breakages.</p>
+							<p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
 						</div>
 						<div class="span3">
-							<h6>Microprocessor-controlled charger:</h6>
+							<h6>Chargeur à microprocesseur&nbsp;:</h6>
 							<img src="../img/product-RCB90/rcb90_7.jpg" alt="">
-							<p>Batteries can be recharged in total safety, charging time 4 hours.</p>
+							<p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge: 4H.</p>
 						</div>
 						<div class="span3">
-							<h6>Hardware identification key :</h6>
+							<h6>Clé d'identification hardware:</h6>
 							<img src="../img/product-RCB90/rcb90_8.jpg" alt="">
-							<p>Links the transmitter to the receiver. Allows rapid change of transmitters.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Read more ...</a></p>
+							<p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>TCA27 security control device:</h6>
+							<h6>Démarrage sécurisé TCA27:</h6>
 							<img src="../img/product-RCB90/rcb90_9.jpg" alt="">
-							<p>This patented system provides security when starting up any machine. A randomised 2-colour light sequence emitted by the receiver must be encoded by the operator using the transmitter.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Read more ...</a></p>
+							<p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
-							<h6>Bidirectional transmission :</h6>
+							<h6>Transmission bidirectionnelle:</h6>
 							<img src="../img/product-RCB90/rcb90_10.jpg" alt="">
-							<p>Allows information to be fed back to the transmitter.</p>
+							<p>Permet le retour d'informations vers l'émetteur.</p>
 						</div>
 						<div class="span3">
 						</div>

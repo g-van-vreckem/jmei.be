@@ -1,6 +1,7 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
+	//$title .= '';
+	$title = 'JMei - Radiocommandes';
 	$description .='';
 	$pageId = 'products';
 	include 'header.php';
@@ -169,7 +170,7 @@ Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau dis
 							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues. <br>
                               <br>
 Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
-							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitudes d'organes de commandes. <br>
+							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes. <br>
   <br>
 							  Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
   <br>
@@ -187,7 +188,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 				<div id="i6" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
-                        <p class="tile-intro">Transmission de données sans fil industrielles.</p>
+                        <p class="tile-intro">Transmission de données sans fil industrielle.</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/RCB6000.jpg">
                     <div class="tile-over">
@@ -213,7 +214,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 <br />
 							Ces modules peuvent fonctionner avec plusieurs participants (partage synchrone)<br>
 							<br>
-							Les data-acquisitions, data-conversions en font la référence en termes de modules de transmissions.
+							Les data-acquisitions, data-conversions en font la référence en terme de modules de transmissions.
 							</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
@@ -235,8 +236,8 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 			<div id="r3" class="row spaced-row">
 				<div id="i5" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">La clé harware</h5>
-                        <p class="tile-intro">La solution d'inter-changeabilité des émetteurs</p>
+                        <h5 class="tile-title">La clé hardware</h5>
+                        <p class="tile-intro">La solution d'interchangeabilité des émetteurs</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/KEY.jpg">
                     <div class="tile-over">
@@ -249,7 +250,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 							  <br>
 							  Cette clé mémoire contient les informations utiles au bon fonctionnement de la radiocommande.<br>
 							  <br>
-							  L'interchangeabilité entre émetteur se fait alors très rapidement et sans reprogrammation software.</p>
+							  L'interchangeabilité entre émetteurs se fait alors très rapidement et sans reprogrammation software.</p>
 							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
@@ -269,7 +270,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Ce système de démmarage sécuritaire est disponible pour tous nos modèles de radiocommandes.<br>
+							<p>Ce système de démarrage sécuritaire est disponible pour tous nos modèles de radiocommandes.<br>
 							  <br>
 							  Avec ses 256 combinaisons possibles, ce système n'autorisera les fonctions de commandes du système radio qu'après validation visuelle de l'opérateur.</p>
 							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
@@ -292,7 +293,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                     <div class="tile-detail">
                         <div class="tile-desc">
 						  <p>Système de personnalisation software pour diverses utilisations complexes:</p>
-						  <p>- Commande en tandem des équipements: assure la manutention de charges de grandes envergures.<br>
+						  <p>- Commande en tandem des équipements: assure la manutention de charges de grande envergure.<br>
 						    <br>
 						    - Commande de sytèmes multi-émetteurs (fonction &quot;homme-mort&quot;
 					      ,...)</p>
