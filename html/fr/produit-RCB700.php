@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - RCB700 - Commande radio';
 	$description .='';
 	$pageId = 'RCB700';
 	include 'header.php';
@@ -10,7 +10,8 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio commande gamme RCB700</h3>
+					<a name="highlight"></a>
+					<h3>Radiocommande de type RCB700</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="/img/product-RCB700/rcb700_1.jpg" alt="RCB 700" />
@@ -18,7 +19,7 @@
 					</div>
 					<p></p>
 
-					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Features</h4>
 					<p>Ultra-compact, lightweight and sturdy unit, made from cast aluminium or polycarbonate and reinforced for industrial use; highly ergonomic design specially suited for tough environments.</p>
 					<ul>

@@ -1,6 +1,6 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - RCB1000 - Pupitre industriel';
 	$description .='';
 	$pageId = 'RCB1000';
 	include 'header.php';
@@ -10,14 +10,15 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>RCB1000 radio remote control</h3>
+					<a name="highlight"></a>
+					<h3>Radiocommande de type RCB1000</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB1000/rcb1000_1.jpg" alt="RCB 3000" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Features</h4>
 					<ul>
 						<li>Transmitter designed with large control panel to provide ease use, lightweight, very robust and made of reinforced industrial-use polyurethane. Highly ergonomic.</li>

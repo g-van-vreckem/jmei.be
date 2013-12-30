@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - Hélice - Radio forestière';
 	$description .='';
 	$pageId = 'Helice';
 	include 'header.php';
@@ -10,14 +10,15 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio Commande Type Hélice</h3>
+					<a name="highlight"></a>
+					<h3>Radiocommande de type Hélice</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-Helice/helice.jpg" alt="Radio Commande Type HELICE" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('Helice.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Téléchargement PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('Helice.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 
 					<a name="features"></a><h4>Features</h4>
 <p>Boîtier émetteur ultra léger (+/-250g), de taille réduite (140x140x70mm), très robuste, réalisé en polycarbone, très ergonomique, adapté spécialement aux environnements agressifs et facilement personnalisable.<br>
