@@ -1,6 +1,7 @@
 <?php
 	include 'common.php';
-	$title .= '';
+//	$title .= '';
+	$title = 'JMei - RCB90 - Boîte à boutons';
 	$description .='';
 	$pageId = 'RCB90';
 	include 'header.php';
@@ -10,20 +11,22 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio remote control type RCB90 L and M</h3>
+					<a name="highlight"></a>
+				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="RCB 90" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<a name="features"></a>
+					<h4>Caractéristiques</h4>
 					<ul>
-						<li>Transmitter designed with double push buttons, up to 16 possible functions all customizable.</li>
-						<li>Memory key, for easy quick change of a spare transmitters in case of breakages.</li>
-						<li>Robust, ultra-compact, lightweight and sturdy transmitter unit, made up in industrial-use reinforced polyurethane; highly ergonomic design specially suited for tough and aggressive environments.</li>
-						<li>Large shock-absorbent nylon case making the unit very easy to use and providing excellent protection for the transmitter unit.</li>
+						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
+						<li>Clé de mémoire disponible, pour le changement rapide et facile d'un émetteur de rechange en cas de casse.</li>
+						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  polyuréthane renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
+						<li>Une housse de protection   en nylon rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
 						<li>The pictograms and LED on the transmitter console are designed to the client's requirements and allows excellent visualisation of the controls.<br />
 							Working in bidirectional mode, information is fed back from the device being controlled and displayed by means of colour LED indicators mounted on the transmitter, offering many options for customising the unit.</li>
 						<li>Electrical Protection: IP65</li>
@@ -44,11 +47,13 @@
 						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours</li>
 						<li>JMei receiver, able for connection and networking to PLC application by most diverse analogue and serial interfaces, for example CAN bus, Profibus, Ethernet, RS232or RS 485</li>
 					</ul>
-					<a name="uses"></a><h4>Uses</h4>
+					<a name="uses"></a>
+				  <h4>Applications</h4>
 					<p>Master slave system for any handling equipment, overhead crane, gantry crane or any other type of mobile equipment.</p>
 					<img src="../img/product-RCB90/rcb90_2.jpg" alt="" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a name="certification"></a>
+				  <h4>Certifications</h4>
 					<ul>
 						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
 						<li>Electrical safety EN 60950</li>
@@ -90,41 +95,42 @@
 						<div class="span3">
 							<h5>Customised RCB90/L and /M</h5>
 							<img src="../img/product-RCB90/rcb90_5.jpg"> 
-							<p>The IRC pictograms make it very easy to adapt the units to any new use.</p>
+							<p>The JMei pictograms make it very easy to adapt the units to any new use.</p>
 							<p>In addition, the bidirectional mode with LED display offers multiple application possibilities.</p>
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a name="accessories"></a>
+					<h4>Accessoires</h4>
 					<div class="row">
 						<div class="span3">
-							<h6>Protective leather case and carrying belt:</h6>
+							<h6>Housse de protection en cuir&nbsp;:</h6>
 							<img src="../img/product-RCB90/rcb90_6.jpg" alt="">
-							<p>Combines with the carry strap and protects the unit from breakages.</p>
+							<p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
 						</div>
 						<div class="span3">
-							<h6>Microprocessor-controlled charger:</h6>
+							<h6>Chargeur à microprocesseur&nbsp;:</h6>
 							<img src="../img/product-RCB90/rcb90_7.jpg" alt="">
-							<p>Batteries can be recharged in total safety, charging time 4 hours.</p>
+							<p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge: 4H.</p>
 						</div>
 						<div class="span3">
-							<h6>Hardware identification key :</h6>
+							<h6>Clé d'identification hardware:</h6>
 							<img src="../img/product-RCB90/rcb90_8.jpg" alt="">
-							<p>Links the transmitter to the receiver. Allows rapid change of transmitters.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Read more ...</a></p>
+							<p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>TCA27 security control device:</h6>
+							<h6>Démarrage sécurisé TCA27:</h6>
 							<img src="../img/product-RCB90/rcb90_9.jpg" alt="">
-							<p>This patented system provides security when starting up any machine. A randomised 2-colour light sequence emitted by the receiver must be encoded by the operator using the transmitter.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Read more ...</a></p>
+							<p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
-							<h6>Bidirectional transmission :</h6>
+							<h6>Transmission bidirectionnelle:</h6>
 							<img src="../img/product-RCB90/rcb90_10.jpg" alt="">
-							<p>Allows information to be fed back to the transmitter.</p>
+							<p>Permet le retour d'informations vers l'émetteur.</p>
 						</div>
 						<div class="span3">
 						</div>

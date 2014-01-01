@@ -1,6 +1,6 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
+	$title = 'Mei - RECB - Récepteur radio';
 	$description .='';
 	$pageId = 'RECB';
 	include 'header.php';
@@ -10,7 +10,8 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio Receiver</h3>
+					<a name="highlight"></a>
+					<h3>Radiocommande de type RECB</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RECB/recb_1.jpg" alt="JMei RECB" />
@@ -18,7 +19,7 @@
 					</div>
 					<p></p>
 
-					<p><a href="pdf/JMei%20Récepteur.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
+					<p><a href="pdf/JMei%20Récepteur.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Features</h4>
 					<p>JMei Radio remote control receiver designed with a high performance radio module unit foreseen for harsh environment in the heavy industry.<br />
 					64 possible channels/ frequencies, easy to adapt, in maintenance mode, by using push button functions or joysticks functions.<br />

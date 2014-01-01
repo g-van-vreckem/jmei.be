@@ -45,7 +45,7 @@ PAGESC;
 										<label>Message <span>(Requis)</label>
 										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Envois</button>
+									<button id="submit-btn" type="submit" class="btn">Envoi</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact JMei">
 								 </fieldset>
@@ -79,7 +79,7 @@ PAGESC;
 										<label>Message <span>(Requis)</label>
 										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Envois</button>
+									<button id="submit-btn" type="submit" class="btn">Envoi</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact opsyelec">
 								 </fieldset>
@@ -88,8 +88,8 @@ PAGESC;
 						<hr>
 						<p><a target="_blank" href="http://www.mediamesures.com/">MEDIA MESURES</a> distribue nos produits dans le Sud-Est de la  France et couvre les départements suivants:</p>
 						<ul>
-							<li>Provence-Alpes-Cotes d'Azur (4, 5, 6, 13, 83, 84) </li>
-							<li>Rhônes-Alpes (1, 7, 26, 38, 42, 69, 73, 74)</li>
+							<li>Provence-Alpes-Côte d'Azur (4, 5, 6, 13, 83, 84) </li>
+							<li>Rhône-Alpes (1, 7, 26, 38, 42, 69, 73, 74)</li>
 							<li>Bourgogne (21, 58, 71, 89)</li>
 							<li>Franche-Comté (39)</li>
 							<li>Corse (2A, 2B)</li>
@@ -111,7 +111,7 @@ PAGESC;
 										<label>Message <span>(Requis)</label>
 										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Envois</button>
+									<button id="submit-btn" type="submit" class="btn">Envoi</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact Media Mesures">
 								 </fieldset>
@@ -139,7 +139,7 @@ PAGESC;
 										<label>Message <span>(Requis)</label>
 										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Envois</button>
+									<button id="submit-btn" type="submit" class="btn">Envoi</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact SER.MA.DEP">
 								 </fieldset>

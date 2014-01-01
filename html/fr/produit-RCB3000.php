@@ -1,6 +1,6 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - RCB3000 - Radio analogique';
 	$description .='';
 	$pageId = 'RCB3000';
 	include 'header.php';
@@ -10,14 +10,15 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>RCB3000 radio remote control unit</h3>
+					<a name="highlight"></a>
+					<h3>Radiocommande de type RCB3000</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB3000/rcb3000_1.jpg" alt="RCB 3000" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="pdf/JMei%20RCB3000.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
+					<p><a href="pdf/JMei%20RCB3000.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Features</h4>
 					<ul>
 						<li>A robust, ultra-compact, lightweight and sturdy transmitter, made from industrial-use reinforced polyurethane; highly ergonomic design specially suited for tough industrial environments.</li>
