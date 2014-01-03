@@ -3,7 +3,7 @@
 			<div class="navbar-inner">
 				<div class="container">
 					<ul class="nav">
-						<li class="navbar-text navbar-inverse">&copy; JMei 2013</li>
+						<li class="navbar-text navbar-inverse">&copy; JMei 2014</li>
 						<li<?php echo Site::addActiveClass('terms'); ?>><a href="<?php echo Site::relativeUrl('terms');?>">legal</a></li>
 						<li<?php echo Site::addActiveClass('links'); ?>><a href="<?php echo Site::relativeUrl('links');?>">links</a></li>
 						<li><a href="https://plus.google.com/103148141490224964358" rel="publisher">Find us on Google+</a></li>

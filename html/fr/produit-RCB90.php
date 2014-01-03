@@ -24,79 +24,76 @@
 					<h4>Caractéristiques</h4>
 					<ul>
 						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
-						<li>Clé de mémoire disponible, pour le changement rapide et facile d'un émetteur de rechange en cas de casse.</li>
+						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
 						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  polyuréthane renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
-						<li>Une housse de protection   en nylon rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
-						<li>The pictograms and LED on the transmitter console are designed to the client's requirements and allows excellent visualisation of the controls.<br />
-							Working in bidirectional mode, information is fed back from the device being controlled and displayed by means of colour LED indicators mounted on the transmitter, offering many options for customising the unit.</li>
-						<li>Electrical Protection: IP65</li>
-						<li>Powered by a rechargeable battery type NMH without memory effect, battery with more than 20 hours battery life, although the system can also be plugged into a 12v or 24 v voltage supply.</li>
-						<li>Suitable for all kinds of uses either for the lifting and handling industries, or for inside and outside radio remote control industrial purposes.</li>
+						<li>Une housse de protection   en nylon (en option) rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
+						<li>Les pictogrammes et les voyants LED de l'émetteur sont placés selon les exigences du client et permettent ainsi une excellente visualisation des commandes.<br />
+							En mode didirectionnel, les informations provenant du récepteur sont affichées sur voyants LED's ou afficheur 7 segements. Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
+						<li>Protection: IP65</li>
+						<li>Convient pour tout types d'usages industriels comme le levage et la manutension.</li>
 					</ul>
 					<a name="specifications"></a><h4>Specifications</h4>
 					<ul>
-						<li>Frequency possible range 434 MHz or 868/870 MHz, 64 possible frequencies.</li>
-						<li>Transmitter and receiver frequencies and addresses configurable by operating the transmitter push buttons( in maintenance and safety mode), no need to configure anything on the receiver unit.</li>
-						<li>Transmission power: < 10 mW</li>
+						<li>Gamme de fréquence:  434 MHz (64 cannaux) ou 868MHz.</li>
+						<li>Adresses et fréquences paramétrables par les boutons de l'émetteur. Aucune intervention nécessaire sur le récepteur.</li>
+						<li>Puissance d'émission: < 10 mW</li>
 						<li>Modulation: FM : FSK</li>
-						<li>Transmission code: 32-bit address and 16-bit CRC.</li>
-						<li>Bidirectional radio control, meaning that the receiver and transmitter can transmit and receive over a single frequency.</li>
-						<li>NiMH battery, no memory effect and long battery life (>20 hours)</li>
-						<li>Operating distance: 200m</li>
-						<li>Tandem/master/slave system with secure TCA27 JMei security control device</li>
-						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours</li>
-						<li>JMei receiver, able for connection and networking to PLC application by most diverse analogue and serial interfaces, for example CAN bus, Profibus, Ethernet, RS232or RS 485</li>
+						<li>Portée de la radiocommande: 200m</li>
+						<li>Codage de la transmission: Adresses 32 bits et CRC 16 bits.</li>
+						<li>Option bidirectionnelle sur 1 seule fréquence.</li>
+						<li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
+						<li>Chargeur à micro-contrôleur de concption JMei. (Temps de charge: 4h)</li>
+						<li>Possibilité d'alimentation fixe en 12ou 24V DC (en option).</li>
+						<li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">Clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
+						<li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, serie (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>
 					</ul>
 					<a name="uses"></a>
 				  <h4>Applications</h4>
-					<p>Master slave system for any handling equipment, overhead crane, gantry crane or any other type of mobile equipment.</p>
+					<p>Système maître-esclave pour tout équipement de manutention, pont roulant, portique ou tout autre type d'équipement mobile.</p>
 					<img src="../img/product-RCB90/rcb90_2.jpg" alt="" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
 				  <h4>Certifications</h4>
 					<ul>
-						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
-						<li>Electrical safety EN 60950</li>
-						<li>Safety of emergency stop EN 60204-32 + EN 954</li>
+						<li>EMC: EN61000-6-2 et EN61000-6-4</li>
+						<li>Safety: EN 60950</li>
+						<li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
 <?php endif ?>
 					<hr>
-					<h4>Model Types</h4>
+					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
 							<h5>RCB90/L</h5>
 							<img src="../img/product-RCB90/rcb90_3.jpg"> 
-							<h6>Possible functions :</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 10 double push buttons.</li>
-								<li>One emergency stop push button.</li>
-								<li>Exclusive system for changing address, frequency and configuration using the push buttons means transmitters are interchangeable in a safe and rapid way ,only one single backup transmitter needed for multiple equipment.</li>
-								<li>Memory key for quick exchange with a spare transmitter.</li>
-								<li>LED indicator lights.</li>
+								<li>Jusqu'à 9 boutons à double impulsion.</li>
+								<li>1 bouton d'arrêt d'urgence, coup de poing.</li>
+								<li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
+								<li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
+								<li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>
 							</ul>
-							<p><strong>Uses:</strong> bridge cranes or grouped winches, machines in maintenance mode (quarry machines,
-							mills, screens, conveyor belts), all types of simple machines, outside and inside remote radio
-							control.</p>
+							<p><strong>Applications:</strong> commande de ponts roulants ou treuils groupés, commande de machines en mode maintenance (carrière, concasseurs, cribles, bandes transporteuses), commande de tous types de machines simples.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB90/M</h5>
 							<img src="../img/product-RCB90/rcb90_4.jpg"> 
-							<h6>Possible functions:</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 16 double push buttons</li>
-								<li>One emergency stop push button.</li>
-								<li>Exclusive system for changing address, frequency and configuration using the buttons means transmitters are interchangeable in a safe and rapid manner ,only one single backup transmitter needed for multiple equipment.</li>
-								<li>Memory key for quick exchange with a spare transmitter.</li>
-								<li>LED indicator lights.</li>
+							  <li>Jusqu'à 16 boutons à double impulsion.</li>
+                              <li>1 bouton d'arrêt d'urgence, coup de poing.</li>
+                              <li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
+                              <li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
+                              <li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>
 							</ul>
-							<p><strong>Uses:</strong> bridge cranes or grouped winches, machines in maintenance mode (quarry machines,
-							mills, screens, conveyor belts), all types of inside and outside radio remote applications with push buttons functions.</p>
+							<p><strong>Applications: </strong>commande de ponts roulants ou treuils groupés, commande de machines en mode maintenance (carrière, concasseurs, cribles, bandes transporteuses), commande de tous types de machines.</p>
 						</div>
 						<div class="span3">
-							<h5>Customised RCB90/L and /M</h5>
+							<h5> RCB90/L et /M personnalisées</h5>
 							<img src="../img/product-RCB90/rcb90_5.jpg"> 
-							<p>The JMei pictograms make it very easy to adapt the units to any new use.</p>
-							<p>In addition, the bidirectional mode with LED display offers multiple application possibilities.</p>
+							<p>JMei produit ses radiocommandes avec des pictogrammes personnalisés selon vos besoins.</p>
+							<p>En complément, le mode bidirectionnel avec retour d'informations sur voyants LED's ou afficheur 7 segments vous offre de multiples possibilités d'applications.</p>
 						</div>
 					</div>
 					<hr>
