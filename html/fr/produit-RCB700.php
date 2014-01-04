@@ -20,170 +20,151 @@
 					<p></p>
 
 					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
-					<p>Ultra-compact, lightweight and sturdy unit, made from cast aluminium or polycarbonate and reinforced for industrial use; highly ergonomic design specially suited for tough environments.</p>
+					<a name="features"></a><h4>Caractéristiques
+					</h4>
 					<ul>
-						<li>Transmitter designed with double push buttons, up to 16 possible functions all customizable.</li>
-						<li>Memory key, for easy quick change of a spare transmitters in case of breakages.</li>
-						<li>Robust, ultra-compact, lightweight and sturdy transmitter unit, made up in industrial-use reinforced polyurethane; highly ergonomic design specially suited for tough and aggressive environments.</li>
-						<li>Large shock-absorbent nylon case making the unit very easy to use and providing excellent protection for the transmitter unit.</li>
-						<li>The pictograms and LED on the transmitter console are designed to the client's requirements and allows excellent visualisation of the controls.<br />
-							Working in bidirectional mode, information is fed back from the device being controlled and displayed by means of colour LED indicators mounted on the transmitter, offering many options for customising the unit.</li>
-						<li>Electrical Protection: IP65</li>
-						<li>Powered by a rechargeable battery type NMH without memory effect, battery with more than 20 hours battery life, although the system can also be plugged into a 12v or 24 v voltage supply.</li>
-						<li>Suitable for all kinds of uses either for the lifting and handling industries, or for inside and outside radio remote control industrial purposes.</li>
+					  <li>Boîtier émetteur ultra compact, léger, très robuste, réalisé en fonte d&rsquo;aluminium, structure renforcée pour usages industriels, boîtier très ergonomique, adapté spécialement aux environnements agressifs. </li>
+						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
+						<li>Les pictogrammes et les voyants LED de l'émetteur sont placés selon les exigences du client et permettent ainsi une excellente visualisation des commandes.<br>
+					    En mode bidirectionnel, les informations provenant du récepteur sont affichées sur voyants LED ou afficheur 7 segments. Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
+						<li>Convient pour tous types d'usages industriels nécessitant des fonctions TOR (1 vitesse), boîtier &quot;homme-mort&quot;, safeball,...</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a name="specifications"></a>
+					<h4>Spécifications</h4>
 					<ul>
-						<li>Frequency range 433/434 MHz or 868/870 MHz, 64 possible frequencies.</li>
-						<li>Both transmitter and receiver frequency can be configured using the control buttons, no need to configure anything on the receiver unit.</li>
-						<li>Bidirectional radio control, meaning that the receiver and transmitter can receive and transmit using a single frequency.</li>
-						<li>Lightweight and manageable, making the unit very easy to use.</li>
-						<li>NiMH battery, no memory effect and long battery life (>10 hours).</li>
-						<li>Operating distance: 500m.</li>
-						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours.</li>
-						<li>Options: Identification key, security control device (secure start-up), master/slave systems, display.</li>						</ul>
-					<a name="uses"></a><h4>Uses</h4>
-					<p>Master slave system for any handling equipment, overhead crane, gantry crane or any other type of mobile equipment.</p>
+						
+						<li>Gamme de fréquences:  434 MHz (64 canaux) ou 868MHz.</li>
+                        <li>Adresses et fréquences paramétrables par les boutons de l'émetteur. Aucune intervention nécessaire sur le récepteur.</li>
+                        <li>Puissance d'émission: < 10 mW</li>
+                        <li>Modulation: FM : FSK</li>
+                        <li>Portée de la radiocommande: 200m</li>
+                        <li>Codage de la transmission: adresses 32 bits et CRC 16 bits.</li>
+                        <li>Option bidirectionnelle sur 1 seule fréquence.</li>
+                        <li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
+                        <li>Chargeur à micro-contrôleur à fiche, ou chargeur sur support de conception JMei (temps de charge: 4h).</li>
+                        <li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
+                        <li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
+                        <li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>						</ul>
+					<a name="uses"></a><h4>Applications</h4>
+					<p>Très performante dans toutes les applications industrielles et forestières, sa fabrication en aluminium lui permet une solidité incomparable.</p>
 					<img src="/img/product-RCB700/rcb700_2.jpg" alt="" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a><h4>Certification</h4>
 					<ul>
-						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
-						<li>Electrical safety EN 60950</li>
-						<li>Safety of emergency stop EN 60204-32 + EN 954</li>
+						<li>EMC: EN61000-6-2 et EN61000-6-4.</li>
+                        <li>Safety: EN 60950.</li>
+                        <li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
 <?php endif ?>
 					<hr>
-					<h4>Model Types</h4>
+					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB700/10</h5>
+							<h5>RCB700 Arrêt d'urgence</h5>
 							<img src="/img/product-RCB700/rcb700_3.jpg"> 
-							<h6>Possible functions :</h6>
-							<p>Mines and carries, Machine for any type of forest and agriculture application.</p>
+							<h6>Fonctions diponibles :							</h6>
 							<ul>
-								<li>One or two pulse push buttons (on/off commands).</li>
-								<li>One emergency stop push button.</li>
-								<li>LED indicator lights.</li>
+								<li>Un ou deux  boutons-poussoirs à impulsions  (commande TOR).</li>
+								<li>Un bouton-poussoir arrêt d&rsquo;urgence, coup-de-poing.</li>
+								<li>Retour d&rsquo;informations sous forme de témoins LED (en option).</li>
 							</ul>
-							<p><strong>Uses:</strong> winches, quarry machinery (crushers, screens, conveyor belts), deadman system to ensure safety during machine maintenance, all types of simple machine.</p>
+							<p><strong>Applications:</strong> commande de treuil, machine de carrière (concasseur, crible, bande transporteuses), boitier homme-mort pour la sécurisation de la maintenance de machine, commande de tous type de machines simples.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB700/20</h5>
+							<h5>RCB700 BP TOR</h5>
 							<img src="/img/product-RCB700/rcb700_4.jpg"> 
-							<h6>Possible functions:</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 8 pulse push buttons (on/off commands).</li>
-								<li>One emergency stop push button.</li>
-								<li>LED indicator lights.</li>
+							  <li>Jusqu'à 8 boutons-poussoirs à impulsions (commande TOR).</li>
+								<li>Un bouton-poussoir arrêt d&rsquo;urgence, coup-de-poing (en option).</li>
+								<li>Retour d&rsquo;informations sous forme de témoins LED (en option).</li>
 							</ul>
-							<p><strong>Uses:</strong> winches, hoisting machines, agricultural and forestry machines, quarry machinery (crushers, screens, conveyor belts), radio controls for safer machine maintenance, on-board radio control for mobile construction vehicles.</p>
+							<p><strong>Applications:</strong> commande de treuil, machines de levage, machines agricoles ou forestières, équipements de carrière (concasseur, crible, bande transporteuses), radiocommande pour la sécurisation de la maintenance de machine, radiocommande embarquée à bord d&rsquo;engins mobiles de chantier.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB700/30</h5>
+							<h5>RCB700 4 digits</h5>
 							<img src="/img/product-RCB700/rcb700_5.jpg"> 
-							<h6>Possible functions:</h6>
+						  <h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 10 pulse push buttons (on/off commands).</li>
-								<li>One emergency stop push button.</li>
-								<li>Information is fed back on the unit's display (means message and all types of measurement (weight, flow rate, speed, distance, temperature etc.) can be transferred).</li>
+							  <li>Jusqu'à 6 boutons-poussoirs à impulsions (commande TOR).</li>
+								<li>Un bouton-poussoir arrêt d&rsquo;urgence, coup-de-poing (en option).</li>
+								<li>Retour d&rsquo;informations sous forme d&rsquo;affichage (en option). Permet de transférer des messages ou tous types de mesures comme par exemple poids, débit, vitesse, distance, température ou autre information. Affichage de 4 digits 7 segments, système très lumineux.</li>
 							</ul>
-							<p><strong>Uses:</strong> all types of machinery that feed back information, lifting machines, agricultural or forestry machines, metallurgy or founding machines, radio control for safer machine maintenance, on-board radio control of mobile construction vehicles.</p>
+							<p><strong>Applications:</strong> contrôle de tout type de machine avec retour d&rsquo;information, machines de levage, machines agricoles ou forestières, équipements de sidérurgie ou de fonderie, radiocommande pour la sécurisation de la maintenance de machine, radiocommande embarquée à bord d&rsquo;engins mobiles de chantier.</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB700/40</h5>
+							<h5>RCB700 Forest</h5>
 							<img src="/img/product-RCB700/rcb700_6.jpg"> 
-							<h6>Possible functions :</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>12 pulse push buttons (on/off commands).</li>
-								<li>One emergency stop push button.</li>
-								<li>Information is fed back on the unit's display (means message and all types of measurement (weight, flow rate, speed, distance, temperature etc.) can be transferred).</li>
+							  <li>Un bouton-poussoir marche/arrêt.</li>
+								<li>Un bouton-poussoir arrêt d&rsquo;urgence, coup-de-poing.</li>
+								<li>Un ou 2 boutons, 3 positions (enrouler/dérouler).</li>
+							  <li>Un bouton 3 postions (accélérateur+/-)</li>
+								<li>Livré avec ensemble de commande machine: 1 vérin, 1 mécanisme de commande de pédale de gaz et arrêt du tracteur.<br>
+							  </li>
 							</ul>
-							<p><strong>Uses:</strong>  all types of machinery that feed back information, lifting machines, civil engineering equipment, agricultural or forestry machines, metallurgy or founding machines, radio control for safer machine maintenance, on-board radio control of mobile construction vehicles.</p>
+							<p><strong>Applications: </strong>machines forestières, treuillage avec variation hydraulique, commande de tous types de machines de génie civil avec asservissement hydraulique.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB700/50</h5>
+							<h5>RCB700 FULL</h5>
 							<img src="/img/product-RCB700/rcb700_7.jpg"> 
-							<h6>Possible functions:</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>4 sturdy joysticks, designed for use with gloves.</li>
-								<li>One emergency stop push button.</li>
-								<li>IP65 protection.</li>
-								<li>Protective safety cradle to prevent accidental activation of the controls.</li>
+							  <li>12 boutons-poussoirs à impulsions (commande TOR).</li>
+								<li>Un bouton-poussoir arrêt d&rsquo;urgence, coup-de-poing (en option).</li>
+								<li>Retour d&rsquo;informations sous forme d&rsquo;affichage (en option). Permet de transférer des messages ou tous types de mesures comme par exemple poids, débit, vitesse, distance, température ou autre information.</li>
 							</ul>
-							<p><strong>Uses:</strong> All forestry and agricultural tasks, all uses in quarries and similar environments.</p>
+							<p><strong>Applications:</strong> contrôle de tous types de machines avec ou sans retour d&rsquo;information, machines de levage, machines de génie civil,  machines agricoles ou forestières, équipements de sidérurgie ou de fonderie, radiocommande pour la sécurisation de la maintenance de machine, radiocommande embarquée à bord d&rsquo;engins mobiles de chantier.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB700/60</h5>
-							<img src="/img/product-RCB700/rcb700_8.jpg"> 
-							<h6>Possible functions:</h6>
-							<ul>
-								<li>One emergency stop push button.</li>
-								<li>One stop/start push button.</li>
-								<li>One 3-position wind/unwind button.</li>
-								<li>One (or two) potentiometer button Proportional accelerator.</li>
-								<li>One 3-position forward/back button.</li>
-								<li>One 3-position left/right button.</li>
-								<li>Two configurable 3-position buttons.</li>
-								<li>LED feedback display if needed.</li>
-								<li>IP65 protection.</li>
-								<li>Protective safety cradle to prevent accidental activation of the controls.</li>
-							</ul>
-							<p><strong>Uses:</strong> Forestry, complex winching with hydraulic variation, full directional and movement control of machines, for controlling all types of hydraulic civil engineering machines..</p>
+							<h5>&nbsp;</h5>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB700/70</h5>
-							<img src="/img/product-RCB700/rcb700_9.jpg"> 
-							<h6>Possible functions :</h6>
-							<ul>
-								<li>One emergency stop push button.</li>
-								<li>One stop/start push button.</li>
-								<li>One or two 3-position wind/unwind buttons.</li>
-								<li>One 3-position +/- accelerator button.</li>
-							</ul>
-							<p><strong>Uses:</strong> Forestry machines, hydraulic winching, for controlling all sorts of hydraulic civil engineering equipment.</p>
+							<h5>&nbsp;</h5>
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a name="accessories"></a><h4>Accessoires</h4>
 					<div class="row">
 						<div class="span3">
-							<h6>Highly practical clip-fixing system:</h6>
+							<h6>Système de fixation par clips très pratique:</h6>
 							<img src="/img/product-RCB700/rcb700_10.jpg" alt="">
-							<p>Attaches to a belt or pocket, ...</p>
+						  <p>Fixation à la ceinture, à la poche, ...</p>
 						</div>
 						<div class="span3">
-							<h6>Protective case, carry harness.</h6>
-							<img src="/img/product-RCB700/rcb700_15.jpg" alt="">
+							<h6>Chargeur à microprocesseur:</h6>
+                            <img src="/img/product-RCB700/rcb700_11.jpg" alt="">
+                            <p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge 4H.<br>
+                              Support mural. </p>
 						</div>
 						<div class="span3">
-							<h6>Microprocessor-controlled charger:</h6>
-							<img src="/img/product-RCB700/rcb700_11.jpg" alt="">
-							<p>Batteries can be recharged in total safety, charging time 4 hours.<br/>Wall-mountable.</p>
-						</div>
+						  <h6>Autres accessoires possibles:</h6>
+						  <ul>
+						    <li><strong>Housse de protection, harnais de portage</strong>. <br>
+						      <br>
+						    </li>
+						    <li><strong>Clef d&rsquo;identification</strong> <br>
+						      Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs. <a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a><br>
+						      <br>
+						    </li>
+						    <li><strong>Démarrage sécurisé TCA27</strong>&nbsp;: Ce système permet le démarrage sécurisé de tous engins. Une séquence lumineuse aléatoire émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur. L&rsquo;opérateur doit se trouver dans la zone de visibilité de la balise <a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></li>
+					      </ul>
+                      </div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>Hardware identification key :</h6>
-							<img src="/img/product-RCB700/rcb700_12.jpg" alt="">
-							<p>Links the transmitter to the receiver. Allows rapid change of transmitters.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Read more ...</a></p>
+							<h6>&nbsp;</h6>
 						</div>
 						<div class="span3">
-							<h6>TCA27 security control device:</h6>
-							<img src="/img/product-RCB700/rcb700_13.jpg" alt="">
-							<p>This patented system provides security when starting up any machine. A randomised 2-colour light sequence emitted by the receiver must be encoded by the operator using the transmitter.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Read more ...</a></p>
+							<h6>&nbsp;</h6>
 						</div>
 						<div class="span3">
-							<h6>Bidirectional transmission :</h6>
-							<img src="/img/product-RCB700/rcb700_14.jpg" alt="">
-							<p>Allows information to be fed back to the transmitter.</p>
+							<h6>&nbsp;</h6>
 						</div>
 					</div>
 				</div>

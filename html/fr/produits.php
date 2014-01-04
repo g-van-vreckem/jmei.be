@@ -23,7 +23,7 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La référence pour le levage, adaptable à toute applications industrielles.</strong><br>
+							<p><strong>La référence pour le levage, adaptable à toute application industrielle.</strong><br>
 							  <br>
 							Boîte à boutons robuste, compacte et économique.<br>
 							<br>
@@ -69,7 +69,7 @@
 							  <br>
 							  Bidirectionnelles ou non (informations envoyées à l'émetteur).<br>
 							  <br>
-							  Particulièrement bien adapté pour l'utilisation en forêts, carrières, ou tout autre environnement industriel difficile.<br>
+							  Particulièrement bien adaptée pour l'utilisation en forêts, carrières, ou tout autre environnement industriel difficile.<br>
 							  <br>
 						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>

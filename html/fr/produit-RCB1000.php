@@ -19,144 +19,147 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<a name="features"></a><h4>Caractéristiques</h4>
 					<ul>
-						<li>Transmitter designed with large control panel to provide ease use, lightweight, very robust and made of reinforced industrial-use polyurethane. Highly ergonomic.</li>
-						<li>Shock-absorbing cradle designed for great ease of use, it protects the joysticks and controls from any hazardous movement.</li>
-						<li>Transmitter, very easy to customize thanks to the large operator surface.<br />
-						The pictograms on the transmitter unit are surface grooved and adapted to the customer requirements, allowing excellent visualisation of the controls. In addition, back-lighting makes the unit easy to use in dark or badly lit areas, as well as at night time, giving even greater operating
-						safety.</li>
+					  <li>Boîtier émetteur conçu avec une grande surface d&rsquo;accès pour une utilisation confortable.</li>
+					  <li>Léger, ergonomique et très robuste, réalisé en polyuréthane renforcé pour usages industriels. <br>
+				      </li>
+						<li>Arceau souple conçu pour absorber les chocs, permet une grande facilité d&rsquo;utilisation et protège très efficacement les manipulateurs et boutons de commandes (joysticks) contre toute fausse manoeuvre accidentelle.</li>
+						<li>Très facile à personnaliser grâce à sa grande surface disponible.</li>
+						<li>Les pictogrammes du pupitre émetteur sont gravés et adaptés aux besoins du client et permettent une excellente visualisation des commandes, de plus un rétroéclairage permet un emploi aisé dans des zones peu ou pas éclairées, comme de nuit et ceci afin d&rsquo;améliorer une fois de plus la sécurité d&rsquo;emploi.</li>
 						<li>Protection: IP65.</li>
-						<li>Transmitter powered by a battery with more than 20 hours battery life, although the system can also be plugged into a 12v or 24 v mains supply.</li>
-						<li>Industrial leather protective case of the transmitter supplied with shoulder harness designed for greater user comfort.</li>
-						<li>Suitable for many industrial purposes that need a sturdy and reliable device such as lifting and handling machines and civil engineering equipment, such as tower cranes, truck-mounted hydraulic cranes, dumpers, shovel wheel tractor loaders, rock breakers and compactors, mines drilling machines, and especially designed for mining and marine/maritime applications.</li>
+						<li>Alimentation : par batterie dont l&rsquo;autonomie est supérieure à 20h, mais le système peut être aussi installé en fixe et sera alimenté alors en 12 ou 24 V.</li>
+						<li>Protection par housse de protection en cuir industriel, prévu avec harnais de portage reposant sur les épaules, étudié pour un meilleur confort d&rsquo;utilisation.</li>
+						<li>Livrable pour de multiples applications industrielles qui nécessitent un appareil robuste et fiable comme par exemple le domaine du levage et de la manutention, les machines de génie civil telles que grues à tour, grues hydrauliques sur camion, dumpers, chargeurs sur pneus, brise-roches, compacteurs et elle est particulièrement bien étudiée pour toute application dans le domaine minier ou maritime.</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
-					<h6>Transmitter:</h6>
-					<ul>
-						<li>Unit dimensions: 290 x 160 x 130 mm (excluding cradle)</li>
-						<li>Protection: IP 65</li>
-						<li>Weight:1,5 kg (battery included)</li>
-						<li>Operating temperature: -20°C to +55°C</li>
-						<li>Interchangeable NiMH 4V8 2100mAh battery, no memory effect and long battery life (>20 hours).</li>
-						<li>Operating distance: 500m.</li>
-						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours.</li>
-						<li>Digital or analogue joystick (maximum 8 channels)</li>
-						<li>Maximum 8 analogue channels (10bit) and 45 on/off functions.</li>
+					<a name="specifications"></a>
+				  <h4>Spécifications				  </h4>
+				  <ul>
+				    <li>Gamme de fréquences:  434 MHz (64 canaux) ou 868MHz.</li>
+                        <li>Adresses et fréquences paramétrables par les joysticks de l'émetteur. Aucune intervention nécessaire sur le récepteur.</li>
+                        <li>Joystick à contacts ou analogiques (max 8 canaux).</li>
+                        <li>Puissance d'émission: < 10 mW</li>
+                        <li>Modulation: FM : FSK</li>
+                        <li>Portée de la radiocommande: 200m</li>
+                        <li>Codage de la transmission: adresses 32 bits et CRC 16 bits.</li>
+                        <li>Option bidirectionnelle sur 1 seule fréquence (retour d'infos sur LCD).</li>
+                        <li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
+                        <li>Chargeur à micro-contrôleur de conception JMei (temps de charge: 4h).</li>
+                        <li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
+                        <li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
+                        <li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...)</li>
 					</ul>
-					<h6>Receiver:</h6>
-					<ul>
-						<li>Receiver type, RECB or RCB 7000, can be connected with Profibus, Ethernet, CAN bus or any other fieldbus connection to the PLC customer application.</li>
-					</ul>
-					<h6>Radio</h6>
-					<ul>
-						<li>Frequency range 434.05 MHz to 434.750 MHz or 868/870 MHz, 64 frequency channel synthetizer.</li>
-						<li>Transmitter and receiver frequencies and addresses configurable using the joysticks (in maintenance and safety processing mode), no need to configure anything on the receiver unit.</li>
-						<li>Transmission power: < 10 mW</li>
-						<li>Modulation: FM : FSK</li>
-						<li>Transmission code: 32-bit address and 16-bit CRC.</li>
-						<li>Bidirectional radio control, meaning that both the receiver and transmitter can receive and transmit over a single frequency. This means that all information fed back from the machine can be shown on the transmitter display.</li>
-					</ul>
+					<h6>&nbsp;</h6>
 
-					<a name="uses"></a><h4>Uses</h4>
-					<p>In addition to traditional uses such as <strong>bridge cranes</strong>, <strong>gantry cranes</strong> and <strong>general lifting machinery</strong>, the RCB1000 transmitter is especially suited for the <strong>heavy-industry</strong>.<br />
-					The RCB1000 transmitter is also ideal when several functions and a complicated display are required. The large user-friendly layout allows for a large number of functions whilst remaining highly ergonomic in design.</p>
-					<img src="../img/product-RCB1000/rcb1000_2.jpg" alt="RCB 1000 usage illustration" />
-					<a name="receiver"></a><h4>Receiver</h4>
-					<p>Receiver type JMei RECB or RCB 7000, with most diverse analogue and serial interfaces, for example CAN bus, Profibus, Ethernet, RS232or RS 485 <strong>or any other fieldbus connection to the PLC customer application</strong>.</p>					
+					<a name="uses"></a><h4>Applications</h4>
+					<p>Outre les applications classiques telles que ponts roulants, portiques, grues, engins de levage en général, l&rsquo;émetteur RCB1000 est particulièrement indiqué pour les applications industrielles lourdes. <br>
+L&rsquo;émetteur RCB1000 est également indiqué lorsque l&rsquo;application nécessite de nombreuses fonctions et l&rsquo;affichage d&rsquo;informations complexes. <br>
+La grande face facilement aménageable permet un grand nombre de fonctions tout en conservant une bonne ergonomie. <br> 
+ex:
+<br>
+Navire de dragage marin pour Jan de Null /2008 <br>
+Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mittal Belval 2008.<br>
+<br>
+<img src="../img/product-RCB1000/rcb1000_2.jpg" alt="RCB 1000 usage illustration" />
+				  <a name="receiver"></a></p>
+					<h4>&nbsp;</h4>					
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a name="certification"></a>
+				  <h4>Certifications</h4>
 					<ul>
-						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
-						<li>Electrical safety EN 60950</li>
-						<li>Safety of emergency stop EN 60204-32 + EN 954</li>
+						
+						<li>EMC: EN61000-6-2 et EN61000-6-4.</li>
+                        <li>Safety: EN 60950.</li>
+                        <li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
 <?php endif ?>
 					<hr>
-					<h4>Model Types</h4>
+					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB1000/10</h5>
+							<h5>RCB1000</h5>
 							<img src="../img/product-RCB1000/rcb1000_3.jpg"> 
-							<h6>Possible functions :</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 40 on/off digital functions, switches buttons and push buttons.</li>
-								<li>One emergency stop push button.</li>
-								<li>3 multi-axis joysticks.</li>
-								<li>Optional memory key for rapid interchange with a backup transmitter.</li>
-								<li><strong>Fully customizable.</strong></li>
+							  <li>Jusqu'à 40 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
+								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
+								<li>3 Joysticks multiaxes.</li>
+								<li>Clé mémoire en option, permet de permuter rapidement avec l&rsquo;émetteur de réserve.</li>
+								<li><strong>Toute forme de personnalisation possible.</strong></li>
 							</ul>
-							<p><strong>Uses:</strong> Radio remote for bridge cranes, all types of overhead cranes, complex lifting machines, remote control of mining and quarry equipment, all types of marine/maritime equipment.</p>
+							<p><strong>Applications:</strong> commande ponts roulants ou engins de levage complexes, commande à distance de machines pour mines et carrière, commande de toutes machines maritimes.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB1000/20</h5>
+							<h5>RCB1000</h5>
 							<img src="../img/product-RCB1000/rcb1000_4.jpg"> 
-							<h6>Possible functions:</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 40 on/off digital functions (switches buttons and push buttons).</li>
-								<li>8 single axis joysticks.</li>
-								<li>2 or 4 analogue rotating buttons.</li>
-								<li>One emergency stop push button.</li>
-								<li>Optional memory key for rapid interchange with a backup transmitter.</li>
-								<li>LED indicator lights.</li>
-								<li><strong>Fully customizable</strong></li>
+							  <li>Jusqu'à 40 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
+								<li>8 sticks de commande uniaxe.</li>
+								<li>2 ou 4 boutons rotatifs analogiques.</li>
+								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
+								<li>Clé mémoire en option, permet de permuter rapidement avec l&rsquo;émetteur de réserve.</li>
+								<li>Retour d&rsquo;informations sous forme de témoins LED.</li>
+								<li><strong>Toute forme de personnalisation possible.</strong></li>
 							</ul>
-							<p><strong>Uses:</strong> Remote control for hydraulic or mechanical presses or similar machines, controlling mobile equipment with gradual/analogues motion control.</p>
+							<p><strong>Applications:</strong> commande à distance de presses ou machines similaires, commande de machines mobiles avec réglage du déplacement progressif.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB1000/30</h5>
-							<img src="../img/product-RCB1000/rcb1000_5.jpg"> 
+							<h5>RCB1000</h5>
+							<p><img src="../img/product-RCB1000/rcb1000_5.jpg"> 
+</p>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>2 gradual/analogues multi-axis joysticks with deadman switch (hydraulic control).</li>
-								<li>2 or 4 uni-axis joysticks for hydraulic commands.</li>
-								<li>Up to 10 digital on/off functions (digital switches and push buttons).</li>
-								<li>One emergency stop push button.</li>
-								<li>Optional memory key for rapid interchange with a backup transmitter.</li>
-								<li>LED indicator lights.</li>
-								<li><strong>Fully customizable</strong></li>
+							  <li>2 joysticks multiaxes progressifs avec homme mort (commande hydraulique).</li>
+								<li>2 ou 4 joysticks uniaxes pour commandes hydrauliques.</li>
+								<li>Jusqu'à 10 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
+								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
+								<li>Clé mémoire en option, permet de permuter rapidement avec l&rsquo;émetteur de réserve.</li>
+								<li>Retour d&rsquo;informations sous forme de témoins LED.</li>
+								<li><strong>Toute forme de personnalisation possible.</strong></li>
 							</ul>
-							<p><strong>Uses:</strong>  All kinds of hydraulic construction or mining machinery, drilling machines, dumpers, bulldozers, mobile crushing units, tunnel borers, speciale mobile equipment.</p>
+							<p><strong>Applications: </strong>commande tous types de machines de chantier ou d&rsquo;applications minières avec asservissement hydraulique, machines de forage, dumpers, bulldozers, groupes de concassage mobile, tunneliers, machines mobiles spéciales.</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB1000/40</h5>
+							<h5>RCB1000</h5>
 							<img src="../img/product-RCB1000/rcb1000_6.jpg"> 
-							<h6>Possible functions:</h6>
+							<h6>Fonctions diponibles:</h6>
 							<ul>
-								<li>Up to 20 on/off digital functions (digital switches and push buttons).</li>
-								<li>2 rotating analogues buttons with analogue potentiometers or more.</li>
-								<li>2 gradual uni-axis joysticks or more.</li>
-								<li>Industrial display foreseen for any types of messages or bar graph diagram.</li>
-								<li>One emergency stop push button.</li>
-								<li>Optional memory key for rapid interchange with a backup transmitter.</li>
-								<li>LED indicator lights or message display.</li>
-								<li><strong>Fully customizable</strong></li>
+							  <li>Jusqu'à 20 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
+								<li>2 boutons rotatifs avec potentiomètres analogiques.</li>
+								<li>2 sticks uniaxes progressifs.</li>
+								<li>Ecran d&rsquo;affichage LCD (caractères alphanumériques ou graphique).</li>
+								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
+								<li>Clé mémoire en option, permet de permuter rapidement avec l&rsquo;émetteur de réserve.</li>
+								<li>Retour d&rsquo;informations sous forme de témoins LED ou sur afficheur.</li>
+								<li><strong>Toute forme de personnalisation possible.</strong></li>
 							</ul>
-							<p><strong>Uses:</strong> radio remote for all types of mobile equipment requiring radio remote information from application PLC (mining, transport, drilling, civil work equipment, marine and maritime applications).</p>
+							<p><strong>Applications:</strong> tous types de machines mobiles demandant un retour d&rsquo;informations du poste de commande .</p>
 						</div>
 						<div class="span6">
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a name="accessories"></a><h4>Accessoires</h4>
 					<div class="row">
 						<div class="span3">
-							<h6>Protective leather case:</h6>
+							<h6>Housse de protection en cuir:</h6>
 							<img src="../img/product-RCB1000/rcb1000_7.jpg" alt="">
-							<p>Combines with the carry belt and protects the unit from breakages.</p>
+						  <p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
 						</div>
 						<div class="span3">
-							<h6>Hardware identification key :</h6>
+							<h6>Clé d'identification hardware:</h6>
 							<img src="../img/product-RCB1000/rcb1000_9.jpg" alt="">
-							<p>Links the transmitter to the receiver. Allows rapid change of transmitters.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Read more ...</a></p>
+						  <p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
-							<h6>TCA27 security control device:</h6>
+							<h6>Démarrage sécurisé TCA27:</h6>
 							<img src="../img/product-RCB1000/rcb1000_10.jpg" alt="">
-							<p>This patented system provides security when starting up any machine. A randomised 2-colour light sequence emitted by the receiver must be encoded by the operator using the transmitter.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Read more ...</a></p>
+						  <p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>
 					</div>
 				</div>

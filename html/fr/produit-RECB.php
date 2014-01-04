@@ -1,6 +1,6 @@
 ﻿<?php
 	include 'common.php';
-	$title = 'Mei - RECB - Récepteur radio';
+	$title = 'JMei - RECB - Récepteur radio';
 	$description .='';
 	$pageId = 'RECB';
 	include 'header.php';
@@ -11,7 +11,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-					<h3>Radiocommande de type RECB</h3>
+					<h3>Récepteur radio de type RECB</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RECB/recb_1.jpg" alt="JMei RECB" />
@@ -20,50 +20,60 @@
 					<p></p>
 
 					<p><a href="pdf/JMei%20Récepteur.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
-					<p>JMei Radio remote control receiver designed with a high performance radio module unit foreseen for harsh environment in the heavy industry.<br />
-					64 possible channels/ frequencies, easy to adapt, in maintenance mode, by using push button functions or joysticks functions.<br />
-					Transmitter outputs easy to check regarding correct transmission by signalization LED.<br />
-					Receiver connection, either with Han plug, or cable 3 m Length.<br />
-					Transceiver designed with galvanic isolated power supply, moreover foreseen to be insensitive of short cut in power supply.</p>
-					<p>The whole output relays are controlled by two independent microprocessors which are keeping a continuous supervision dialog and verify the correct operation of the radio remote control.<br />
-					In case of system failure of one of these micro processors, the radio remote control set automatically in emergency stop, waiting for a new start up.</p>
-					<p>The JMei receiver is designed to be compatible with the whole range of IRC transmitter RCB90, RCB3000, RCB1000, RCB700 and can be also combined with our wireless systems RCB6000 or 7000 in network.</p>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a name="features"></a><h4>Caractéristiques</h4>
+					<p>Le récepteur JMei de type &quot;RECB&quot; est prévu pour fonctionner avec l&rsquo;entièreté de la gamme des télécommandes JMei, soit les systèmes RCB90, RCB700, RCB1000, RCB3000, Hélice, RCB6000 et RCB7000.
+</p>
+					<p>Il est doté des caractéristiques suivantes<em>&nbsp;</em>:</p>
 					<ul>
-					</ul>
-					<h6>Receiver:</h6>
-					<ul>
-						<li><strong>Receiver foreseen with feed back capability</strong> (serial, digital, or analog mode) by using only one channel.</li>
-						<li>Emergency stop category 3.</li>
-						<li>Up to 40 digital outputs, 8 analogues proportional/functions.</strong></li>
-						<li>Designed for all possible hydraulic proportional electro valves.</li>
-						<li>Many different possible interfaces serial, analog (4-20mA, 0-10V, -10V 0 +10V, 3-6-9V/hydraulic, 6-12-18V/ hydraulic) CAN bus, Profibus, Ethernet, RS232 or 485.</li>
-						<li>Guided contact relays.</li>
-						<li>Housing dimension: 160 x 240 x 90 mm.</li>
-						<li>Polycarbonate housing with transparent cover for easy check of maintenance LED, IP65 or 66.</li>
-						<li>Processor board with two main micro processors.</li>
-						<li>Fixed by silent blocks.</li>
-						<li>Protection: IP65/66.</li>
-						<li>Weight: approx: 1.5 Kg.</li>
-						<li>Working temperature: - 20 °C to + 55°C.</li>
-						<li>Power supply 24 to 48V AC/DC or 12VDC (option) or 220 V.</li>
-						<li>Relays 8A Max.</li>
-						<li>Able to drive contactors max 40A.</li>
-					</ul>
-					<h6>Radio module :</h6>
-					<ul>
-						<li>UHF (434 or 866 MHz) - 64 channels programmable from transmitter.</li>
-						<li>Transmission codes: Addresses 32bits and CRC 16bits.</li>
-						<li>Throughput: < 10mW.</li>
-						<li>Modulation: FM: FSK.</li>
-					</ul>
+					  <li><strong>22 sorties digitales optocouplées en standard (40 en option)</strong>.</li>
+					  <li><strong>8 sorties analogiques</strong>					</li>
+					  <li><strong>Relais arrêt de sécurité, à contact guidé.</strong><br>
+				      Lecture des messages, analyses, décodages effectués par 2 microcontrôleurs indépendants qui agissent directement sur l&rsquo;arrêt d&rsquo;urgence.					  </li>
+					  <li><strong>Jusqu'à 40 entrées digitales optocouplées et 8 entrées analogiques.</strong><br>
+				      Le récepteur pouvant être prévu en version bidirectionnelle (le récepteur peut émettre et recevoir  des données et <strong>ceci sur la même fréquence</strong>), il peut transmettre tous types d&rsquo;informations (ex: poids, température, vitesse, débit pression,...) vers l&rsquo;émetteur sous forme d&rsquo;alarmes ou de messages qui seront indiqués par un afficheur LCD, voyant LED, buzzer,..</li>
+					  <li><strong>Codage de la transmission: adresse 32bits et CRC 16bits</strong>.</li>
+					  <li><strong>Extensions possibles</strong>:<br>
+					    Analogiques (maxi 16 bits), du type 4-20mA,0-10V,-10V 0 +10V. <br>
+				        Analogique 3-6-9V (application tous types hydrauliques, machines forestières, machine génie civil, machine industrielle ou agricole).<br>
+				        Aanalogique 6-12-18V (application machines avec composants hydrauliques). <br>
+				        Mode de communication possible entre le récepteur JMei et l&rsquo;application client&nbsp;: RS232/RS485,  Profibus, Ethernet, Can bus, Can open ou tout autre bus de terrain.					    <br>
+				        <br>
+				        <a name="specifications"></a>				      </li>
+				  </ul>
+				  <h4>Spécifications</h4>
+				  <p>Le récepteur JMei utilise un système de transmission radio synthétisé à haute performance dont la fréquence de travail se situe dans la gamme des 434MHz (64 canaux possibles) ou 868MHz..<br>
+Le canal  de transmission peut facilement être reprogrammé (par l&rsquo;émetteur ou par PC) et ceci pour éviter tout risque de perturbations.<br>
+Chaque sortie ou entrée est pourvue d'un témoin (LED) permettant la vérification du bon fonctionnement. <br>
+Il possède une alimentation isolée galvaniquement, de plus il a été étudié pour être insensible aux chutes de tension ainsi qu'aux microcoupures</p>
+				  <h6><strong>Caractéristiques mécaniques et électriques</strong>:</h6>
+<ul>
+	  <li>		  
+		  <h6>Récepteur:</h6>
+	  </li>
+	  <li>	    Dimensions boîtier : 160 x 240 x 90 mm (dimensions sans antenne et silent blocs)</li>
+	  <li>Fixation par 4 silent blocs M6.</li>
+	  <li>Protection: IP65</li>
+	  <li>Poids: 1.5 Kg</li>
+	  <li>Température d&rsquo;utilisation : - 20 °C à + 55 °C</li>
+	  <li>Alimentation de 24 à 48V AC/DC ou 12VDC ( option)      </li>
+</ul>
+<ul>
+  <li>
+    <h6><strong>Partie radio</strong> :</h6>
+    </li>
+  <li>UHF (433.125 à 434.750 MHz)– synthétiseur 64 canaux de  fréquence programmable par l'émetteur</li>
+  <li>Codage de la transmission: Adresse 32bits et CRC 16bits.</li>
+  <li>Puissance : &lt; 10mW</li>
+  <li>Modulation : FM&nbsp;: FSK                    </li>
+</ul>
+<h6>&nbsp;</h6>
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a name="certification"></a>
+				  <h4>Certifications</h4>
 					<ul>
-						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
-						<li>Electrical safety EN 60950</li>
-						<li>Safety of emergency stop EN 60204-32 + EN 954</li>
+						<li>EMC: EN61000-6-2 et EN61000-6-4.</li>
+                        <li>Safety: EN 60950.</li>
+                        <li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
 <?php endif ?>
 				</div>

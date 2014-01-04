@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Hardkey - Adresse émetteur radio';
+	$title = 'JMei - Clé mémoire - Adresse émetteur radio';
 	$description .='';
 	$pageId = 'KEY';
 	include 'header.php';
@@ -20,18 +20,18 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('KEY.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a>
-				  <h4>Spécification</h4>
+				  <h4>But du système</h4>
 					<p>Les émetteurs JMei de type Helice, RCB90,RCB700, RCB1000 et RCB3000 ont leurs adresses, fréquences et stand-by paramétrables.<br>
 					  Ces données mémoire peuvent être modififiés aisément par le personnel de maintenance suivant une procédure JMei très simple.<br />
 					Ces paramètres sont modifiables par les boutons-poussoir et joysticks.</p>
-					<p>In order to reduce this maintenance operation and to simplify maintenance jobs, address and frequencies/channels can be <strong>memorized in a memory key</strong>.</p>
-					<p>This external hard key, easy removable, foreseen for quick exchange is unique for a specific IRC radio remote control equipment and for a specific application.</p>
-					<p>In case of transmitter failure, the operator can easily remove the hard key and replace it on the spare unit; all the transmitter parameters and configuration will be kept.</p>
-					<h4>Advantage of the JMei identification key</h4>
+					<p>Afin de simplifier ces opérations et de minimiser les interventions de la maintenance, <strong>es paramètres essentiels de fonctionnement (adresse, fréquence, stand-by, ...) peuvent être inscrits dans une "clé d'identification hardware", véritable clé mémoire de la radiocommande</strong>.</p>
+					<p>Cette mémoire externe, amovible, est aisément interchangeable par l'opérateur et est unique pour un engin donné.</p>
+					<p>En cas de défaillance d'un émetteur, l'opérateur peut retirer aisément (dévisser sans outillage spécialisé), la clé d'identification et la replacer sur l'émetteur de secours. L'ensemble des paramètres de l'engin concerné sera transféré dans l'émetteur de réserve ainsi configuré et prêt à être utilisé. De plus, cette clé est <strong>placée sur chaque type d’émetteur JMei en un endroit protégé (contre les risques de casses) mais facile d’accès</strong>.</p>
+					<h4>Avantage de la clé d'identification JMei</h4>
 					<ul>
-						<li>Allows a quick exchange of a working transmitter to the spare, an easy job, quick achieve.</li>
-						<li>Allows to identify one application with one radio remote control and only these one will be identified by the memory key.</li>
-						<li>Robust memory key, foreseen for industrial environment, installed in a safe location on the transmitter.</li>
+						<li>Permet d’échanger un émetteur de travail par un émetteur de réserve rapidement et par un personnel non qualifié.</li>
+						<li>Permet de sécuriser une application avec un émetteur défini par la clé d’identification.</li>
+						<li>Clé robuste, placée en un endroit protégé contre les casses éventuelles.</li>
 					</ul>
 					<a name="uses"></a>
 				  <h4>Compatibilité</h4>
