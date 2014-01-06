@@ -1,6 +1,6 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - RCB7000 - Transmission de données industrielles';
 	$description .='';
 	$pageId = 'RCB7000';
 	include 'header.php';
@@ -10,76 +10,59 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Wireless industrial data transmission RCB 7000</h3>
+					<a name="highlight"></a><h3>Module de transmission industrielle de type RCB7000</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB7000/rcb7000_1.jpg" alt="RCB 7000" />
+							<img class="img-polaroid" src="../img/product-RCB7000/rcb7000_1.jpg" alt="RCB7000 Transmission industrielle" />
 						</div>
 					</div>
 					<p></p>		
-					<!--<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>-->
+					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
 
-					<a name="features"></a><h4>Features</h4>
-					<p>IRC multichannel wireless transmission systems RCB7000, are designed for a reliable transmission of all types of digital or analogue signal over distances of <strong>up to 5000 m in industrial environment</strong>, thus enabling a significant reduction in all types of control and measurement cables between units and the PLC/automatic controller and between units themselves.<br />
-					RCB7000 transmission systems can be used to exchange all types of signal, whether RS232 or 485 or others.</p>
+					<a name="features"></a><h4>Caractéristiques</h4>
+					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
+Les modules RCB7000 permettent aussi d’échanger les signaux du type RS232 ou 485 ou autres
+.</p>
 
-					<a name="specifications"></a><h4>Specifications</h4>
-					<img src="../img/product-RCB7000/rcb7000_2_en.gif" alt="RCB 7000 Unidirectional or bi-directional transmission - Multichannel 64 channels available" />
-					<p>The basic RCB7000 transmission system includes a transmitter unit and a receiver unit.<br />
-					These units can be used to send or receive all types of digital signal, and also analogue signal, using radio frequencies.<br />
-					The radio units can communicate in unidirectional or bi-directional mode using a single frequency (technology based on a transceiver).</p>
-					<p>The transmission systems use a technology based on our extensive experience in this field (+/- 15 years), i.e. tried and tested in <strong>industrial applications such as steel works and foundries and in an environment where the electromagnetic interference may be very strong</strong>.<br />
-					They operate either in the frequency band 434 MHz or 868/870 MHz (license-free frequency) using a low power output (less than 10mW) as standard, in order not to interfere with other radio controlled applications on the client’s site.</p>
+					<a name="specifications"></a><h4>Spécifications</h4>
+					<img src="../img/product-RCB7000/rcb7000_2_en.gif" alt="RCB7000 transmission unidirectionnelle ou bidirectionnelle - Multicanaux, fréquence industrielle" />
+                    
+<p>Le système de base RCB7000 est composé d’un boîtier émetteur et d’un boîtier récepteur, ces appareils permettent d’envoyer ou de recevoir par radio fréquence tous types de signaux soit tout-ou-rien, mais aussi les signaux analogiques.
+                      <br>
+                  Ces modules radio peuvent communiquer en mode unidirectionnel mais aussi en mode bidirectionnel tout en utilisant une seule fréquence (technologie basée sur un tranceiver). </p>
+					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et/ou l’environnement électromagnétique peut être très perturbant</strong>.<br />
+				  Ils travaillent soit dans la bande de fréquence 434MHz ou 868MHz (fréquence libre de droit pour l’utilisateur) tout en utilisant une puissance de faible niveau (inf. à 10mW) et ceci afin de ne <strong>pas perturber les autres applications radiocommandées installées sur le site du client</strong>.</p>
 					
-					<a name="uses"></a><h4>Uses</h4>
-					<ul>
-						<li>Remote wireless transmission of all types of analogue measurement signal, for example weight, pressure, temperature, speeds, etc. to a central PC or automatic controller.</li>
-						<li>Transmission of all digital or analogue signals, for example position of mobile machinery, zoning of overhead cranes or other mobile plant, remote control of machinery, pumps, motors etc., transmission of information between a mobile machine (Clark/or equivalent industrial forklift) and a fixed unit., foreseen with possibility of emergency stop class 3 transmission.</li>
-						<li>Transmission of information of all types from display screens.</li>
-						<li>Control and access authorisation management, remote barrier opening and closing, transmission of access badge information, access control.</li>
+					<a name="uses"></a><h4>Applications</h4>
+<ul>
+						<li>Transmission à distance sans câblage de tous types signaux analogiques de mesure, par exemple poids, pression, température, vitesse, ou autres vers un PC Central ou automate de gestion.</li>
+						<li>Transmission d'informations vers tout types d'afficheurs.</li>
+						<li>Transmission de tous signaux TOR ou digitaux, par exemple position d’engins mobiles, zonage de ponts roulants ou tous engins mobiles, commande de machine à distance pompes, moteurs ou autres, transmission d’information entre un engin mobile (Clark, chargeur sur pneus) et un poste fixe.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Transmission reliability and safety in use</h4>
-					<p>The IRC /RCB7000 units have control systems and codes designed to ensure a high level of reliability against interference or interruptions, which could be caused by other radio frequency sources on the site, by means of the following :</p>
+					<a name="uses"></a><h4>Fiabilisation du transfert, sécurité d’utilisation</h4>
+					<p>Les modules JMei/RCB6000 sont pourvus de dispositifs et de codes de contrôle développés afin de garantir une très grande fiabilité quant aux perturbations ou coupures pouvant provenir d’autres sources de radiofréquences installées sur le site et par les moyens suivants:</p>
 					<ul>
-						<li>Address codes identifying the IRC receiver and transmitter (32-bit codes).</li>
-						<li>Frame coding sent by 16-bit CRC /IRC code.</li>
-						<li>Continuous re-reading by internal protocol and message verification.</li>
-						<li>In the event of interference, the transmission channel can easily be re-programmed by PC on site, 64 channels are available.</li>
-						<li>In bi-directional mode, there is also the option to check if the digital contact signals have been processed properly.</li>
+					  <li>Adresse identifiante du récepteur et de l’émetteur codées JMei (codage 32 Bits).</li>
+						<li>Codage de la trame envoyé par code 16 bits CRC.</li>
+						<li>Relecture permanente par protocole interne et vérification des messages.</li>
+						<li>En cas de perturbation, le canal de transmission peut facilement être reprogrammé par PC sur site, 64 canaux sont possibles.</li>
+						<li>En mode bidirectionnel, il existe aussi la possibilité de vérifier si les signaux de contacts TOR ont bien été exécutés.</li>
 					</ul>
 
-					<a name="uses"></a><h4>System composition</h4>
+					<a name="uses"></a><h4>Composition du système</h4>
 					<ul>
-						<li>2 transmitter or receiver units, housing either in polycarbonate (or aluminium, as an option).</li>
-						<li>IP65 waterproof housing can be installed outside or inside buildings may also be installed in an electrical cabinet.</li>
-						<li>24 or 48 V AC/DC power supply (powered by batteries also possible).</li>
-						<li>Unit supplied with fixing screws and rubber bushing.</li>
-						<li>Omni-directional antenna fixed inside the housing, no particular installation requirements, i.e. not sensitive to the presence of a metal mass in the propagation field.</li>
-						<li>Option to connect several transmitters and receivers together to create a network.</li>
-						<li>Option : Receiver type RCB 7000, can be inter connected with Profibus, Ethernet, CAN bus or any other fieldbus connection to the PLC customer application.</li>
+						<li>2 boîtiers émetteur ou récepteur en  polycarbonate (ou aluminium, en option).</li>
+						<li>Protection étanchéité  IP65, pouvant être placé à l’extérieur ou à l’intérieur de bâtiments, possibilité d’installation en armoire électrique aussi prévue.</li>
+						<li>Alimentation 24 ou 48 V AC/DC, (alimentation par batteries disponible).</li>
+						<li>Boîtier prévu avec vis de fixation et silent bloc.</li>
+						<li>Antenne omnidirectionnelle  qui ne nécessite pas de précaution particulière pour son installation et insensible à la présence de masse métallique dans le champ de propagation.</li>
+						<li>Possibilité de coupler plusieurs boîtiers émetteur récepteur entre eux  afin de constituer un réseau .</li>
+						<li>Option : Au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Mechanic and electric specifications</h4>
-					<h6>Transmitter/receiver</h6>
-					<ul>
-						<li>Housing size : 220x270x90 mm (antenna and silent blocs not included).</li>
-						<li>Electrical protection level: IP65.</li>
-						<li>Weight : 1.5kg.</li>
-						<li>Temperature working range: from -20° to + up to 55°.</li>
-						<li>Feeding power 24 or 48 AC/DC or 12VDC ( optional).</li>
-						<li>Input digital opt coupled (from 12or 24V AC or DC) of free of potential or trough isolated feeder foreseen for this application.</li>
-						<li>Output Digital 8A(resistance),250 VAC max.</li>
-						<li>Input/output analog, 0/10V, 4/20mA, 0/20mA</li>
-						<li>RCB 7000 system is also able to translate data ( ex 0/10Vto 4/20mA, 0/5Vto RS232, ...)</li>
-					</ul>
-					<h6>Radio modem</h6>
-					<ul>
-						<li>UHF(433,125 to 434,750 MHz)64 Channels programmable by PC.</li>
-						<li>Power : less then 10mW( distance transmission from 100m to 500 m and depending to the environment).</li>
-						<li>Modulation FM or FSK.</li>
-						<li>Transmission codes: Address 32 bits and CRC 16 bits.</li>
-					</ul>
+					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
+					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, Caterpillar, SNCF.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>
