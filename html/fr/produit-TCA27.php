@@ -18,7 +18,7 @@
 						</div>
 					</div>
 					<p></p>							
-					<p><a href="<?php echo Site::relativeUrl('TCA27.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('TCA27.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a>
 					<h4>Description du système</h4>
 <p>Le système JMei/TCA27 permet d’accroître considérablement la sécurité lors de la commande d’engins dangereux.</p>
@@ -35,7 +35,7 @@
 <p>Sur l’émetteur, 4 touches de fonction standard sont cependant pourvues des couleurs rouge, jaune, bleue et verte. L’opérateur confirme donc la couleur vue sur la balise successivement par pression sur la touche correspondante de l’émetteur, l’opération de validation des deux couleurs aléatoires peut prendre 5 secondes au maximum.</p>
 <p>Le code aléatoire de 2 couleurs est tout a fait suffisant pour la majorité des applications, mais JMei peut aussi configurer le système pour une confirmation d’un code de 3 couleurs ou quatre si le besoin s’en faisait sentir.</p>
 <h5>Encodage de la couleur correspondante avec les touches de couleurs ou via les manipulateurs:</h5>
-<img src="../img/product-TCA27/tca27_2_fr.jpg" alt="TAC 27 adaptation des émetteurs">
+<img src="../img/product-TCA27/tca27_2_fr.jpg" alt="TAC 27 adaptation des émetteurs - système sécuritaire">
 <h5>Illustration du processus de démarage</h5>
 <img src="../img/product-TCA27/tca27_start_ok_fr.gif" alt="TAC 27 adaptation des émetteurs">
 

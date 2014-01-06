@@ -14,7 +14,7 @@
 					<h3>Radiocommande de type RCB1000</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB1000/rcb1000_1.jpg" alt="RCB 3000" />
+							<img class="img-polaroid" src="../img/product-RCB1000/rcb1000_1.jpg" alt="Radiocommande profibus bidirectionnelle" />
 						</div>
 					</div>
 					<p></p>
@@ -60,7 +60,7 @@ ex:
 Navire de dragage marin pour Jan de Null /2008 <br>
 Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mittal Belval 2008.<br>
 <br>
-<img src="../img/product-RCB1000/rcb1000_2.jpg" alt="RCB 1000 usage illustration" />
+<img src="../img/product-RCB1000/rcb1000_2.jpg" alt="Applications industrielles" />
 				  <a name="receiver"></a></p>
 					<h4>&nbsp;</h4>					
 <?php if ( SHOW_CERTIFICATION ) : ?>
@@ -78,7 +78,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 					<div class="row">
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-RCB1000/rcb1000_3.jpg"> 
+							<img src="../img/product-RCB1000/rcb1000_3.jpg" alt="RB1000 pupitre industriel"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 40 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
@@ -91,7 +91,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 						</div>
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-RCB1000/rcb1000_4.jpg"> 
+							<img src="../img/product-RCB1000/rcb1000_4.jpg" alt="Commande à distance industrielle"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 40 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
@@ -106,7 +106,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 						</div>
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<p><img src="../img/product-RCB1000/rcb1000_5.jpg"> 
+							<p><img src="../img/product-RCB1000/rcb1000_5.jpg" alt="Télécommande à joysticks"> 
 </p>
 							<h6>Fonctions diponibles:</h6>
 							<ul>
@@ -124,7 +124,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 					<div class="row">
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-RCB1000/rcb1000_6.jpg"> 
+							<img src="../img/product-RCB1000/rcb1000_6.jpg" alt="Boîtier de commande avec afficheur"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 20 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
@@ -146,18 +146,18 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 					<div class="row">
 						<div class="span3">
 							<h6>Housse de protection en cuir:</h6>
-							<img src="../img/product-RCB1000/rcb1000_7.jpg" alt="">
+							<img src="../img/product-RCB1000/rcb1000_7.jpg" alt="Housse de protection télécommande">
 						  <p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
 						</div>
 						<div class="span3">
 							<h6>Clé d'identification hardware:</h6>
-							<img src="../img/product-RCB1000/rcb1000_9.jpg" alt="">
+							<img src="../img/product-RCB1000/rcb1000_9.jpg" alt="Commande de machines">
 						  <p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
 							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
 							<h6>Démarrage sécurisé TCA27:</h6>
-							<img src="../img/product-RCB1000/rcb1000_10.jpg" alt="">
+							<img src="../img/product-RCB1000/rcb1000_10.jpg" alt="Système de sécurité JMei">
 						  <p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
 							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>

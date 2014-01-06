@@ -14,7 +14,7 @@
 					<h3>Radiocommande de type RCB3000</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB3000/rcb3000_1.jpg" alt="RCB 3000" />
+							<img class="img-polaroid" src="../img/product-RCB3000/rcb3000_1.jpg" alt="Télécommande avec afficheur" />
 						</div>
 					</div>
 					<p></p>
@@ -51,7 +51,7 @@
 					</ul>
 					<a name="uses"></a><h4>Applications</h4>
 					<p>Équipements de génie civil: manutention et  équipement de levage mobile (Manitou), camion de remorquage, pompe à béton , camions de mélange, pont roulant, grue, grue hydraulique mobile, application mobile de transport de voiture, toutes applications de manutention.</p>
-					<img src="../img/product-RCB3000/rcb3000_2.jpg" alt="RCB 3000 usage illustration" />
+					<img src="../img/product-RCB3000/rcb3000_2.jpg" alt="Applications mobiles télécommandées" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a><h4>Certifications</h4>
 					<ul>
@@ -65,7 +65,7 @@
 					<div class="row">
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<img src="../img/product-RCB3000/rcb3000_3.jpg"> 
+							<img src="../img/product-RCB3000/rcb3000_3.jpg" alt="Radiocommande machine"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 20 boutons à bascule.</li>
@@ -78,7 +78,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<img src="../img/product-RCB3000/rcb3000_4.jpg"> 
+							<img src="../img/product-RCB3000/rcb3000_4.jpg" alt="Radiocommande pour l'hydraulique"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 3 manipulateurs/joysticks  TOR ou analogiques (avec ou sans &quot;homme-mort&quot;).</li>
@@ -94,7 +94,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB3000</h5>
-						  <p><img src="../img/product-RCB3000/rcb3000_5.jpg"></p>
+						  <p><img src="../img/product-RCB3000/rcb3000_5.jpg" alt="Commande à palettes"></p>
 							<h6>Fonctions diponibles: 
 				          </h6>
 							<ul>
@@ -110,7 +110,7 @@
 					<div class="row">
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<img src="../img/product-RCB3000/rcb3000_6.jpg"> 
+							<img src="../img/product-RCB3000/rcb3000_6.jpg" alt="Radio télécommande avec afficheur"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 2 manipulateurs/joysticks  TOR ou analogiques (avec ou sans &quot;homme-mort&quot;).</li>
@@ -125,7 +125,7 @@
 						<div class="span3">
 							<h5>RCB3000</h5>
 							<h6><strong>Couplage des émetteurs en mode tandem/maître-esclave</strong></h6>
-							<img src="../img/product-RCB3000/rcb3000_7.jpg"> 
+							<img src="../img/product-RCB3000/rcb3000_7.jpg" alt="Système de télécommande"> 
 						  <h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Livrable avec retour d&rsquo;informations  de la position des ponts roulants ou autres engins mobiles sur l&rsquo;émetteur, permet donc de réaliser des zonages avec un émetteur configuré en maître, les autres étant passifs et opérant en mode esclave.</li>
@@ -143,25 +143,25 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Housse de protection en nylon:</h6>
-							<img src="../img/product-RCB3000/rcb3000_8.jpg" alt="">
+							<img src="../img/product-RCB3000/rcb3000_8.jpg" alt="Protection de commande">
 						  <p>Complète avantageusement la ceinture de portage et protège efficacement l&rsquo;émetteur des chocs. </p>
 						</div>
 						<div class="span3">
 							<h6>Clé d'identification hardware:</h6>
-							<img src="../img/product-RCB3000/rcb3000_9.jpg" alt="">
+							<img src="../img/product-RCB3000/rcb3000_9.jpg" alt="Arrêt d'urgence télécommande">
 						  <p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
 							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
 							<h6>Afficheurs (7 segments / LCD graphique)</h6>
-							<img src="../img/product-RCB3000/rcb3000_10.jpg" alt="">
+							<img src="../img/product-RCB3000/rcb3000_10.jpg" alt="Retour d'informations">
 							<p>Permet l'affichage des informations provenant de l&rsquo;application en mode bidirectionnel sur l&rsquo;émetteur.</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
 							<h6>Démarrage sécurisé TCA27:</h6>
-							<img src="../img/product-RCB3000/rcb3000_11.jpg" alt="">
+							<img src="../img/product-RCB3000/rcb3000_11.jpg" alt="Système de sécurité">
 						  <p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
 							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>

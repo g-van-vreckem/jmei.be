@@ -15,7 +15,7 @@
 				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="RCB 90" />
+							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="Radiocommande pour pont roulant" />
 						</div>
 					</div>
 					<p></p>
@@ -50,7 +50,7 @@
 					<a name="uses"></a>
 				  <h4>Applications</h4>
 					<p>Système maître-esclave pour tout équipement de manutention, pont roulant, portique ou tout autre type d'équipement mobile.</p>
-					<img src="../img/product-RCB90/rcb90_2.jpg" alt="" />
+					<img src="../img/product-RCB90/rcb90_2.jpg" alt="Applications de radiocommandes" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
 				  <h4>Certifications</h4>
@@ -65,7 +65,7 @@
 					<div class="row">
 						<div class="span3">
 							<h5>RCB90/L</h5>
-							<img src="../img/product-RCB90/rcb90_3.jpg"> 
+							<img src="../img/product-RCB90/rcb90_3.jpg" alt="Boîte à boutons JMei"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 								<li>Jusqu'à 9 boutons à double impulsion.</li>
@@ -78,7 +78,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB90/M</h5>
-							<img src="../img/product-RCB90/rcb90_4.jpg"> 
+							<img src="../img/product-RCB90/rcb90_4.jpg" alt="Boîte à boutons universelle"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 16 boutons à double impulsion.</li>
@@ -91,7 +91,7 @@
 						</div>
 						<div class="span3">
 							<h5> RCB90/L et /M personnalisées</h5>
-							<img src="../img/product-RCB90/rcb90_5.jpg"> 
+							<img src="../img/product-RCB90/rcb90_5.jpg" alt="Commande spéciale"> 
 							<p>JMei produit ses radiocommandes avec des pictogrammes personnalisés selon vos besoins.</p>
 							<p>En complément, le mode bidirectionnel avec retour d'informations sur voyants LED's ou afficheur 7 segments vous offre de multiples possibilités d'applications.</p>
 						</div>
@@ -102,17 +102,17 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Housse de protection en cuir&nbsp;:</h6>
-							<img src="../img/product-RCB90/rcb90_6.jpg" alt="">
+							<img src="../img/product-RCB90/rcb90_6.jpg" alt="Télécommande grue">
 							<p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
 						</div>
 						<div class="span3">
 							<h6>Chargeur à microprocesseur&nbsp;:</h6>
-							<img src="../img/product-RCB90/rcb90_7.jpg" alt="">
+							<img src="../img/product-RCB90/rcb90_7.jpg" alt="Chargeur à microprocesseur">
 							<p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge: 4H.</p>
 						</div>
 						<div class="span3">
 							<h6>Clé d'identification hardware:</h6>
-							<img src="../img/product-RCB90/rcb90_8.jpg" alt="">
+							<img src="../img/product-RCB90/rcb90_8.jpg" alt="Batterie télécommande">
 							<p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
 							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 						</div>
@@ -120,13 +120,13 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Démarrage sécurisé TCA27:</h6>
-							<img src="../img/product-RCB90/rcb90_9.jpg" alt="">
+							<img src="../img/product-RCB90/rcb90_9.jpg" alt="Système de sécurité">
 							<p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
 							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
 						</div>
 						<div class="span3">
 							<h6>Transmission bidirectionnelle:</h6>
-							<img src="../img/product-RCB90/rcb90_10.jpg" alt="">
+							<img src="../img/product-RCB90/rcb90_10.jpg" alt="Retour d'information sur télécommande">
 							<p>Permet le retour d'informations vers l'émetteur.</p>
 						</div>
 						<div class="span3">

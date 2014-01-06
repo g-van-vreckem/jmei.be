@@ -14,11 +14,11 @@
 					<h3>Sytème TANDEM - Coordinations d'équipements radio</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-Tandem/tandem_1.jpg" alt="Identification Keys" />
+							<img class="img-polaroid" src="../img/product-Tandem/tandem_1.jpg" alt="Système tandem radiocommande" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('KEY.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('TANDEM.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a>
 				  <h4>Description du système</h4>
 				  <p>Ce système permet la commande simultanée de deux engins (par exemple : ponts roulants) par un seul émetteur. Ceci permet le transport de longues charges en toute sécurité. Avec l’option « bidirectionnel » le système assure également la gestion des fins de course rendant ainsi le couplage très sécuritaire.</p>

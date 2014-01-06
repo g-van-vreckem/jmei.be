@@ -14,7 +14,7 @@
 					<h3>Radiocommande de type RCB700</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="/img/product-RCB700/rcb700_1.jpg" alt="RCB 700" />
+							<img class="img-polaroid" src="/img/product-RCB700/rcb700_1.jpg" alt="Radiocommande forestière, pour treuil" />
 						</div>
 					</div>
 					<p></p>
@@ -47,7 +47,7 @@
                         <li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>						</ul>
 					<a name="uses"></a><h4>Applications</h4>
 					<p>Très performante dans toutes les applications industrielles et forestières, sa fabrication en aluminium lui permet une solidité incomparable.</p>
-					<img src="/img/product-RCB700/rcb700_2.jpg" alt="" />
+					<img src="/img/product-RCB700/rcb700_2.jpg" alt="Applications forestières" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a><h4>Certification</h4>
 					<ul>
@@ -61,7 +61,7 @@
 					<div class="row">
 						<div class="span3">
 							<h5>RCB700 Arrêt d'urgence</h5>
-							<img src="/img/product-RCB700/rcb700_3.jpg"> 
+							<img src="/img/product-RCB700/rcb700_3.jpg" alt="Arrêt d'urgence"> 
 							<h6>Fonctions diponibles :							</h6>
 							<ul>
 								<li>Un ou deux  boutons-poussoirs à impulsions  (commande TOR).</li>
@@ -72,7 +72,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB700 BP TOR</h5>
-							<img src="/img/product-RCB700/rcb700_4.jpg"> 
+							<img src="/img/product-RCB700/rcb700_4.jpg" alt="Commande tout-ou-rien"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 8 boutons-poussoirs à impulsions (commande TOR).</li>
@@ -83,7 +83,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB700 4 digits</h5>
-							<img src="/img/product-RCB700/rcb700_5.jpg"> 
+							<img src="/img/product-RCB700/rcb700_5.jpg" alt="Afficheur de télécommande"> 
 						  <h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 6 boutons-poussoirs à impulsions (commande TOR).</li>
@@ -96,7 +96,7 @@
 					<div class="row">
 						<div class="span3">
 							<h5>RCB700 Forest</h5>
-							<img src="/img/product-RCB700/rcb700_6.jpg"> 
+							<img src="/img/product-RCB700/rcb700_6.jpg" alt="Radio forestière"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Un bouton-poussoir marche/arrêt.</li>
@@ -110,7 +110,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB700 FULL</h5>
-							<img src="/img/product-RCB700/rcb700_7.jpg"> 
+							<img src="/img/product-RCB700/rcb700_7.jpg" alt="Commande à distance robuste"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>12 boutons-poussoirs à impulsions (commande TOR).</li>
@@ -133,12 +133,12 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Système de fixation par clips très pratique:</h6>
-							<img src="/img/product-RCB700/rcb700_10.jpg" alt="">
+							<img src="/img/product-RCB700/rcb700_10.jpg" alt="Clips de fixation pour télécommande">
 						  <p>Fixation à la ceinture, à la poche, ...</p>
 						</div>
 						<div class="span3">
 							<h6>Chargeur à microprocesseur:</h6>
-                            <img src="/img/product-RCB700/rcb700_11.jpg" alt="">
+                            <img src="/img/product-RCB700/rcb700_11.jpg" alt="Chargeur pour radiocommande">
                             <p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge 4H.<br>
                               Support mural. </p>
 						</div>

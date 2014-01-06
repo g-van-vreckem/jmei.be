@@ -14,7 +14,7 @@
 					<h3>Récepteur radio de type RECB</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RECB/recb_1.jpg" alt="JMei RECB" />
+							<img class="img-polaroid" src="../img/product-RECB/recb_1.jpg" alt="JMei RECB, récepteur de télécommande" />
 						</div>
 					</div>
 					<p></p>

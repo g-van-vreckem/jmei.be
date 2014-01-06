@@ -17,7 +17,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg" alt="">
+						<img src="../img/home/slide-02.jpg" alt="Télécommande agricole">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
@@ -26,7 +26,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-03.jpg" alt="">
+						<img src="../img/home/slide-03.jpg" alt="Radiocommande profibus bidirectionnelle">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Flexibilité, innovation, solution à vos besoins spécifiques.
@@ -35,7 +35,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-04.jpg" alt="">
+						<img src="../img/home/slide-04.jpg" alt="Commande à distance remorque">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei puise sa force  grâce à l'innovation constante.
@@ -44,7 +44,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-05.jpg" alt="">
+						<img src="../img/home/slide-05.jpg" alt="Radiocommande analogique">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Conçu pour répondre aux besoins spécifiques des clients.
@@ -53,7 +53,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg" alt="">
+						<img src="../img/home/slide-06.jpg" alt="Télécommande industrielle">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Notre force:  votre confiance!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
@@ -61,7 +61,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-07.jpg" alt="">
+						<img src="../img/home/slide-07.jpg" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.
@@ -70,7 +70,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-08.jpg" alt="">
+						<img src="../img/home/slide-08.jpg" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation avec les dernières technologies.
@@ -95,7 +95,7 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>Joyeuses fêtes!</h2>
+                    <h2>Heureuse année 2014!</h2>
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.gif?v=1" alt="Radiocommande Industrielle"></a>
                </div>
                 <div class="span4">
@@ -113,7 +113,7 @@
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=1" alt="Featured Product RCB90 RCB700"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=1" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                   <p class="lead text-center">Une équipe dynamique et professionnelle</p>
@@ -122,7 +122,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=1" alt="Featured Product Hélice RCB1000 RCB3000"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=1" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

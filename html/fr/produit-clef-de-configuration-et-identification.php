@@ -14,7 +14,7 @@
 					<h3>Clé d'identification pour les émetteurs JMei</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-configuration-and-identification-key/identification-keys.jpg" alt="Identification Keys" />
+							<img class="img-polaroid" src="../img/product-configuration-and-identification-key/identification-keys.jpg" alt="Clé mémoire radiocommande" />
 						</div>
 					</div>
 					<p></p>
