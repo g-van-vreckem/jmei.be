@@ -95,8 +95,8 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>Heureuse année 2014!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.gif?v=1" alt="Radiocommande Industrielle"></a>
+                    <h2>Nouvel arceau de remplacement!</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=1" alt="Radiocommande Industrielle"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
