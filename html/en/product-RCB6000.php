@@ -17,7 +17,7 @@
 						</div>
 					</div>
 					<p></p>
-					<!--<p><a href="<?php echo Site::relativeUrl('RCB6000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>-->
+					<p><a href="<?php echo Site::relativeUrl('RCB6000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
 
 					<a name="features"></a><h4>Features</h4>
 					<p>IRC multichannel wireless transmission systems RCB6000, are designed for a reliable transmission of all types of digital or analogue signal over distances of <strong>up to 5000 m in industrial environment</strong>, thus enabling a significant reduction in all types of control and measurement cables between units and the PLC/automatic controller and between units themselves.<br />

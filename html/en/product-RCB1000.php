@@ -17,7 +17,7 @@
 						</div>
 					</div>
 					<p></p>
-					<!--<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>-->
+					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
 					<a name="features"></a><h4>Features</h4>
 					<ul>
 						<li>Transmitter designed with large control panel to provide ease use, lightweight, very robust and made of reinforced industrial-use polyurethane. Highly ergonomic.</li>
