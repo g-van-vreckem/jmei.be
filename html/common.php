@@ -123,7 +123,7 @@
 			if ( $langue === '' ) $langue = $lang;
 			if ( $alias === '' ) $alias = $pageId;
 			$p = self::$pages[$langue][$alias];
-			return $p->url(Page::ABS);
+			return $p->url(Page::FULL);
 		}
 		public static function noIndex( $p ) {
 			return ($p->priority <= 0);
