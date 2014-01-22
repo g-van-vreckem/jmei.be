@@ -9,6 +9,7 @@
 		
         <title><?php echo $title;?></title>
         <meta name="description" content="<?php echo $description;?>">
+        <meta name="keywords" content="<?php echo $keywords;?>">
         <meta name="viewport" content="width=device-width">
 <?php if ( Site::noIndex ( Site::curPage() ) ) echo '		<meta name="robots" content="noindex">'; ?>
 		<meta property="fb:admins" 		content="1102341095">

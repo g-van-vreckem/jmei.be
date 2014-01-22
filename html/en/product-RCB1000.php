@@ -1,7 +1,9 @@
 ﻿<?php
 	include 'common.php';
 	$title .= '';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RCB1000';
 	include 'header.php';
 	include 'nav.php';

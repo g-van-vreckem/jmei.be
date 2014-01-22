@@ -1,7 +1,9 @@
 ﻿<?php
 	include 'common.php';
 	$title = 'JMei - Démarrage sécurisé - Prise en main';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'TCA27';
 	include 'header.php';
 	include 'nav.php';

@@ -1,7 +1,9 @@
 ﻿<?php
 	include 'common.php';
 	$title = 'JMei - RECB - Récepteur radio';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RECB';
 	include 'header.php';
 	include 'nav.php';

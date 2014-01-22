@@ -1,7 +1,9 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - Clé mémoire - Adresse émetteur radio';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'KEY';
 	include 'header.php';
 	include 'nav.php';

@@ -2,7 +2,9 @@
 	include 'common.php';
 //	$title .= '';
 	$title = 'JMei - RCB90 - Boîte à boutons';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RCB90';
 	include 'header.php';
 	include 'nav.php';

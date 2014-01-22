@@ -1,7 +1,9 @@
 ﻿<?php
 	include 'common.php';
 	$title = 'JMei - RCB3000 - Radio analogique';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RCB3000';
 	include 'header.php';
 	include 'nav.php';

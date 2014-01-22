@@ -1,7 +1,9 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - Hélice - Radio forestière';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'Helice';
 	include 'header.php';
 	include 'nav.php';

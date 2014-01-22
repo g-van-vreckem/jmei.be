@@ -1,7 +1,9 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - RCB6000 - Transmission de données industrielles';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RCB6000';
 	include 'header.php';
 	include 'nav.php';

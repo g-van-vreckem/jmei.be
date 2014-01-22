@@ -2,7 +2,9 @@
 	include 'common.php';
 	//$title .= '';
 	$title = 'JMei - Radiocommandes';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'products';
 	include 'header.php';
 	include 'nav.php';

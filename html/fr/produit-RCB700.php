@@ -1,7 +1,9 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - RCB700 - Commande radio';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'RCB700';
 	include 'header.php';
 	include 'nav.php';

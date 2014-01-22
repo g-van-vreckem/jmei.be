@@ -1,7 +1,9 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - Sytème TANDEM - Coordinations d"équipements radio';
-	$description .='';
+	$description .= '';
+	$keywords .= '';
+
 	$pageId = 'TANDEM';
 	include 'header.php';
 	include 'nav.php';
