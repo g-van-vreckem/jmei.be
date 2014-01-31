@@ -41,7 +41,6 @@
 					<div class="span6">
 						<h4>Mines and carries</h4>
 	<img src="/img/references/carmeuse.jpg" alt="Carmeuse Natural Chemicals" class="refer-left" />
-	<img src="/img/references/caterpilar.jpg" alt="Caterpillar" class="refer" />
 					</div>
 					<div class="span6">
 						<h4>Marines and maritimes applications</h4>

@@ -55,7 +55,7 @@ pont roulant et qui doit servir à la clé de démarrage.</li>
 						<li><strong>Le système de démarrage JMei peut même être placé sur des radiocommandes qui ne seraient pas de fabrication JMei.</strong></li>
 					</ul>
 					<a name="references"></a><h4>Références pour ce type d’équipements</h4>
-<p>Ce type d’équipement a déjà été installé récemment chez : ArcelorMittal, Riva Sidérurgie, Groupe Magoteaux, Duferco Coating, Ferry Capitain, Manoir industrie, Burgo Ardenne, Industrie automobile groupe Peugeot/PSA, Glaverbel, Sidmar Gent, Airbus industrie, Caterpillard, SNCF, SNCB.</p>
+<p>Ce type d’équipement a déjà été installé récemment chez : ArcelorMittal, Riva Sidérurgie, Groupe Magoteaux, Duferco Coating, Ferry Capitain, Manoir industrie, Burgo Ardenne, Industrie automobile groupe Peugeot/PSA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF, SNCB.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>

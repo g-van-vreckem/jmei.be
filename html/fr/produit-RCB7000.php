@@ -64,7 +64,7 @@ Les modules RCB7000 permettent aussi d’échanger les signaux du type RS232 ou 
 					</ul>
 
 					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
-					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, Caterpillar, SNCF.</p>
+					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>

@@ -71,7 +71,7 @@ En cas de défaillance ou de disfonctionnement de l'un d'entre eux, le système 
 					</ul>
 
 					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
-					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, Caterpillar, SNCF.</p>
+					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>
