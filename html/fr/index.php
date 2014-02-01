@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
 	$title .= '';
-	$description .= '';
-	$keywords .= '';
+	$description .= 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
+	$keywords .= 'JMei, radiocommande industrielle, radiocommandes industrielles, radio-commande, radios-commandes, innovation, télécommande industrielle, télécommandes industrielles, IRC, personnalisation de radiocommande, réactivité, personnalisation, flexibilité, réactivité, expérience, fiabilité ';
 
 	$pageId = 'home';
 	include 'header.php';
@@ -49,7 +49,7 @@
 						<img src="../img/home/slide-05.jpg" alt="Radiocommande analogique">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Conçu pour répondre aux besoins spécifiques des clients.
+								<p class="lead">Des télécommandes conçues pour répondre aux besoins spécifiques des clients.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB3000');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
@@ -75,7 +75,7 @@
 						<img src="../img/home/slide-08.jpg" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Tous les types de personnalisation avec les dernières technologies.
+								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB90');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
