@@ -2,8 +2,8 @@
 	include 'common.php';
 //	$title .= '';
 	$title = 'JMei - RCB90 - Boîte à boutons';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Radiocommande boîte à boutons double vitesses pour la commande de pont roulant';
+	$keywords = 'émetteur, ultra-compact,léger, radiocommande, radiocommandes, radio commande, radio commandes, ponts roulant';
 
 	$pageId = 'RCB90';
 	include 'header.php';
