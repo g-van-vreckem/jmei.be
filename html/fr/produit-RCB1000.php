@@ -1,8 +1,8 @@
 ﻿<?php
 	include 'common.php';
 	$title = 'JMei - RCB1000 - Pupitre industriel';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Pupitre de commande industriel haut de gamme, entièrement parsonnalisable, pour des applications industrielles les plus rudes';
+	$keywords = 'Radiocommande, RCB1000, Pupitre ventral, radio analogique, émetteur,  robuste, radiocommande, radiocommandes, radio commande, radio commandes, ponts roulant, commande à joystick, équipements de génie civil, manutention, équipement de levage mobile, camion de remorquage, pompe à béton , camions de mélange, pont roulant, grue, grue hydraulique mobile, application mobile de transport de voiture, toutes applications de manutention, commande à distance,  presse, machine, commande de machines mobiles avec réglage du déplacement progressif';
 
 	$pageId = 'RCB1000';
 	include 'header.php';

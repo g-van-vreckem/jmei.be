@@ -2,8 +2,8 @@
 	include 'common.php';
 	//$title .= '';
 	$title = 'JMei - Radiocommandes';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Gamme de radiocommandes industrielles JMei';
+	$keywords .= 'RCB90, RCB3000, RCB1000, RCB700, Helice, RCB6000, RCB7000, Clé hardware, Démarrage sécuritaire, TCA27, tandem, boîte à boutons, application industrielle, levage, boutons robuste, JMei, commande, bidirectionnelle, usages industriels, pupitre, arceau télécommande, émetteur haut de gamme, afficheur LCD, housse de protection, transmission, transmission de données, données sans fil, data-acquisitions, data-conversions, modules de transmissions, clé mémoire, démarrage sécuritaire, système radio, homme-mort';
 
 	$pageId = 'products';
 	include 'header.php';

@@ -74,6 +74,8 @@
 			
 			self::addPage ( new Page ( 'KEY', 'en', 'product-configuration-and-identification-key', 'products' ) );
 			self::addPage ( new Page ( 'KEY', 'fr', 'produit-clef-de-configuration-et-identification', 'products' ) );
+//			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
+			self::addPage ( new Page ( 'Saga', 'fr', 'produit-Saga', 'products' ) );
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei RCB90', '', Page::PDF, true, .6 ) );

@@ -1,11 +1,11 @@
 <?php
 	include 'common.php';
 //	$title .= '';
-	$title = 'JMei - RCB90 - Boîte à boutons';
-	$description = 'Radiocommande boîte à boutons double vitesses pour la commande de pont roulant';
-	$keywords = 'émetteur, ultra-compact,léger, radiocommande, radiocommandes, radio commande, radio commandes, ponts roulant, boîte à boutons, RCB90';
+	$title = 'JMei - Radio pocket - télécommande mini';
+	$description = 'Commande à distance économique et légère, JM-L4/L6/L8, JM-V6/V6+';
+	$keywords = 'Saga, Radio, Pocket, radiocommande, radiocommandes, radio commande, radio commandes, ponts roulant, boîte à boutons';
 
-	$pageId = 'RCB90';
+	$pageId = 'Saga';
 	include 'header.php';
 	include 'nav.php';
 
@@ -14,7 +14,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
+				  <h3>Télécommande  de type JM-L et JM-V6 (Saga pocket)</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="Radiocommande pour pont roulant" />
@@ -25,7 +25,7 @@
 					<a name="features"></a>
 					<h4>Caractéristiques</h4>
 					<ul>
-						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
+						<li>Emetteur importé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
 						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
 						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  polyuréthane renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
 						<li>Une housse de protection   en nylon (en option) rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
@@ -66,7 +66,7 @@
 					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB90/L</h5>
+							<h5>JM-L4 / JM-L6 / JM-L8</h5>
 							<img src="../img/product-RCB90/rcb90_3.jpg" alt="Boîte à boutons JMei"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
@@ -79,7 +79,7 @@
 							<p><strong>Applications:</strong> commande de ponts roulants ou treuils groupés, commande de machines en mode maintenance (carrière, concasseurs, cribles, bandes transporteuses), commande de tous types de machines simples.</p>
 						</div>
 						<div class="span3">
-							<h5>RCB90/M</h5>
+							<h5>JM-V6 / JM-V6+</h5>
 							<img src="../img/product-RCB90/rcb90_4.jpg" alt="Boîte à boutons universelle"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
