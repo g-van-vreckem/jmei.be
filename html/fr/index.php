@@ -14,7 +14,7 @@
 						<img src="../img/home/slide-01.jpg" alt="">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">L'équipe JMei vous souhaite de joyeuses fêtes! <a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -32,7 +32,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Flexibilité, innovation, solution à vos besoins spécifiques.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB1000');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -66,8 +66,8 @@
 						<img src="../img/home/slide-07.jpg" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">Télécommandes pocket, légères, économiques.
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('JMPOCKET');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>

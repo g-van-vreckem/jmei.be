@@ -8,7 +8,7 @@
 							<li class="nav-header">Boîte à boutons</li>
 							<li<?php echo Site::addActiveClass('RCB90'); ?>><a href="<?php echo Site::relativeUrl('RCB90');?>">RCB90 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li<?php echo Site::addActiveClass('RCB700'); ?>><a href="<?php echo Site::relativeUrl('RCB700');?>">RCB700 <i class="icon-chevron-right pull-right"></i></a></li>
-                         <li<?php echo Site::addActiveClass('Saga'); ?>><a href="<?php echo Site::relativeUrl('Saga');?>">Radio pocket <i class="icon-chevron-right pull-right"></i></a></li>   
+                         <li<?php echo Site::addActiveClass('JMPOCKET'); ?>><a href="<?php echo Site::relativeUrl('JMPOCKET');?>">Radio pocket <i class="icon-chevron-right pull-right"></i></a></li>   
 							<li class="nav-header">Pupitre ventral</li>
 							<li<?php echo Site::addActiveClass('Helice'); ?>><a href="<?php echo Site::relativeUrl('Helice');?>">Hélice <i class="icon-chevron-right pull-right"></i></a></li>
 							<li<?php echo Site::addActiveClass('RCB1000'); ?>><a href="<?php echo Site::relativeUrl('RCB1000');?>">RCB1000 <i class="icon-chevron-right pull-right"></i></a></li>
