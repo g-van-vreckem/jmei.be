@@ -1,8 +1,8 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
-	$description .= '';
-	$keywords .= '';
+	$title = 'JMei radiocommandes industrielles, made in Belgium';
+	$description = 'Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients';
+	$keywords = 'JMei,IRC,radiocommande,made in Belgium,radiocommandes,industrielles,transmissions radioélectriques,normes de sécurité,environnements industriels';
 
 	$pageId = 'about';
 	include 'header.php';

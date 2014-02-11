@@ -1,8 +1,8 @@
 ﻿<?php
 	include 'common.php';
-	$title .= '';
-	$description .= '';
-	$keywords .= '';
+	$title = 'Nos radiocommandes entièrement personnalisées';
+	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
+	$keywords = 'radiocommandes personnalisées,radiocommandes,dépannage rapide,émetteur,retour d\'informations,affichage de poids,manipulateur radio,commande à distance,radio-fréquence,arceau de protection';
 
 	$pageId = 'realisations';
 	include 'header.php';

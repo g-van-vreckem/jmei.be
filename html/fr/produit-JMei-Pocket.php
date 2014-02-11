@@ -2,8 +2,8 @@
 	include 'common.php';
 //	$title .= '';
 	$title = 'JMei - Radio pocket - télécommande mini';
-	$description = 'Commande à distance économique et légère, JM-L4/L6/L8, JM-V6/V6+';
-	$keywords = 'Radio pocket,radio,pocket,Emetteur,compact,434MHZ,radio à distance,pont roulant,boîte à boutons,Télécommande';
+	$description = 'Commande à distance économique et légère, JMei-L4/L6/L8, JMei-V6/V6+. La commande industrielle à petit prix';
+	$keywords = 'Radio pocket,radio,pocket,Emetteur,compact,434MHZ,radio à distance,pont roulant,boîte à boutons,télécommande,commande industrielle';
 
 	$pageId = 'JMPOCKET';
 	include 'header.php';
@@ -14,7 +14,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-				  <h3>Télécommande  de type JM-L et JM-V6 (Radio pocket)</h3>
+				  <h3>Télécommande  de type JMei-L et JMei-V6 (Radio pocket)</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg" alt="Radiocommande pour pont roulant" />
@@ -26,7 +26,7 @@
 					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>JM-L4 / JM-L6 / JM-L8</h5>
+							<h5>JMei-L4 / JMei-L6 / JMei-L8</h5>
 							<img src="../img/product-JMPOCKET/JMpocket2.jpg" alt="Boîte à boutons JMei"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
@@ -46,7 +46,7 @@
 						    Son marché principal est le marché des véhicules, en particulier pour les camions de remorquage.</p>
 						</div>
 						<div class="span3">
-						  <h5>JM-V6 / JM-V6+<br>
+						  <h5>JMei-V6 / JMei-V6+<br>
 							</h5>
 							<img src="../img/product-JMPOCKET/JMpocket3.jpg" alt="Boîte à boutons universelle"> 
 						  <h6>Fonctions diponibles:</h6>
