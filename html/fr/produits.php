@@ -3,7 +3,7 @@
 	//$title .= '';
 	$title = 'JMei - Radiocommandes';
 	$description = 'Gamme de radiocommandes industrielles JMei';
-	$keywords .= 'RCB90, RCB3000, RCB1000, RCB700, Helice, RCB6000, RCB7000, Clé hardware, Démarrage sécuritaire, TCA27, tandem, boîte à boutons, application industrielle, levage, boutons robuste, JMei, commande, bidirectionnelle, usages industriels, pupitre, arceau télécommande, émetteur haut de gamme, afficheur LCD, housse de protection, transmission, transmission de données, données sans fil, data-acquisitions, data-conversions, modules de transmissions, clé mémoire, démarrage sécuritaire, système radio, homme-mort';
+	$keywords = 'RCB90,RCB3000,RCB1000,RCB700,Helice,RCB6000,RCB7000,Clé hardware,Démarrage sécuritaire,TCA27,tandem,boîte à boutons,application industrielle,levage,boutons robuste,JMei,commande,bidirectionnelle,usages industriels,pupitre,arceau télécommande,émetteur haut de gamme,afficheur LCD,housse de protection,transmission,transmission de données,données sans fil,data-acquisitions,data-conversions,modules de transmissions,clé mémoire,démarrage sécuritaire,système radio,homme-mort';
 
 	$pageId = 'products';
 	include 'header.php';
@@ -232,54 +232,82 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 			<div class="detail-close" aria-hidden="true" data-icon="&#xe001;"></div>
 			<div class="container">
 			</div>
-		</div>
+		</div>           
 		<!--/ Detail view -->
 		<div class="container">
 			<div id="r3" class="row spaced-row">
 				<div id="i5" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">La clé hardware</h5>
-                        <p class="tile-intro">La solution d'interchangeabilité des émetteurs</p>
+                        <h5 class="tile-title">Télécommande de type JMei-L et JMei-V6</h5>
+                        <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img src="../img/product-overview3/KEY.jpg" alt="Clé mémoire pour télécommande" class="bottom-img">
+                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Option disponible pour tous les émetteurs JMei (RCB90 - RCB700 - Hélice - RCB3000 - RCB1000).<br>
-							  <br>
-							  Cette clé mémoire contient les informations utiles au bon fonctionnement de la radiocommande.<br>
-							  <br>
-							  L'interchangeabilité entre émetteurs se fait alors très rapidement et sans reprogrammation software.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
-						</div>
-                        <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/KEY_4.jpg" data-type="img"></a>
+							<p>JMei-L4 / JMei-L6 / JMei-L8</p>
+							<p>Commande simple vitesse 4, 6 ou 8 fonctions.<br>
+							  434MHz.<br>
+						    Disponible en 12V DC ou 220V AC.</p>
+							<p> <br>
+						    JMei-V6 / JMei-V6+<br>
+						    <br>
+							  	Commande simple vitesse 6 fonctions.<br>
+								868MHz.<br>
+								Disponible en 12V DC.<br>
+								Récepteur avec commandes intégrées.</p>
+							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+					  </div>
+                        <a href="../img/product-overview3/POCKET_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/POCKET_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/POCKET_4.jpg" data-type="img"></a>
                     </div>
                 </div>													
 				<div id="i8" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Démarrage sécuritaire</h5>
+                        <h5 class="tile-title">Nos options</h5>
+                        <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
+                    </div>
+                    <img class="bottom-img" src="../img/product-overview3/OPTION.jpg">
+                    <div class="tile-over">
+                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
+                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
+                    </div>                  
+                    <div class="tile-detail">
+                        <div class="tile-desc">
+                        	 <p>Système de clé mémoire, permet l'interchangeabilité des émetteurs.</p>
+                          <p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+                          <p><br>
+                          TCA27, un système de démarrage sécuritaire breveté JMei.</p>
+                          <p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+                          <p><br>
+                          Système de personnalisation software pour diverses utilisations complexes.</p>
+                  		 <p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
+<!--                        <h5 class="tile-title">Démarrage sécuritaire</h5>
                         <p class="tile-intro">TCA27, un système de démarrage sécuritaire breveté JMei</p>
                     </div>
-                    <img src="../img/product-overview3/TCA27.jpg" alt="Radiocommande sécuritaire" class="bottom-img">
-                    <div class="tile-over">
+                      <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Ce système de démarrage sécuritaire est disponible pour tous nos modèles de radiocommandes.<br>
-							  <br>
-							  Avec ses 256 combinaisons possibles, ce système n'autorisera les fonctions de commandes du système radio qu'après validation visuelle de l'opérateur.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
-						</div>
+                          <p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>-->
+					  </div>
+                        <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/KEY_4.jpg" data-type="img"></a> 
+                        
                         <a href="../img/product-overview3/tca27_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/tca27_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/tca27_4.jpg" data-type="img"></a>
+ 
+                        <a href="../img/product-overview3/TANDEM_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/TANDEM_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/TANDEM_4.jpg" data-type="img"></a>                    
                     </div>
                 </div>													
 				<div id="i9" class="tile span4">
