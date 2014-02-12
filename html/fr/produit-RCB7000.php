@@ -1,8 +1,8 @@
 ﻿<?php
 	include 'common.php';
 	$title = 'JMei - RCB7000 - Transmission de données industrielles';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Module de transmission de données sans fil industriel, échange de signaux TOR, analogiques, série, bus de terrain (field bus)';
+	$keywords = 'module de transmission industrielle,RCB7000,équipements de transmission sans fil,modules radio,applications radiocommandées,transmission à distance sans câblage,transmission d\'informations,transmission de tous signaux';
 
 	$pageId = 'RCB7000';
 	include 'header.php';

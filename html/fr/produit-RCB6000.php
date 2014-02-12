@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - RCB6000 - Transmission de données industrielles';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Communication sans fil sécurisée entre machines mobiles, prévue avec transmission arrêt d’urgence';
+	$keywords = 'Module de transmission industrielle,RCB6000,transmission sans fil,échange de signaux,radio-fréquence,signaux tout-ou-rien,signaux analogiques,modules radio,mode bidirectionnel,sidérurgie,fonderies,bande de fréquence 434MHz,applications radiocommandées,transmission à distance sans câblage,signaux analogiques de mesure,communication sans fil sécurisée,transmission d\'arrêt d\'urgence';
 
 	$pageId = 'RCB6000';
 	include 'header.php';

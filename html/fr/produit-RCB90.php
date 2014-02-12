@@ -3,7 +3,7 @@
 //	$title .= '';
 	$title = 'JMei - RCB90 - Boîte à boutons';
 	$description = 'Radiocommande boîte à boutons double vitesses pour la commande de pont roulant';
-	$keywords = 'émetteur, ultra-compact,léger, radiocommande, radiocommandes, radio commande, radio commandes, ponts roulant, boîte à boutons, RCB90';
+	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,ponts roulant,boîte à boutons,RCB90';
 
 	$pageId = 'RCB90';
 	include 'header.php';
@@ -41,10 +41,10 @@
 						<li>Puissance d'émission: < 10 mW</li>
 						<li>Modulation: FM : FSK</li>
 						<li>Portée de la radiocommande: 200m</li>
-						<li>Codage de la transmission: Adresses 32 bits et CRC 16 bits.</li>
+						<li>Codage de la transmission: adresses 32 bits et CRC 16 bits.</li>
 						<li>Option bidirectionnelle sur 1 seule fréquence.</li>
 						<li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
-						<li>Chargeur à micro-contrôleur de concption JMei. (Temps de charge: 4h)</li>
+						<li>Chargeur à micro-contrôleur de conception JMei. (Temps de charge: 4h)</li>
 						<li>Possibilité d'alimentation fixe en 12ou 24V DC (en option).</li>
 						<li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">Clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
 						<li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, serie (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>
@@ -71,7 +71,7 @@
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 								<li>Jusqu'à 9 boutons à double impulsion.</li>
-								<li>1 bouton d'arrêt d'urgence, coup de poing.</li>
+								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
 								<li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
 								<li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
 								<li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>
@@ -84,7 +84,7 @@
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 16 boutons à double impulsion.</li>
-                              <li>1 bouton d'arrêt d'urgence, coup de poing.</li>
+                              <li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
                               <li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
                               <li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
                               <li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>

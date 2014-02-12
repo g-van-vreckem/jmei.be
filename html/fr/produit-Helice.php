@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
 	$title = 'JMei - Hélice - Radio forestière';
-	$description .= '';
-	$keywords .= '';
+	$description = 'Radiocommande entièrement personnalisable. Robuste, légère et étanche, cette télécommande aura sa place dans vos applications forestières et agricoles, mine et carrière, génie civile. ';
+	$keywords = 'Radiocommande hélice,télécommande,commande de machines forestières,commande de machines de construction,boutons à bascule';
 
 	$pageId = 'Helice';
 	include 'header.php';
@@ -23,7 +23,7 @@
 					<p><a href="<?php echo Site::relativeUrl('Helice.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 
 					<a name="features"></a><h4>Caractéristiques</h4>
-<p>Boîtier émetteur ultra léger (+/-250g), de taille réduite (140x140x70mm), très robuste, réalisé en polycarbone, très ergonomique, adapté spécialement aux environnements agressifs et facilement personnalisable.<br>
+<p>Boîtier émetteur ultra léger (+/-250g), de taille réduite (140x140x70mm), très robuste, réalisé en polycarbonate, très ergonomique, adapté spécialement aux environnements agressifs et facilement personnalisable.<br>
 Alimentation : par batterie interchangeable (autonomie est supérieure à 20h).<br>
 Protection par housse en nylon<br>
 Les pictogrammes du pupitre émetteur sont gravés et adaptés aux besoins du client et permettent une
