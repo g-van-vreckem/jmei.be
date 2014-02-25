@@ -24,7 +24,7 @@
 					<a name="features"></a><h4>Caractéristiques</h4>
 					<ul>
 					  <li>Boîtier émetteur conçu avec une grande surface d&rsquo;accès pour une utilisation confortable.</li>
-					  <li>Léger, ergonomique et très robuste, réalisé en polyuréthane renforcé pour usages industriels. <br>
+					  <li>Léger, ergonomique et très robuste, réalisé en plastique renforcé pour usages industriels. <br>
 				      </li>
 						<li>Arceau souple conçu pour absorber les chocs, permet une grande facilité d&rsquo;utilisation et protège très efficacement les manipulateurs et boutons de commandes (joysticks) contre toute fausse manoeuvre accidentelle.</li>
 						<li>Très facile à personnaliser grâce à sa grande surface disponible.</li>
@@ -49,7 +49,7 @@
                         <li>Chargeur à micro-contrôleur de conception JMei (temps de charge: 4h).</li>
                         <li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
                         <li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
-                        <li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...)</li>
+                        <li>Récepteur RecB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CANOpen, Profibus, Ethernet,...)</li>
 					</ul>
 					<h6>&nbsp;</h6>
 
@@ -85,7 +85,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 							<ul>
 							  <li>Jusqu'à 40 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
 								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
-								<li>3 Joysticks multiaxes.</li>
+								<li>3 joysticks multiaxes.</li>
 								<li>Clé mémoire en option, permet de permuter rapidement avec l&rsquo;émetteur de réserve.</li>
 								<li><strong>Toute forme de personnalisation possible.</strong></li>
 							</ul>
@@ -112,7 +112,7 @@ Plateforme de manutention Airbus/2008  Pont roulant d&rsquo;aciérie Arcelor Mi
 </p>
 							<h6>Fonctions diponibles:</h6>
 							<ul>
-							  <li>2 joysticks multiaxes progressifs avec homme mort (commande hydraulique).</li>
+							  <li>2 joysticks multiaxes progressifs avec homme-mort (commande hydraulique).</li>
 								<li>2 ou 4 joysticks uniaxes pour commandes hydrauliques.</li>
 								<li>Jusqu'à 10 fonctions &quot;tout-ou-rien&quot; (boutons à bascule ou boutons-poussoirs).</li>
 								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>

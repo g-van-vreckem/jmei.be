@@ -23,10 +23,10 @@
 					<p><a href="<?php echo Site::relativeUrl('KEY.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a>
 				  <h4>But du système</h4>
-					<p>Les émetteurs JMei de type Helice, RCB90,RCB700, RCB1000 et RCB3000 ont leurs adresses, fréquences et stand-by paramétrables.<br>
-					  Ces données mémoire peuvent être modififiés aisément par le personnel de maintenance suivant une procédure JMei très simple.<br />
-					Ces paramètres sont modifiables par les boutons-poussoir et joysticks.</p>
-					<p>Afin de simplifier ces opérations et de minimiser les interventions de la maintenance, <strong>es paramètres essentiels de fonctionnement (adresse, fréquence, stand-by, ...) peuvent être inscrits dans une "clé d'identification hardware", véritable clé mémoire de la radiocommande</strong>.</p>
+					<p>Les émetteurs JMei de type Helice, RCB90, RCB700, RCB1000 et RCB3000 ont leurs adresses, fréquences et stand-by paramétrables.<br>
+					  Ces données mémoire peuvent être modifiées aisément par le personnel de maintenance suivant une procédure JMei très simple.<br />
+					Les paramètres sont modifiables par les boutons-poussoirs et joysticks.</p>
+					<p>Afin de simplifier ces opérations et de minimiser les interventions de la maintenance, <strong>les paramètres essentiels de fonctionnement (adresse, fréquence, stand-by, ...) peuvent être inscrits dans une "clé d'identification hardware", véritable clé mémoire de la radiocommande</strong>.</p>
 					<p>Cette mémoire externe, amovible, est aisément interchangeable par l'opérateur et est unique pour un engin donné.</p>
 					<p>En cas de défaillance d'un émetteur, l'opérateur peut retirer aisément (dévisser sans outillage spécialisé), la clé d'identification et la replacer sur l'émetteur de secours. L'ensemble des paramètres de l'engin concerné sera transféré dans l'émetteur de réserve ainsi configuré et prêt à être utilisé. De plus, cette clé est <strong>placée sur chaque type d’émetteur JMei en un endroit protégé (contre les risques de casses) mais facile d’accès</strong>.</p>
 					<h4>Avantage de la clé d'identification JMei</h4>

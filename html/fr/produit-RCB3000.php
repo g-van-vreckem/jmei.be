@@ -24,7 +24,7 @@
 					<a name="features"></a><h4>Caractéristiques</h4>
 					<ul>
 					  <li>Boîtier émetteur conçu avec une grande surface d&rsquo;accès pour une utilisation confortable.</li>
-                      <li>Léger, ergonomique et très robuste, réalisé en polyuréthane renforcé pour usages industriels. <br>
+                      <li>Léger, ergonomique et très robuste, réalisé en plastique renforcé pour usages industriels. <br>
                       </li>
                       <li>Arceau souple conçu pour absorber les chocs, permet une grande facilité d&rsquo;utilisation et protège très efficacement les manipulateurs et boutons de commandes (joysticks) contre toute fausse manoeuvre accidentelle.</li>
                       <li>Très facile à personnaliser grâce à sa grande surface disponible.</li>
@@ -49,7 +49,7 @@
                       <li>Chargeur à micro-contrôleur de conception JMei (temps de charge: 4h).</li>
                       <li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
                       <li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
-                      <li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>
+                      <li>Récepteur RecB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CANOpen, Profibus, Ethernet,...).</li>
 					</ul>
 					<a name="uses"></a><h4>Applications</h4>
 					<p>Équipements de génie civil: manutention et  équipement de levage mobile (Manitou), camion de remorquage, pompe à béton , camions de mélange, pont roulant, grue, grue hydraulique mobile, application mobile de transport de voiture, toutes applications de manutention.</p>
@@ -126,7 +126,7 @@
 </div>
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<h6><strong>Couplage des émetteurs en mode tandem/maître-esclave</strong></h6>
+							<h6><strong>Couplage des émetteurs en mode tandem maître/esclave</strong></h6>
 							<img src="../img/product-RCB3000/rcb3000_7.jpg" alt="Système de télécommande"> 
 						  <h6>Fonctions diponibles:</h6>
 							<ul>

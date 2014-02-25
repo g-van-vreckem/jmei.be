@@ -25,18 +25,18 @@
 					<a name="features"></a>
 					<h4>Caractéristiques</h4>
 					<ul>
-						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement parsonnalisables).</li>
+						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement personnalisables).</li>
 						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
-						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  polyuréthane renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
+						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  plastique renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
 						<li>Une housse de protection   en nylon (en option) rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
 						<li>Les pictogrammes et les voyants LED de l'émetteur sont placés selon les exigences du client et permettent ainsi une excellente visualisation des commandes.<br />
-							En mode didirectionnel, les informations provenant du récepteur sont affichées sur voyants LED's ou afficheur 7 segements. Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
+							En mode didirectionnel, les informations provenant du récepteur sont affichées sur voyants LED's ou afficheur 7 segments. Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
 						<li>Protection: IP65</li>
-						<li>Convient pour tout types d'usages industriels comme le levage et la manutension.</li>
+						<li>Convient pour tous types d'usages industriels comme le levage et la manutention.</li>
 					</ul>
 					<a name="specifications"></a><h4>Specifications</h4>
 					<ul>
-						<li>Gamme de fréquence:  434 MHz (64 cannaux) ou 868MHz.</li>
+						<li>Gamme de fréquence:  434 MHz (64 canaux) ou 868MHz.</li>
 						<li>Adresses et fréquences paramétrables par les boutons de l'émetteur. Aucune intervention nécessaire sur le récepteur.</li>
 						<li>Puissance d'émission: < 10 mW</li>
 						<li>Modulation: FM : FSK</li>
@@ -44,10 +44,10 @@
 						<li>Codage de la transmission: adresses 32 bits et CRC 16 bits.</li>
 						<li>Option bidirectionnelle sur 1 seule fréquence.</li>
 						<li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
-						<li>Chargeur à micro-contrôleur de conception JMei. (Temps de charge: 4h)</li>
+						<li>Chargeur à micro-contrôleur de conception JMei (temps de charge: 4h).</li>
 						<li>Possibilité d'alimentation fixe en 12ou 24V DC (en option).</li>
 						<li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">Clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
-						<li>Récepteur RECB JMei, possibilité de commandes analogiques, digitales, serie (RS232 ou RS485) ou bus de terrain (CAN, Profibus, Ethernet,...).</li>
+						<li>Récepteur RecB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CANOpen, Profibus, Ethernet,...).</li>
 					</ul>
 					<a name="uses"></a>
 				  <h4>Applications</h4>

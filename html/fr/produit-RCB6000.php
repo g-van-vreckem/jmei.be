@@ -25,7 +25,7 @@
 					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
 Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 485 ou autres
 .</p>
-					<p>De plus les modules JMei/ RCB 6000 sont conçus avec <strong>une carte processeur qui inclue deux microcontrôleurs qui relisent chacun les messages en continu</strong>et qui assurent ainsi une sécurité supérieure  en cas de défaillance du système.
+					<p>De plus les modules JMei/ RCB 6000 sont conçus avec <strong>une carte processeur qui inclut deux microcontrôleurs qui relisent chacun les messages en continu</strong> et qui assurent ainsi une sécurité supérieure  en cas de défaillance du système.
                       <br>
                       En effet ces deux microcontrôleurs agissent simultanément sur un relais d’arrêt d’urgence monté sur la carte processeur et qui coupe instantanément  tous les échanges de signaux possibles
 .</p>
@@ -36,14 +36,14 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
 					<p>Le système de base RCB6000 est composé d’un boîtier émetteur et d’un boîtier récepteur, ces appareils permettent d’envoyer ou de recevoir par radio fréquence tous types de signaux soit tout-ou-rien, mais aussi les signaux analogiques.
                       <br>
                   Ces modules radio peuvent communiquer en mode unidirectionnel mais aussi en mode bidirectionnel tout en utilisant une seule fréquence (technologie basée sur un tranceiver). </p>
-					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et/ou l’environnement électromagnétique peut être très perturbant</strong>.<br />
+					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et où l’environnement électromagnétique peut être très perturbant</strong>.<br />
 				  Ils travaillent soit dans la bande de fréquence 434MHz ou 868MHz (fréquence libre de droit pour l’utilisateur) tout en utilisant une puissance de faible niveau (inf. à 10mW) et ceci afin de ne <strong>pas perturber les autres applications radiocommandées installées sur le site du client</strong>.</p>
 					
 					<a name="uses"></a><h4>Applications</h4>
 					<ul>
 						<li>Transmission à distance sans câblage de tous types signaux analogiques de mesure, par exemple poids, pression, température, vitesse, ou autres vers un PC Central ou automate de gestion.</li>
 						<li><strong>Communication sans fil sécurisée entre machines mobiles, prévue avec transmission arrêt d’urgence</strong>.</li>
-						<li>Transmission d'informations vers tout types d'afficheurs.</li>
+						<li>Transmission d'informations vers tous types d'afficheurs.</li>
 						<li>Transmission de tous signaux TOR ou digitaux, par exemple position d’engins mobiles, zonage de ponts roulants ou tous engins mobiles, commande de machine à distance pompes, moteurs ou autres, transmission d’information entre un engin mobile (Clark, chargeur sur pneus) et un poste fixe.</li>
 					</ul>
 
@@ -55,8 +55,8 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
 						<li>Relecture permanente par protocole interne et vérification des messages.</li>
 						<li>En cas de perturbation, le canal de transmission peut facilement être reprogrammé par PC sur site, 64 canaux sont possibles.</li>
 						<li>En mode bidirectionnel, il existe aussi la possibilité de vérifier si les signaux de contacts TOR ont bien été exécutés.</li>
-						<li>Sécurisation renforcée : l’ensemble des relais de sorties est piloté par deux microprocesseurs indépendants qui dialoguent entre eux et vérifient leurs bon fonctionnement respectif.
-En cas de défaillance ou de disfonctionnement de l'un d'entre eux, le système se place en sécurité et attend une nouvelle mise en service venant de l'émetteur.</li>
+						<li>Sécurisation renforcée : l’ensemble des relais de sorties est piloté par deux microprocesseurs indépendants qui dialoguent entre eux et vérifient leur bon fonctionnement respectif.
+En cas de défaillance ou de dysfonctionnement de l'un d'entre eux, le système se place en sécurité et attend une nouvelle mise en service venant de l'émetteur.</li>
 					</ul>
 
 					<a name="uses"></a><h4>Composition du système</h4>
@@ -66,8 +66,8 @@ En cas de défaillance ou de disfonctionnement de l'un d'entre eux, le système 
 						<li>Alimentation 24 ou 48 V AC/DC, (alimentation par batteries disponible).</li>
 						<li>Boîtier prévu avec vis de fixation et silent bloc.</li>
 						<li>Antenne omnidirectionnelle  qui ne nécessite pas de précaution particulière pour son installation et insensible à la présence de masse métallique dans le champ de propagation.</li>
-						<li>Possibilité de coupler plusieurs boîtiers émetteur récepteur entre eux  afin de constituer un réseau .</li>
-						<li>Option : Au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
+						<li>Possibilité de coupler plusieurs boîtiers émetteur/récepteur entre eux  afin de constituer un réseau .</li>
+						<li>Option : au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
 					</ul>
 
 					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>

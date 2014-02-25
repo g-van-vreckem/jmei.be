@@ -35,9 +35,9 @@
 				      Le récepteur pouvant être prévu en version bidirectionnelle (le récepteur peut émettre et recevoir  des données et <strong>ceci sur la même fréquence</strong>), il peut transmettre tous types d&rsquo;informations (ex: poids, température, vitesse, débit pression,...) vers l&rsquo;émetteur sous forme d&rsquo;alarmes ou de messages qui seront indiqués par un afficheur LCD, voyant LED, buzzer,..</li>
 					  <li><strong>Codage de la transmission: adresse 32bits et CRC 16bits</strong>.</li>
 					  <li><strong>Extensions possibles</strong>:<br>
-					    Analogiques (maxi 16 bits), du type 4-20mA,0-10V,-10V 0 +10V. <br>
+					    Analogique (maxi 16 bits), du type 4-20mA,0-10V,-10V 0 +10V. <br>
 				        Analogique 3-6-9V (application tous types hydrauliques, machines forestières, machine génie civil, machine industrielle ou agricole).<br>
-				        Aanalogique 6-12-18V (application machines avec composants hydrauliques). <br>
+				        Analogique 6-12-18V (application machines avec composants hydrauliques). <br>
 				        Mode de communication possible entre le récepteur JMei et l&rsquo;application client&nbsp;: RS232/RS485,  Profibus, Ethernet, Can bus, Can open ou tout autre bus de terrain.					    <br>
 				        <br>
 				        <a name="specifications"></a>				      </li>
