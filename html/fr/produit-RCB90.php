@@ -1,9 +1,9 @@
 <?php
 	include 'common.php';
 //	$title .= '';
-	$title = 'JMei - RCB90 - Boîte à boutons';
-	$description = 'Radiocommande boîte à boutons double vitesses pour la commande de pont roulant';
-	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,ponts roulant,boîte à boutons,RCB90';
+	$title = 'JMei - RCB90 - Boîte à boutons - Télécommande pour pont roulant';
+	$description = 'Radiocommande de type boîte à boutons double vitesses pour la commande de pont roulant';
+	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
 
 	$pageId = 'RCB90';
 	include 'header.php';
@@ -80,7 +80,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB90/M</h5>
-							<img src="../img/product-RCB90/rcb90_4.jpg" alt="Boîte à boutons universelle"> 
+							<img src="../img/product-RCB90/rcb90_4.jpg" alt="Télécommande pour pont roulant"> 
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 							  <li>Jusqu'à 16 boutons à double impulsion.</li>

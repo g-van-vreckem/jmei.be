@@ -107,7 +107,7 @@
 							<br>
 							Housse de portage et retour d'informations disponibles.<br>
 <br>
-							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
