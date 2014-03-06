@@ -15,7 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                            <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
+							<li class="active"><a href="#blog-2014-02">Février 2014 <i class="icon-chevron-right pull-right"></i></a></li>                         <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2013-12">Décembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2013-11">Novembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
@@ -23,6 +23,17 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+               	  <section id="blog-2014-02">
+					<h3>Télécommande analogique / CANopen personnalisée</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Télécommande industrielle personnalisée">
+					  <p>Radiocommande proportionnelle CANbus (Canopen) pour machines mobiles.
+					    <br>
+					  Cet émetteur est destiné principalement à la commande de trois fonctions bien distinctes de l'application.<br>
+					  Afin d'accroître la sécurité lors des différentes manipulations, les couleurs présentes sur  la machine industrielle (différentes selon les mouvements) ont été 
+					  recopiées sur les actionneurs de l'émetteur de la télécommande.<br>
+					  </p>
+               	  </section>
+					<hr> 
 					<section id="blog-2014-01">
 						<h3>Arceau de protection (SAV)</h3>
 					  <img class="img-polaroid blog" src="../img/custom-product/2014-01-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
@@ -44,7 +55,7 @@
 						<h3>RCB700 - OEM groupe Warzee S.A.</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="RCB700 - Commande de machine agricole - Warzee">
 						<p>RCB700 entièrement personnalisée.<br>
-						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence JMei.
+						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence.
 						</p>
 					</section>
 					<hr>
