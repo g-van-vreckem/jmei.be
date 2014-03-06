@@ -71,7 +71,7 @@
 							Robust, ultra-compact and economical radio control.<br>
 							Up to 14 double push buttons.<br>
 							Bidirectional or not (informations are sent back to the transmitter).<br>
-							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">View details &raquo;</a></p>
+							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">View details &raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>

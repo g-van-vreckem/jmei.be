@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Hélice - Radio forestière';
+	$title = 'JMei - Hélice - Télécommande radio forestière';
 	$description = 'Radiocommande entièrement personnalisable. Robuste, légère et étanche, cette télécommande aura sa place dans vos applications forestières et agricoles, mine et carrière, génie civile. ';
 	$keywords = 'Radiocommande hélice,télécommande,commande de machines forestières,commande de machines de construction,boutons à bascule';
 
