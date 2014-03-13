@@ -94,6 +94,8 @@
 			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'KEY.pdf', 'fr', 'JMei HARDKEY', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei TANDEM', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'POCKETL.pdf', 'fr', 'JMei PocketL', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'POCKETV.pdf', 'fr', 'JMei PocketV', '', Page::PDF, true, .6 ) );
 		}
 		
 		public static function get_instance() {

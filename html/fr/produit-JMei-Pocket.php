@@ -21,13 +21,13 @@
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<hr>
 					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
 							<h5>JMei-L4 / JMei-L6 / JMei-L8</h5>
 							<img src="../img/product-JMPOCKET/JMpocket2.jpg" alt="Boîte à boutons JMei"> 
+                         <p><a href="<?php echo Site::relativeUrl('POCKETL.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> JMei-L (PDF)</a></p>
 							<h6>Fonctions diponibles:</h6>
 							<ul>
 								<li>Jusqu'à 8 boutons à simple impulsion.</li>
@@ -49,6 +49,7 @@
 						  <h5>JMei-V6 / JMei-V6+<br>
 							</h5>
 							<img src="../img/product-JMPOCKET/JMpocket3.jpg" alt="Boîte à boutons universelle"> 
+                         <p><a href="<?php echo Site::relativeUrl('POCKETV.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> JMei-V6 (PDF)</a></p>
 						  <h6>Fonctions diponibles:</h6>
                           <ul>
                             <li>SMART Communication Radio <br>
