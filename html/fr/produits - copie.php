@@ -238,7 +238,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 			<div id="r3" class="row spaced-row">
 				<div id="i5" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Télécommande de type JMei pocket</h5>
+                        <h5 class="tile-title">Télécommande de type JMei-L et JMei-V6</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg">
@@ -248,15 +248,17 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Commande simple vitesse 6 fonctions (extensible à 8).<br>
-							  <br>
-							SMART Communication Radio - 868MHz.<br>
-							<br>
-							Sélection automatique des canaux fréquences.<br>
-							<br>
-							Récepteur avec commandes intégrées (commande de secours).<br>
-							<br>
-							Tension d'utilisation: de 10 à 42V DC.</p>
+							<p>JMei-L4 / JMei-L6 / JMei-L8</p>
+							<p>Commande simple vitesse 4, 6 ou 8 fonctions.<br>
+							  434MHz.<br>
+						    Disponible en 12V DC ou 220V AC.</p>
+							<p> <br>
+						    JMei-V6 / JMei-V6+<br>
+						    <br>
+							  	Commande simple vitesse 6 fonctions.<br>
+								868MHz.<br>
+								Disponible en 12V DC.<br>
+								Récepteur avec commandes intégrées.</p>
 							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 					  </div>
                         <a href="../img/product-overview3/POCKET_2.jpg" data-type="img"></a>

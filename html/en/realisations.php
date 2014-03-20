@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Featured Customization</li>
+                          <li class="active"><a href="#blog-2014-03">March 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-02">February 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                          <li class="active"><a href="#blog-2014-01">January 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2013-12">December 2013 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -24,6 +25,16 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+                    <section id="blog-2014-03">
+					<h3>Transportation Radio Remote Control</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg" alt="Transportation Radio Remote Control">
+					  <p>Industrial radio pocket. 
+                        <br>
+                        This ultra-compact remote control is designed for simple control of industrial applications.<br>
+Its receiver with built-in functions can compensate for the loss or deterioration of the transmitter. <br>
+					  </p>
+               	  </section>
+					<hr> 
                	  <section id="blog-2014-02">
 					<h3>Customized analog / fieldbus (CANopen) remote control</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Custom industrial remote">

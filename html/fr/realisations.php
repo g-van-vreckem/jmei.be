@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
+                         <li class="active"><a href="#blog-2014-03">Mars 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-02">Février 2014 <i class="icon-chevron-right pull-right"></i></a></li>                         <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2013-12">Décembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2013-11">Novembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -23,6 +24,16 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+                	  <section id="blog-2014-03">
+					<h3>Télécommande pocket</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg" alt="Télécommande ultra-compacte">
+					  <p>Radiocommande pocket industrielle.
+					    <br>
+					  Cette télécommande ultra-compacte est destinée pour des commandes simples d'applications industrielles.<br>
+					  Son récepteur avec fonctions intégrées permet de pallier à la perte ou déterioration de l'émetteur.<br>
+					  </p>
+               	  </section>
+					<hr> 
                	  <section id="blog-2014-02">
 					<h3>Télécommande analogique / CANopen personnalisée</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Télécommande industrielle personnalisée">
