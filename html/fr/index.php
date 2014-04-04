@@ -98,7 +98,7 @@
                 </div>
                 <div class="span4">
                     <h2>La radio du mois!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=1" alt="Radiocommande Industrielle"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=3" alt="Radiocommande Industrielle"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
@@ -115,7 +115,7 @@
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=1" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=3" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                   <p class="lead text-center">Une équipe dynamique et professionnelle</p>
@@ -124,7 +124,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=1" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=3" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
