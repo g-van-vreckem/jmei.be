@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
+                         <li class="active"><a href="#blog-2014-04">Avril 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                          <li class="active"><a href="#blog-2014-03">Mars 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-02">Février 2014 <i class="icon-chevron-right pull-right"></i></a></li>                         <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2013-12">Décembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -24,6 +25,16 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+                	  <section id="blog-2014-04">
+					<h3>Commande à distance pour  bande transporteuse</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Commande à distance avec afficheur">
+					  <p>Radiocommande multi-récepteurs.
+					    <br>
+					  Cette commande a distance a été réalisée pour la commande de 8 moteurs différents.<br>
+					  L'émetteur envoie des commandes sur 1 des 8 récepteurs,  sélectionné à l'aide d'un commutateur rotatif.<br>
+                    La validation de la sélection est affichée sur afficheur 7 segments, via une communication bidirectionnelle afin d'accroître la sécurité.</p>
+           	      </section>
+					<hr> 
                 	  <section id="blog-2014-03">
 					<h3>Télécommande pocket</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg" alt="Télécommande ultra-compacte">
