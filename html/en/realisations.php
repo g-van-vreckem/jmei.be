@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Featured Customization</li>
+							<li class="active"><a href="#blog-2014-05">May 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                           <li class="active"><a href="#blog-2014-04">April 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                           <li class="active"><a href="#blog-2014-03">March 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-02">February 2014 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -26,6 +27,15 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+                    <section id="blog-2014-05">
+					<h3>Remote control with barcode reader</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Remote control with barcode reader">
+					  <p><p> Remote control with integrated barcode reader.<br>
+						This control system enhances the safety of personnel (the duty to scan before using the remote control allows the consideration of the presence of the operator in a known location of the process).<br>
+						Radio control also useful in complex logistics systems.
+</p>
+           	      </section>
+					<hr> 
                     <section id="blog-2014-04">
 					<h3>Remote control for conveyor belt</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Remote control with display">

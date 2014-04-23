@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg" alt="">
+						<img src="../img/home/slide-01.jpg" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
@@ -55,7 +55,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg" alt="Télécommande industrielle">
+						<img src="../img/home/slide-06.jpg?v=1" alt="Télécommande industrielle avec code barre">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Notre force:  votre confiance!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
@@ -98,7 +98,7 @@
                 </div>
                 <div class="span4">
                     <h2>La radio du mois!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=3" alt="Radiocommande Industrielle"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=4" alt="Radiocommande Industrielle Code Barre"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>

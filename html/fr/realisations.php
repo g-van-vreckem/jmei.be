@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
+                         <li class="active"><a href="#blog-2014-05">Mai 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                          <li class="active"><a href="#blog-2014-04">Avril 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                          <li class="active"><a href="#blog-2014-03">Mars 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-02">Février 2014 <i class="icon-chevron-right pull-right"></i></a></li>                         <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -25,6 +26,15 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+                	  <section id="blog-2014-05">
+					<h3>Commande à distance avec lecteur de code-barres</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Commande à distance avec lecteur code barre">
+					  <p>Télécommande avec lecteur de code-barres intégré.<br>
+						Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
+						Radiocommande utile également dans les systèmes de logistiques complexes.
+</p>
+           	      </section>
+					<hr> 
                 	  <section id="blog-2014-04">
 					<h3>Commande à distance pour  bande transporteuse</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Commande à distance avec afficheur">

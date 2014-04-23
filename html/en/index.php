@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg" alt="">
+						<img src="../img/home/slide-01.jpg" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">After much efforts, IRC becomes JMei
@@ -56,7 +56,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg" alt="">
+						<img src="../img/home/slide-06.jpg?v=1" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Our strength: our references.<br>Our grow: your trust.
@@ -100,7 +100,7 @@
                 </div>
                 <div class="span4">
                     <h2>Radio of the Month!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=3" alt="Season's Greetings and Happy New Year"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=4" alt="Remote Control Barcode"></a>
                </div>
                 <div class="span4">
 					<h2>Our strengths</h2>
