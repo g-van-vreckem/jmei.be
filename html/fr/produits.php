@@ -56,7 +56,7 @@
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
                     </div>
-                    <img src="../img/product-overview3/RCB700.jpg" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                    <img src="../img/product-overview3/RCB700.jpg?v=1" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -75,9 +75,9 @@
 							  <br>
 						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/RCB700_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB700_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB700_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB700_2.jpg?v=2" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB700_3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB700_4.jpg?v=1" data-type="img"></a>
 					</div>
 				</div>
 				<div id="i3" class="tile span4">
