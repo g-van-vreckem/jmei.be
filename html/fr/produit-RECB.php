@@ -21,7 +21,7 @@
 					</div>
 					<p></p>
 
-					<p><a href="pdf/JMei%20Récepteur.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="pdf/JMei%20Recepteur.pdf" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Caractéristiques</h4>
 					<p>Le récepteur JMei de type &quot;RECB&quot; est prévu pour fonctionner avec l&rsquo;entièreté de la gamme des télécommandes JMei, soit les systèmes RCB90, RCB700, RCB1000, RCB3000, Hélice, RCB6000 et RCB7000.
 </p>
