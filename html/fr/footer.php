@@ -6,8 +6,8 @@
 						<li class="navbar-text navbar-inverse">&copy; JMei 2014</li>
 						<li<?php echo Site::addActiveClass('terms'); ?>><a href="<?php echo Site::relativeUrl('terms');?>">legal</a></li>
 						<li<?php echo Site::addActiveClass('links'); ?>><a href="<?php echo Site::relativeUrl('links');?>">liens</a></li>
-						<li><a href="https://plus.google.com/103148141490224964358" rel="publisher">Retrouvez-nous sur Google+</a></li>
-						<li><a href="https://www.facebook.com/pages/JMei-Solution-Electronic-Radio-transmission/150708281667972" rel="publisher">Facebook</a></li>
+						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Retrouvez-nous sur Google+</a></li>
+						<li><a href="https://www.facebook.com/JMei.be" rel="publisher">Facebook</a></li>
 						<li><a href="https://www.linkedin.com/company/jmei-solution-electronic-radio-transmission" rel="publisher">LinkedIn</a></li>
 					</ul>
 				</div>
