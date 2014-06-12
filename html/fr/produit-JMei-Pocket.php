@@ -17,11 +17,11 @@
 				  <h3>Télécommande   radio pocket</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg" alt="Télécommande compacte" />
+							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg?v=1" alt="Télécommande compacte" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('POCKETV.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('POCKET.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Caractéristiques</h4>
                   <ul>
                       <li>SMART Communication Radio <br>

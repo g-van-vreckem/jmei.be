@@ -65,7 +65,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-07.jpg" alt="">
+						<img src="../img/home/slide-07.jpg?v=1" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">All kinds of customization with brand new technologies.
@@ -117,7 +117,7 @@
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=3" alt="Featured Product RCB90 RCB700"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=4" alt="Featured Product RCB90 RCB700"></a>
                 </div>
                 <div class="span4">
 					<p class="lead text-center">A dynamic and Professional Team</p>
@@ -126,7 +126,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">View details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=3" alt="Featured Product Hélice RCB1000 RCB3000"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=4" alt="Featured Product Hélice RCB1000 RCB3000"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

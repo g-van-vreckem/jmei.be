@@ -47,7 +47,7 @@
 					<hr> 
                 	  <section id="blog-2014-03">
 					<h3>Télécommande pocket</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg" alt="Télécommande ultra-compacte">
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg?v=1" alt="Télécommande ultra-compacte">
 					  <p>Radiocommande pocket industrielle.
 					    <br>
 					  Cette télécommande ultra-compacte est destinée pour des commandes simples d'applications industrielles.<br>

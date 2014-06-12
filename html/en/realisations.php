@@ -49,7 +49,7 @@ The validation of the selection is displayed on 7-segment display, via a bidirec
 					<hr> 
                   <section id="blog-2014-03">
 					<h3>Transportation Radio Remote Control</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg" alt="Transportation Radio Remote Control">
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg?v=1" alt="Transportation Radio Remote Control">
 					  <p>Industrial radio pocket. 
                         <br>
                         This ultra-compact remote control is designed for simple control of industrial applications.<br>

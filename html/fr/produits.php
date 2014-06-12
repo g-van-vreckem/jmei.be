@@ -241,7 +241,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">Télécommande de type JMei pocket</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -259,9 +259,8 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 							Tension d'utilisation: de 10 à 42V DC.</p>
 							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 					  </div>
-                        <a href="../img/product-overview3/POCKET_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/POCKET_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/POCKET_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/POCKET_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/POCKET_3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/POCKET_4.jpg?v=1" data-type="img"></a>
                     </div>
                 </div>													
 				<div id="i8" class="tile span4">
