@@ -29,6 +29,7 @@
                 	  <section id="blog-2014-05">
 					<h3>Commande à distance avec lecteur de code-barres</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Commande à distance avec lecteur code barre">
+						<p><a href="<?php echo Site::relativeUrl('SCAN.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					  <p>Télécommande avec lecteur de code-barres intégré.<br>
 						Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
 						Radiocommande utile également dans les systèmes de logistiques complexes.

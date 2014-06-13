@@ -95,6 +95,7 @@
 			self::addPage ( new Page ( 'KEY.pdf', 'fr', 'JMei HARDKEY', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'fr', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'SCAN.pdf', 'fr', 'JMei-Scan', '', Page::PDF, true, .6 ) );			
 			self::addPage ( new Page ( 'DH.pdf', 'fr', 'JMei_Dossier_Entreprise', '', Page::PDF, true, .6 ) );
 		}
 		

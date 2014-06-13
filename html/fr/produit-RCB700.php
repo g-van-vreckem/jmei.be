@@ -122,7 +122,18 @@
 							<p><strong>Applications:</strong> contrôle de tous types de machines avec ou sans retour d&rsquo;information, machines de levage, machines de génie civil,  machines agricoles ou forestières, équipements de sidérurgie ou de fonderie, radiocommande pour la sécurisation de la maintenance de machine, radiocommande embarquée à bord d&rsquo;engins mobiles de chantier.</p>
 						</div>
 						<div class="span3">
-							<h5>&nbsp;</h5>
+							<h5>RCB700 SCAN</h5>
+                          <img src="/img/product-RCB700/rcb700_8.jpg?v=2" alt="Commande à distance robuste">
+                          <h6>Fonctions diponibles:</h6>
+                          <ul>
+                              <li>Lecteur code-barres intégré (code 39/128 ou QR code).</li>
+                              <li>Retour d'informations sur LCD display ou TFT graphique.</li>
+                              <li>Commandes TOR et validation du SCAN.</li>
+                          </ul>
+                            <p><strong>Applications:</strong>Télécommande avec lecteur de code-barres intégré.<br>
+Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
+Radiocommande utile également dans les systèmes de logistiques complexes. </p>
+						<p><a href="<?php echo Site::relativeUrl('SCAN.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 						</div>
 					</div>
 					<div class="row">
