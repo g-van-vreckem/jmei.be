@@ -2,8 +2,8 @@
 	include 'common.php';
 //	$title .= '';
 	$title = 'JMei - Radio pocket - télécommande mini';
-	$description = 'Commande à distance économique et légère, JMeiradio pocket. La commande industrielle à petit prix, ultra-compacte';
-	$keywords = 'Radio pocket,radio,pocket,Emetteur,compact,868MHZ,radio à distance,pont roulant,boîte à boutons,télécommande,commande industrielle, télécommande compacte';
+	$description = 'Commande à distance économique et légère, JMei radio pocket. La commande industrielle à petit prix, ultra-compacte';
+	$keywords = 'Radio pocket,radio,pocket,émetteur compact,télécommande compacte,868MHZ,commande radio à distance pour pont roulant,boîte à boutons,télécommande,commande industrielle,télécommande pour camion,commande pour palan,saga controls,télécommande mini,commande radio portable,télécommande pour groupe électrogène,commande de barrières,commande pour portails';
 
 	$pageId = 'JMPOCKET';
 	include 'header.php';
@@ -17,7 +17,7 @@
 				  <h3>Télécommande   radio pocket</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg?v=1" alt="Télécommande compacte" />
+							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg?v=1" alt="Télécommande portable compacte" />
 						</div>
 					</div>
 					<p></p>
