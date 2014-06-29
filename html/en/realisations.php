@@ -15,6 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Featured Customization</li>
+<li class="active"><a href="#blog-2014-06">June 2014 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="active"><a href="#blog-2014-05">May 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                           <li class="active"><a href="#blog-2014-04">April 2014 <i class="icon-chevron-right pull-right"></i></a></li>
                           <li class="active"><a href="#blog-2014-03">March 2014 <i class="icon-chevron-right pull-right"></i></a></li>
@@ -27,6 +28,12 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<section id="blog-2014-06">
+					<h3>Remote control for vehicles on rails</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg" alt="Remote control for vehicles on rails">
+					<p>Remote control with custom joystick.			</p>
+           	    </section>
+					<hr> 
                     <section id="blog-2014-05">
 					<h3>Remote control with barcode reader</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Remote control with barcode reader">
