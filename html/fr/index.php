@@ -46,7 +46,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-05.jpg" alt="Radiocommande analogique">
+						<img src="../img/home/slide-05.jpg?v=1" alt="Radiocommande locotracteur">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Des télécommandes conçues pour répondre aux besoins spécifiques des clients.

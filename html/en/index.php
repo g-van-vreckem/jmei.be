@@ -47,7 +47,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-05.jpg" alt="">
+						<img src="../img/home/slide-05.jpg?v=1" alt="remote control of shunter">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Engineered to meet specific customer's needs.
