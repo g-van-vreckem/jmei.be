@@ -29,10 +29,14 @@
 				<div class="span9">
 				<!--Body content-->
 					<section id="blog-2014-06">
-					<h3>Remote control for vehicles on rails</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg" alt="Remote control for vehicles on rails">
-					<p>Remote control with custom joystick.			</p>
-           	    </section>
+					<h3>Remote control for shunter (vehicles on rails)</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Remote control for vehicles on rails">
+					<p>Remote control with manipulator specially developed for remote control of shunter. 
+                      <br>
+                      The uniaxial manipulator is composed of fixed switch (for braking) and momentary switch (for acceleration). 
+                      <br>
+                      Added to the shunter command, a transmission of inclinometers allows visualization of excessive inclination of the transmitter (and the operator) in a control room (by data transmission). </p>
+       	          </section>
 					<hr> 
                     <section id="blog-2014-05">
 					<h3>Remote control with barcode reader</h3>

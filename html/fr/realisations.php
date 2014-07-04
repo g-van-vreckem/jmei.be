@@ -28,11 +28,13 @@
 				<div class="span9">
 				<!--Body content-->
 <section id="blog-2014-06">
-					<h3>Commande à distance pour engins sur rails</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg" alt="Commande à distance pour engins sur rails">
-					  <p>Télécommande avec Joystick développé sur mesure.
-</p>
-           	      </section>
+					<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">
+					  <p>Télécommande avec combinateur spécialement développé pour la commande à distance de locotracteur.
+                        <br>
+					  Le manipulateur uniaxe est composé de positions fixes (système de freinage) et de positions à rappels (accélération).<br>
+					  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permets une visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
+</section>
 					<hr> 
                 	  <section id="blog-2014-05">
 					<h3>Commande à distance avec lecteur de code-barres</h3>
