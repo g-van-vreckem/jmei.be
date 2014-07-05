@@ -33,7 +33,7 @@
 					  <p>Télécommande avec combinateur spécialement développé pour la commande à distance de locotracteur.
                         <br>
 					  Le manipulateur uniaxe est composé de positions fixes (système de freinage) et de positions à rappels (accélération).<br>
-					  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permets une visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
+					  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permet la visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
 </section>
 					<hr> 
                 	  <section id="blog-2014-05">
