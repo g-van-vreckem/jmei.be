@@ -9,6 +9,7 @@
 						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Retrouvez-nous sur Google+</a></li>
 						<li><a href="https://www.facebook.com/JMei.be" rel="publisher">Facebook</a></li>
 						<li><a href="https://www.linkedin.com/company/jmei-solution-electronic-radio-transmission" rel="publisher">LinkedIn</a></li>
+						<li><a href="https://twitter.com/JMeiBelgium" rel="publisher">Twitter</a></li>                        
 					</ul>
 				</div>
 			</div>
