@@ -11,10 +11,10 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=2" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Après beaucoup d'efforts, IRC devient JMei.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">JMei, la continuité de IRC et Collard-Belgium-Electronics.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-04.jpg" alt="Commande à distance remorque">
+						<img src="../img/home/slide-04.jpg?v=1" alt="Commande à distance remorque">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei puise sa force  grâce à l'innovation constante.

@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=2" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">After much efforts, IRC becomes JMei
@@ -38,7 +38,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-04.jpg" alt="">
+						<img src="../img/home/slide-04.jpg?v=1" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Strength trough constant innovation. receiver Profibus, Ethernet or Can Bus modes
