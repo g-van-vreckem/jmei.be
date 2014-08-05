@@ -15,14 +15,14 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Featured Customization</li>
-<li class="active"><a href="#blog-2014-06">June 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="active"><a href="#blog-2014-05">May 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                          <li class="active"><a href="#blog-2014-04">April 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                          <li class="active"><a href="#blog-2014-03">March 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="active"><a href="#blog-2014-02">February 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                         <li class="active"><a href="#blog-2014-01">January 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="active"><a href="#blog-2013-12">December 2013 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li><a href="#blog-2013-11">November 2013 <i class="icon-chevron-right pull-right"></i></a></li>
+<li class="active"><a href="#blog-2014-06">Remote control for shunter <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2014-05">Remote control with barcode reader <i class="icon-chevron-right pull-right"></i></a></li>
+                          <li><a href="#blog-2014-04">Remote control for conveyor belt <i class="icon-chevron-right pull-right"></i></a></li>
+                          <li><a href="#blog-2014-03">Transportation Remote Control <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2014-02">Analog/fieldbus (CANopen) remote control <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-01">Protective headband <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-12">RCB3000 bidirectional <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-11">RCB700 - OEM<i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
 					</div>
 				</div>

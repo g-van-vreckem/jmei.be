@@ -97,7 +97,7 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>La radio du mois!</h2>
+                    <h2>Radios personnalisées!</h2>
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=6" alt="Radiocommande Industrielle Locomotive"></a>
                </div>
                 <div class="span4">

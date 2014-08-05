@@ -15,13 +15,13 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                         <li class="active"><a href="#blog-2014-06">Juin 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                         <li class="active"><a href="#blog-2014-05">Mai 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                         <li class="active"><a href="#blog-2014-04">Avril 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-                         <li class="active"><a href="#blog-2014-03">Mars 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="active"><a href="#blog-2014-02">Février 2014 <i class="icon-chevron-right pull-right"></i></a></li>                         <li class="active"><a href="#blog-2014-01">Janvier 2014 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="active"><a href="#blog-2013-12">Décembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li><a href="#blog-2013-11">Novembre 2013 <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li class="active"><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-05">Radio scan code-barres <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-04">Radiocommande pour bande transporteuse <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-03">Télécommande ultra-compacte <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2014-02">Commande proportionnelle CANbus <i class="icon-chevron-right pull-right"></i></a></li>                         <li><a href="#blog-2014-01">Arceau de protection <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-12">Télécommande avec afficheurs <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-11">Commande de machine agricole <i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
 					</div>
 				</div>
