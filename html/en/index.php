@@ -20,7 +20,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg?v=1" alt="Wireless Monitoring of Grain">
+						<img src="../img/home/slide-02.jpg?v=2" alt="Wireless Monitoring of Grain">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Quality, Cost, Reliability. Welcome in the JMei radio control world!
