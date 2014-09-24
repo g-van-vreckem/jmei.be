@@ -108,9 +108,10 @@
 							Bidirectional or not (informations are sent back to the transmitter).</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">View details &raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/RCB3000_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB3000_2.jpg?v=1" data-type="img"></a>
                         <a href="../img/product-overview3/RCB3000_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB3000_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB3000_5.jpg" data-type="img"></a>                        
                     </div>
                 </div>											
 				<div id="i5" class="tile span4">
@@ -134,7 +135,8 @@
 						</div>
                         <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB1000_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB1000_4.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB1000_5.jpg" data-type="img"></a>  
                     </div>
                 </div>													
 				<div id="i6" class="tile span4">
