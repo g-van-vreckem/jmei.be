@@ -15,7 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                         <li class="active"><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li class="active"><a href="#blog-2014-09">Télécommande avec répéteur radio <i class="icon-chevron-right pull-right"></i></a></li>                         <li><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-05">Radio scan code-barres <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-04">Radiocommande pour bande transporteuse <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-03">Télécommande ultra-compacte <i class="icon-chevron-right pull-right"></i></a></li>
@@ -27,6 +27,16 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+<section id="blog-2014-09">
+					<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Répéteur pour radiocommandes">
+					  <p>Système de commande en réseau.<br>
+					    Cette application permet la commande de machines en réseau ProfiNet.<br>
+				      Un réseau d'antennes radio permet l'utilisation de l'émetteur depuis tous les endroits possibles dans l'usine.<br>
+				      Un système de répéteur radio avec diagnostiques de la sensibilité HF sur un écran graphique permet l'utilisation de la radiocommande même dans les endroits les plus confinés.
+					  </p>
+</section>
+					<hr> 
 <section id="blog-2014-06">
 					<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">

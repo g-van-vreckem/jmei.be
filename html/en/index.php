@@ -100,7 +100,7 @@
                 </div>
                 <div class="span4">
                     <h2>Featured customization!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=6" alt="Remote Control for engine"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=7" alt="Remote Control Profinet"></a>
                </div>
                 <div class="span4">
 					<h2>Our strengths</h2>

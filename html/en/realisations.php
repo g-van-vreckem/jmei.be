@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Featured Customization</li>
-<li class="active"><a href="#blog-2014-06">Remote control for shunter <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li class="active"><a href="#blog-2014-09">Remote control with Radio repeater <i class="icon-chevron-right pull-right"></i></a></li>                             
+							<li><a href="#blog-2014-06">Remote control for shunter <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2014-05">Remote control with barcode reader <i class="icon-chevron-right pull-right"></i></a></li>
                           <li><a href="#blog-2014-04">Remote control for conveyor belt <i class="icon-chevron-right pull-right"></i></a></li>
                           <li><a href="#blog-2014-03">Transportation Remote Control <i class="icon-chevron-right pull-right"></i></a></li>
@@ -28,6 +29,15 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+<section id="blog-2014-09">
+					<h3>Remote control with Radio repeater (and Wireless Networking Antennas)</h3>
+				    <img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Repeater for radio controls">
+					  <p>Control system network.<br>
+					    This application enables control of machines ProfiNet network.<br>
+A networking radio antenna allows the use of the transmitter for all places in the factory.<br>
+A radio system repeater with diagnostic of sensibility  of HF on a graphics display allows the use of the radio even in the most confined areas .</p>
+</section>
+					<hr>                 
 					<section id="blog-2014-06">
 					<h3>Remote control for shunter (vehicles on rails)</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Remote control for vehicles on rails">
