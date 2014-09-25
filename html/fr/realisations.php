@@ -33,7 +33,7 @@
 					  <p>Système de commande en réseau.<br>
 					    Cette application permet la commande de machines en réseau ProfiNet.<br>
 				      Un réseau d'antennes radio permet l'utilisation de l'émetteur depuis tous les endroits possibles dans l'usine.<br>
-				      Un système de répéteur radio avec diagnostiques de la sensibilité HF sur un écran graphique permet l'utilisation de la radiocommande même dans les endroits les plus confinés.
+				      Un système de répéteur radio avec diagnostics de la sensibilité HF sur un écran graphique permet l'utilisation de la radiocommande même dans les endroits les plus confinés.
 					  </p>
 </section>
 					<hr> 
