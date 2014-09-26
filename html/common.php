@@ -2,7 +2,9 @@
 	mb_detect_order('UTF-8');
 	mb_http_output('UTF-8');
 	mb_internal_encoding('UTF-8');
-
+	header('Cache-Control: no-cache'); 
+	header('Expires: -1'); 
+	header('X-UA-Compatible: IE=edge,chrome=1');
 	class Site {
 		public static $canonicalSiteURL = 'http://www.jmei.be';
 		public static $pages;

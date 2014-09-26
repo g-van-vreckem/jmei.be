@@ -11,7 +11,4 @@
 	$pageFooterScripts = '';
 	$ext = '.php'; //correct URL depending on the URL rewrite rules
 	DEFINE( 'SHOW_CERTIFICATION', false);
-
-	header('Cache-Control: no-cache'); 
-	header('Expires: -1'); 
 ?>
