@@ -32,14 +32,10 @@
 		<meta name="msapplication-TileColor" content="#015565">
 
         <link rel="stylesheet" href="/css/bootstrap.min.css">
-        <style>
-            body {
-                padding-top: 60px;
-                padding-bottom: 40px;
-            }
-        </style>
         <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/idangerous.swiper.css">
+        <link rel="stylesheet" href="/css/idangerous.swiper.3dflow.css">
 		<link type="text/plain" rel="author" href="http://www.jmei.be/humans.txt" />
         <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>

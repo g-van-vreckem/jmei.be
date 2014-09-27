@@ -12,6 +12,11 @@
 	background-color: #fff;
 	color: #000;
 }
+/* All pages */
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
 
 /*/////////////////////////////////////////////////////////////////////////////
 	Custom Icomoon icons
