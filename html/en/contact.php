@@ -2,6 +2,8 @@
 	include 'common.php';
 	$title .= '';
 	$description .='';
+	$keywords .= '';
+
 	$pageId = 'contact';
 	$pageFooterScripts = <<<PAGESC
 		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;language=en"></script> <!-- Translator Task: Adapt the &language= -->
