@@ -32,9 +32,6 @@
 			self::addPage ( new Page ( 'distribution', 'en' ) );
 			self::addPage ( new Page ( 'distribution', 'fr' ) );
 			
-			self::addPage ( new Page ( 'links', 'en', 'links', '', Page::PAGE_PHP, true, 0 ) );
-			self::addPage ( new Page ( 'links', 'fr', 'liens', '', Page::PAGE_PHP, true, 0) );
-			
 			self::addPage ( new Page ( 'references', 'en' ) );
 			self::addPage ( new Page ( 'references', 'fr' ) );
 			
@@ -154,6 +151,9 @@
 		const ABS = 2;
 		const FULL = 3;
 		
+		const FEAT_GOOGLE_MAP = 1;
+		const FEAT_SWIPER = 2;
+
 		public $alias;
 		public $file;
 		public $fileType = self::PAGE_PHP;
