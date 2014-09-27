@@ -15,18 +15,14 @@ PAGESC;
 				<form class="contact-form" method="get" data-target="#contact-feedback" action="/sendmail.php">
 					<legend>Contact Us!</legend>
 					<fieldset>
-						<div class="control-group">
-							<label>Your name <span>(Required)</span></label>
-							<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
-						</div>
-						<div class="control-group">
-							<label>Your email address <span>(Required)</span></label>
-							<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
-						</div>
-						<div class="control-group">
-							<label>Message <span>(Required)</label>
-							<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
-						</div>
+						<label>Your name <span>(Required)</span></label>
+						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
+						<label>Your email address <span>(Required)</span></label>
+						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
+						<label>Your phone number</label>
+						<input id="phone" type="text" title="Your phone number" name="phone" class="inputtext span12">
+						<label>Message <span>(Required)</label>
+						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
 						<button id="submit-btn" type="submit" class="btn">Submit</button>
 						<input type="hidden" name="lang" value="en">
 						<input type="hidden" name="reason" value="Contact">

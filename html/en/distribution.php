@@ -17,7 +17,7 @@ PAGESC;
 					<div class="sidenavmix">
 						<ul class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Region</li>
-							<li><a href="#benelux">Benelux & World <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#benelux">Benelux &amp; World <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#france">France <i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
 					</div>
@@ -28,24 +28,28 @@ PAGESC;
 					<section id="benelux">
 						<h3>Benelux &amp; World</h3>
 						<p>JMei ensure the sale in the Benelux</p>
-						<legend class="btn" data-toggle="collapse" data-target="#contact-jmei">Contact the JMei sales team!</legend>
-						<div class="collapse" id="contact-jmei">
+						<legend class="btn" data-toggle="collapse" data-target="#contact-benelux">Contact the JMei sales team!</legend>
+						<div class="collapse" id="contact-benelux">
 							<p>&nbsp;</p>
-							<form class="contact-form" method="get" data-target="#contact-jmei" action="/sendmail.php">
+							<form class="contact-form" method="get" data-target="#contact-benelux" action="/sendmail.php">
 								<fieldset>
 									<div class="control-group">
 										<label>Your name <span>(Required)</span></label>
-										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+										<input id="name-benelux" type="text" title="Your name is required!" name="name" class="inputtext required span9">
 									</div>
 									<div class="control-group">
 										<label>Your email address <span>(Required)</span></label>
-										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+										<input id="email-benelux" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Your phone number</label>
+										<input id="phone-benelux" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									</div>
 									<div class="control-group">
 										<label>Message <span>(Required)</label>
-										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+										<textarea id="message-benelux" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Submit</button>
+									<button id="submit-btn-benelux" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact JMei">
 								 </fieldset>
@@ -69,17 +73,17 @@ PAGESC;
 								<fieldset>
 									<div class="control-group">
 										<label>Your name <span>(Required)</span></label>
-										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+										<input id="name-opsyelec" type="text" title="Your name is required!" name="name" class="inputtext required span9">
 									</div>
 									<div class="control-group">
 										<label>Your email address <span>(Required)</span></label>
-										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+										<input id="email-opsyelec" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
 										<label>Message <span>(Required)</label>
-										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+										<textarea id="message-opsyelec" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Submit</button>
+									<button id="submit-btn-opsyelec" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact opsyelec">
 								 </fieldset>
@@ -101,17 +105,17 @@ PAGESC;
 								<fieldset>
 									<div class="control-group">
 										<label>Your name <span>(Required)</span></label>
-										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+										<input id="name-mediamesures" type="text" title="Your name is required!" name="name" class="inputtext required span9">
 									</div>
 									<div class="control-group">
 										<label>Your email address <span>(Required)</span></label>
-										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+										<input id="email-mediamesures" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
 										<label>Message <span>(Required)</label>
-										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+										<textarea id="message-mediamesures" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Submit</button>
+									<button id="submit-btn-mediamesures" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact Media Mesures">
 								 </fieldset>
@@ -129,17 +133,17 @@ PAGESC;
 								<fieldset>
 									<div class="control-group">
 										<label>Your name <span>(Required)</span></label>
-										<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span9">
+										<input id="name-sermadep" type="text" title="Your name is required!" name="name" class="inputtext required span9">
 									</div>
 									<div class="control-group">
 										<label>Your email address <span>(Required)</span></label>
-										<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+										<input id="email-sermadep" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
 										<label>Message <span>(Required)</label>
-										<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
+										<textarea id="message-sermadep" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
-									<button id="submit-btn" type="submit" class="btn">Submit</button>
+									<button id="submit-btn-sermadep" type="submit" class="btn">Submit</button>
 									<input type="hidden" name="lang" value="en">
 									<input type="hidden" name="reason" value="Sales Contact SER.MA.DEP">
 								 </fieldset>
