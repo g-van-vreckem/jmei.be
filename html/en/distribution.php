@@ -80,6 +80,10 @@ PAGESC;
 										<input id="email-opsyelec" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
+										<label>Your phone number</label>
+										<input id="phone-opsyelec" type="text" title="Your phone number" name="phone" class="inputtext span9">
+									</div>
+									<div class="control-group">
 										<label>Message <span>(Required)</label>
 										<textarea id="message-opsyelec" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
@@ -112,6 +116,10 @@ PAGESC;
 										<input id="email-mediamesures" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
+										<label>Your phone number</label>
+										<input id="phone-mediamesures" type="text" title="Your phone number" name="phone" class="inputtext span9">
+									</div>
+									<div class="control-group">
 										<label>Message <span>(Required)</label>
 										<textarea id="message-mediamesures" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
@@ -138,6 +146,10 @@ PAGESC;
 									<div class="control-group">
 										<label>Your email address <span>(Required)</span></label>
 										<input id="email-sermadep" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
+									</div>
+									<div class="control-group">
+										<label>Your phone number</label>
+										<input id="phone-sermadep" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									</div>
 									<div class="control-group">
 										<label>Message <span>(Required)</label>
