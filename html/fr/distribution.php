@@ -44,7 +44,7 @@ PAGESC;
 									<label>Message <span>(Requis)</label>
 									<textarea id="message-benelux" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									<button id="submit-btn-benelux" type="submit" class="btn">Envoi</button>
-									<input type="hidden" name="lang" value="en">
+									<input type="hidden" name="lang" value="fr">
 									<input type="hidden" name="reason" value="Sales Contact JMei">
 								 </fieldset>
 							</form>
@@ -82,7 +82,7 @@ PAGESC;
 										<textarea id="message-opsyselec" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
 									<button id="submit-btn-opsyselec" type="submit" class="btn">Envoi</button>
-									<input type="hidden" name="lang" value="en">
+									<input type="hidden" name="lang" value="fr">
 									<input type="hidden" name="reason" value="Sales Contact opsyelec">
 								 </fieldset>
 							</form>
@@ -118,7 +118,7 @@ PAGESC;
 										<textarea id="message-mediamesures" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
 									<button id="submit-btn-mediamesures" type="submit" class="btn">Envoi</button>
-									<input type="hidden" name="lang" value="en">
+									<input type="hidden" name="lang" value="fr">
 									<input type="hidden" name="reason" value="Sales Contact Media Mesures">
 								 </fieldset>
 							</form>
@@ -150,7 +150,7 @@ PAGESC;
 										<textarea id="message-sermadep" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
 									<button id="submit-btn-sermadep" type="submit" class="btn">Envoi</button>
-									<input type="hidden" name="lang" value="en">
+									<input type="hidden" name="lang" value="fr">
 									<input type="hidden" name="reason" value="Sales Contact SER.MA.DEP">
 								 </fieldset>
 							</form>
