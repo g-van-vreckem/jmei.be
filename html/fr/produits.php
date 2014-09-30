@@ -270,7 +270,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">Nos options</h5>
                         <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/OPTION.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -311,27 +311,30 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                 </div>													
 				<div id="i9" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Système Tandem</h5>
-                        <p class="tile-intro">Commande de systèmes complexes</p>
+                        <h5 class="tile-title">Accessoires </h5>
+                        <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
                     </div>
-                    <img src="../img/product-overview3/TANDEM.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                    <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-						  <p>Système de personnalisation software pour diverses utilisations complexes:</p>
-						  <p>- Commande en tandem des équipements: assure la manutention de charges de grande envergure.<br>
-						    <br>
-						    - Commande de sytèmes multi-émetteurs (fonction &quot;homme-mort&quot;
-					      ,...)</p>
-						  <p>- Autres configurations possibles selon vos besoins!</p>
-						  <p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						  <p>Exemples d'accessoires disponibles pour votre radiocommande:</p>
+						  <p>- Batterie de réserve et chargeur (12-24V DC, 220V AC).</p>
+						  <p>- Housse de protection (nylon ou cuir).</p>
+						  <p>- Rosace directionnelle de couleur.</p>
+						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/TANDEM_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/TANDEM_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/TANDEM_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/access1.jpg?v=2" data-type="img"></a>
+                        <a href="../img/product-overview3/access2.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access4.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access5.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access6.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access7.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access8.jpg?v=1" data-type="img"></a>      
                     </div>
                 </div>													
 			</div>
