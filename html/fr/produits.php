@@ -18,7 +18,7 @@
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
                     </div>
-                    <img src="../img/product-overview3/RCB90.jpg" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
+                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -56,7 +56,7 @@
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
                     </div>
-                    <img src="../img/product-overview3/RCB700.jpg?v=1" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                    <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -85,7 +85,7 @@
                         <h5 class="tile-title">Hélice</h5>
                         <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
                     </div>
-                    <img src="../img/product-overview3/Helice.jpg" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
+                    <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -130,7 +130,7 @@
                         <h5 class="tile-title">RCB3000</h5>
                         <p class="tile-intro">Le pupitre ventral universel</p>
                     </div>
-                    <img src="../img/product-overview3/RCB3000.jpg" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
+                    <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -162,7 +162,7 @@ Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau dis
                         <h5 class="tile-title">RCB1000</h5>
                         <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB1000.jpg" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -194,7 +194,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
                         <p class="tile-intro">Transmission de données sans fil industrielle.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB6000.jpg" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
+                    <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
