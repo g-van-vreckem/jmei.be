@@ -39,7 +39,7 @@ PAGESC;
 									<input id="name-benelux" type="text" title="Your name is required!" name="name" class="inputtext required span9">
 									<label>Votre adresse e-mail <span>(Requis)</span></label>
 									<input id="email-benelux" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
-									<label>Votre numméro de Téléphone</label>
+									<label>Votre numéro de Téléphone</label>
 									<input id="phone-benelux" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									<label>Message <span>(Requis)</label>
 									<textarea id="message-benelux" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
@@ -74,7 +74,7 @@ PAGESC;
 										<input id="email-opsyselec" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
-										<label>Votre numméro de Téléphone</label>
+										<label>Votre numéro de Téléphone</label>
 										<input id="phone-opsyselec" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									</div>
 									<div class="control-group">
@@ -110,7 +110,7 @@ PAGESC;
 										<input id="email-mediamesures" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
-										<label>Votre numméro de Téléphone</label>
+										<label>Votre numéro de Téléphone</label>
 										<input id="phone-mediamesures" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									</div>
 									<div class="control-group">
@@ -142,7 +142,7 @@ PAGESC;
 										<input id="email-sermadep" type="email" title="Your email is required!" name="email" class="inputtext required email span9">
 									</div>
 									<div class="control-group">
-										<label>Votre numméro de Téléphone</label>
+										<label>Votre numéro de Téléphone</label>
 										<input id="phone-sermadep" type="text" title="Your phone number" name="phone" class="inputtext span9">
 									</div>
 									<div class="control-group">
