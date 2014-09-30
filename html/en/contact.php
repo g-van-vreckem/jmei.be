@@ -54,9 +54,9 @@ PAGESC;
 					<a href="pdf/JMei%20sprl.pdf">Banking information</a></p>
 				</div>
             </div>
-            <div class="row">
-                <div class="span12">
-	                <div id="map-canvas"></div>
+			<div class="row">
+				<div class="span12">
+					<div id="map-canvas"></div>
 					<small><a target="_blank" href="https://maps.google.be/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=123+rue+de+rochefort,+Marloie&amp;aq=&amp;sll=50.154465,4.624975&amp;sspn=3.720241,5.751343&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Chauss%C3%A9e+de+Rochefort+123,+6900+Marche-en-Famenne,+Luxembourg,+R%C3%A9gion+wallonne&amp;z=14&amp;ll=50.199664,5.317268" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 				</div>
 			</div>
