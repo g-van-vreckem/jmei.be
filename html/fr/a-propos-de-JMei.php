@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei radiocommandes industrielles, made in Belgium';
 	$description = 'Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients';

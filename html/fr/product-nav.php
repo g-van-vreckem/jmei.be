@@ -1,4 +1,4 @@
-﻿				<div class="span3">
+				<div class="span3">
 				<!--Sidebar content-->
 
 					<button class="btn btn-navbar" data-toggle="collapse" data-target=".products">Produits

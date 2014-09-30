@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei - RCB7000 - Transmission de données industrielles';
 	$description = 'Module de transmission de données sans fil industriel, échange de signaux TOR, analogiques, série, bus de terrain (field bus)';

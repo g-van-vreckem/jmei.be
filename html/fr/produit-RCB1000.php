@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei - RCB1000 - Pupitre industriel';
 	$description = 'Pupitre de commande industriel haut de gamme, entièrement parsonnalisable, pour des applications industrielles les plus rudes';

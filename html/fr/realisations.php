@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'Nos radiocommandes entièrement personnalisées';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';

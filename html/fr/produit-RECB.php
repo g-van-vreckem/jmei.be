@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei - RECB - Récepteur radio';
 	$description .= '';

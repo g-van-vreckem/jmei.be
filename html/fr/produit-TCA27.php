@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei - Démarrage sécurisé - Prise en main';
 	$description = 'Le système de prise en main JMei/TCA27 permet d’accroître considérablement la sécurité lors de la commande à distance d’engins dangereux';

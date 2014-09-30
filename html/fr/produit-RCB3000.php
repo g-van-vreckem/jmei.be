@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 	include 'common.php';
 	$title = 'JMei - RCB3000 - Radio analogique';
 	$description = 'Pupitre de commande à joystick,  entièrement parsonnalisable, pour la commande de machines mobiles et tout type d\'équipements industriels';
