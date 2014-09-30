@@ -13,7 +13,7 @@
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">Button box radio control</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/RCB90.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB90.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -36,7 +36,7 @@
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">Button box radio control</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/RCB700.jpg?v=1">
+                    <img class="bottom-img" src="../img/product-overview3/RCB700.jpg?v=2">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -60,7 +60,7 @@
                         <h5 class="tile-title">Hélice</h5>
                         <p class="tile-intro">The compact radio command solution</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/Helice.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/Helice.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -94,7 +94,7 @@
                         <h5 class="tile-title">RCB3000</h5>
                         <p class="tile-intro">Radio Control panel</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/RCB3000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB3000.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -119,7 +119,7 @@
                         <h5 class="tile-title">RCB1000</h5>
                         <p class="tile-intro">Radio control panel</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/RCB1000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB1000.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -144,7 +144,7 @@
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
                         <p class="tile-intro">Customizable wireless industrial data transmission.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/RCB6000.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/RCB6000.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>

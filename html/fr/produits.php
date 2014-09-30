@@ -18,7 +18,7 @@
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
                     </div>
-                    <img src="../img/product-overview3/RCB90.jpg" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
+                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -56,7 +56,7 @@
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
                     </div>
-                    <img src="../img/product-overview3/RCB700.jpg?v=1" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                    <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -85,7 +85,7 @@
                         <h5 class="tile-title">Hélice</h5>
                         <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
                     </div>
-                    <img src="../img/product-overview3/Helice.jpg" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
+                    <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -130,7 +130,7 @@
                         <h5 class="tile-title">RCB3000</h5>
                         <p class="tile-intro">Le pupitre ventral universel</p>
                     </div>
-                    <img src="../img/product-overview3/RCB3000.jpg" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
+                    <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -162,7 +162,7 @@ Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau dis
                         <h5 class="tile-title">RCB1000</h5>
                         <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB1000.jpg" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -194,7 +194,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
                         <p class="tile-intro">Transmission de données sans fil industrielle.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB6000.jpg" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
+                    <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -270,7 +270,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">Nos options</h5>
                         <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/OPTION.jpg">
+                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -311,27 +311,30 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                 </div>													
 				<div id="i9" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Système Tandem</h5>
-                        <p class="tile-intro">Commande de systèmes complexes</p>
+                        <h5 class="tile-title">Accessoires </h5>
+                        <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
                     </div>
-                    <img src="../img/product-overview3/TANDEM.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                    <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-						  <p>Système de personnalisation software pour diverses utilisations complexes:</p>
-						  <p>- Commande en tandem des équipements: assure la manutention de charges de grande envergure.<br>
-						    <br>
-						    - Commande de sytèmes multi-émetteurs (fonction &quot;homme-mort&quot;
-					      ,...)</p>
-						  <p>- Autres configurations possibles selon vos besoins!</p>
-						  <p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						  <p>Exemples d'accessoires disponibles pour votre radiocommande:</p>
+						  <p>- Batterie de réserve et chargeur (12-24V DC, 220V AC).</p>
+						  <p>- Housse de protection (nylon ou cuir).</p>
+						  <p>- Rosace directionnelle de couleur.</p>
+						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/TANDEM_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/TANDEM_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/TANDEM_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/access1.jpg?v=2" data-type="img"></a>
+                        <a href="../img/product-overview3/access2.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access4.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access5.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access6.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access7.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/access8.jpg?v=1" data-type="img"></a>      
                     </div>
                 </div>													
 			</div>
