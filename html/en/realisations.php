@@ -32,11 +32,17 @@
 <section id="blog-2014-09">
 					<h3>Remote control with Radio repeater (and Wireless Networking Antennas)</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Repeater for radio controls">
-					  <p>Control system network.<br>
-					    This application enables control of machines ProfiNet network.<br>
-A networking radio antenna allows the use of the transmitter for all places in the factory.<br>
-A radio system repeater with diagnostic of sensibility  of HF on a graphics display allows the use of the radio even in the most confined areas .</p>
-</section>
+				    <p><strong>Wireless Networking Antennas.</strong><br>
+      				Network coverage allows the remote control of applications from a very demanding part of the site ( at the radio transmission : grain silos, fermenting rooms , basements, tunnels, .. ) .<br>
+      				This solution is achieved by the placement of antennas ( active or passive ) interconnected via a field bus .<br>
+					The radio commands are possible at any place the plant without causing interruption of the HF transmission .<br>
+      				An additional repeater module allows radio contact from the most confined areas .<br>
+      				<br>
+     				<strong>Repeater module.</strong><br>
+      				This module copies the full HF information so transparant , to double the transmission distance.<br>
+      				A battery power (optional) makes it easy placement .<br>
+      				Its development in multi-frequency mode to keep the initial transmission speed of the system.<br>
+      				Using uni / bi-directional mode.</p></section>
 					<hr>                 
 					<section id="blog-2014-06">
 					<h3>Remote control for shunter (vehicles on rails)</h3>
