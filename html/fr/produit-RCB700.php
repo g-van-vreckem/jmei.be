@@ -5,6 +5,7 @@
 	$keywords = 'RCB700,commande radio,radiocommande ultra-compacte,applications agricoles,usages industriels,homme-mort,safeball,applications industrielles et forestières';
 
 	$pageId = 'RCB700';
+	$swiper = new Medias('/img/product-RCB700/swiper/');
 	include 'header.php';
 	include 'nav.php';
 
@@ -15,12 +16,9 @@
 					<a name="highlight"></a>
 					<h3>Radiocommande de type RCB700</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="/img/product-RCB700/rcb700_1.jpg" alt="Radiocommande forestière, pour treuil" />
-						</div>
+<?php echo $swiper->html; ?>                        
 					</div>
 					<p></p>
-
 					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a><h4>Caractéristiques
 					</h4>
