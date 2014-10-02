@@ -316,6 +316,9 @@ HEADER;
 						return;
 					}
 					mySwiper.swipeTo( mySwiper.clickedSlideLoopIndex - 1, 750);
+				},
+				onSlideChangeEnd: function() {
+					mySwiper.fixLoop();
 				}
 			})
 		</script>
