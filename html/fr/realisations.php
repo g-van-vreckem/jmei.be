@@ -31,13 +31,13 @@
 					<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
 				    <img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Répéteur pour radiocommandes">
 				    <p><strong>Couverture réseau.</strong><br>
-      				La couverture réseau permet la commande a distance d'applications depuis un endroit très contraignant du site (au niveau de la transmission radio: silos à grains, cuveries, caves, tunnels,..).<br>
+      				La couverture réseau permet la commande à distance d'applications depuis un endroit très contraignant du site (au niveau de la transmission radio: silos à grains, cuveries, caves, tunnels,..).<br>
       				Cette solution est réalisée par le placement d’antennes (actives ou passives) reliées entre elles par  un bus de terrain.<br>
-					Les commandes radio sont ainsi possibles en tout endroit l’usine, sans provoquer d'interruption de la transmission HF.<br>
+					Les commandes radio sont ainsi possibles en tout endroit de l’usine, sans provoquer d'interruption de la transmission HF.<br>
       				Un module répéteur additionnel permet des échanges radio depuis les endroits les plus confinés.<br>
       				<br>
      				<strong>Module répéteur.</strong><br>
-      				Ce module recopie intégralement les informations HF de manière transparante, permettant de doubler la distance de transmission.							<br>
+      				Ce module recopie intégralement les informations HF de manière transparente, permettant de doubler la distance de transmission.							<br>
       				Une alimentation sur batterie (en option) rend son placement aisé.<br>
       				Son développement en mode multi-fréquences permet de conserver la vitesse initiale de transmission du système.<br>
       				Utilisation en mode uni/bidirectionnel.</p></section>

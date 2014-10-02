@@ -35,13 +35,13 @@
 				    <p><strong>Wireless Networking Antennas.</strong><br>
       				Network coverage allows the remote control of applications from a very demanding part of the site ( at the radio transmission : grain silos, fermenting rooms , basements, tunnels, .. ) .<br>
       				This solution is achieved by the placement of antennas ( active or passive ) interconnected via a field bus .<br>
-					The radio commands are possible at any place the plant without causing interruption of the HF transmission .<br>
+					The radio commands are possible at any place of the plant without causing interruption of the HF transmission .<br>
       				An additional repeater module allows radio contact from the most confined areas .<br>
       				<br>
      				<strong>Repeater module.</strong><br>
-      				This module copies the full HF information so transparant , to double the transmission distance.<br>
+      				This module copies the full HF information so transparently , increasing the transmission distance twofold.<br>
       				A battery power (optional) makes it easy placement .<br>
-      				Its development in multi-frequency mode to keep the initial transmission speed of the system.<br>
+      				Its development in multi-frequency mode enables to keep the initial transmission speed of the system.<br>
       				Using uni / bi-directional mode.</p></section>
 					<hr>                 
 					<section id="blog-2014-06">
