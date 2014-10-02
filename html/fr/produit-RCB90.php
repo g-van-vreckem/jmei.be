@@ -6,6 +6,7 @@
 	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
 
 	$pageId = 'RCB90';
+	$swiper = new Medias('/img/product-RCB90/swiper/');
 	include 'header.php';
 	include 'nav.php';
 
@@ -16,9 +17,7 @@
 					<a name="highlight"></a>
 				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="Radiocommande pour pont roulant" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>

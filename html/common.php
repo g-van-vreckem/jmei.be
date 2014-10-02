@@ -5,13 +5,24 @@
 	header('Cache-Control: no-cache'); 
 	header('Expires: -1'); 
 	header('X-UA-Compatible: IE=edge,chrome=1');
+
+	$ext = '.php'; //correct URL depending on the URL rewrite rules
+	$keywords = '';
+	$pageHeaderCss = '';
+	$pageHeaderScripts = '';
+	$pageFooterScripts = '';
+	
+	DEFINE('SHOW_CERTIFICATION', false);	
+	define('SITE_ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 	class Site {
 		public static $canonicalSiteURL = 'http://www.jmei.be';
 		public static $pages;
 		public static $curPage;
 		private static $instance;
+		public static $siteRoot;
 		
 		function __construct ( ) {
+			self::$siteRoot = __DIR__ . DIRECTORY_SEPARATOR;
 			$pages = Array ( );
 			
 			$pages['fr'] = Array ( );
@@ -215,7 +226,136 @@
 			}
 		}
 	}
+	class Medias {
+		public static $supportCodeAdded = false;
+		public $mediaPath;
+		public $html = '';
+		/**
+		 * @var $folder string url to media folder relative to site root (start and end with /)
+		 */
+		function __construct($folder) {
+			Global $pageHeaderCss, $pageFooterScripts;
+			$this->mediaPath = SITE_ROOT . str_replace( '/', DIRECTORY_SEPARATOR, $folder);
+			$files = scandir($this->mediaPath);
+			if ($files === false ) {
+				return false;
+			}
+			array_shift($files); //remove '.'
+			array_shift($files); //remove '..'
+			if (count($files) == 1) {
+				$file = $files[0];
+				$alt = self::base($file);
+				$this->html =  <<<HTML
+						<div class="span4">
+							<img class="img-polaroid" src="..{$folder}{$file}" alt="{$alt}" />
+						</div>
 
+HTML;
+				return true;
+			}
+			//Use swiper 3d
+			if (!self::$supportCodeAdded) {
+				self::$supportCodeAdded = true;
+				$pageHeaderCss .= <<<'HEADER'
+        <link rel="stylesheet" href="/css/idangerous.swiper.css">
+        <link rel="stylesheet" href="/css/idangerous.swiper.3dflow.css">
+		<style>
+			.swiper-container{
+				padding:30px 0;
+				width:auto;
+			}
+			.swiper-slide{
+				width:auto;
+				height:180px;
+				background-size:cover;
+				background-repeat:no-repeat;
+				background-position:center;
+				border-radius:5px;
+				border-bottom:1px solid #555;
+			}
+			.reflection{
+				width:100%;
+				height:15px;
+				border-radius:3px 3px 0 0;
+				position:absolute;
+				left:0;
+				bottom:-17px;
+				background-image:-webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,0.3)),to(rgba(0,0,0,0)));
+				background-image:-webkit-linear-gradient(top,rgba(0,0,0,0.3),rgba(0,0,0,0));
+				background-image:-moz-linear-gradient(top,rgba(0,0,0,0.3),rgba(0,0,0,0));
+				background-image:-o-linear-gradient(top,rgba(0,0,0,0.3),rgba(0,0,0,0));
+				background-image:linear-gradient(to bottom,rgba(0,0,0,0.3),rgba(0,0,0,0));
+			}
+			.swiper-slide a{
+				position:absolute;
+				left:0;
+				top:0;
+				width:100%;
+				height:100%;
+				z-index:1
+			}
+		</style>
+HEADER;
+				$pageFooterScripts .= <<<'SCRIPT'
+		<script src="../js/vendor/idangerous.swiper.min.js"></script>
+		<script src="../js/vendor/idangerous.swiper.3dflow.min.js"></script>
+		<script>
+			var mySwiper = new Swiper('.swiper-container',{
+				slidesPerView:3,
+				loop:true,
+				//Enable 3D Flow
+				tdFlow: {
+					rotate : 10,
+					stretch :-50,
+					depth: 400,
+					modifier : 1,
+					shadows:true
+				}
+			})
+		</script>
+
+SCRIPT;
+			}
+			$this->html = <<<'HTML'
+					<div class="swiper-container">
+						<div class="swiper-wrapper">
+
+HTML;
+			foreach ($files as $file) {
+				$url = '..' . $folder . $file;
+				$this->html .= <<<HTML
+							<div class="swiper-slide" style="background-image:url({$url})">
+								<a href="#"></a>
+								<div class="reflection"></div>
+							</div>
+
+HTML;
+			
+			}
+			$this->html .= <<<'HTML'
+						</div>
+					</div>
+
+HTML;
+		}
+		/**
+		 * Return the filename extension including the '.' normalized to lowercase
+		 * @param String $filename
+		 * @return String 
+		 */
+		public static function extension($filename) {
+			return strtolower(strrchr($filename, '.'));
+		}
+		/**
+		 * Return the filename amputated from it's extension
+		 * @param string $filename
+		 * @return string 
+		 */
+		public static function base($filename) {
+			return substr($filename, 0, strlen($filename) - strlen(self::extension($filename)));
+		}
+
+	}
 	Site::get_instance();
 	
 ?>

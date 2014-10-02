@@ -34,10 +34,10 @@
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link rel="stylesheet" href="/css/bootstrap-responsive.min.css">
         <link rel="stylesheet" href="/css/main.css">
-        <link rel="stylesheet" href="/css/idangerous.swiper.css">
-        <link rel="stylesheet" href="/css/idangerous.swiper.3dflow.css">
+<?php echo $pageHeaderCss;?>
 		<link type="text/plain" rel="author" href="http://www.jmei.be/humans.txt" />
         <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<?php echo $pageHeaderScripts;?>
     </head>
     <body>
         <!--[if lt IE 7]>

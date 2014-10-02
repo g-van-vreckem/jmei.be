@@ -4,6 +4,7 @@
 	$description .= '';
 	$keywords .= '';
 	$pageId = 'RCB90';
+	$swiper = new Medias('/img/product-RCB90/swiper/');
 	include 'header.php';
 	include 'nav.php';
 
@@ -13,9 +14,7 @@
 				<div class="span9">
 					<a name="highlight"></a><h3>Radio remote control type RCB90 L and M</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB90/rcb90_1.jpg" alt="RCB 90" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
