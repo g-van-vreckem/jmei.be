@@ -310,6 +310,12 @@ HEADER;
 					depth: 400,
 					modifier : 1,
 					shadows:true
+				},
+				onSlideClick: function() {
+					if( mySwiper.clickedSlideLoopIndex == mySwiper.activeLoopIndex + 1 ) {
+						return;
+					}
+					mySwiper.swipeTo( mySwiper.clickedSlideLoopIndex - 1, 750);
 				}
 			})
 		</script>
