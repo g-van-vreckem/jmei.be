@@ -3,6 +3,7 @@
 	$title .= '';
 	$description .='';
 	$pageId = 'TCA27';
+	$swiper = new Medias('/img/product-TCA27/swiper/');
 	include 'header.php';
 	include 'nav.php';
 
