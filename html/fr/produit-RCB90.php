@@ -22,36 +22,29 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<a name="features"></a>
-					<h4>Caractéristiques</h4>
+					<h4>Description</h4>
 					<ul>
-						<li>Emetteur développé avec des boutons double enfoncement (jusqu'à 16 fonctions double vitesse entièrement personnalisables).</li>
-						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
-						<li>Robuste,  ultra-compact, léger et au desing ergonomique, cet émetteur est réalisé en  plastique renforcé pour permettre une utilisation dans les environnements difficiles et agressifs.</li>
-						<li>Une housse de protection   en nylon (en option) rend l'émetteur très facile à utiliser tout en lui offrant une excellente protection.</li>
-						<li>Les pictogrammes et les voyants LED de l'émetteur sont placés selon les exigences du client et permettent ainsi une excellente visualisation des commandes.<br />
-							En mode didirectionnel, les informations provenant du récepteur sont affichées sur voyants LED's ou afficheur 7 segments. Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
-						<li>Protection: IP65</li>
-						<li>Convient pour tous types d'usages industriels comme le levage et la manutention.</li>
+						<li>Emetteur sécuritaire  haute performance de type boîte à boutons conçue pour des commandes en Tout Ou Rien (TOR).</li>
+					    <li>La RCB90 est une télécommande sans fils éprouvée depuis plusieurs années. Les touches (boutons) de l'émetteur sont à double enfoncement et permet la commande de relais correspondant sur le récepteur.</li>
+						<li>Boîtier ultra compact, léger, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</li>
+						<li>Arrêt d'urgence coup de poing, garanti une sécurité maximale.</li>
+                     <li>9 boutons (RCB90L) ou 14 boutons (RCB90M).</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a name="specifications"></a><h4>Avantages</h4>
 					<ul>
-						<li>Gamme de fréquence:  434 MHz (64 canaux) ou 868MHz.</li>
-						<li>Adresses et fréquences paramétrables par les boutons de l'émetteur. Aucune intervention nécessaire sur le récepteur.</li>
-						<li>Puissance d'émission: < 10 mW</li>
-						<li>Modulation: FM : FSK</li>
-						<li>Portée de la radiocommande: 200m</li>
-						<li>Codage de la transmission: adresses 32 bits et CRC 16 bits.</li>
-						<li>Option bidirectionnelle sur 1 seule fréquence.</li>
-						<li>Batterie NiMH à grande autonomie (&gt;20h), sans effet mémoire.</li>
-						<li>Chargeur à micro-contrôleur de conception JMei (temps de charge: 4h).</li>
-						<li>Possibilité d'alimentation fixe en 12ou 24V DC (en option).</li>
-						<li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">Clé mémoire</a>, <a href="<?php echo Site::relativeUrl('TCA27');?>">démarrage sécurisé</a>, <a href="<?php echo Site::relativeUrl('TANDEM');?>">coordination d'équipements</a>.</li>
-						<li>Récepteur RecB JMei, possibilité de commandes analogiques, digitales, série (RS232 ou RS485) ou bus de terrain (CANOpen, Profibus, Ethernet,...).</li>
+						<li>3 boutons configurable en sélecteur 2 ou 3 positions fixes ou à rappel.</li>
+						<li>Face et inscription personnalisable.</li>
+						<li>Arrêt d'urgence coup de poing qualité militaire.</li>
+						<li>Accumulateur interchangeable NIMH.</li>
+                      <li>Led de diagnostique et retour d'information en option.</li>
+						<li>Système exclusif de changement d'adresse, de fréquence, configuration par les boutons permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
 					</ul>
+<?php if ( SHOW_CERTIFICATION ) : ?>                    
 					<a name="uses"></a>
 				  <h4>Applications</h4>
 					<p>Système maître-esclave pour tout équipement de manutention, pont roulant, portique ou tout autre type d'équipement mobile.</p>
 					<img src="../img/product-RCB90/rcb90_2.jpg" alt="Applications de radiocommandes" />
+<?php endif ?>                    
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
 				  <h4>Certifications</h4>
@@ -62,77 +55,47 @@
 					</ul>
 <?php endif ?>
 					<hr>
-					<h4>Gamme</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>RCB90/L</h5>
-							<img src="../img/product-RCB90/rcb90_3.jpg" alt="Boîte à boutons JMei"> 
-							<h6>Fonctions diponibles:</h6>
-							<ul>
-								<li>Jusqu'à 9 boutons à double impulsion.</li>
-								<li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
-								<li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
-								<li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
-								<li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>
-							</ul>
-							<p><strong>Applications:</strong> commande de ponts roulants ou treuils groupés, commande de machines en mode maintenance (carrière, concasseurs, cribles, bandes transporteuses), commande de tous types de machines simples.</p>
-						</div>
-						<div class="span3">
-							<h5>RCB90/M</h5>
-							<img src="../img/product-RCB90/rcb90_4.jpg" alt="Télécommande pour pont roulant"> 
-							<h6>Fonctions diponibles:</h6>
-							<ul>
-							  <li>Jusqu'à 16 boutons à double impulsion.</li>
-                              <li>1 bouton d'arrêt d'urgence, coup-de-poing.</li>
-                              <li>Système exclusif de changement d'adresse et fréquence par les boutons. Permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
-                              <li>Clé mémoire en option, permet de permuter rapidement avec l'émetteur de réserve.</li>
-                              <li>Retour d'informations sous forme de témoins LED's (ou afficheur 7 segments).</li>
-							</ul>
-							<p><strong>Applications: </strong>commande de ponts roulants ou treuils groupés, commande de machines en mode maintenance (carrière, concasseurs, cribles, bandes transporteuses), commande de tous types de machines.</p>
-						</div>
-						<div class="span3">
-							<h5> RCB90/L et /M personnalisées</h5>
-							<img src="../img/product-RCB90/rcb90_5.jpg" alt="Commande spéciale"> 
-							<p>JMei produit ses radiocommandes avec des pictogrammes personnalisés selon vos besoins.</p>
-							<p>En complément, le mode bidirectionnel avec retour d'informations sur voyants LED's ou afficheur 7 segments vous offre de multiples possibilités d'applications.</p>
-						</div>
-					</div>
-					<hr>
-					<a name="accessories"></a>
-					<h4>Accessoires</h4>
-					<div class="row">
-						<div class="span3">
-							<h6>Housse de protection en cuir&nbsp;:</h6>
-							<img src="../img/product-RCB90/rcb90_6.jpg" alt="Télécommande grue">
-							<p>Complète avantageusement la sangle de portage et protège efficacement l&rsquo;émetteur des chocs.</p>
-						</div>
-						<div class="span3">
-							<h6>Chargeur à microprocesseur&nbsp;:</h6>
+							<h4>Options et accessoires</h4>
+                                                        											<img src="../img/product-RCB90/rcb90_6.jpg" alt="Télécommande grue">
 							<img src="../img/product-RCB90/rcb90_7.jpg" alt="Chargeur à microprocesseur">
-							<p>Assure la recharge en toute sécurité des accumulateurs. Temps de charge: 4H.</p>
+						  <ul>
+								<li>Transmission en mode bidirectionnel.</li>
+                            <li>Afficheur.</li>
+                            <li>Housse de protection.</li>
+                            <li>Chargeur à microprocesseur de conception JMei.</li>
+<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
+								<li>Démarrage sécurisé TCA27.</li>
+                            <li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus,  Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
+                       	 <p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+						  </ul>
 						</div>
 						<div class="span3">
-							<h6>Clé d'identification hardware:</h6>
-							<img src="../img/product-RCB90/rcb90_8.jpg" alt="Batterie télécommande">
-							<p>Associe l&rsquo;émetteur au récepteur. Permet une interchangeabilité rapide des émetteurs.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+							<h4>Applications</h4>
+<img src="../img/product-RCB90/rcb90_22.jpg" alt="Télécommande grue">
+							<ul>
+							  <li>Pont roulant.</li>
+                           <li>Grue tour.</li>
+                           <li>Porte industrielle.</li>
+                            <li>Pompe, jet d'eau.</li>
+							</ul>
+						</div>
+						<div class="span3">
+							<h4>Caractéristiques</h4>
+							<img src="../img/product-RCB90/rcb90_33.jpg" alt="Commande spéciale">       
+							<ul>
+							  <li>Article: <em> RCB90L/M</em>.</li>
+							  <li>Fct 90L:  <em> 9fcts/2 vitesses</em>.</li>
+							  <li>Fct 90M: <em> 14fcts/2 vitesses.</li>
+							  <li>F.Anal.: <em> Via software</em>.</li>
+							  <li>Dimens.: <em> 263/80/62mm</em>.</li>
+							</ul>
 						</div>
 					</div>
-					<div class="row">
-						<div class="span3">
-							<h6>Démarrage sécurisé TCA27:</h6>
-							<img src="../img/product-RCB90/rcb90_9.jpg" alt="Système de sécurité">
-							<p>Ce système breveté permet le démarrage sécurisé de tout type d&rsquo;engins. Une séquence lumineuse aléatoire de 2 couleurs  émise par le récepteur doit être encodée à l&rsquo;émetteur par l&rsquo;opérateur.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>">Plus d'infos...</a></p>
-						</div>
-						<div class="span3">
-							<h6>Transmission bidirectionnelle:</h6>
-							<img src="../img/product-RCB90/rcb90_10.jpg" alt="Retour d'information sur télécommande">
-							<p>Permet le retour d'informations vers l'émetteur.</p>
-						</div>
-						<div class="span3">
-						</div>
-					</div>
+
+
+
 				</div>
 			</div>
  <?php include 'footer.php';?>
