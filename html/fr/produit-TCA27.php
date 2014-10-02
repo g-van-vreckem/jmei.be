@@ -5,6 +5,7 @@
 	$keywords = 'clé de prise en main,démarrage sécurisé de radiocommande,TCA27,balise lumineuse,';
 
 	$pageId = 'TCA27';
+	$swiper = new Medias('/img/product-TCA27/swiper/');
 	include 'header.php';
 	include 'nav.php';
 
@@ -15,9 +16,7 @@
 					<a name="highlight"></a>
 					<h3>Clé de prise en main : démarrage sécurisé JMei/ TCA27 pour radiocommande.</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-TCA27/tca27.jpg" alt="TAC 27 pour radio commande de type RCB90, RCB1000 et RCB3000" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>							
 					<p><a href="<?php echo Site::relativeUrl('TCA27.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
