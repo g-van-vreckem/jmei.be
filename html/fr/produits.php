@@ -49,6 +49,7 @@
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/RCB90_5.jpg" data-type="img"></a>                        
                     </div>
                 </div>											
 				<div id="i2" class="tile span4">
