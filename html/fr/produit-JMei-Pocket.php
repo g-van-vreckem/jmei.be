@@ -6,6 +6,7 @@
 	$keywords = 'Radio pocket,radio,pocket,émetteur compact,télécommande compacte,868MHZ,commande radio à distance pour pont roulant,boîte à boutons,télécommande,commande industrielle,télécommande pour camion,commande pour palan,saga controls,télécommande mini,commande radio portable,télécommande pour groupe électrogène,commande de barrières,commande pour portails';
 
 	$pageId = 'JMPOCKET';
+	$swiper = new Medias('/img/product-JMPOCKET/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 
@@ -16,9 +17,7 @@
 					<a name="highlight"></a>
 				  <h3>Télécommande   radio pocket</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-JMPOCKET/JMpocket1.jpg?v=1" alt="Télécommande portable compacte" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('POCKET.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
