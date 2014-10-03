@@ -5,6 +5,7 @@
 	$keywords = 'Radiocommande hélice,télécommande,commande de machines forestières,commande de machines de construction,boutons à bascule';
 
 	$pageId = 'Helice';
+	$swiper = new Medias('/img/product-Helice/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 
@@ -15,9 +16,7 @@
 					<a name="highlight"></a>
 					<h3>Radiocommande de type Hélice</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-Helice/helice.jpg" alt="Radio Commande Type HELICE" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('Helice.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
