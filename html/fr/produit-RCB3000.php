@@ -5,6 +5,7 @@
 	$keywords = 'Radiocommande,RCB3000,pupitre ventral,radio analogique,ultra-compact,léger,radiocommande,radiocommandes,radio commande,radio commandes,ponts roulant,commande à joystick,équipements de génie civil,manutention,équipement de levage mobile,Manitou,camion de remorquage,pompe à béton,camions de mélange,pont roulant,grue,grue hydraulique mobile,application mobile de transport de voiture,toutes applications de manutention';
 
 	$pageId = 'RCB3000';
+	$swiper = new Medias('/img/product-RCB3000/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 
@@ -15,9 +16,7 @@
 					<a name="highlight"></a>
 					<h3>Radiocommande de type RCB3000</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB3000/rcb3000_1.jpg" alt="Télécommande avec afficheur" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB3000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
