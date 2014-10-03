@@ -15,7 +15,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-				  <h3>Radiocommande de type RCB90L et RCB90M</h3>
+				  <h3>Radiocommande de type RCB90</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
@@ -24,20 +24,20 @@
 					<a name="features"></a>
 					<h4>Description</h4>
 					<ul>
-						<li>Emetteur sécuritaire  haute performance de type boîte à boutons conçue pour des commandes en Tout Ou Rien (TOR).</li>
-					    <li>La RCB90 est une télécommande sans fils éprouvée depuis plusieurs années. Les touches (boutons) de l'émetteur sont à double enfoncement et permet la commande de relais correspondant sur le récepteur.</li>
-						<li>Boîtier ultra compact, léger, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</li>
-						<li>Arrêt d'urgence coup de poing, garanti une sécurité maximale.</li>
+						<li>Boîte à boutons sécuritaire  haute performance.</li>
+<li>Commandes double vitesse en Tout Ou Rien (TOR).</li>
+					    <li>Télécommande sans fil éprouvée depuis plusieurs années.</li>
+						<li>Boîtier ultra compact, léger, ergonomique, très robuste, réalisé en plastique renforcé pour un usage industriel et adapté spécialement aux environnements agressifs.</li>
+						<li>Arrêt d'urgence coup-de-poing (qualité militaire), garantit une sécurité maximale.</li>
                      <li>9 boutons (RCB90L) ou 14 boutons (RCB90M).</li>
 					</ul>
 					<a name="specifications"></a><h4>Avantages</h4>
 					<ul>
-						<li>3 boutons configurable en sélecteur 2 ou 3 positions fixes ou à rappel.</li>
-						<li>Face et inscription personnalisable.</li>
-						<li>Arrêt d'urgence coup de poing qualité militaire.</li>
+						<li>3 boutons configurables en sélecteurs 2 ou 3 positions fixes ou à rappel.</li>
+						<li>Face et inscription personnalisables.</li>
 						<li>Accumulateur interchangeable NIMH.</li>
-                      <li>Led de diagnostique et retour d'information en option.</li>
-						<li>Système exclusif de changement d'adresse, de fréquence, configuration par les boutons permet l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
+                      <li>Led de diagnostic et retour d'information en option.</li>
+						<li>Système exclusif de changement d'adresse et de fréquence.</li>
 					</ul>
 <?php if ( SHOW_CERTIFICATION ) : ?>                    
 					<a name="uses"></a>
@@ -55,47 +55,50 @@
 					</ul>
 <?php endif ?>
 					<hr>
+					<a name="specifications"></a><h4>Options</h4>
+					<ul>
+						<li>Transmission en mode bidirectionnel.</li>
+						<li>Led de diagnostique et retour d'information.</li>
+						<li>Afficheur 7 segments.</li>
+						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
+						<li>Démarrage sécurisé TCA27.</li>
+						<li>Accumulateur interchangeable NIMH.</li>
+                      <p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+					</ul>  
+					<a name="specifications"></a>
+				  <h4>Accessoires</h4>
+					<ul>
+						<li>Housse de protection.</li>
+						<li>Chargeur à microprocesseur.</li>
+						<li>Accumulateur interchangeable NIMH.</li>
+                       	 <p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+					</ul>					
+					<hr>
+					<a name="specifications"></a>
+				  <h4>Applications</h4>
+					<ul>
+						<li>Pont roulant.</li>
+						<li>Grue tour.</li>
+						<li>Porte industrielle.</li>
+						<li>Pompe, jet d'eau.</li>
+					</ul>                  
+                  <hr>									
+                  <a name="accessories"></a>
+				  <h4>Exemple de réalisation</h4>                       
 					<div class="row">
 						<div class="span3">
-							<h4>Options et accessoires</h4>
-                                                        											<img src="../img/product-RCB90/rcb90_6.jpg" alt="Télécommande grue">
-							<img src="../img/product-RCB90/rcb90_7.jpg" alt="Chargeur à microprocesseur">
-						  <ul>
-								<li>Transmission en mode bidirectionnel.</li>
-                            <li>Afficheur.</li>
-                            <li>Housse de protection.</li>
-                            <li>Chargeur à microprocesseur de conception JMei.</li>
-<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
-								<li>Démarrage sécurisé TCA27.</li>
-                            <li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus,  Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-                       	 <p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
-						  </ul>
+                       <h6>RCB90/L - Boîte à boutons 9 fonctions</h6>
+                       <img src="../img/product-RCB90/rcb90_bot1.jpg" alt="Télécommande grue">
+					  </div>
+						<div class="span3">
+                       <h6>Radiocommande indistrielle universelle</h6>
+                       <img src="../img/product-RCB90/rcb90_bot2.jpg" alt="Télécommande pour pont roulant">
 						</div>
 						<div class="span3">
-							<h4>Applications</h4>
-<img src="../img/product-RCB90/rcb90_22.jpg" alt="Télécommande grue">
-							<ul>
-							  <li>Pont roulant.</li>
-                           <li>Grue tour.</li>
-                           <li>Porte industrielle.</li>
-                            <li>Pompe, jet d'eau.</li>
-							</ul>
-						</div>
-						<div class="span3">
-							<h4>Caractéristiques</h4>
-							<img src="../img/product-RCB90/rcb90_33.jpg" alt="Commande spéciale">       
-							<ul>
-							  <li>Article: <em> RCB90L/M</em>.</li>
-							  <li>Fct 90L:  <em> 9fcts/2 vitesses</em>.</li>
-							  <li>Fct 90M: <em> 14fcts/2 vitesses.</li>
-							  <li>F.Anal.: <em> Via software</em>.</li>
-							  <li>Dimens.: <em> 263/80/62mm</em>.</li>
-							</ul>
-						</div>
-					</div>
-
-
-
-				</div>
+                       <h6>RCB90/M - Boîte à boutons 14 fonctions</h6>
+                       <img src="../img/product-RCB90/rcb90_bot3.jpg" alt="Radiocommande industrielle">
+						</div>                                                
+				  </div>
+			  </div>
 			</div>
  <?php include 'footer.php';?>
