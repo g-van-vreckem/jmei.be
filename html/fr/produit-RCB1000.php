@@ -5,6 +5,7 @@
 	$keywords = 'Radiocommande,RCB1000,pupitre ventral,radio analogique,émetteur, robuste, radiocommande,radiocommandes,radio commande,radio commandes,ponts roulant,commande à joystick,équipements de génie civil,manutention,équipement de levage mobile,camion de remorquage,pompe à béton ,camions de mélange,pont roulant,grue,grue hydraulique mobile,application mobile de transport de voiture,toutes applications de manutention,commande à distance, presse,machine,commande de machines mobiles avec réglage du déplacement progressif';
 
 	$pageId = 'RCB1000';
+	$swiper = new Medias('/img/product-RCB1000/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 
@@ -13,11 +14,9 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-					<h3>Radiocommande de type RCB1000</h3>
+				  <h3>Radiocommande de type RCB1000</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB1000/rcb1000_1.jpg" alt="Radiocommande profibus bidirectionnelle" />
-						</div>
+<?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
