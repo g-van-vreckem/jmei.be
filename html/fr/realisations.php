@@ -38,7 +38,7 @@
       				<br>
      				<strong>Module répéteur.</strong><br>
       				Ce module recopie intégralement les informations HF de manière transparente, permettant de doubler la distance de transmission.							<br>
-      				Une alimentation sur batterie (en option) rend son placement aisé.<br>
+      				Une alimentation sur batterie (en option) permet une utilisation et un positionnement modulables du répéteur.<br>
       				Son développement en mode multi-fréquences permet de conserver la vitesse initiale de transmission du système.<br>
       				Utilisation en mode uni/bidirectionnel.</p></section>
 					<hr> 

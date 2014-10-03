@@ -40,7 +40,7 @@
       				<br>
      				<strong>Repeater module.</strong><br>
       				This module copies the full HF information so transparently , increasing the transmission distance twofold.<br>
-      				A battery power (optional) makes it easy placement .<br>
+      				A battery power (optional) allows a flexible use and placement of the repeater .<br>
       				Its development in multi-frequency mode enables to keep the initial transmission speed of the system.<br>
       				Using uni / bi-directional mode.</p></section>
 					<hr>                 
