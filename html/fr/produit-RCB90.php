@@ -1,6 +1,5 @@
 <?php
 	include 'common.php';
-//	$title .= '';
 	$title = 'JMei - RCB90 - Boîte à boutons - Télécommande pour pont roulant';
 	$description = 'Radiocommande de type boîte à boutons double vitesses pour la commande de pont roulant';
 	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
@@ -39,12 +38,7 @@
 						<li>Led de diagnostic et retour d'information en option.</li>
 						<li>Système exclusif de changement d'adresse et de fréquence.</li>
 					</ul>
-<?php if ( SHOW_CERTIFICATION ) : ?>                    
-					<a name="uses"></a>
-					<h4>Applications</h4>
-					<p>Système maître-esclave pour tout équipement de manutention, pont roulant, portique ou tout autre type d'équipement mobile.</p>
-					<img src="../img/product-RCB90/rcb90_2.jpg" alt="Applications de radiocommandes" />
-<?php endif ?>                    
+                  
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
 					<h4>Certifications</h4>
@@ -55,17 +49,17 @@
 					</ul>
 <?php endif ?>
 					<hr>
-					<a name="specifications"></a><h4>Options</h4>
+					<a name="accessories"></a>
+                  <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
 						<li>Led de diagnostique et retour d'information.</li>
 						<li>Afficheur 7 segments.</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
 						<li>Démarrage sécurisé TCA27.</li>
-						<li>Accumulateur interchangeable NIMH.</li>
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>  
-					<a name="specifications"></a>
+					<a name="accessories"></a>
 					<h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection.</li>
@@ -74,7 +68,7 @@
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
-					<a name="specifications"></a>
+					<a name="uses"></a>
 					<h4>Applications</h4>
 					<ul>
 						<li>Pont roulant.</li>
