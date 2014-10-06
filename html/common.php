@@ -96,6 +96,7 @@
 			self::addPage ( new Page ( 'RCB1000.pdf', 'fr', 'JMei RCB1000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000.pdf', 'en', 'JMei RCB3000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000.pdf', 'fr', 'JMei RCB3000', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'fr', 'RCB3000-datasheet', '', Page::PDF, true, .6 ) );			
 			self::addPage ( new Page ( 'RCB6000.pdf', 'en', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB6000.pdf', 'fr', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB7000.pdf', 'en', 'JMei RCB7000', '', Page::PDF, true, .6 ) );
