@@ -12,7 +12,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a>
-					<h3>Radiocommande  RCB90</h3>
+					<h3>Radiocommande RCB90</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
