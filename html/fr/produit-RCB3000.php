@@ -79,26 +79,26 @@
 							<img src="../img/product-RCB3000/rcb3000_bot1.jpg" alt="Télécommande avec retour d'informations">
 						</div>
 						<div class="span3">
-							<h6>Radio personnalisée (couleur du pont roulant)</h6>
-							<img src="../img/product-RCB90/rcb90_bot4.jpg" alt="Télécommande pour pont roulant personnalisée">
+							<h6>Radiocommande avec afficheur LCD</h6>
+							<img src="../img/product-RCB3000/rcb3000_bot2.jpg" alt="Radiocommande avec afficheur">
 						</div>
 						<div class="span3">
-							<h6>RCB90/M - Boîte à boutons 14 fonctions</h6>
-							<img src="../img/product-RCB3000/rcb3000_2.jpg" alt="Applications mobiles télécommandées">
+							<h6>Télécommande suivant cahier des charges</h6>
+							<img src="../img/product-RCB3000/rcb3000_bot3.jpg" alt="Télécommande industrielle personnalisée">
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>Arrêt d'urgence haute qualité</h6>
-							<img src="../img/product-RCB3000/rcb3000_6.jpg" alt="Radio télécommande avec afficheur">
+							<h6>Radiocommande analogique</h6>
+							<img src="../img/product-RCB3000/rcb3000_bot4.jpg" alt="Radio télécommande analogique">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande indistrielle universelle</h6>
-							<img src="../img/product-RCB3000/rcb3000_10.jpg" alt="Retour d'informations">
+							<h6>Housse de protection en nylon</h6>
+							<img src="../img/product-RCB3000/rcb3000_bot5.jpg" alt="Housse de protection radiocommande">
 						</div>						
 						<div class="span3">
-							<h6>Clé mémoire adresse télécommande</h6>
-							<img src="../img/product-RCB3000/rcb3000_11.jpg" alt="Système de sécurité">
+							<h6>Radiocommande pour locotracteur</h6>
+							<img src="../img/product-RCB3000/rcb3000_bot6.jpg" alt="Télécommande pour locotracteur">
 						</div>                        
 					</div>                      
 				</div>
