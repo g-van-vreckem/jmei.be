@@ -86,6 +86,7 @@
 			self::addPage ( new Page ( 'KEY', 'fr', 'produit-clef-de-configuration-et-identification', 'products' ) );
 //			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
 			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products' ) );
+			self::addPage ( new Page ( 'OPTION', 'fr', 'produit-option', 'products' ) );
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei RCB90', '', Page::PDF, true, .6 ) );
@@ -105,6 +106,7 @@
 			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'KEY.pdf', 'fr', 'JMei HARDKEY', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei TANDEM', '', Page::PDF, true, .6 ) );
+	
 			self::addPage ( new Page ( 'POCKET.pdf', 'fr', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'SCAN.pdf', 'fr', 'JMei-Scan', '', Page::PDF, true, .6 ) );			
 			self::addPage ( new Page ( 'DH.pdf', 'fr', 'JMei_Dossier_Entreprise', '', Page::PDF, true, .6 ) );
