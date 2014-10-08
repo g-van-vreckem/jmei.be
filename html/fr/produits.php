@@ -270,14 +270,12 @@
                     </div>                  
                     <div class="tile-detail">
                         <div class="tile-desc">
-                        	<p>Système de clé mémoire, permet l'interchangeabilité des émetteurs.</p>
-							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+                        	<p>Clé hardware: Système de clé mémoire électronique, permet l'interchangeabilité des émetteurs.</p>
 							<p><br>
-							TCA27, un système de démarrage sécuritaire breveté JMei.</p>
-							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							Démarrage sécuritaire: TCA27, un système breveté JMei permettant le démarrage de vos radiocommandes avec la plus grande sécurité.</p>
 							<p><br>
-							Système de personnalisation software pour diverses utilisations complexes.</p>
-							<p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
+							Commande de systèmes complexes: Personnalisation software de vos radiocommandes afin de répondre aux exigences les plus sévères de nos clients .</p>
+							<p><a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
 						</div>
                         <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
