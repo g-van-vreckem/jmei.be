@@ -10,8 +10,6 @@
 	include 'nav.php';
 
 ?>
-<title>Commande à distance JMei</title>
-
 			<div id="r1" class="row spaced-row">
 				<div id="i1" class="tile span4">
                     <div class="top-text">
@@ -40,10 +38,9 @@
 							14 boutons double enfoncement	(2V). <br>
 							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
 							<p>Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
-							  <br>
-							  Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles
-.<br>
-<br>
+							<br>
+							Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles.<br>
+							<br>
 							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
@@ -97,17 +94,16 @@
 							  <br>
 							La référence des pupitres ventraux avec un encombrement minimal.<br>
 							<br>
-							Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.							<br>
+							Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
 							<br>
-							Jusqu'à 4 fonctions analogiques.
-							<br>
+							Jusqu'à 4 fonctions analogiques.<br>
 							<br>
 							Se porte à le ceinture ou en bandoulière.<br>
 							<br>
 							Modèle avec batteries interchangeables (autonomie &lt;15h, temps de charge de 4h).<br>
 							<br>
 							Housse de portage et retour d'informations disponibles.<br>
-<br>
+							<br>
 							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
@@ -142,14 +138,13 @@
 							</strong><br>
 							Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues. <br>
                             <br>
-Jusqu'à 8 fonctions analogiques (2 joysticks double axes / 6 joysticks &quot;palettes&quot;). <br>
-<br>
-							  Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
-							  <br>
-							  Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
-                              <br>
-Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau display disponibles
-.</p>
+							Jusqu'à 8 fonctions analogiques (2 joysticks double axes / 6 joysticks &quot;palettes&quot;). <br>
+							<br>
+							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
+							<br>
+							Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
+                            <br>
+							Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau display disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB3000_2.jpg?v=1" data-type="img"></a>
@@ -171,17 +166,16 @@ Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau dis
                     <div class="tile-detail">
                         <div class="tile-desc">
 							<p><strong>L'émetteur industriel &quot;Haut de gamme&quot;.</strong></p>
-							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues. <br>
-                              <br>
-Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
-							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes. <br>
-  <br>
-							  Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
-  <br>
-							  Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
-  <br>
-							  Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles
-							  .</p>
+							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues.<br>
+                            <br>
+							Jusqu'à 8 fonctions analogiques (3 joysticks double axes).</p>
+							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes.<br>
+							<br>
+							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
+							<br>
+							Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
+							<br>
+							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
@@ -203,24 +197,22 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                     <div class="tile-detail">
                         <div class="tile-desc">
 							<p>Système d'échange de données uni ou bidirectionnel.<br>
-							  <br>
-							  RCB7000:<br>
-							  -4 entrées/sorties digitales optocouplées<br>
-							  -4 entrées/sorties analogiques
-							  <br>
-							  -Liaison RS232/485<br>
-							  <br>
-							  RCB6000:<br>
--40 entrées/sorties digitales optocouplées<br>
--8 entrées/sorties analogiques <br>
--Liaison RS232/485							  <br>
--Bus de terrain
-<br>
-<br />
+							<br>
+							RCB7000:<br>
+							-4 entrées/sorties digitales optocouplées<br>
+							-4 entrées/sorties analogiques
+							<br>
+							-Liaison RS232/485<br>
+							<br>
+							RCB6000:<br>
+							-40 entrées/sorties digitales optocouplées<br>
+							-8 entrées/sorties analogiques <br>
+							-Liaison RS232/485<br>
+							-Bus de terrain<br>
+							<br>
 							Ces modules peuvent fonctionner avec plusieurs participants (partage synchrone)<br>
 							<br>
-							Les data-acquisitions, data-conversions en font la référence en terme de modules de transmissions.
-							</p>
+							Les data-acquisitions, data-conversions en font la référence en terme de modules de transmissions.</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB6000_2.jpg" data-type="img"></a>
@@ -239,12 +231,12 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 		<!--/ Detail view -->
 		<div class="container">
 			<div id="r3" class="row spaced-row">
-				<div id="i5" class="tile span4">
+				<div id="i7" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Télécommande de type JMei pocket</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1">
+                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -252,7 +244,7 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                     <div class="tile-detail">
                         <div class="tile-desc">
 							<p>Commande simple vitesse 6 fonctions (extensible à 8).<br>
-							  <br>
+							<br>
 							SMART Communication Radio - 868MHz.<br>
 							<br>
 							Sélection automatique des canaux fréquences.<br>
@@ -271,32 +263,22 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
                         <h5 class="tile-title">Nos options</h5>
                         <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1">
+                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>                  
                     <div class="tile-detail">
                         <div class="tile-desc">
-                        	 <p>Système de clé mémoire, permet l'interchangeabilité des émetteurs.</p>
-                          <p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
-                          <p><br>
-                          TCA27, un système de démarrage sécuritaire breveté JMei.</p>
-                          <p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
-                          <p><br>
-                          Système de personnalisation software pour diverses utilisations complexes.</p>
-                  		 <p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
-<!--                        <h5 class="tile-title">Démarrage sécuritaire</h5>
-                        <p class="tile-intro">TCA27, un système de démarrage sécuritaire breveté JMei</p>
-                    </div>
-                      <div class="tile-over">
-                        <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
-                        <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
-                    </div>
-                    <div class="tile-detail">
-                        <div class="tile-desc">
-                          <p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>-->
-					  </div>
+                        	<p>Système de clé mémoire, permet l'interchangeabilité des émetteurs.</p>
+							<p><a href="<?php echo Site::relativeUrl('KEY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p><br>
+							TCA27, un système de démarrage sécuritaire breveté JMei.</p>
+							<p><a href="<?php echo Site::relativeUrl('TCA27');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p><br>
+							Système de personnalisation software pour diverses utilisations complexes.</p>
+							<p><a href="<?php echo Site::relativeUrl('TANDEM');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
+						</div>
                         <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/KEY_4.jpg" data-type="img"></a> 
@@ -345,6 +327,5 @@ Jusqu'à 8 fonctions analogiques (3 joysticks double axes). </p>
 			<div class="detail-close" aria-hidden="true" data-icon="&#xe001;"></div>
 			<div class="container">
 			</div>
-		</div>
 		<!--/ Detail view -->		
 <?php include 'footer.php';?>
