@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title .= '';
 	$description = 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
-	$keywords = 'JMei,radiocommande industrielle,radiocommandes industrielles,radio-commande,radios-commandes,innovation,télécommande industrielle,télécommandes industrielles,IRC,personnalisation de radiocommande,réactivité,personnalisation,flexibilité,réactivité,expérience,fiabilité,télécommande pour l&acuteindustrie,télécommandes pour l&acuteindustrie';
+	$keywords = 'JMei,radiocommande industrielle,radiocommandes industrielles,radio-commande,radios-commandes,innovation,télécommande industrielle,télécommandes industrielles,IRC,personnalisation de radiocommande,réactivité,personnalisation,flexibilité,réactivité,expérience,fiabilité,télécommande pour l\'industrie,télécommandes pour l\'industrie';
 
 	$pageId = 'home';
 	include 'header.php';
