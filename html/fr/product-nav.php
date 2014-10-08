@@ -1,7 +1,7 @@
 				<div class="span3">
 				<!--Sidebar content-->
 
-					<button class="btn btn-navbar" data-toggle="collapse" data-target=".products">Produits
+					<button class="btn btn-navbar product-toogle" data-toggle="collapse" data-target=".products">Produits
 					</button>
 					<div class="nav-collapse collapse products">
 						<ul class="nav nav-tabs nav-stacked sidenavmix">

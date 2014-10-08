@@ -13,11 +13,16 @@
 	color: #000;
 }
 /* All pages */
+@media (min-width: 980px) {
+
+.btn.btn-navbar.product-toogle {
+	display: none;
+}
 body {
 	padding-top: 60px;
 	padding-bottom: 40px;
 }
-
+}
 /*/////////////////////////////////////////////////////////////////////////////
 	Custom Icomoon icons
 /////////////////////////////////////////////////////////////////////////////*/
