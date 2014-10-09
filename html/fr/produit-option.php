@@ -11,7 +11,7 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a>
+					<a id="highlight"></a>
 					<h3>Options disponibles pour vos radiocommandes JMei</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                     
@@ -26,25 +26,39 @@
 					<section id="hardkey">                    
 					<a id="Clé hardware"></a>
 					<h3>Clé hardware</h3>    
-						<a id="Description"></a>                
+						<a id="description"></a>                
 						<h4>Description</h4>
 							<p>Toutes les émetteurs de la gamme des radiocommandes JMei sont paramétrables en adresses, fréquences et stand-by par leurs manipulateurs.<br>
 							Ces données mémoire peuvent être modifiées aisément par le personnel de maintenance dans le cas de permutation ou remplacement d'un émetteur (en cas de panne ou de casse).</p>
 					<p>Afin de simplifier ces opérations et de minimiser les interventions de la maintenance, <strong>les paramètres essentiels de fonctionnement (adresse, fréquence, stand-by, ...) peuvent être inscrits dans une "clé d'identification hardware", véritable clé mémoire de la radiocommande</strong>.</p>
 					<p>Cette mémoire externe, amovible, est aisément interchangeable par l'opérateur et est unique pour un engin donné.</p>
 					<p>En cas de défaillance d'un émetteur, l'opérateur peut retirer aisément (dévisser sans outillage spécialisé), la clé d'identification et la replacer sur l'émetteur de secours. L'ensemble des paramètres de l'engin concerné sera transféré dans l'émetteur de réserve ainsi configuré et prêt à être utilisé. De plus, cette clé est <strong>placée sur chaque type d’émetteur JMei en un endroit protégé (contre les risques de casses) mais facile d’accès</strong>.</p>
-						<a id="Avantages"></a>                
+						<a id="avantages"></a>                
 						<h4>Avantages</h4>
 							<ul>
 								<li>Permet d’échanger un émetteur de travail par un émetteur de réserve rapidement et par un personnel non qualifié.</li>
 								<li>Permet de sécuriser une application avec un émetteur défini par la clé d’identification.</li>
 								<li>Clé robuste, placée en un endroit protégé contre les casses éventuelles.</li>
 						</ul>
+					<div class="row">
+						<div class="span3">
+							<h6>Clé mémoire pour boîte à boutons RCB90</h6>
+							<img src="../img/product-option/key_bot1.jpg" alt="Clé mémoire pour boîte à boutons RCB90">
+						</div>
+						<div class="span3">
+							<h6>Clé mémoire pour radiocommande RCB3000</h6>
+							<img src="../img/product-option/key_bot2.jpg" alt="Clé mémoire pour radiocommande RCB3000">
+						</div>
+						<div class="span3">
+							<h6>Clé mémoire pour radiocommande RCB1000</h6>
+							<img src="../img/product-option/key_bot3.jpg" alt="Clé mémoire pour radiocommande RCB1000">
+						</div>                                                
+					</div>                        
 					<hr>
 					<section id="TCA27"> 
-					<a id="Démarrage sécuritaire"></a>
+					<a id="démarrage sécuritaire"></a>
 					<h3>Démarrage sécuritaire</h3>    
-						<a id="Description"></a>                
+						<a id="description"></a>                
 						<h4>Description</h4>
 <p>Le système JMei/TCA27 permet d’accroître considérablement la sécurité lors de la commande d’engins dangereux.</p>
 <p>Un accident typique qui peut se produire lors de l’utilisation d’une radiocommande est l’emploi d’un émetteur qui ne correspond pas (qui n’est pas appareillé) au pont roulant, grue ou tout type d’application radiocommandée, c'est-à-dire que <strong>l’opérateur peut par inadvertance confondre un émetteur avec un autre</strong>.</p>
@@ -56,7 +70,7 @@
 </strong>.</p>
 <p>Sur l’émetteur, 4 touches de fonction standard sont cependant pourvues des couleurs rouge, jaune, bleue et verte. L’opérateur confirme donc la couleur vue sur la balise successivement par pression sur la touche correspondante de l’émetteur, l’opération de validation des deux couleurs aléatoires peut prendre 5 secondes au maximum.</p>
 <p>Le code aléatoire de 2 couleurs est tout a fait suffisant pour la majorité des applications, mais JMei peut aussi configurer le système pour une confirmation d’un code de 3 couleurs ou quatre si le besoin s’en faisait sentir.</p>
-						<a id="Avantages"></a>                
+						<a id="avantages"></a>                
 						<h4>Avantages</h4>
 					<ul>
 						<li>Pas d’interférences possibles avec d’autres sources électromagnétiques, la fréquence utilisée par le système de démarrage est identique à celle employée pour les autres fonctions de la radiocommande.</li>
@@ -66,11 +80,25 @@ pont roulant et qui doit servir à la clé de démarrage.</li>
 						<li>Pas de câblage compliqué, la balise est placée dans l’environnement proche du récepteur.</li>
 						<li><strong>Le système de démarrage JMei peut même être placé sur des radiocommandes qui ne seraient pas de fabrication JMei.</strong></li>
 					</ul>
+					<div class="row">
+						<div class="span3">
+							<h6>RCB90 - Démarrage sécurisé</h6>
+							<img src="../img/product-option/tca27_bot1.jpg" alt="Démarrage sécurisé pour radiocommande">
+						</div>
+						<div class="span3">
+							<h6>RCB3000 - Démarrage sécurisé</h6>
+							<img src="../img/product-option/tca27_bot2.jpg" alt="Sécurité de télécommande industrielle">
+						</div>
+						<div class="span3">
+							<h6>RCB1000 - Démarrage sécurisé</h6>
+							<img src="../img/product-option/tca27_bot3.jpg" alt="Sécurité de radiocommande industrielle">
+						</div>                                                
+					</div>                    
 					<hr>
 					<section id="tandem"> 
-					<a id="Commande de systèmes complexes"></a>
+					<a id="commande de systèmes complexes"></a>
 					<h3>Commande de systèmes complexes</h3>    
-						<a id="Description"></a>                
+						<a id="description"></a>                
 						<h4>Description</h4>
 				  <p>Ce système permet la commande simultanée de deux engins (par exemple : ponts roulants) par un seul émetteur. Ceci permet le transport de longues charges en toute sécurité. Avec l’option « bidirectionnel » le système assure également la gestion des fins de course rendant ainsi le couplage très sécuritaire.</p>
 					<p><strong>Fonctionnement "seul"</strong><br>
@@ -99,12 +127,26 @@ Lorsqu’un pont est piloté par l'émetteur "maître" mais n'est pas sélection
 				    Dans ce cas, les ponts sont activés deux-à-deux (ponts contigus) ou tous ensemble.</p>
 				  <p>Le système peut être avantageusement complété par l'option "bidirectionnel" qui permet le dialogue entre les récepteurs (et éventuellement entre les émetteurs).
 Dans ce cas, les fins de course des différents ponts peuvent être raccordées aux récepteurs correspondants et transmises vers l'autre pont. En mode "Tandem" avec les deux ponts actifs en même temps (sélecteur en 1+2), les fins de course du deuxième pont agissent sur le premier et inversement. Ceci permet par exemple de stopper la translation des DEUX ponts lorsque l'un des ponts arrive en fin de course. Ce système permet également la gestion conjointe des limiteurs de charge. Avec cette option, les deux ponts sont accouplés "logiquement" pour ne plus former qu'un seul et ce, en toute sécurité.</p> 
-						<a id="Avantages"></a>                
+						<a id="avantages"></a>                
 						<h4>Avantages</h4>
 							<ul>
 								<li>Permet d’échanger un émetteur de travail par un émetteur de réserve rapidement et par un personnel non qualifié.</li>
 								<li>Permet de sécuriser une application avec un émetteur défini par la clé d’identification.</li>
 								<li>Clé robuste, placée en un endroit protégé contre les casses éventuelles.</li>
 						</ul>
+					<div class="row">
+						<div class="span3">
+							<h6>Radiocommandes multi-émetteurs</h6>
+							<img src="../img/product-option/tandem_1.jpg" alt="Radiocommandes multi-émetteurs">
+						</div>
+						<div class="span3">
+							<h6>Radiocommandes multi-récepteurs</h6>
+							<img src="../img/product-option/tandem_2.jpg" alt="Radiocommandes multi-récepteurs">
+						</div>
+						<div class="span3">
+							<h6>Radiocommandes en réseau</h6>
+							<img src="../img/product-option/tandem_3.jpg" alt="Radiocommandes en réseau">
+						</div>                                                
+					</div>                        
 				</div>
  <?php include 'footer.php';?>
