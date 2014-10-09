@@ -11,7 +11,7 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a>
+					<a id="highlight"></a>
 					<h3>Télécommande industrielle compacte - JMei Pocket</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
@@ -19,7 +19,7 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('POCKET.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>
-					<a name="features"></a>
+					<a id="description"></a>
 					<h4>Description</h4>
                   <ul>
                       <li>SMART Communication Radio <br>
@@ -42,7 +42,7 @@
                               Installation facile et rapide</li>
                       <li>868MHz - 10..42V DC</li>
                   </ul>
-					<a name="specifications"></a>
+					<a id="avantages"></a>
                   <h4>Avantages</h4>
 					<ul>
 						<li>3 boutons configurables en sélecteurs 2 ou 3 positions fixes ou à rappel.</li>
@@ -52,7 +52,7 @@
 						<li>Système exclusif de changement d'adresse et de fréquence.</li>
 					</ul>                          
 					<hr>
-					<a name="uses"></a>
+					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
 						<li>Remorques.</li>
@@ -62,8 +62,8 @@
                       <li>Porte - barrière d'accès industriel.</li>
 					</ul>                  
                   <hr>									
-                  <a name="accessories"></a>
-					<h4>Exemple de réalisation</h4>                       
+                  <a id="réalisations"></a>
+					<h4>Exemple de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>JMei Pocket - clips de portage</h6>

@@ -11,14 +11,14 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a>
+					<a id="highlight"></a>
 					<h3>Radiocommande RCB700</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                        
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>        			<a name="features"></a>
+					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>        							<a id="description"></a>
 					<h4>Description</h4>
 					<ul>
 						<li>Boîtier émetteur ultra compact, léger, très robuste, réalisé en fonte d'aluminium.</li>
@@ -27,7 +27,7 @@
 					    <li>Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
 						<li>Convient pour tous types d'usages industriels nécessitant des fonctions TOR (1 vitesse), boîtier homme-mort, safeball,...</li>
 					</ul>
-					<a name="specifications"></a>
+					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
 						<li>Portée radio très longue.</li>
@@ -35,7 +35,7 @@
 						<li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
 					</ul>
        				<hr>
-					<a name="accessories"></a>
+					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
@@ -45,7 +45,7 @@
 						<li>Démarrage sécurisé TCA27.</li>
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>  
-					<a name="accessories"></a>
+					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection.</li>
@@ -54,7 +54,7 @@
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
-					<a name="uses"></a>
+					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
 						<li>Pont roulant.</li>
@@ -63,8 +63,8 @@
 						<li>Pompe, jet d'eau.</li>
 					</ul>                  
                   <hr>					                    									
-                  <a name="accessories"></a>
-					<h4>Exemple de réalisation</h4>                       
+                  <a id="réalisations"></a>
+					<h4>Exemple de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Télécommande avec retour d'informations</h6>                            

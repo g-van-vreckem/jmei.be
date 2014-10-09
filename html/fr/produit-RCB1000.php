@@ -11,14 +11,14 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a>
+					<a id="highlight"></a>
 					<h3>Radiocommande RCB1000</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>                  <a name="features"></a>
+					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>                  <a id="description"></a>
                   <h4>Description</h4>
 					<ul>
 					  <li>Boîtier émetteur conçu avec une grande surface d&rsquo;accès pour une utilisation confortable.</li>
@@ -32,7 +32,7 @@
 						<li>Protection par housse de protection en cuir industriel, prévu avec harnais de portage reposant sur les épaules, étudié pour un meilleur confort d&rsquo;utilisation.</li>
 						<li>Livrable pour de multiples applications industrielles qui nécessitent un appareil robuste et fiable comme par exemple le domaine du levage et de la manutention, les machines de génie civil telles que grues à tour, grues hydrauliques sur camion, dumpers, chargeurs sur pneus, brise-roches, compacteurs et elle est particulièrement bien étudiée pour toute application dans le domaine minier ou maritime.</li>
 					</ul>
-					<a name="specifications"></a>
+					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
 						<li>Gamme de fréquences:  434 MHz (64 canaux) ou 868MHz.</li>
@@ -49,7 +49,7 @@
                         <li>Possibilité d'options: <a href="<?php echo Site::relativeUrl('KEY');?>">clé mémoire</a>, 
 					</ul>
 					<hr>
-					<a name="accessories"></a>
+					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
@@ -59,7 +59,7 @@
 						<li>Démarrage sécurisé TCA27.</li>
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>  
-					<a name="accessories"></a>
+					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection en cuir.</li>
@@ -68,15 +68,15 @@
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
-					<a name="uses"></a>
+					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
 						<li>Applications industrielles lourdes.</li>
 						<li>Applications demandant de nombreuses fonctions.</li>
 					</ul>                  
                   <hr>
-                  <a name="accessories"></a>
-					<h4>Exemple de réalisation</h4>                       
+                  <a id="réalisations"></a>
+					<h4>Exemple de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommande - prise en main sécuritaire</h6>

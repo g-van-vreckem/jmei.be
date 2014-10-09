@@ -11,7 +11,7 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a>
+					<a id="highlight"></a>
 					<h3>Radiocommande RCB3000</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
@@ -19,7 +19,7 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB3000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB3000-datasheet.pdf');?>">Consulter la fiche technique</a></p>       
-					<a name="features"></a>
+					<a id="description"></a>
 					<h4>Description</h4>
 					<ul>
 						<li>Emetteur conçu avec une grande surface d'accès pour une utilisation confortable.</li>
@@ -29,7 +29,7 @@
 						<li>Très facile à personnaliser grâce à sa grande surface disponible.</li>
 						<li>Arrêt d'urgence coup-de-poing (qualité militaire), garantit une sécurité maximale.</li>
 					</ul>
-					<a name="specifications"></a>
+					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
 						<li>Pictogrammes du pupitre émetteur entièrement personnalisables.</li>                    
@@ -38,7 +38,7 @@
 						<li>Système exclusif de changement d'adresse et de fréquence.</li>              
 					</ul>
 					<hr>
-					<a name="accessories"></a>
+					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
@@ -48,7 +48,7 @@
 						<li>Démarrage sécurisé TCA27.</li>
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>   					
-                  <a name="accessories"></a>
+                  <a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection en nylon.</li>
@@ -58,7 +58,7 @@
 						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
 					</ul>	 
 					<hr>
-					<a name="uses"></a>
+					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
 						<li>Equipement de levage (pont roulant, grue tour, portique).</li>
@@ -71,8 +71,8 @@
 						<li>Applications maritimes.</li>                                                              
 					</ul>                      
                   <hr>									
-                  <a name="accessories"></a>
-					<h4>Exemple de réalisation</h4>                       
+                  <a id="réalisations"></a>
+					<h4>Exemple de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>RCB3000 bidirectionnelle</h6>
