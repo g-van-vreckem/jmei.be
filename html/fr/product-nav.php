@@ -16,14 +16,16 @@
 							<li class="divider"></li>
 							<li<?php echo Site::addActiveClass('RECB'); ?>><a href="<?php echo Site::relativeUrl('RECB');?>">Récepteur <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="divider"></li>
-							<li class="nav-header">Options, sécurité</li>
+							<li class="nav-header"> Transmission de données</li>
+							<li<?php echo Site::addActiveClass('RCB6000'); ?>><a href="<?php echo Site::relativeUrl('RCB6000');?>">RCB6000 <i class="icon-chevron-right pull-right"></i></a></li>
+							<li<?php echo Site::addActiveClass('RCB7000'); ?>><a href="<?php echo Site::relativeUrl('RCB7000');?>">RCB7000 <i class="icon-chevron-right pull-right"></i></a></li>                            
+							<li class="divider"></li>
+							<li class="nav-header">Options, sécurité, accessoires</li>
 							<li<?php echo Site::addActiveClass('TCA27'); ?>><a href="<?php echo Site::relativeUrl('TCA27');?>">Démarrage sécurisé<i class="icon-chevron-right pull-right"></i></a></li>
 							<li<?php echo Site::addActiveClass('KEY'); ?>><a href="<?php echo Site::relativeUrl('KEY');?>">Clé mémoire<i class="icon-chevron-right pull-right"></i></a></li>
 							<li<?php echo Site::addActiveClass('TANDEM'); ?>><a href="<?php echo Site::relativeUrl('TANDEM');?>">Coordination d'équipements <i class="icon-chevron-right pull-right"></i></a></li>
-							<li class="divider"></li>
-							<li class="nav-header"> Transmission de données</li>
-							<li<?php echo Site::addActiveClass('RCB6000'); ?>><a href="<?php echo Site::relativeUrl('RCB6000');?>">RCB6000 <i class="icon-chevron-right pull-right"></i></a></li>
-							<li<?php echo Site::addActiveClass('RCB7000'); ?>><a href="<?php echo Site::relativeUrl('RCB7000');?>">RCB7000 <i class="icon-chevron-right pull-right"></i></a></li>
+							<li<?php echo Site::addActiveClass('ACCESSORY'); ?>><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Accessoires <i class="icon-chevron-right pull-right"></i></a></li>                            
+
 						</ul>
 					</div>
 				</div>
