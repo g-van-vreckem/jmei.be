@@ -18,7 +18,8 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>                  <a id="description"></a>
+
+                  <a id="description"></a>
                   <h4>Description</h4>
 					<ul>
 					  <li>Boîtier émetteur conçu avec une grande surface d&rsquo;accès pour une utilisation confortable.</li>
@@ -57,7 +58,7 @@
 						<li>Afficheur graphic couleur.</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
 						<li>Démarrage sécurisé TCA27.</li>
-						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
 					</ul>  
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
@@ -65,7 +66,7 @@
 						<li>Housse de protection en cuir.</li>
 						<li>Chargeur à microprocesseur.</li>
 						<li>Accumulateur interchangeable NIMH.</li>
-						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
 					<a id="applications"></a>

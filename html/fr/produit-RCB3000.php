@@ -46,7 +46,7 @@
 						<li>Afficheur 7 segments, alphanumérique ou graphique couleur.</li> 
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
 						<li>Démarrage sécurisé TCA27.</li>
-						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
 					</ul>   					
                   <a id="accessoires"></a>
 					<h4>Accessoires</h4>
@@ -55,7 +55,7 @@
 						<li>Chargeur à microprocesseur.</li>
 						<li>Accumulateur interchangeable NIMH.</li>
 						<li>Alimentation fixe (12/24V DC).</li>                        
-						<p><a href="<?php echo Site::relativeUrl('KEY');?>">Plus d'infos...</a></p>
+						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
 					</ul>	 
 					<hr>
 					<a id="applications"></a>
