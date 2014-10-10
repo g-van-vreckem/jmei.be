@@ -87,6 +87,7 @@
 //			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
 			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products' ) );
 			self::addPage ( new Page ( 'OPTION', 'fr', 'produit-option', 'products' ) );
+			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products' ) );
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei RCB90', '', Page::PDF, true, .6 ) );
