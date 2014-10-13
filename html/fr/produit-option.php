@@ -22,9 +22,8 @@
 <a href="#hardkey">Clé hardware <i class="icon-hand-down"></i></a><br>
 <a href="#TCA27">Démarrage sécuritaire <i class="icon-hand-down"></i></a><br>
 <a href="#tandem">Commande de systèmes complexes <i class="icon-hand-down"></i></a>
-					<hr>
-					<section id="hardkey">                    
-					<a id="Clé hardware"></a>
+					<hr>                  
+					<a id="hardkey"></a>
 					<h3>Clé hardware</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>
@@ -54,9 +53,8 @@
 							<img src="../img/product-option/key_bot3.jpg" alt="Clé mémoire pour radiocommande RCB1000">
 						</div>                                                
 					</div>                        
-					<hr>
-					<section id="TCA27"> 
-					<a id="démarrage sécuritaire"></a>
+					<hr> 
+					<a id="TCA27"></a>
 					<h3>Démarrage sécuritaire</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>
@@ -95,8 +93,7 @@ pont roulant et qui doit servir à la clé de démarrage.</li>
 						</div>                                                
 					</div>                    
 					<hr>
-					<section id="tandem"> 
-					<a id="commande de systèmes complexes"></a>
+					<a id="tandem"></a>
 					<h3>Commande de systèmes complexes</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>
