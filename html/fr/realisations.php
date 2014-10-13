@@ -27,80 +27,88 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
-<section id="blog-2014-09">
-					<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Répéteur pour radiocommandes">
-				    <p><strong>Couverture réseau.</strong><br>
-      				La couverture réseau permet la commande à distance d'applications depuis un endroit très contraignant du site (au niveau de la transmission radio: silos à grains, cuveries, caves, tunnels,..).<br>
-      				Cette solution est réalisée par le placement d’antennes (actives ou passives) reliées entre elles par  un bus de terrain.<br>
-					Les commandes radio sont ainsi possibles en tout endroit de l’usine, sans provoquer d'interruption de la transmission HF.<br>
-      				Un module répéteur additionnel permet des échanges radio depuis les endroits les plus confinés.<br>
-      				<br>
-     				<strong>Module répéteur.</strong><br>
-      				Ce module recopie intégralement les informations HF de manière transparente, permettant de doubler la distance de transmission.							<br>
-      				Une alimentation sur batterie (en option) permet une utilisation et un positionnement modulables du répéteur.<br>
-      				Son développement en mode multi-fréquences permet de conserver la vitesse initiale de transmission du système.<br>
-      				Utilisation en mode uni/bidirectionnel.</p></section>
+					<a class="anchor" id="blog-2014-09">
+					<section>
+						<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Répéteur pour radiocommandes">
+						<p><strong>Couverture réseau.</strong><br>
+						La couverture réseau permet la commande à distance d'applications depuis un endroit très contraignant du site (au niveau de la transmission radio: silos à grains, cuveries, caves, tunnels,..).<br>
+						Cette solution est réalisée par le placement d’antennes (actives ou passives) reliées entre elles par  un bus de terrain.<br>
+						Les commandes radio sont ainsi possibles en tout endroit de l’usine, sans provoquer d'interruption de la transmission HF.<br>
+						Un module répéteur additionnel permet des échanges radio depuis les endroits les plus confinés.<br>
+						<br>
+						<strong>Module répéteur.</strong><br>
+						Ce module recopie intégralement les informations HF de manière transparente, permettant de doubler la distance de transmission.							<br>
+						Une alimentation sur batterie (en option) permet une utilisation et un positionnement modulables du répéteur.<br>
+						Son développement en mode multi-fréquences permet de conserver la vitesse initiale de transmission du système.<br>
+						Utilisation en mode uni/bidirectionnel.</p>
+					</section>
 					<hr> 
-<section id="blog-2014-06">
-					<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">
-					  <p>Télécommande avec combinateur spécialement développé pour la commande à distance de locotracteur.
-                        <br>
-					  Le manipulateur uniaxe est composé de positions fixes (système de freinage) et de positions à rappels (accélération).<br>
-					  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permet la visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
-</section>
+					<a class="anchor" id="blog-2014-06">
+					<section>
+						<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">
+						  <p>Télécommande avec combinateur spécialement développé pour la commande à distance de locotracteur.
+							<br>
+						  Le manipulateur uniaxe est composé de positions fixes (système de freinage) et de positions à rappels (accélération).<br>
+						  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permet la visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
+					</section>
+					<hr>
+					<a  class="anchor" id="blog-2014-05">
+					<section>
+						<h3>Commande à distance avec lecteur de code-barres</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Commande à distance avec lecteur code barre">
+							<p><a href="<?php echo Site::relativeUrl('SCAN.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+						  <p>Télécommande avec lecteur de code-barres intégré.<br>
+							Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
+							Radiocommande utile également dans les systèmes de logistiques complexes.</p>
+					</section>
+					<hr>
+					<a class="anchor" id="blog-2014-04">
+                	<section>
+						<h3>Commande à distance pour  bande transporteuse</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Commande à distance avec afficheur">
+						  <p>Radiocommande multi-récepteurs.
+							<br>
+						  Cette commande a distance a été réalisée pour la commande de 8 moteurs différents.<br>
+						  L'émetteur envoie des commandes sur 1 des 8 récepteurs,  sélectionné à l'aide d'un commutateur rotatif.<br>
+						La validation de la sélection est affichée sur afficheur 7 segments, via une communication bidirectionnelle afin d'accroître la sécurité.</p>
+					</section>
+					<hr>
+					<a  class="anchor" id="blog-2014-03">
+                	<section>
+						<h3>Télécommande pocket</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg?v=1" alt="Télécommande ultra-compacte">
+						  <p>Radiocommande pocket industrielle.
+							<br>
+						  Cette télécommande ultra-compacte est destinée pour des commandes simples d'applications industrielles.<br>
+						  Son récepteur avec fonctions intégrées permet de pallier à la perte ou déterioration de l'émetteur.<br>
+						  </p>
+					</section>
 					<hr> 
-                	  <section id="blog-2014-05">
-					<h3>Commande à distance avec lecteur de code-barres</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Commande à distance avec lecteur code barre">
-						<p><a href="<?php echo Site::relativeUrl('SCAN.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					  <p>Télécommande avec lecteur de code-barres intégré.<br>
-						Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
-						Radiocommande utile également dans les systèmes de logistiques complexes.
-</p>
-           	      </section>
+					<a class="anchor" id="blog-2014-02">
+					<section>
+						<h3>Télécommande analogique / CANopen personnalisée</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Télécommande industrielle personnalisée">
+						  <p>Radiocommande proportionnelle CANbus (Canopen) pour machines mobiles.
+							<br>
+						  Cet émetteur est destiné principalement à la commande de trois fonctions bien distinctes de l'application.<br>
+						  Afin d'accroître la sécurité lors des différentes manipulations, les couleurs présentes sur  la machine industrielle (différentes selon les mouvements) ont été 
+						  recopiées sur les actionneurs de l'émetteur de la télécommande.<br>
+						  </p>
+					</section>
 					<hr> 
-                	  <section id="blog-2014-04">
-					<h3>Commande à distance pour  bande transporteuse</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Commande à distance avec afficheur">
-					  <p>Radiocommande multi-récepteurs.
-					    <br>
-					  Cette commande a distance a été réalisée pour la commande de 8 moteurs différents.<br>
-					  L'émetteur envoie des commandes sur 1 des 8 récepteurs,  sélectionné à l'aide d'un commutateur rotatif.<br>
-                    La validation de la sélection est affichée sur afficheur 7 segments, via une communication bidirectionnelle afin d'accroître la sécurité.</p>
-           	      </section>
-					<hr> 
-                	  <section id="blog-2014-03">
-					<h3>Télécommande pocket</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg?v=1" alt="Télécommande ultra-compacte">
-					  <p>Radiocommande pocket industrielle.
-					    <br>
-					  Cette télécommande ultra-compacte est destinée pour des commandes simples d'applications industrielles.<br>
-					  Son récepteur avec fonctions intégrées permet de pallier à la perte ou déterioration de l'émetteur.<br>
-					  </p>
-               	  </section>
-					<hr> 
-               	  <section id="blog-2014-02">
-					<h3>Télécommande analogique / CANopen personnalisée</h3>
-				    <img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Télécommande industrielle personnalisée">
-					  <p>Radiocommande proportionnelle CANbus (Canopen) pour machines mobiles.
-					    <br>
-					  Cet émetteur est destiné principalement à la commande de trois fonctions bien distinctes de l'application.<br>
-					  Afin d'accroître la sécurité lors des différentes manipulations, les couleurs présentes sur  la machine industrielle (différentes selon les mouvements) ont été 
-					  recopiées sur les actionneurs de l'émetteur de la télécommande.<br>
-					  </p>
-               	  </section>
-					<hr> 
-					<section id="blog-2014-01">
+					<a class="anchor" id="blog-2014-01">
+					<section>
 						<h3>Arceau de protection (SAV)</h3>
-					  <img class="img-polaroid blog" src="../img/custom-product/2014-01-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
+						<img class="img-polaroid blog" src="../img/custom-product/2014-01-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
 						<p>Nouvel arceau, souple et robuste à la fois, développé par JMei.<br>
 						  En cas de déterioration de l'émetteur RCB3000, cette solution permet un dépannage rapide et éfficace, sans devoir changer l'entièreté de la face de votre modèle RCB3000.
 						</p>
 					</section>
 					<hr>                
-					<section id="blog-2013-12">
+					<a class="anchor" id="blog-2013-12">
+					<section>
 						<h3>RCB3000 bidirectionelle</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
 						<p>RCB3000 réalisée sur-mesure selon le cahier des charges du client. <br>
@@ -109,7 +117,8 @@
 						</p>
 					</section>
 					<hr>
-					<section id="blog-2013-11">
+					<a class="anchor" id="blog-2013-11">
+					<section>
 						<h3>RCB700 - OEM groupe Warzee S.A.</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="RCB700 - Commande de machine agricole - Warzee">
 						<p>RCB700 entièrement personnalisée.<br>
