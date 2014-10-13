@@ -32,7 +32,7 @@
 						</div>
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-accessories/jmei.jpg" alt="Harnais pour télécommande industrielle"> 
+							<img src="../img/product-accessories/pad1000.jpg" alt="Harnais pour télécommande industrielle"> 
 							<p>Harnais de portage pour radiocommande RCB1000.</p>
 						</div>
 					</div>                                     
@@ -63,7 +63,7 @@
 						</div>
 						<div class="span3">
 							<h5>Hélice</h5>
-							<img src="../img/product-accessories/jmei.jpg" alt="Chargeur radiocommande RCB90"> 
+							<img src="../img/product-accessories/houssehelice.jpg" alt="Housse de protection télécommande pour l'industrie"> 
 							<p>Housse de protection en nylon pour les modèles Hélice.</p>
 						</div>
 						<div class="span3">
@@ -90,7 +90,16 @@
 							<img src="../img/product-accessories/charger700.jpg" alt="Chargeur radiocommande RCB700">
 								<p>Chargeur à microprocesseur pour batteries NiMH RCB700.</p>
 						</div>
-					</div>                                         
+					</div> 
+				<hr>
+					<h4>Accessoires divers</h4>
+					<div class="row">
+						<div class="span3">
+							<h5>Rosace directionnelle</h5>
+							<img src="../img/product-accessories/rosace.jpg" alt="Rosace directionnelle pour pont roulant"> 
+							<p>Rosace directionnelle qui indique les directions du pont roulant.</p>
+						</div>
+					</div>                                                              
 				</div>
 			</div>
  <?php include 'footer.php';?>
