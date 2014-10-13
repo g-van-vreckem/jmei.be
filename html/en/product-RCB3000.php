@@ -12,7 +12,7 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>RCB3000 radio remote control unit</h3>
+					<a class="anchor" id="highlight"></a><h3>RCB3000 radio remote control unit</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB3000/rcb3000_1.jpg" alt="RCB 3000" />
@@ -20,7 +20,7 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB3000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<a class="anchor" id="features"></a><h4>Features</h4>
 					<ul>
 						<li>A robust, ultra-compact, lightweight and sturdy transmitter, made from industrial-use reinforced polyurethane; highly ergonomic design specially suited for tough industrial environments.</li>
 						<li>Large shock-absorbing cradle makes the unit very easy to use, protecting the joysticks and controls push button from any hazardous movement.</li>
@@ -30,7 +30,7 @@
 						<li>Protective nylon or leather carry-case.</li>
 						<li>Available for all possible applications foreseen for lifting and handling industry but also for all types of civil works machines such as tower cranes, truck-mounted hydraulic cranes, dumper trucks, shovel wheel tractor loaders, rock breakers and compactors. It is especially suited for mining and maritime, marine uses.</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a class="anchor" id="specifications"></a><h4>Specifications</h4>
 					<ul>
 						<li>Frequency range 434 MHz or 868/870 MHz, 64 possible frequencies.</li>
 						<li>Transmitter and receiver frequencies and addresses configurable using the joysticks, no need to configure anything on the receiver unit.</li>
@@ -43,11 +43,11 @@
 						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours.</li>
 						<li>Receiver type, REC B or RCB 7000, can be connected with Profibus, Ethernet, CAN bus or any other fieldbus connection to the PLC customer application.</li>
 					</ul>
-					<a name="uses"></a><h4>Uses</h4>
+					<a class="anchor" id="uses"></a><h4>Uses</h4>
 					<p>Civil work equipment : handling and lifting mobile équipement (Manitou), tow truck, concrete pumping and mixing lorries , overhead crane, crane, hydraulic mobile crane, car transport mobile application, container handling application.</p>
 					<img src="../img/product-RCB3000/rcb3000_2.jpg" alt="RCB 3000 usage illustration" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a class="anchor" id="certification"></a><h4>Certification</h4>
 					<ul>
 						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
 						<li>Electrical safety EN 60950</li>
@@ -130,7 +130,7 @@
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a class="anchor" id="accessories"></a><h4>Accessories</h4>
 					<div class="row">
 						<div class="span3">
 							<h6>Protective leather case:</h6>

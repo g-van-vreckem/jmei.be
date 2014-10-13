@@ -24,8 +24,8 @@ PAGESC;
 				</div>
 				<div class="span9">
 				<!--Body content-->
-					<a name="benelux"></a>
-					<section id="benelux">
+					<a class="anchor" id="benelux"></a>
+					<section>
 						<h3>Benelux &amp; World</h3>
 						<p>JMei ensure the sale in the Benelux</p>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-benelux">Contact the JMei sales team!</legend>
@@ -57,8 +57,8 @@ PAGESC;
 						</div>
 					</section>
 					<hr>
-					<a name="france"></a>
-					<section id="france">						
+					<a class="anchor" id="france"></a>
+					<section>						
 						<h3>France</h3>
 						<p><a target="_blank" href="http://www.opsyselec.fr/">Opsyselec</a> Distribute our product in the north of France and cover the following Departments:</p>
 						<ul>

@@ -12,7 +12,7 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio commande gamme RCB700</h3>
+					<a class="anchor" id="highlight"></a><h3>Radio commande gamme RCB700</h3>
 				  <div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="/img/product-RCB700/rcb700_1.jpg" alt="RCB 700" />
@@ -20,7 +20,7 @@
 				  </div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<a class="anchor" id="features"></a><h4>Features</h4>
 					<p>Ultra-compact, lightweight and sturdy unit, made from cast aluminium or polycarbonate and reinforced for industrial use; highly ergonomic design specially suited for tough environments.</p>
 					<ul>
 						<li>Transmitter designed with double push buttons, up to 16 possible functions all customizable.</li>
@@ -33,7 +33,7 @@
 						<li>Powered by a rechargeable battery type NMH without memory effect, battery with more than 20 hours battery life, although the system can also be plugged into a 12v or 24 v voltage supply.</li>
 						<li>Suitable for all kinds of uses either for the lifting and handling industries, or for inside and outside radio remote control industrial purposes.</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a class="anchor" id="specifications"></a><h4>Specifications</h4>
 					<ul>
 						<li>Frequency range 433/434 MHz or 868/870 MHz, 64 possible frequencies.</li>
 						<li>Both transmitter and receiver frequency can be configured using the control buttons, no need to configure anything on the receiver unit.</li>
@@ -43,11 +43,11 @@
 						<li>Operating distance: 500m.</li>
 						<li>JMei-designed microprocessor-controlled charger, charging time: 4 hours.</li>
 						<li>Options: Identification key, security control device (secure start-up), master/slave systems, display.</li>						</ul>
-					<a name="uses"></a><h4>Uses</h4>
+					<a class="anchor" id="uses"></a><h4>Uses</h4>
 					<p>Master slave system for any handling equipment, overhead crane, gantry crane or any other type of mobile equipment.</p>
 					<img src="/img/product-RCB700/rcb700_2.jpg" alt="" />
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a class="anchor" id="certification"></a><h4>Certification</h4>
 					<ul>
 						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
 						<li>Electrical safety EN 60950</li>
@@ -150,7 +150,7 @@
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a class="anchor" id="accessories"></a><h4>Accessories</h4>
 					<div class="row">
 						<div class="span3">
 							<h6>Highly practical clip-fixing system:</h6>

@@ -15,6 +15,11 @@
 /* All pages */
 @media (min-width: 980px) {
 
+.anchor {
+	position: relative;
+	display: block;
+	top: -35px;
+}
 .btn.btn-navbar.product-toogle {
 	display: none;
 }

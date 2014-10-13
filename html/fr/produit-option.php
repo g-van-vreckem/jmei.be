@@ -23,7 +23,7 @@
 <a href="#TCA27">Démarrage sécuritaire <i class="icon-hand-down"></i></a><br>
 <a href="#tandem">Commande de systèmes complexes <i class="icon-hand-down"></i></a>
 					<hr>                  
-					<a id="hardkey"></a>
+					<a class="anchor" id="hardkey"></a>
 					<h3>Clé hardware</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>
@@ -54,7 +54,7 @@
 						</div>                                                
 					</div>                        
 					<hr> 
-					<a id="TCA27"></a>
+					<a class="anchor"  id="TCA27"></a>
 					<h3>Démarrage sécuritaire</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>
@@ -93,7 +93,7 @@ pont roulant et qui doit servir à la clé de démarrage.</li>
 						</div>                                                
 					</div>                    
 					<hr>
-					<a id="tandem"></a>
+					<a  class="anchor" id="tandem"></a>
 					<h3>Commande de systèmes complexes</h3>    
 						<a id="description"></a>                
 						<h4>Description</h4>

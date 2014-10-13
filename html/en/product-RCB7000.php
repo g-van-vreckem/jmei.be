@@ -21,11 +21,11 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
 
-					<a name="features"></a><h4>Features</h4>
+					<a class="anchor" id="features"></a><h4>Features</h4>
 					<p>IRC multichannel wireless transmission systems RCB7000, are designed for a reliable transmission of all types of digital or analogue signal over distances of <strong>up to 5000 m in industrial environment</strong>, thus enabling a significant reduction in all types of control and measurement cables between units and the PLC/automatic controller and between units themselves.<br />
 					RCB7000 transmission systems can be used to exchange all types of signal, whether RS232 or 485 or others.</p>
 
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a class="anchor" id="specifications"></a><h4>Specifications</h4>
 					<img src="../img/product-RCB7000/rcb7000_2_en.gif" alt="RCB 7000 Unidirectional or bi-directional transmission - Multichannel 64 channels available" />
 					<p>The basic RCB7000 transmission system includes a transmitter unit and a receiver unit.<br />
 					These units can be used to send or receive all types of digital signal, and also analogue signal, using radio frequencies.<br />
@@ -33,7 +33,7 @@
 					<p>The transmission systems use a technology based on our extensive experience in this field (+/- 15 years), i.e. tried and tested in <strong>industrial applications such as steel works and foundries and in an environment where the electromagnetic interference may be very strong</strong>.<br />
 					They operate either in the frequency band 434 MHz or 868/870 MHz (license-free frequency) using a low power output (less than 10mW) as standard, in order not to interfere with other radio controlled applications on the client’s site.</p>
 					
-					<a name="uses"></a><h4>Uses</h4>
+					<a class="anchor" id="uses"></a><h4>Uses</h4>
 					<ul>
 						<li>Remote wireless transmission of all types of analogue measurement signal, for example weight, pressure, temperature, speeds, etc. to a central PC or automatic controller.</li>
 						<li>Transmission of all digital or analogue signals, for example position of mobile machinery, zoning of overhead cranes or other mobile plant, remote control of machinery, pumps, motors etc., transmission of information between a mobile machine (Clark/or equivalent industrial forklift) and a fixed unit., foreseen with possibility of emergency stop class 3 transmission.</li>
@@ -41,7 +41,7 @@
 						<li>Control and access authorisation management, remote barrier opening and closing, transmission of access badge information, access control.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Transmission reliability and safety in use</h4>
+					<a class="anchor" id="safety"></a><h4>Transmission reliability and safety in use</h4>
 					<p>The IRC /RCB7000 units have control systems and codes designed to ensure a high level of reliability against interference or interruptions, which could be caused by other radio frequency sources on the site, by means of the following :</p>
 					<ul>
 						<li>Address codes identifying the IRC receiver and transmitter (32-bit codes).</li>
@@ -51,7 +51,7 @@
 						<li>In bi-directional mode, there is also the option to check if the digital contact signals have been processed properly.</li>
 					</ul>
 
-					<a name="uses"></a><h4>System composition</h4>
+					<a class="anchor" id="composition"></a><h4>System composition</h4>
 					<ul>
 						<li>2 transmitter or receiver units, housing either in polycarbonate (or aluminium, as an option).</li>
 						<li>IP65 waterproof housing can be installed outside or inside buildings may also be installed in an electrical cabinet.</li>
@@ -62,7 +62,7 @@
 						<li>Option : Receiver type RCB 7000, can be inter connected with Profibus, Ethernet, CAN bus or any other fieldbus connection to the PLC customer application.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Mechanic and electric specifications</h4>
+					<a class="anchor" id="mechanical-specifications"></a><h4>Mechanic and electric specifications</h4>
 					<h6>Transmitter/receiver</h6>
 					<ul>
 						<li>Housing size : 220x270x90 mm (antenna and silent blocs not included).</li>

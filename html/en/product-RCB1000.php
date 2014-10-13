@@ -12,7 +12,7 @@
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>RCB1000 radio remote control</h3>
+					<a class="anchor" id="highlight"></a><h3>RCB1000 radio remote control</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB1000/rcb1000_1.jpg" alt="RCB 3000" />
@@ -20,7 +20,7 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
-					<a name="features"></a><h4>Features</h4>
+					<a class="anchor" id="features"></a><h4>Features</h4>
 					<ul>
 						<li>Transmitter designed with large control panel to provide ease use, lightweight, very robust and made of reinforced industrial-use polyurethane. Highly ergonomic.</li>
 						<li>Shock-absorbing cradle designed for great ease of use, it protects the joysticks and controls from any hazardous movement.</li>
@@ -32,7 +32,7 @@
 						<li>Industrial leather protective case of the transmitter supplied with shoulder harness designed for greater user comfort.</li>
 						<li>Suitable for many industrial purposes that need a sturdy and reliable device such as lifting and handling machines and civil engineering equipment, such as tower cranes, truck-mounted hydraulic cranes, dumpers, shovel wheel tractor loaders, rock breakers and compactors, mines drilling machines, and especially designed for mining and marine/maritime applications.</li>
 					</ul>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<a class="anchor" id="specifications"></a><h4>Specifications</h4>
 					<h6>Transmitter:</h6>
 					<ul>
 						<li>Unit dimensions: 290 x 160 x 130 mm (excluding cradle)</li>
@@ -59,14 +59,14 @@
 						<li>Bidirectional radio control, meaning that both the receiver and transmitter can receive and transmit over a single frequency. This means that all information fed back from the machine can be shown on the transmitter display.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Uses</h4>
+					<a class="anchor" id="uses"></a><h4>Uses</h4>
 					<p>In addition to traditional uses such as <strong>bridge cranes</strong>, <strong>gantry cranes</strong> and <strong>general lifting machinery</strong>, the RCB1000 transmitter is especially suited for the <strong>heavy-industry</strong>.<br />
 					The RCB1000 transmitter is also ideal when several functions and a complicated display are required. The large user-friendly layout allows for a large number of functions whilst remaining highly ergonomic in design.</p>
 					<img src="../img/product-RCB1000/rcb1000_2.jpg" alt="RCB 1000 usage illustration" />
 					<a name="receiver"></a><h4>Receiver</h4>
 					<p>Receiver type JMei RECB or RCB 7000, with most diverse analogue and serial interfaces, for example CAN bus, Profibus, Ethernet, RS232or RS 485 <strong>or any other fieldbus connection to the PLC customer application</strong>.</p>					
 <?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
+					<a class="anchor" id="certification"></a><h4>Certification</h4>
 					<ul>
 						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
 						<li>Electrical safety EN 60950</li>
@@ -140,7 +140,7 @@
 						</div>
 					</div>
 					<hr>
-					<a name="accessories"></a><h4>Accessories</h4>
+					<a class="anchor" id="accessories"></a><h4>Accessories</h4>
 					<div class="row">
 						<div class="span3">
 							<h6>Protective leather case:</h6>

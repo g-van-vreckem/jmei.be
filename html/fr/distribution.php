@@ -26,8 +26,8 @@ PAGESC;
 				</div>
 				<div class="span9">
 				<!--Body content-->
-					<a name="benelux"></a>
-					<section id="benelux">
+					<a  class="anchor" id="benelux"></a>
+					<section>
 						<h3>Benelux &amp; Monde</h3>
 						<p>JMei assure la distribution dans le Benelux et partout dans le Monde</p>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-benelux">Contactez l'équipe JMei!</legend>
@@ -51,8 +51,8 @@ PAGESC;
 						</div>
 					</section>
 					<hr>
-					<a name="france"></a>
-					<section id="france">						
+					<a class="anchor" id="france"></a>
+					<section>						
 						<h3>France</h3>
 						<p><a target="_blank" href="http://www.opsyselec.fr/">Opsyselec</a> distribue nos produits dans le Nord de la  France et couvre les départements suivants:</p>
 						<ul>
