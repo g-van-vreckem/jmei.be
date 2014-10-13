@@ -27,7 +27,7 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
-					<a class="anchor" id="blog-2014-09">
+					<a class="anchor" id="blog-2014-09"></a>
 					<section>
 						<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-09-700.jpg?v=1" alt="Répéteur pour radiocommandes">
@@ -44,7 +44,7 @@
 						Utilisation en mode uni/bidirectionnel.</p>
 					</section>
 					<hr> 
-					<a class="anchor" id="blog-2014-06">
+					<a class="anchor" id="blog-2014-06"></a>
 					<section>
 						<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">
@@ -54,7 +54,7 @@
 						  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permet la visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
 					</section>
 					<hr>
-					<a  class="anchor" id="blog-2014-05">
+					<a  class="anchor" id="blog-2014-05"></a>
 					<section>
 						<h3>Commande à distance avec lecteur de code-barres</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-05-700.jpg" alt="Commande à distance avec lecteur code barre">
@@ -64,7 +64,7 @@
 							Radiocommande utile également dans les systèmes de logistiques complexes.</p>
 					</section>
 					<hr>
-					<a class="anchor" id="blog-2014-04">
+					<a class="anchor" id="blog-2014-04"></a>
                 	<section>
 						<h3>Commande à distance pour  bande transporteuse</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-04-helice.jpg" alt="Commande à distance avec afficheur">
@@ -75,7 +75,7 @@
 						La validation de la sélection est affichée sur afficheur 7 segments, via une communication bidirectionnelle afin d'accroître la sécurité.</p>
 					</section>
 					<hr>
-					<a  class="anchor" id="blog-2014-03">
+					<a  class="anchor" id="blog-2014-03"></a>
                 	<section>
 						<h3>Télécommande pocket</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-03-pocket.jpg?v=1" alt="Télécommande ultra-compacte">
@@ -86,7 +86,7 @@
 						  </p>
 					</section>
 					<hr> 
-					<a class="anchor" id="blog-2014-02">
+					<a class="anchor" id="blog-2014-02"></a>
 					<section>
 						<h3>Télécommande analogique / CANopen personnalisée</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-02-3000.jpg" alt="Télécommande industrielle personnalisée">
@@ -98,7 +98,7 @@
 						  </p>
 					</section>
 					<hr> 
-					<a class="anchor" id="blog-2014-01">
+					<a class="anchor" id="blog-2014-01"></a>
 					<section>
 						<h3>Arceau de protection (SAV)</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-01-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
@@ -107,7 +107,7 @@
 						</p>
 					</section>
 					<hr>                
-					<a class="anchor" id="blog-2013-12">
+					<a class="anchor" id="blog-2013-12"></a>
 					<section>
 						<h3>RCB3000 bidirectionelle</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
@@ -117,7 +117,7 @@
 						</p>
 					</section>
 					<hr>
-					<a class="anchor" id="blog-2013-11">
+					<a class="anchor" id="blog-2013-11"></a>
 					<section>
 						<h3>RCB700 - OEM groupe Warzee S.A.</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="RCB700 - Commande de machine agricole - Warzee">
