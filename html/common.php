@@ -90,14 +90,14 @@
 			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products' ) );
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei RCB90', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'en', 'JMei RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'fr', 'JMei RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice.pdf', 'fr', 'JMei Helice', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000.pdf', 'en', 'JMei RCB1000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000.pdf', 'fr', 'JMei RCB1000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000.pdf', 'en', 'JMei RCB3000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB3000.pdf', 'fr', 'JMei RCB3000', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RCB3000.pdf', 'fr', 'RCB3000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'fr', 'RCB3000-datasheet', '', Page::PDF, true, .6 ) );			
 			self::addPage ( new Page ( 'RCB6000.pdf', 'en', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB6000.pdf', 'fr', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
