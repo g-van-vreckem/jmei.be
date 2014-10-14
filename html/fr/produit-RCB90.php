@@ -18,30 +18,29 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
- 
-					<a id="description"></a>
+					<p><a href="<?php echo Site::relativeUrl('RCB90-datasheet.pdf');?>">Consulter la fiche technique</a></p>   
+				  <a id="description"></a>
 					<h4>Description</h4>
-					<ul>
-						<li>Boîte à boutons sécuritaire  haute performance.</li>
-						<li>Commandes double vitesse en Tout Ou Rien (TOR).</li>
-						<li>Télécommande sans fil éprouvée depuis plusieurs années.</li>
-						<li>Boîtier ultra compact, léger, ergonomique, très robuste, réalisé en plastique renforcé pour un usage industriel et adapté spécialement aux environnements agressifs.</li>
-						<li>Arrêt d'urgence coup-de-poing (qualité militaire), garantit une sécurité maximale.</li>
-						<li>9 boutons (RCB90L) ou 14 boutons (RCB90M).</li>                    
-					</ul>
+						<p>Emetteur sécuritaire de haute performance de type boîte à boutons conçu pour des commandes en Tout Ou Rien (TOR).</p>
+						<p>La RCB90 est une télécommande sans fils éprouvée depuis plusieurs années. Les touches (boutons) de l'émetteur sont à double enfoncement et permettent la commande des relais correspondants sur le récepteur.</p>
+						<p>Boîtier ultra compact, léger, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</p>
+						<p>Arrêt d'urgence coup-de-poing,  garantit une sécurité maximale.</p>
+						<p>Disponible en 2 versions: 9 boutons (RCB90L) ou 14 boutons (RCB90M).</p>
 					<a id="avantages"></a>
                   <h4>Avantages</h4>
 					<ul>
+						<li>Boutons double enfoncement.</li>
 						<li>3 boutons configurables en sélecteurs 2 ou 3 positions fixes ou à rappel.</li>
 						<li>Face et inscription personnalisables.</li>
+						<li>Arrêt d&rsquo;urgence coup-de-poing qualité militaire.</li>
 						<li>Accumulateur interchangeable NIMH.</li>
-						<li>Led de diagnostic et retour d'information en option.</li>
-						<li>Système exclusif de changement d'adresse et de fréquence.</li>
+                      <li>LED de diagnostic et retour d&rsquo;information en option.</li>
+<li>Système exclusif de changements d&rsquo;adresse, de fréquence, configuration par les boutons permettant l&rsquo;interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
 					</ul>
                   
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
-					<h4>Certifications</h4>
+				  <h4>Certifications</h4>
 					<ul>
 						<li>EMC: EN61000-6-2 et EN61000-6-4</li>
 						<li>Safety: EN 60950</li>
@@ -53,18 +52,19 @@
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
-						<li>Led de diagnostique et retour d'information.</li>
-						<li>Afficheur 7 segments.</li>
+						<li>Afficheur.</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
+						<li>Système Tandem maître/esclave.</li>
 						<li>Démarrage sécurisé TCA27.</li>
+						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
 						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
 					</ul>  
 					<a id="accessoires"></a>
-					<h4>Accessoires</h4>
+				  <h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection.</li>
-						<li>Chargeur à microprocesseur.</li>
-						<li>Accumulateur interchangeable NIMH.</li>
+						<li>Chargeur à microprocesseur de conception JMei.</li>
+						<li>Accumulateur interchangeable NiMH.</li>
 						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
