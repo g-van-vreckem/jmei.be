@@ -91,6 +91,7 @@
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'RCB90', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RCB90-datasheet.pdf', 'fr', 'RCB90-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'en', 'JMei RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'fr', 'JMei RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice.pdf', 'fr', 'JMei Helice', '', Page::PDF, true, .6 ) );
