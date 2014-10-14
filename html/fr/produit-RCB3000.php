@@ -21,21 +21,25 @@
 					<p><a href="<?php echo Site::relativeUrl('RCB3000-datasheet.pdf');?>">Consulter la fiche technique</a></p>       
 					<a id="description"></a>
 					<h4>Description</h4>
-					<ul>
-						<li>Emetteur conçu avec une grande surface d'accès pour une utilisation confortable.</li>
-						<li>Joystick à contacts ou analogiques (max 8 canaux).</li>                        
-						<li>Léger, ergonomique et très robuste, réalisé en plastique renforcé pour usages industriels.</li>
-						<li>Arceau souple conçu pour absorber les chocs, protège efficacement les manipulateurs (joysticks) contre toute fausse manoeuvre accidentelle.</li>
-						<li>Très facile à personnaliser grâce à sa grande surface disponible.</li>
-						<li>Arrêt d'urgence coup-de-poing (qualité militaire), garantit une sécurité maximale.</li>
-					</ul>
+						<p>Emetteur sécuritaire de haute performance de type pupitre ventral conçu pour les commandes de tout engin industriel.</p>
+						<p>La RCB3000 est une télécommande sans fil configurable à souhait et de grande qualité.<br>Son design et les possibilités infinies de configuration autorisent toutes les possibilités de commandes de machines.</p>
+						<p>Boîtier ultra compact, léger, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</p>
+						<p>Arrêt d'urgence coup-de-poing, garantit une sécurité maximale.</p>
 					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
-						<li>Pictogrammes du pupitre émetteur entièrement personnalisables.</li>                    
-						<li>Rétro-éclairage possible (d'ambiance ou dynamique).</li>    
-						<li>Possibilité d'alimentation fixe (12 ou 24V DC).</li>                        
-						<li>Système exclusif de changement d'adresse et de fréquence.</li>              
+						<li>2 ou 3 manipulateurs 2 axes.</li>
+						<li>Jusque 7 manipulateurs uniaxes.</li>
+						<li>Sélecteurs à rappel ou positions fixes.</li>
+						<li>Bouton-poussoir standard ou avec témoins lumineux.</li>
+						<li>Fonctions TOR jusqu'à 6 vitesses par joystick.</li>
+						<li>Fonctions analogiques proportionnelles.</li>
+						<li>Face et inscription personnalisables.</li>
+						<li>Arrêt d'urgence coup-de-poing qualité militaire.</li>
+						<li>Accumulateur interchangeable NiMH.</li>
+						<li>LED de diagnostic et retour d'information en option.</li>
+						<li>Ecran LCD graphique en option.</li>
+						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>             
 					</ul>
 					<hr>
 					<a id="options"></a>
@@ -45,15 +49,17 @@
 						<li>Led de diagnostique et retour d'information.</li>
 						<li>Afficheur 7 segments, alphanumérique ou graphique couleur.</li> 
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
+						<li>Système Tandem maître/esclave.</li>
 						<li>Démarrage sécurisé TCA27.</li>
+						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
 						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
 					</ul>   					
                   <a id="accessoires"></a>
-					<h4>Accessoires</h4>
+				  <h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection en nylon.</li>
-						<li>Chargeur à microprocesseur.</li>
-						<li>Accumulateur interchangeable NIMH.</li>
+						<li>Chargeur à microprocesseur de conception JMei.</li>
+						<li>Accumulateur interchangeable NiMH.</li>
 						<li>Alimentation fixe (12/24V DC).</li>                        
 						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
 					</ul>	 
