@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB700 - Commande radio forestière';
+	$title = 'JMei - RCB700 - Commande radio longue portée - Télécommande robuste';
 	$description = 'Radiocommande ultra-compacte, rigidité accrue de part son boîtier en aluminium, cette commande à distance prendra facilement place dans vos applications forestières et agricoles';
 	$keywords = 'RCB700,commande radio,radiocommande ultra-compacte,applications agricoles,usages industriels,homme-mort,safeball,applications industrielles et forestières,lecteur code-barres';
 	$pageId = 'RCB700';

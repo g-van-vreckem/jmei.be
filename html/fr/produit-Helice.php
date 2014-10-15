@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Hélice - Télécommande radio forestière';
+	$title = 'JMei - Hélice - Télécommande radio forestière - Radiocommande bidirectionnelle';
 	$description = 'Radiocommande entièrement personnalisable. Robuste, légère et étanche, cette télécommande aura sa place dans vos applications forestières et agricoles, mine et carrière, génie civile. ';
 	$keywords = 'Radiocommande hélice,télécommande,commande de machines forestières,commande de machines de construction,boutons à bascule';
 	$pageId = 'Helice';
@@ -18,7 +18,7 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('Helice.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-
+					<p><a href="<?php echo Site::relativeUrl('Helice-datasheet.pdf');?>">Consulter la fiche technique</a></p>
 					<a id="description"></a>
 					<h4>Description</h4>
 					<ul>

@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB90 - Boîte à boutons - Télécommande pour pont roulant';
-	$description = 'Radiocommande de type boîte à boutons double vitesses pour la commande de pont roulant';
-	$keywords = 'émetteur,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
+	$title = 'JMei - RCB90 - Boîte à boutons industrielle - Télécommande pour pont roulant';
+	$description = 'Télécommande sans fil - boîte à boutons double vitesses pour la commande de pont roulant';
+	$keywords = 'émetteur sécuritaire,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
 	$pageId = 'RCB90';
 	$swiper = new Medias('/img/product-RCB90/swiper/');
 	include 'header.php';
@@ -32,10 +32,10 @@
 						<li>Boutons double enfoncement.</li>
 						<li>3 boutons configurables en sélecteurs 2 ou 3 positions fixes ou à rappel.</li>
 						<li>Face et inscription personnalisables.</li>
-						<li>Arrêt d&rsquo;urgence coup-de-poing qualité militaire.</li>
-						<li>Accumulateur interchangeable NIMH.</li>
-                      <li>LED de diagnostic et retour d&rsquo;information en option.</li>
-<li>Système exclusif de changements d&rsquo;adresse, de fréquence, configuration par les boutons permettant l&rsquo;interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
+						<li>Arrêt d'urgence coup-de-poing qualité militaire.</li>
+						<li>Accumulateur interchangeable NiMH.</li>
+                      <li>LED de diagnostic et retour d'information en option.</li>
+<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
 					</ul>
                   
 <?php if ( SHOW_CERTIFICATION ) : ?>

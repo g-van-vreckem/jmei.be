@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'Nos radiocommandes entièrement personnalisées';
+	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
 	$keywords = 'radiocommandes personnalisées,radiocommandes,dépannage rapide,émetteur,retour d\'informations,affichage de poids,manipulateur radio,commande à distance,radio-fréquence,arceau de protection';
 

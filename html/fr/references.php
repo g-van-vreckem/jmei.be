@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei, commande à distance pour toutes applications industrielles';
+	$title = 'JMei - Commande à distance pour l\'industrie et machines mobiles';
 	$description = 'De nombreuses sociétés font confiance à la société JMei de part la qualité de ses produits et la richesse de ses services';
 	$keywords = 'levage,industrie,métallurgie,mines,carrières,applications maritimes,transmission de données,équipement mobile,génie civil,domaine forestier et agricole,commande à distance';
 

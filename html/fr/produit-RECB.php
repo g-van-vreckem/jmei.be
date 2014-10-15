@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RECB - Récepteur radio';
+	$title = 'JMei - RECB - Récepteur radio sécuritaire - Répéteur de télécommande';
 	$description = 'Récepteur de radiocommande industrielle JMei. Fonctions TOR, analogiques, CANbus, CANopen, Profibus ou Profinet. Arrêt de sécurité certifié.';
 	$keywords = 'récepteur,bus de terrain,profibus, CANbus,CANopen,Profinet,fonctions TOR,ralais,analogique,radiocommande,radio commandes,télécommande de ponts roulant';
 	$pageId = 'RECB';

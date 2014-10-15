@@ -1,6 +1,6 @@
 <?php
 	include 'common.php';
-	$title .= '';
+	$title = 'JMei - Radiocommande à distance - Radio télécommande sans fil industrielle';
 	$description = 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
 	$keywords = 'JMei,radiocommande industrielle,radiocommandes industrielles,radio-commande,radios-commandes,innovation,télécommande industrielle,télécommandes industrielles,IRC,personnalisation de radiocommande,réactivité,personnalisation,flexibilité,réactivité,expérience,fiabilité,télécommande pour l\'industrie,télécommandes pour l\'industrie';
 
