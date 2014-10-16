@@ -37,7 +37,7 @@
 							-
 							14 boutons double enfoncement	(2V). <br>
 							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
-							<p>Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
+							<p>Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
 							<br>
 							Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles.<br>
 							<br>
