@@ -78,7 +78,7 @@
 					</ul>                  
                   <hr>									
                   <a id="réalisations"></a>
-					<h4>Exemple de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>RCB90/L - Boîte à boutons 9 fonctions</h6>
@@ -99,7 +99,7 @@
 							<img src="../img/product-RCB90/rcb90_bot5.jpg" alt="Arrêt d'urgence télécommande">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande indistrielle universelle</h6>
+							<h6>Radiocommande industrielle universelle</h6>
 							<img src="../img/product-RCB90/rcb90_bot2.jpg" alt="Boîte à boutons industrielle">
 						</div>						
 						<div class="span3">
