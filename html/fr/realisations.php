@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'radiocommandes personnalisées,radiocommandes,dépannage rapide,émetteur,retour d\'informations,affichage de poids,manipulateur radio,commande à distance,radio-fréquence,arceau de protection';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence';
 
 	$pageId = 'realisations';
 	include 'header.php';

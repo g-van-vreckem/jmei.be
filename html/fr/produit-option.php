@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Clé mémoire - Démarrage sécurisé - Système tandem';
 	$description = 'Options pour les radiocommandes JMei. Clé mémoire émetteur, système de sécurité, coordination d\'équipements';
-	  $keywords = 'Clé mémoire,adresse émetteur,clé d\'identification,adresses fréquences stand-by paramétrables,clé d\'identification hardware,mémoire de la radiocommande,émetteur de réserve,démarrage sécurisé,TCA27,système de sécurité,système tandem';
+	  $keywords = 'JMei,Clé mémoire,Démarrage sécurisé,Système tandem,Options pour les radiocommandes,système de sécurité,radiocommandes,clé mémoire de la radiocommande,clé d\'identification hardware,mémoire externe,émetteur de secours,émetteur de réserve,boîte à boutons,radiocommande,TCA27,commande d’engins dangereux,fonctions de sécurité,source infrarouge,balise lumineuse,système de démarrage,Commande de systèmes complexes,ponts roulants,limiteurs de charge,Radiocommandes multi-émetteurs,Radiocommandes multi-récepteurs,Radiocommandes en réseau';
 	$pageId = 'OPTION';
 	$swiper = new Medias('/img/product-option/swiper/');		
 	include 'header.php';
@@ -73,8 +73,7 @@
 					<ul>
 						<li>Pas d’interférences possibles avec d’autres sources électromagnétiques, la fréquence utilisée par le système de démarrage est identique à celle employée pour les autres fonctions de la radiocommande.</li>
 						<li>Système totalement insensible à l’environnement industriel où est placée la radiocommande.</li>
-						<li>Pas de maintenance de capteur ou autres appareils servant à capter une source lumineuse placée sur le
-pont roulant et qui doit servir à la clé de démarrage.</li>
+						<li>Pas de maintenance de capteur ou autres appareils servant à capter une source lumineuse placée sur le pont roulant et qui doit servir à la clé de démarrage.</li>
 						<li>Pas de câblage compliqué, la balise est placée dans l’environnement proche du récepteur.</li>
 						<li><strong>Le système de démarrage JMei peut même être placé sur des radiocommandes qui ne seraient pas de fabrication JMei.</strong></li>
 					</ul>

@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title .= '';
-	$description .= '';
-	$keywords .= '';
+	$title = 'JMei Solution-Electronic-Radio transmission - Société de développement électronique et radio RC';
+	$description = 'JMei - Radiocommande industrielle - Nous contacter...';
+	$keywords = 'JMei,Solution,Electronic,Radio transmission,développement électronique,radio RC,Radiocommande industrielle,Marloie';
 
 	$pageId = 'contact';
 	$pageFooterScripts = <<<PAGESC

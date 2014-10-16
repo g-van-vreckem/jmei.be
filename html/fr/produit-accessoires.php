@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - accessoires pour télécommandes industrielles';
 	$description = 'Accessoires pour les radiocommandes JMei. Chargeur de batteries, accumulateur, housse de protection, ceinture de portage';
-	$keywords = 'chargeur,batterie,housse de protection,ceinture de portage,harnais pour télécommande';
+	$keywords = 'JMei,accessoires pour télécommandes industrielles,Chargeur de batteries,accumulateur,housse de protection,ceinture de portage,Bandoulière de portage pour radiocommande,Ceinture de portage pour radiocommande,Harnais de portage pour radiocommande,Housse de protection,Chargeur à microprocesseur,Rosace directionnelle';
 	$pageId = 'ACCESSORY';
 	$swiper = new Medias('/img/product-accessories/swiper/');		
 	include 'header.php';

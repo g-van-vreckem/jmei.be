@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommande à distance - Radio télécommande sans fil industrielle';
 	$description = 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
-	$keywords = 'JMei,radiocommande industrielle,radiocommandes industrielles,radio-commande,radios-commandes,innovation,télécommande industrielle,télécommandes industrielles,IRC,personnalisation de radiocommande,réactivité,personnalisation,flexibilité,réactivité,expérience,fiabilité,télécommande pour l\'industrie,télécommandes pour l\'industrie';
+	$keywords = 'JMei,Radiocommande à distance,Radio télécommande,Radio télécommande sans fil industrielle,solution électronique,radiocommandes industrielles,radio-transmission,IRC,Collard-Belgium-Electronics,radiocommande,innovation constante,télécommandes,dernières technologies,Marloie,Radios personnalisées,                    Personnalisation,Flexibilité,Innovation,Réactivité,Expérience,Fiabilité,équipe dynamique et professionnelle,service rapide et de qualité,Fabrication sur-mesure';
 
 	$pageId = 'home';
 	include 'header.php';

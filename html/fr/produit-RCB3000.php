@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - RCB3000 - Radiocommande analogique - Radio télécommande à joystick';
 	$description = 'Pupitre de commande à joystick,  entièrement parsonnalisable, pour la commande de machines mobiles et tout type d\'équipements industriels';
-	$keywords = 'Radiocommande,RCB3000,pupitre ventral,radio analogique,ultra-compact,léger,radiocommande,radiocommandes,radio commande,radio commandes,ponts roulant,commande à joystick,équipements de génie civil,manutention,équipement de levage mobile,Manitou,camion de remorquage,pompe à béton,camions de mélange,pont roulant,grue,grue hydraulique mobile,application mobile de transport de voiture,toutes applications de manutention';
+	$keywords = 'Radiocommande analogique,Radio télécommande,joystick,Pupitre de commande,commande de machines mobiles,RCB3000,JMei,Emetteur sécuritaire,pupitre ventral,commandes de tout engin industriel,télécommande sans fil,commandes de machines,Arrêt d\'urgence,manipulateurs,Sélecteurs à rappel,joystick,Fonctions analogiques,LCD graphique,émetteur de réserve,retour d\'information,Système Tandem,Démarrage sécurisé,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Equipement de levage,pont roulant,grue tour,portique,Equipement de manutention,Carrière,concasseur,brise-roches,bande transporteuse,commandes hydrauliques,grue sur camion,Machine mobile agricole et forestière,Génie civil,BTP,Applications minières,Applications maritimes,Radiocommande avec afficheur,Télécommande suivant cahier des charges,Radiocommande analogique,Radiocommande pour locotracteur';
 	$pageId = 'RCB3000';
 	$swiper = new Medias('/img/product-RCB3000/swiper/');	
 	include 'header.php';

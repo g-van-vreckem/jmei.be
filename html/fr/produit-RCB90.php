@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - RCB90 - Boîte à boutons industrielle - Télécommande pour pont roulant';
 	$description = 'Télécommande sans fil - boîte à boutons double vitesses pour la commande de pont roulant';
-	$keywords = 'émetteur sécuritaire,ultra-compact,léger, radiocommande,radiocommandes,radio commande,radio commandes,télécommande de ponts roulant,boîte à boutons,RCB90';
+	$keywords = 'RCB90,Boîte à boutons industrielle,Télécommande pour pont roulant,Télécommande sans fil,Radiocommande,Emetteur sécuritaire,usage industriel,Arrêt d\'urgence,Boutons double enfoncement,retour d\'information,émetteur de réserve,Clé d\'identification,Système Tandem,Démarrage sécurisé,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Radio personnalisée,Arrêt d\'urgence haute qualité,Radiocommande industrielle universelle,Pont roulant,Grue tour,Porte industrielle,Pompe,jet d\'eau,JMei';
 	$pageId = 'RCB90';
 	$swiper = new Medias('/img/product-RCB90/swiper/');
 	include 'header.php';
