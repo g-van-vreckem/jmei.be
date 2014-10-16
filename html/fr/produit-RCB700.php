@@ -21,51 +21,57 @@
 
 					<a id="description"></a>
 					<h4>Description</h4>
-					<ul>
-						<li>Boîtier émetteur ultra compact, léger, très robuste, réalisé en fonte d'aluminium.</li>
-						<li>Clé de mémoire disponible, pour une interchangeabilité facile des émetteurs.</li>
-						<li>Les pictogrammes et les voyants LED de l'émetteur permettent une excellente visualisation des commandes.</li>
-					    <li>Cet émetteur offre beaucoup de possibilités de personnalisations.</li>
-						<li>Convient pour tous types d'usages industriels nécessitant des fonctions TOR (1 vitesse), boîtier homme-mort, safeball,...</li>
-					</ul>
+						<p>Emetteur de type boîte à boutons sécuritaire de haute performance conçu pour les commandes de tout engin industriel.<br>La RCB700 est une télécommande sans fil configurable à souhait et de grande qualité. <br>Réalisée dans des boîtiers en aluminium, extrêmement robuste, elle offre une multitude de possibilités.</p>
+						<p>La taille du boîtier est modulable et permet de personnaliser notre production suivant le souhait du client.</p>
+						<p>Arrêt d'urgence coup-de-poing,  garantit une sécurité maximale.</p>
 					<a id="avantages"></a>
-					<h4>Avantages</h4>
+				  <h4>Avantages</h4>
 					<ul>
-						<li>Portée radio très longue.</li>
-						<li>Boîtier extrêmement solide.</li>
-						<li>Possibilité d'alimentation fixe en 12 ou 24V DC (en option).</li>
+						<li>Jusqu'à 20 fonctions TOR configurables.</li>
+						<li>Sélecteurs à rappel ou positions fixes.</li>
+						<li>Bouton-poussoir standard ou avec témoins lumineux.</li>
+						<li>Fonctions analogiques proportionnelles (4 MAX).</li>
+						<li>Face et inscription personnalisables.</li>
+						<li>Arrêt d'urgence coup-de-poing qualité militaire.</li>
+						<li>Accumulateur interne NiMH.</li>
+						<li>LED de diagnostic et retour d'information en option.</li>
+						<li>Ecran LCD graphique en option.</li>
+						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
 					</ul>
        				<hr>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
-						<li>Led de diagnostique et retour d'information.</li>
-						<li>Afficheur 7 segments.</li>
+						<li>Afficheur.</li>
+						<li>Lecteur code barre</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
-						<li>Démarrage sécurisé TCA27.</li>
 						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
 					</ul>  
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
 						<li>Housse de protection.</li>
-						<li>Chargeur à microprocesseur.</li>
-						<li>Accumulateur interchangeable NIMH.</li>
+						<li>Chargeur à microprocesseur de conception JMei.</li>
+						<li>Clips de fixation ceinture.</li>
+                      <li>Station de charge.</li>
+						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
 						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
 					</ul>					
 					<hr>
 					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
-						<li>Pont roulant.</li>
-						<li>Grue tour.</li>
-						<li>Porte industrielle.</li>
-						<li>Pompe, jet d'eau.</li>
+						<li>Débardeuse.</li>
+						<li>Pompe.</li>
+						<li>Scie.</li>
+						<li>Machines agricoles.</li>
+						<li>Machines forestières.</li>
+						<li>Equipements de sidérurgie.</li>
 					</ul>                  
                   <hr>					                    									
                   <a id="réalisations"></a>
-					<h4>Exemple de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Télécommande avec retour d'informations</h6>                            
