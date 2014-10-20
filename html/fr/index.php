@@ -98,7 +98,7 @@
                 </div>
                 <div class="span4">
                     <h2>Radios personnalisées!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=7" alt="Radiocommande Industrielle Profinet"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=8" alt="Radiocommande Industrielle de sécurité"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
