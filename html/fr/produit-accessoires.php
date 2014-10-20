@@ -99,6 +99,11 @@
 							<img src="../img/product-accessories/rosace.jpg" alt="Rosace directionnelle pour pont roulant"> 
 							<p>Rosace directionnelle qui indique les directions du pont roulant.</p>
 						</div>
+						<div class="span3">
+							<h5>Safeball</h5>
+							<img src="../img/product-accessories/safeball.jpg" alt="Homme mort pour télécommande de sécurité "> 
+							<p>Le système "homme-mort" radio-commandé.</p>
+						</div>
 					</div>                                                              
 				</div>
 			</div>

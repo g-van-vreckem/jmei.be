@@ -306,6 +306,7 @@
 						  <p>- Batterie de réserve et chargeur (12-24V DC, 220V AC).</p>
 						  <p>- Housse de protection (nylon ou cuir).</p>
 						  <p>- Rosace directionnelle de couleur.</p>
+						  <p>- Sécurité Safeball (homme-mort radio-commandé).</p>                          
 						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/access1.jpg?v=2" data-type="img"></a>

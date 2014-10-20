@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,9 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                         <li class="active"><a href="#blog-2014-09">Télécommande avec répéteur radio <i class="icon-chevron-right pull-right"></i></a></li>                         <li><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li class="active"><a href="#blog-2014-10">Télécommande Safeball <i class="icon-chevron-right pull-right"></i></a></li>                               
+                         <li><a href="#blog-2014-09">Télécommande avec répéteur radio <i class="icon-chevron-right pull-right"></i></a></li>                         
+                         <li><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-05">Radio scan code-barres <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-04">Radiocommande pour bande transporteuse <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-03">Télécommande ultra-compacte <i class="icon-chevron-right pull-right"></i></a></li>
@@ -27,6 +29,18 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2014-10"></a>
+					<section>
+						<h3>Télécommande Safeball - Radiocommande "Homme-mort"</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-10-700.jpg?v=1" alt="télécommande homme-mort">
+						<p>Radio-télécommande avec système safeball.<br>
+						La télécommande de sécurité  safeball comporte une boule ergonomique à sécurité redondante (deux boutons-poussoirs). <br>
+						Cette commande bimanuelle trouve facilement sa place dans les systèmes &quot;homme-mort&quot; de sécurité.<br> 
+						Le système radiocommandé sera actif au moment où les deux contacts de la safeball seront actionnés.<br>
+						Ce système peut être couplé avec tous les modèles de télécommande RC de la gamme JMei.
+						</p>
+					</section>
+					<hr> 
 					<a class="anchor" id="blog-2014-09"></a>
 					<section>
 						<h3>Télécommande avec répéteur radio (et réseau d'antennes)</h3>
@@ -45,7 +59,7 @@
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-06"></a>
-					<section>
+				  <section>
 						<h3>Commande à distance pour locotracteur (engins sur rails)</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-06-3000.jpg?v=1" alt="Commande à distance pour locotracteur">
 						  <p>Télécommande avec combinateur spécialement développé pour la commande à distance de locotracteur.
