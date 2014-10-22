@@ -115,7 +115,7 @@
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=4" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=5" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                   <p class="lead text-center">Une équipe dynamique et professionnelle</p>
@@ -124,7 +124,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=4" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=5" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
