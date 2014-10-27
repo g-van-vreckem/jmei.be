@@ -165,15 +165,15 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>L'émetteur industriel &quot;Haut de gamme&quot;.</strong></p>
+							<p><strong>L'émetteur industriel &quot;haut de gamme&quot;.</strong></p>
 							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues.<br>
                             <br>
-							Jusqu'à 8 fonctions analogiques (3 joysticks double axes).</p>
+							Jusqu'à 8 fonctions analogiques (3 joysticks double axe).</p>
 							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes.<br>
 							<br>
 							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
 							<br>
-							Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
+							Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur LCD).<br>
 							<br>
 							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
