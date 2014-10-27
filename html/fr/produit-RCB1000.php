@@ -28,7 +28,7 @@
 					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
-						<li>2 ou 3 ou 4 manipulateurs 2 axes.</li>
+						<li>2, 3 ou 4 manipulateurs 2 axes.</li>
 						<li>Jusque 8 manipulateurs uniaxes.</li>
 						<li>Sélecteurs à rappel ou positions fixes.</li>
 						<li>Bouton-poussoir standard ou avec témoins lumineux.</li>
@@ -36,12 +36,12 @@
 						<li>Fonctions analogiques proportionnelles.</li>
 						<li>Face et inscription personnalisables.</li>
 						<li>Fonction inclinomètre en option.</li>
-						<li>Joystiques avec fonction homme-mort.</li>
+						<li>Joysticks avec fonction homme-mort.</li>
 						<li>Arrêt d'urgence coup-de-poing qualité militaire.</li>
 						<li>Accumulateur interchangeable NiMH.</li>
 						<li>LED de diagnostic et retour d'information en option.</li>
 						<li>Ecran LCD graphique en option.</li>
-						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour  plusieurs équipements).</li>
+						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
 					</ul>
 					<hr>
 					<a id="options"></a>
@@ -74,7 +74,7 @@
 					</ul>                  
                   <hr>
                   <a id="réalisations"></a>
-					<h4>Exemple de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommande - prise en main sécuritaire</h6>
