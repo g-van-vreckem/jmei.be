@@ -49,6 +49,8 @@
 			self::addPage ( new Page ( 'realisations', 'en' ) );
 			self::addPage ( new Page ( 'realisations', 'fr' ) );
 			
+			self::addPage ( new Page ( 'sadamec', 'fr', 'radio-sadamec' ) );
+			
 			self::addPage ( new Page ( 'terms', 'en', 'terms', '', Page::PAGE_PHP, true, .5 ) );
 			self::addPage ( new Page ( 'terms', 'fr', 'mentions-legales', '', Page::PAGE_PHP, true, .5 ) );
 			
