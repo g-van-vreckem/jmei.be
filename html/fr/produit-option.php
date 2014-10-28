@@ -17,7 +17,6 @@
 <?php echo $swiper->html; ?>                     
 					</div>
 					<p></p>                
-					<p><a href="<?php echo Site::relativeUrl('KEY.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<hr>
 <a href="#hardkey">Clé hardware <i class="icon-hand-down"></i></a><br>
 <a href="#TCA27">Démarrage sécuritaire <i class="icon-hand-down"></i></a><br>
