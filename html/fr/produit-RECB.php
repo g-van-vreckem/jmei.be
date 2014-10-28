@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - RECB - Récepteur radio sécuritaire - Répéteur de télécommande';
 	$description = 'Récepteur de radiocommande industrielle JMei. Fonctions TOR, analogiques, CANbus, CANopen, Profibus ou Profinet. Arrêt de sécurité certifié.';
-	$keywords = 'récepteur,bus de terrain,profibus, CANbus,CANopen,Profinet,fonctions TOR,ralais,analogique,radiocommande,radio commandes,télécommande de ponts roulant';
+	$keywords = 'JMei,RECB,Récepteur radio sécuritaire,Répéteur de télécommande,Récepteur de radiocommande industrielle,récepteur radio HF,commande de tout engin industriel,normes industrielles,Relais de sécurité,arrêt d\'urgence,PWM,entrée TOR,entrée analogique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,fiche Harting,Pont roulant,Grue tour,Camion hydraulique,Engins spéciaux,Automate';
 	$pageId = 'RECB';
 	$swiper = new Medias('/img/product-RECB/swiper/');	
 	include 'header.php';
@@ -18,42 +18,51 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('KEY');?>">Consulter la fiche technique</a></p>	<br>
+					<hr>
 					<a id="description"></a>
 					<h4>Description</h4>
-					<ul>                      
-						<li>Fonctionne avec l'entièreté de la gamme des télécommandes JMei.</li>
-						<li>22 sorties digitales optocouplées en standard (40 en option).</li>
-						<li>Relais arrêt de sécurité, à contacts guidés.</li>
-						<li>Bi-processeurs.</li>                    
-					</ul>
+						<p>Récepteur associé à toute la gamme des émetteurs JMei.</p>
+						<p>Entièrement configurable, ce récepteur radio HF permet la commande de tout engin industriel.</p>
+						<p>Carte mère à relais de haute technologie, éprouvée et très résistante, ce boîtier s'adapte à toutes les applications industrielles.</p>
+						<p>Répondant aux dernières normes industrielles, le récepteur peut être installé dans les zones techniques les plus contraignantes à tous les niveaux.</p>
 					<a id="avantages"></a>
                   <h4>Avantages</h4>
 					<ul>
-						<li>Alimentation étendue (12VDC / 24..48V AC/DC).</li>
-						<li>Reconnaissance automatique des fréquences.</li>
-						<li>Entièrement modulable.</li>
+						<li>Pré-câblé ou non.</li>
+						<li>Couvercle transparent pour diagnostique facile.</li>
+						<li>22 sorties TOR.</li>
+						<li>Relais de sécurité à contacts guidés pour l'arrêt d'urgence.</li>
+						<li>LED de diagnostic et retour d'information en option.</li>
+						<li>Ecran LCD graphique en option.</li>
+						<li>Système exclusif de changements de fréquence automatique.</li>
 					</ul>
 					<hr>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
 						<li>Transmission en mode bidirectionnel.</li>
-						<li>8 sorties analogiques.</li>
-						<li>40 entrées digitales optocouplées.</li>
-						<li>8 entrées analogiques.</li>
-						<li>Bus de terrain (Fieldbus:CANbus, CANopen, Profibus, Profinet).</li>
-						<li>Liaison série optocouplée (RS232, RS485).</li>                        
-					</ul>                      
+						<li>Aimant de support.</li>
+						<li>Analogique (0-10V 4-20mA +/- 10V +/-20mA).</li>
+						<li>PWM.</li>
+						<li>Carte d'entrée TOR.</li>
+						<li>Carte d'entrée analogique.</li>
+						<li>Connexion Profibus,  Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
+						<li>Boîtier métallique.</li>
+						<li>Câblage fiche Harting, ou autre.</li>
+					</ul>                     
 					<hr>
 					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
-						<li>Toutes les applications industrielles.</li>
+						<li>Pont roulant.</li>
+						<li>Grue tour.</li>
+						<li>Camion hydraulique.</li>
+						<li>Engins spéciaux.</li>
+						<li>Automate,…</li>
 					</ul> 
                  <hr>									
                   <a id="réalisations"></a>
-					<h4>Exemple de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Récepeur de radiocommande</h6>
