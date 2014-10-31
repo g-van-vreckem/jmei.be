@@ -16,7 +16,7 @@
 							<li<?php echo Site::addActiveClass('references'); ?>><a href="<?php echo Site::relativeUrl('references');?>">Références</a></li>
 							<li<?php echo Site::addActiveClass('realisations'); ?>><a href="<?php echo Site::relativeUrl('realisations');?>">Réalisations</a></li>
 							<li<?php echo Site::addActiveClass('distribution'); ?>><a href="<?php echo Site::relativeUrl('distribution');?>">Distribution</a></li>
-							<li<?php echo Site::addActiveClass('sadamec'); ?>><a href="<?php echo Site::relativeUrl('sadamec');?>">Sadamec services</a></li>
+							<li<?php echo Site::addActiveClass('sadamec'); ?>><a href="<?php echo Site::relativeUrl('sadamec');?>">Télécommandes Sadamec</a></li>
 						</ul>
 						<ul class="nav pull-right">
 							<li class="dropdown">

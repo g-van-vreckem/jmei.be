@@ -5,21 +5,12 @@
 	$keywords = 'JMei,entretient,dépannage,télécommande SADAMEC,service SADamec,SADamec radiocommande,SADAMEC,services SADamec,radios sur-mesure,SADamec TEChnologie';
 
 	$pageId = 'sadamec';
+	$swiper = new Medias('/img/sadamec/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 
 ?>
- 					<div class="row">
-						<div class="span3">
-							<img src="../img/sadamec/jmei.jpg" alt="Télécommande SADAMEC">
-						</div>
-						<div class="span3">
-							<img src="../img/sadamec/fr.jpg" alt="Télécommande SADAMEC">
-						</div>
-						<div class="span3">
-							<img src="../img/sadamec/pok.jpg" alt="Télécommande SADAMEC">
-						</div>                                                
-					</div>  
+<?php echo $swiper->html; ?>
 					<hr>                             
 			<h4>Un service radio SADamec TEChnologie assuré</h4>
 				<p>Il y a quelques mois, POK- fabricant de matériel de lutte contre l'incendie nous annonçait que dans le cadre de son département Lance Monitor Radiocommandée et ensuite dans son nouveau département POK Technology, pouvoir réaliser les études, le développement et la réalisation de commandes à distance sans fil ou filaire pour le secteur de la sécurité incendie <u>et pour l'industrie</u>.<br>Cette démarche était renforcée par l'arrivée du directeur technique de SADAMEC.</p>
@@ -32,5 +23,27 @@
 <strong>POK et JMei</strong> sont certains de par cette décision de mieux répondre aux demandes du secteur industriel.</p>
 
 			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, JMei sera toujours en mesure de vous proposer la meilleure solution!</p>
-
+					<hr>             
+ 					<div class="row">
+						<div class="span3">
+							<img src="../img/sadamec/sadamec2.jpg?v=2" alt="Télécommande SADAMEC">
+						</div>
+						<div class="span3">
+							<img src="../img/sadamec/pok2.jpg" alt="Télécommande SADAMEC">
+						</div>
+						<div class="span3">
+							<img src="../img/sadamec/jmei.jpg" alt="Télécommande SADAMEC">
+						</div>                                                
+					</div> 
+ 					<div class="row">
+						<div class="span3">
+							<img src="../img/sadamec/sad1.jpg" alt="Télécommande SADAMEC">
+						</div>
+						<div class="span3">
+							<img src="../img/sadamec/sad2.jpg" alt="Télécommande SADAMEC">
+						</div>
+						<div class="span3">
+							<img src="../img/sadamec/sad3.jpg" alt="Télécommande SADAMEC">
+						</div>                                                
+					</div> 
  <?php include 'footer.php';?>
