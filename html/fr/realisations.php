@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                         <li class="active"><a href="#blog-2014-10">Télécommande Safeball <i class="icon-chevron-right pull-right"></i></a></li>                               
+                         <li class="active"><a href="#blog-2014-11">Télécommande forestière <i class="icon-chevron-right pull-right"></i></a></li> 
+                         <li><a href="#blog-2014-10">Télécommande Safeball <i class="icon-chevron-right pull-right"></i></a></li>                               
                          <li><a href="#blog-2014-09">Télécommande avec répéteur radio <i class="icon-chevron-right pull-right"></i></a></li>                         
                          <li><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
                          <li><a href="#blog-2014-05">Radio scan code-barres <i class="icon-chevron-right pull-right"></i></a></li>
@@ -29,6 +30,13 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2014-11"></a>
+					<section>
+						<h3>Commande forestière - Télécommande pour treuil</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-11-700.jpg?v=1" alt="télécommande forestière">
+					  <p>Commande à distance pour treuil forestier.<br>Cette télécommande sans fil forestière et agricole en aluminium allie légèreté et robustesse.<br>Hautement sécuritaire avec son arrêt d'urgence de qualité militaire, elle premet la commande de deux treuils indépendants.<br>Les fonctions supplémentaires permettent de commander l'allumage du moteur à distance, de régler le régime moteur et d'activer un avertisseur sonore (klaxon).</p>
+					</section>
+					<hr> 
 					<a class="anchor" id="blog-2014-10"></a>
 					<section>
 						<h3>Télécommande Safeball - Radiocommande "Homme-mort"</h3>
