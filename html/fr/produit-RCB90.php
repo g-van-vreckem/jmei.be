@@ -17,8 +17,8 @@
 <?php echo $swiper->html; ?>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB90-datasheet.pdf');?>">Consulter la fiche technique</a></p>   
+					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p> <a href="<?php echo Site::relativeUrl('RCB90-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>   
 				  <a id="description"></a>
 					<h4>Description</h4>
 						<p>Emetteur sécuritaire de haute performance de type boîte à boutons conçu pour des commandes en Tout Ou Rien (TOR).</p>
@@ -57,7 +57,7 @@
 						<li>Système Tandem maître/esclave.</li>
 						<li>Démarrage sécurisé TCA27.</li>
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-warning btn-mini"><i class="icon-white icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
 					<a id="accessoires"></a>
 				  <h4>Accessoires</h4>
@@ -65,7 +65,7 @@
 						<li>Housse de protection.</li>
 						<li>Chargeur à microprocesseur de conception JMei.</li>
 						<li>Accumulateur interchangeable NiMH.</li>
-						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-warning btn-mini"><i class="icon-white icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
 					<hr>
 					<a id="applications"></a>
