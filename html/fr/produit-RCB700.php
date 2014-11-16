@@ -17,7 +17,7 @@
 <?php echo $swiper->html; ?>                        
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 
 					<a id="description"></a>
 					<h4>Description</h4>
@@ -46,7 +46,7 @@
 						<li>Afficheur.</li>
 						<li>Lecteur code barre</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
-						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
@@ -56,7 +56,7 @@
 						<li>Clips de fixation ceinture.</li>
                       <li>Station de charge.</li>
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
 					<hr>
 					<a id="applications"></a>

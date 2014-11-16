@@ -18,9 +18,9 @@
 					</div>
 					<p></p>                
 					<hr>
-<a href="#hardkey">Clé hardware <i class="icon-hand-down"></i></a><br>
-<a href="#TCA27">Démarrage sécuritaire <i class="icon-hand-down"></i></a><br>
-<a href="#tandem">Commande de systèmes complexes <i class="icon-hand-down"></i></a>
+					<p> <a href="#hardkey" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Clé hardware</a></p> 
+					<p> <a href="#TCA27" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Démarrage sécuritaire</a></p> 
+					<p> <a href="#tandem" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Commande de systèmes complexes</a></p> 
 					<hr>                  
 					<a class="anchor" id="hardkey"></a>
 					<h3>Clé hardware</h3>    

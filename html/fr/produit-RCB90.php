@@ -57,7 +57,7 @@
 						<li>Système Tandem maître/esclave.</li>
 						<li>Démarrage sécurisé TCA27.</li>
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-warning btn-mini"><i class="icon-white icon-plus-sign"></i> Plus d'infos...</a></p> 
+						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
 					<a id="accessoires"></a>
 				  <h4>Accessoires</h4>
@@ -65,7 +65,7 @@
 						<li>Housse de protection.</li>
 						<li>Chargeur à microprocesseur de conception JMei.</li>
 						<li>Accumulateur interchangeable NiMH.</li>
-						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-warning btn-mini"><i class="icon-white icon-plus-sign"></i> Plus d'infos...</a></p> 
+						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
 					<hr>
 					<a id="applications"></a>

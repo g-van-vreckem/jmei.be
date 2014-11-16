@@ -17,7 +17,7 @@
 <?php echo $swiper->html; ?>                    
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<hr>
 					<a id="description"></a>
 					<h4>Description</h4>

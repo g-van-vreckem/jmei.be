@@ -17,8 +17,8 @@
 <?php echo $swiper->html; ?>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>">Consulter la fiche technique</a></p>  
+					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p> <a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>  
                   <a id="description"></a>
                   <h4>Description</h4>
 				  <p>Radiocommande extrêmement robuste et sécuritaire de haute performance de type pupitre ventral conçu pour les commandes de tout engin industriel dans les environnements lourds.</p>
@@ -53,7 +53,7 @@
 						<li>Système Tandem maître/esclave.</li>
 						<li>Démarrage sécurisé TCA27.</li>
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-						<p><a href="<?php echo Site::relativeUrl('OPTION');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
@@ -61,7 +61,7 @@
 						<li>Housse de protection en cuir.</li>
 						<li>Chargeur à microprocesseur de conception JMei.</li>
 						<li>Accumulateur interchangeable NiMH.</li>
-						<p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>">Plus d'infos...</a></p>
+						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
 					<hr>
 					<a id="applications"></a>

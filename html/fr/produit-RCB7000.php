@@ -19,7 +19,7 @@
 						</div>
 					</div>
 					<p></p>		
-					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 
 					<a name="features"></a><h4>Caractéristiques</h4>
 					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
