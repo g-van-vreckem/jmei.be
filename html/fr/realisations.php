@@ -34,7 +34,7 @@
 					<section>
 						<h3>Commande forestière - Télécommande pour treuil</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-11-700.jpg?v=1" alt="télécommande forestière">
-					  <p>Commande à distance pour treuil forestier.<br>Cette télécommande sans fil forestière et agricole en aluminium allie légèreté et robustesse.<br>Hautement sécuritaire avec son arrêt d'urgence de qualité militaire, elle premet la commande de deux treuils indépendants.<br>Les fonctions supplémentaires permettent de commander l'allumage du moteur à distance, de régler le régime moteur et d'activer un avertisseur sonore (klaxon).</p>
+					  <p>Commande à distance pour treuil forestier.<br>Cette télécommande sans fil forestière et agricole en aluminium allie légèreté et robustesse.<br>Hautement sécuritaire avec son arrêt d'urgence de qualité militaire, elle permet la commande de deux treuils indépendants.<br>Les fonctions supplémentaires permettent de commander l'allumage du moteur à distance, de régler le régime moteur et d'activer un avertisseur sonore (klaxon).</p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-10"></a>
