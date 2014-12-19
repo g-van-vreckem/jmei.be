@@ -99,8 +99,10 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contact Us! &raquo;</a></p>
                 </div>
                 <div class="span4">
-                    <h2>Featured customization!</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=7" alt="Remote Control Profinet"></a>
+                
+                    <h2>JMei wish you an happy new year!</h2>
+ <!-- /.Featured customization! -->  
+                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.gif?v=7" alt="Remote Control Profinet"></a>
                </div>
                 <div class="span4">
 					<h2>Our strengths</h2>
