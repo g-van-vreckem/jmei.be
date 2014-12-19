@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
 	$title = 'SADAMEC - Service et pièces pour télécommande SADamec TEChnologie';
-	$description = 'La société JMei assure l\'entretient, le dépannage, la mise à niveau ou tout simplement la fourniture de pièces de rechange pour l\'ensemble du matériel de télécommande SADamec TEChnologie';
-	$keywords = 'JMei,entretient,dépannage,télécommande SADAMEC,service SADamec,SADamec radiocommande,SADAMEC,services SADamec,radios sur-mesure,SADamec TEChnologie';
+	$description = 'La société JMei assure l\'entretien, le dépannage, la mise à niveau ou tout simplement la fourniture de pièces de rechange pour l\'ensemble du matériel de télécommande SADamec TEChnologie';
+	$keywords = 'JMei,entretien,dépannage,télécommande SADAMEC,service SADamec,SADamec radiocommande,SADAMEC,services SADamec,radios sur-mesure,SADamec TEChnologie';
 
 	$pageId = 'sadamec';
 	$swiper = new Medias('/img/sadamec/swiper/');	
