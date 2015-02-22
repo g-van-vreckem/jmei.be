@@ -100,9 +100,9 @@
                 </div>
                 <div class="span4">
                 
-                    <h2>JMei wish you an happy new year!</h2>
- <!-- /.Featured customization! -->  
-                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.gif?v=7" alt="Remote Control Profinet"></a>
+                    <h2>Featured customization</h2>
+ <!-- /.JMei wish you an happy new year!! -->  
+                    <a href="<?php echo Site::relativeUrl('realisations');?>"><img src="../img/home/month-radio.jpg?v=8" alt="Remote Control Profinet"></a>
                </div>
                 <div class="span4">
 					<h2>Our strengths</h2>
