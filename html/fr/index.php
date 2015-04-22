@@ -99,7 +99,7 @@
                 <div class="span4">
 						<h2>Exemple de réalisations</h2>
  <!-- /.Radios personnalisées! -->          
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=10" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=11" alt="Radiocommande Industrielle de sécurité"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
@@ -116,7 +116,7 @@
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=5" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=7" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                   <p class="lead text-center">Une équipe dynamique et professionnelle</p>
