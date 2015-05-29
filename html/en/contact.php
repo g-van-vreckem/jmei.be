@@ -51,7 +51,7 @@ PAGESC;
                     <h2>Comptability</h2>
 					<p>JMei sprl<br>
 					VAT: BE0 534 889 177<br>
-					<a href="pdf/JMei%20sprl.pdf">Banking information</a></p>
+					<a href="pdf/JMeisprl.pdf">Banking information</a></p>
 				</div>
             </div>
 			<div class="row">

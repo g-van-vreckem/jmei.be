@@ -53,7 +53,7 @@ PAGESC;
                     <h2>Comptabilité</h2>
 					<p>JMei sprl<br>
 					TVA: BE0 534 889 177<br>
-					<a href="pdf/JMei%20sprl.pdf">Coordonnées bancaires</a></p>
+					<a href="pdf/JMeisprl.pdf">Coordonnées bancaires</a></p>
 				</div>
 			</div>
 			<div class="row">
