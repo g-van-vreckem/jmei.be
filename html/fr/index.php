@@ -11,10 +11,10 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=6" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=8" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">JMei, les solutions industrielles.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">JMei, les solutions industrielles éprouvées.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -63,10 +63,10 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-07.jpg?v=1" alt="JMei radiocommande ex inradco ex collard">
+						<img src="../img/home/slide-07.jpg?v=2" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Télécommandes pocket, légères, économiques.
+								<p class="lead">Télécommandes S-LYT, légères, économiques.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('JMPOCKET');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
