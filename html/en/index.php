@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=6" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=2" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">After much efforts, IRC becomes JMei
@@ -128,7 +128,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">View details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=6" alt="Featured Product Hélice RCB1000 RCB3000"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=4" alt="Featured Product Hélice RCB1000 RCB3000"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

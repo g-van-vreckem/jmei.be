@@ -11,10 +11,10 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=6" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=2" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">JMei, les solutions industrielles.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">JMei, la continuité de IRC et Collard-Belgium-Electronics.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -125,7 +125,7 @@
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=6" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=5" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
