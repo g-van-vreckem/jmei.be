@@ -9,7 +9,8 @@
 	include 'nav.php';
 
 ?>
-			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
+			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
             
 			<h4>Un nouveau départ</h4>
 			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
