@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=6" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=7" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">After much efforts, IRC becomes JMei
@@ -20,7 +20,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg?v=2" alt="Wireless Monitoring of Grain">
+						<img src="../img/home/slide-02.jpg?v=3" alt="Wireless Monitoring of Grain">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Quality, Cost, Reliability. Welcome in the JMei radio control world!
@@ -29,7 +29,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-03.jpg" alt="">
+						<img src="../img/home/slide-03.jpg?v=2" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Flexibility, focus on your specific needs.
@@ -38,7 +38,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-04.jpg?v=1" alt="">
+						<img src="../img/home/slide-04.jpg?v=2" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Strength trough constant innovation. receiver Profibus, Ethernet or Can Bus modes
@@ -47,7 +47,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-05.jpg?v=1" alt="remote control of shunter">
+						<img src="../img/home/slide-05.jpg?v=2" alt="remote control of shunter">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Engineered to meet specific customer's needs.
@@ -56,7 +56,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg?v=1" alt="">
+						<img src="../img/home/slide-06.jpg?v=2" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Our strength: our references.<br>Our grow: your trust.
@@ -65,7 +65,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-07.jpg?v=1" alt="">
+						<img src="../img/home/slide-07.jpg?v=3" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">All kinds of customization with brand new technologies.
@@ -74,7 +74,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-08.jpg" alt="">
+						<img src="../img/home/slide-08.jpg?v=1" alt="">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Transmitter with any possible displays, bidirectional.
