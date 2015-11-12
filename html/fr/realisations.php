@@ -15,7 +15,7 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-							<li class="active"><a href="#blog-2015-10">Technologie Infra-rouge <i class="icon-chevron-right pull-right"></i></a></li> 
+							<li class="active"><a href="#blog-2015-10">Technologie Infra-Rouge <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-05">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-02">Radio-télécommande double vitesse <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2014-11">Télécommande forestière <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -35,11 +35,11 @@
 				<!--Body content-->
 					<a class="anchor" id="blog-2015-10"></a>
 					<section>
-					  <h3>Radio télécommande infra-rouge</h3>
+					  <h3>Radio télécommande Infra-Rouge</h3>
 					  <img class="img-polaroid blog" src="../img/custom-product/2015-10-3000.jpg?v=1" alt="télécommande pour le levage">
-					  <p>Télécommande mixe: associe la technologie IR et HF.<br>
+					  <p>Télécommande mixte: associe la technologie IR et HF.<br>
 					  Le solution Haute-Fréquence permet la commande de l'application à distance de manière confortable et sécuritaire.<br>
-					  La solution Infra-rouge 
+					  La solution Infra-Rouge 
 					  permet un démarrage sécurisé ainsi qu'un zonage précis, n'autorisant la commande de certaine fonctions délicates qu'après mise en sécurité totale de l'opérateur.</p>
 					</section>
 					<hr> 
