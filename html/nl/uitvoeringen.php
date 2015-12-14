@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-                         <li class="active"><a href="#blog-2015-04">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
+							<li class="active"><a href="#blog-2015-10">Technologie Infra-Rouge <i class="icon-chevron-right pull-right"></i></a></li> 
+                         <li><a href="#blog-2015-05">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-02">Radio-télécommande double vitesse <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2014-11">Télécommande forestière <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2014-10">Télécommande Safeball <i class="icon-chevron-right pull-right"></i></a></li>                               
@@ -32,6 +33,16 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2015-10"></a>
+					<section>
+					  <h3>Radio télécommande Infra-Rouge</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2015-10-3000.jpg?v=1" alt="télécommande pour le levage">
+					  <p>Télécommande mixte: associe la technologie IR et HF.<br>
+					  Le solution Haute-Fréquence permet la commande de l'application à distance de manière confortable et sécuritaire.<br>
+					  La solution Infra-Rouge 
+					  permet un démarrage sécurisé ainsi qu'un zonage précis, n'autorisant la commande de certaine fonctions délicates qu'après mise en sécurité totale de l'opérateur.</p>
+					</section>
+					<hr> 
 					<a class="anchor" id="blog-2015-05"></a>
 					<section>
 						<h3>Télécommande bidirectionnelle pour treuils maritimes</h3>

@@ -11,15 +11,15 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=6" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">JMei, les solutions industrielles.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">JMei, les solutions industrielles éprouvées.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg?v=2" alt="Radiocommande pour silo de stockage à grain">
+						<img src="../img/home/slide-02.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
@@ -28,7 +28,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-03.jpg" alt="Radiocommande profibus bidirectionnelle">
+						<img src="../img/home/slide-03.jpg?v=1" alt="Radiocommande profibus bidirectionnelle">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Flexibilité, innovation, solution à vos besoins spécifiques.
@@ -37,7 +37,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-04.jpg?v=1" alt="Commande à distance remorque">
+						<img src="../img/home/slide-04.jpg?v=2" alt="Commande à distance remorque">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei puise sa force  grâce à l'innovation constante.
@@ -46,7 +46,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-05.jpg?v=1" alt="Radiocommande locotracteur">
+						<img src="../img/home/slide-05.jpg?v=2" alt="Radiocommande locotracteur">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Des télécommandes conçues pour répondre aux besoins spécifiques des clients.
@@ -55,24 +55,24 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg?v=1" alt="Télécommande industrielle avec code barre">
+						<img src="../img/home/slide-06.jpg?v=6" alt="Télécommande industrielle avec code barre">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Notre force:  votre confiance!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
+								<p class="lead">Nous sommes vos yeux.. déportés!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-07.jpg?v=1" alt="JMei radiocommande ex inradco ex collard">
+						<img src="../img/home/slide-07.jpg?v=7" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Télécommandes pocket, légères, économiques.
+								<p class="lead">A chaque procédé industriel sa solution radio.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('JMPOCKET');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-08.jpg" alt="Commande pont roulant">
+						<img src="../img/home/slide-08.jpg?v=1" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.
@@ -99,7 +99,7 @@
                 <div class="span4">
 						<h2>Exemple de réalisations</h2>
  <!-- /.Radios personnalisées! -->          
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=11" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=12" alt="Radiocommande Industrielle de sécurité"></a>
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>
