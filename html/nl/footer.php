@@ -5,17 +5,18 @@
 					<ul class="nav">
 						<li class="navbar-text navbar-inverse">&copy; JMei 2015</li>
 						<li<?php echo Site::addActiveClass('terms'); ?>><a href="<?php echo Site::relativeUrl('terms');?>">legal</a></li>
-						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Find us on Google+</a></li>
+						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Zoek ons op Google+</a></li>
 						<li><a href="https://www.facebook.com/JMei.be" rel="publisher">Facebook</a></li>
 						<li><a href="https://www.linkedin.com/company/jmei-solution-electronic-radio-transmission" rel="publisher">LinkedIn</a></li>
+						<li><a href="https://twitter.com/JMeiBelgium" rel="publisher">Twitter</a></li>                        
 					</ul>
 					<ul class="nav pull-right">
 						<li class="dropdown">
-							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="cus-flag-gb"></i> English <b class="caret"></b></a>
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="cus-flag-nl"></i> Neederlands <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li ><a href="<?php echo Site::relativeUrl($pageId, 'fr');?>"><i class="cus-flag-fr"></i> Français</a></li>
-								<li><a href="<?php echo Site::relativeUrl($pageId, 'nl');?>"><i class="cus-flag-nl"></i> Neederlands</a></li>
-								<li class="active"><a href="#"><i class="cus-flag-gb"></i> English</a></li>
+								<li><a href="<?php echo Site::relativeUrl($pageId, 'en');?>"><i class="cus-flag-gb"></i> English</a></li>
+								<li class="active"><a href="#"><i class="cus-flag-nl"></i> Neederlands</a></li>
 							</ul>
 						</li>
 					</ul>

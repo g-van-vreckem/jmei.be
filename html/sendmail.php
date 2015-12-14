@@ -71,6 +71,15 @@ BODY;
 				echo '<p><b>Votre message a été envoyé, nous vous contacterons dès que possible.<br>Merci.</b></p>';
 			}
 			break;
+		case 'nl':
+			if ($msgCount === false) {
+				$URLsubject = rawurlencode($subject);
+				$URLmessage = rawurlencode($msg_text);
+				echo "<p class='text-warning'>Nous n'avons pas pu envoyé votre message, Utilisez ce bouton:</p><p><a class='btn' href='mailto:{$to}?subject={$URLsubject}&amp;body={$URLmessage}'>Contactez Nous</a></p>";
+			} else {
+				echo '<p><b>Votre message a été envoyé, nous vous contacterons dès que possible.<br>Merci.</b></p>';
+			}
+			break;
 		default:
 			if ($msgCount === false) {
 				$URLsubject = rawurlencode($subject);
