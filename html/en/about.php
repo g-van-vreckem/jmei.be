@@ -1,44 +1,51 @@
 <?php
 	include 'common.php';
-	$title .= '';
-	$description .='';
+	$title = 'JMei radiocommandes industrielles, made in Belgium';
+	$description = 'Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients';
+	$keywords = 'JMei,radiocommandes industrielles,Belgium,fabrication de radiocommandes,fabricant en Belgique,solutions sur-mesure,société IRC,idées innovantes,équipe dynamique,radiocommande industrielle,produits de haute qualité,environnements industriels,service rapide et personnalisé,matériaux de haute qualité,prix attractifs,leaders européens,normes de sécurité,gamme de radiocommandes,Boîtes à boutons double vitesse,Pupitres à commandes progressives,Retour d\'informations,Options sécuritaires,Bus de terrain,profibus,can bus,ethernet,profinet,Mines et carrières,Maritime,Forêts et équipements agricoles,Transport routier,Bâtiments et Travaux Publics,BTP,Eolien et énergies renouvelables,transmissions radioélectriques,solutions personnalisées';
+
 	$pageId = 'about';
 	include 'header.php';
 	include 'nav.php';
 
 ?>
-<h4>A new start</h4>
-<p>In June 2013, JMei took control of the IRC society. With innovating ideas, a new Management and a dynamic team, we are committed to develop our products and give our customers the greatest satisfaction.</p>
+			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
+            
+			<h4>Un nouveau départ</h4>
+			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
 
-<h4>Welcome to the world of the JMei radio control.</h4>
-<p>With an experience of 25 years in the design and manufacture of remote controls, the company Jmei offers tailor-made solutions for its customers. From the beginning, Jmei decided to produce high quality products, reliable and robust, suitable for all types of industrial environments, even the most difficult.</p>
- 
-<h4>A professional and dynamic team</h4>
-<p>JMei, made of a professional and dynamic team, provide a quick and personable service. All our products are entirely designed and manufactured in our own engineering shop. We only use high quality materials to be sure that any remote control will be totally efficient and safe to use. Moreover, our business policy is to always have attractive prices, setting us amongst the European leaders in radio controls.</p>
+			<h4>Bienvenue dans le monde de la radiocommande industrielle JMei (made in Belgium)</h4>
+			<p>Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients. Dès le début, JMei a décidé de développer des produits de haute qualité, fiables et robustes, adaptés à tous types d'environnements industriels, même les plus difficiles.</p>
 
-<h4>A fast and high-end service</h4>
-<p>Our team organisation allows us to provide any customized device for an unbeatable price. Our delivery time is short: we can design and manufacture a radio fitted to fulfil all your specific needs in a short time.<br>All our equipments respond to the latest security standards, making them very safe to use.</p>
+			<h4>Une équipe professionnelle et dynamique</h4>
+			<p>JMei, composé d’une équipe jeune et compétente, offre un service rapide et personnalisé. Tous nos produits sont entièrement conçus et fabriqués dans notre propre atelier. Nous n'utilisons que des matériaux de haute qualité pour une utilisation optimale et à haut niveau de sécurité. De plus, notre politique d'entreprise est de maintenir des prix attractifs, ce qui nous place parmi les leaders européens sur le marché des radiocommandes.</p>
 
-<h4>Custom design orders</h4>
-<p> With our wide range of remote controls, you will find the most suitable solution for your needs: </ p >
-<ul>
-	<li>Boxes with double speed buttons</li>
-	<li>Control Panel with progressive order</li>
-	<li>Information feedback</li>
-	<li>Safety Options</li>
-	<li>Adaptable to any Fieldbus (Profibus, can bus , ethernet, profinet, ...)</li>
-</ul>
-<p>We are active in the following application areas: </p >
-<ul>
-	<li>Mining and quarrying</li>
-	<li>Maritime</li>
-	<li>Forestry and agricultural equipment</li>
-	<li>Road transport</li>
-	<li>Construction and public works (BTP)</li>
-	<li>Wind Turbine and Renewable Energy</li>
-</ul>
-<h4>JMei, your partner in radio transmitions</h4>
-<p>Always listening to our customers, we give the highest priority to the creation and innovation in custom solutions that we offer.</p>
-<p>Don't hesitate to <a href="<?php echo Site::relativeUrl('contact');?>">contact us</a>, it is always a pleasure for us to talk about our passion! </p>
+			<h4>Un service rapide et haut-de-gamme</h4>
+			<p>L’organisation de notre équipe nous permet de fournir n'importe quel appareil sur-mesure pour un prix imbattable. Notre délai de livraison est court : nous pouvons concevoir et produire une radio qui réponde totalement à vos besoins rapidement.<br>
+			Tous nos équipements répondent aux dernières normes de sécurité, ce qui  rend leur utilisation très sûre.</p>
+
+			<h4>Une réalisation personnalisée de vos commandes</h4>
+			<p>Grâce à notre large gamme de radiocommandes, vous trouverez la solution la plus adaptée à vos besoins :</p>
+			<ul>
+				<li>Boîtes à boutons double vitesse</li>
+				<li>Pupitres à commandes progressives</li>
+				<li>Retour d’informations</li>
+				<li>Options sécuritaires</li>
+				<li>Bus de terrain (profibus, can bus, ethernet, profinet,…)</li>
+			</ul>
+			<p>Nous sommes actifs dans les domaines d’applications suivants :</p>
+			<ul>
+				<li>Mines et carrières</li>
+				<li>Maritime</li>
+				<li>Forêts et équipements agricoles</li>
+				<li>Transport routier</li>
+				<li>Bâtiments et Travaux Publics (BTP)</li>
+				<li>Eolien et énergies renouvelables</li>
+			</ul>
+			<h4>JMei, votre partenaire en transmissions radioélectriques</h4>
+			<p>Toujours à l'écoute de nos clients, nous donnons la plus grande priorité à la création et à l'innovation dans les solutions personnalisées que nous proposons.</p>
+
+			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, c'est toujours un plaisir pour nous de parler de notre passion!</p>
 
  <?php include 'footer.php';?>

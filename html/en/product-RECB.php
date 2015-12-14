@@ -1,69 +1,82 @@
 <?php
 	include 'common.php';
-	$title .= '';
-	$description .='';
+	$title = 'JMei - RECB - Récepteur radio sécuritaire - Répéteur de télécommande';
+	$description = 'Récepteur de radiocommande industrielle JMei. Fonctions TOR, analogiques, CANbus, CANopen, Profibus ou Profinet. Arrêt de sécurité certifié.';
+	$keywords = 'JMei,RECB,Récepteur radio sécuritaire,Répéteur de télécommande,Récepteur de radiocommande industrielle,récepteur radio HF,commande de tout engin industriel,normes industrielles,Relais de sécurité,arrêt d\'urgence,PWM,entrée TOR,entrée analogique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,fiche Harting,Pont roulant,Grue tour,Camion hydraulique,Engins spéciaux,Automate';
 	$pageId = 'RECB';
+	$swiper = new Medias('/img/product-RECB/swiper/');	
 	include 'header.php';
 	include 'nav.php';
-
 ?>
  			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Radio Receiver</h3>
+					<a id="highlight"></a>
+					<h3>Récepteur radio RECB</h3>
 					<div class="row">
-						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RECB/recb_1.jpg" alt="JMei RECB" />
-						</div>
+<?php echo $swiper->html; ?>                    
 					</div>
 					<p></p>
-					<!--<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-large"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>-->
-					<a name="features"></a><h4>Features</h4>
-					<p>JMei Radio remote control receiver designed with a high performance radio module unit foreseen for harsh environment in the heavy industry.<br />
-					64 possible channels/ frequencies, easy to adapt, in maintenance mode, by using push button functions or joysticks functions.<br />
-					Transmitter outputs easy to check regarding correct transmission by signalization LED.<br />
-					Receiver connection, either with Han plug, or cable 3 m Length.<br />
-					Transceiver designed with galvanic isolated power supply, moreover foreseen to be insensitive of short cut in power supply.</p>
-					<p>The whole output relays are controlled by two independent microprocessors which are keeping a continuous supervision dialog and verify the correct operation of the radio remote control.<br />
-					In case of system failure of one of these micro processors, the radio remote control set automatically in emergency stop, waiting for a new start up.</p>
-					<p>The JMei receiver is designed to be compatible with the whole range of IRC transmitter RCB90, RCB3000, RCB1000, RCB700 and can be also combined with our wireless systems RCB6000 or 7000 in network.</p>
-					<a name="specifications"></a><h4>Specifications</h4>
+					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<hr>
+					<a id="description"></a>
+					<h4>Description</h4>
+						<p>Récepteur associé à toute la gamme des émetteurs JMei.</p>
+						<p>Entièrement configurable, ce récepteur radio HF permet la commande de tout engin industriel.</p>
+						<p>Carte mère à relais de haute technologie, éprouvée et très résistante, ce boîtier s'adapte à toutes les applications industrielles.</p>
+						<p>Répondant aux dernières normes industrielles, le récepteur peut être installé dans les zones techniques les plus contraignantes à tous les niveaux.</p>
+					<a id="avantages"></a>
+                  <h4>Avantages</h4>
 					<ul>
+						<li>Pré-câblé ou non.</li>
+						<li>Couvercle transparent pour diagnostique facile.</li>
+						<li>22 sorties TOR.</li>
+						<li>Relais de sécurité à contacts guidés pour l'arrêt d'urgence.</li>
+						<li>LED de diagnostic et retour d'information en option.</li>
+						<li>Ecran LCD graphique en option.</li>
+						<li>Système exclusif de changements de fréquence automatique.</li>
 					</ul>
-					<h6>Receiver:</h6>
+					<hr>
+					<a id="options"></a>
+                  <h4>Options</h4>
 					<ul>
-						<li><strong>Receiver foreseen with feed back capability</strong> (serial, digital, or analog mode) by using only one channel.</li>
-						<li>Emergency stop category 3.</li>
-						<li>Up to 40 digital outputs, 8 analogues proportional/functions.</strong></li>
-						<li>Designed for all possible hydraulic proportional electro valves.</li>
-						<li>Many different possible interfaces serial, analog (4-20mA, 0-10V, -10V 0 +10V, 3-6-9V/hydraulic, 6-12-18V/ hydraulic) CAN bus, Profibus, Ethernet, RS232 or 485.</li>
-						<li>Guided contact relays.</li>
-						<li>Housing dimension: 160 x 240 x 90 mm.</li>
-						<li>Polycarbonate housing with transparent cover for easy check of maintenance LED, IP65 or 66.</li>
-						<li>Processor board with two main micro processors.</li>
-						<li>Fixed by silent blocks.</li>
-						<li>Protection: IP65/66.</li>
-						<li>Weight: approx: 1.5 Kg.</li>
-						<li>Working temperature: - 20 °C to + 55°C.</li>
-						<li>Power supply 24 to 48V AC/DC or 12VDC (option) or 220 V.</li>
-						<li>Relays 8A Max.</li>
-						<li>Able to drive contactors max 40A.</li>
-					</ul>
-					<h6>Radio module :</h6>
+						<li>Transmission en mode bidirectionnel.</li>
+						<li>Aimant de support.</li>
+						<li>Analogique (0-10V 4-20mA +/- 10V +/-20mA).</li>
+						<li>PWM.</li>
+						<li>Carte d'entrée TOR.</li>
+						<li>Carte d'entrée analogique.</li>
+						<li>Connexion Profibus,  Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
+						<li>Boîtier métallique.</li>
+						<li>Câblage fiche Harting, ou autre.</li>
+					</ul>                     
+					<hr>
+					<a id="applications"></a>
+					<h4>Applications</h4>
 					<ul>
-						<li>UHF (434 or 866 MHz) - 64 channels programmable from transmitter.</li>
-						<li>Transmission codes: Addresses 32bits and CRC 16bits.</li>
-						<li>Throughput: < 10mW.</li>
-						<li>Modulation: FM: FSK.</li>
-					</ul>
-<?php if ( SHOW_CERTIFICATION ) : ?>
-					<a name="certification"></a><h4>Certification</h4>
-					<ul>
-						<li>Complies with the R&amp;TTE Directive (EN 300 200, EN 301 389-1/3)</li>
-						<li>Electrical safety EN 60950</li>
-						<li>Safety of emergency stop EN 60204-32 + EN 954</li>
-					</ul>
-<?php endif ?>
+						<li>Pont roulant.</li>
+						<li>Grue tour.</li>
+						<li>Camion hydraulique.</li>
+						<li>Engins spéciaux.</li>
+						<li>Automate,…</li>
+					</ul> 
+                 <hr>									
+                  <a id="réalisations"></a>
+					<h4>Exemples de réalisations</h4>                       
+					<div class="row">
+						<div class="span3">
+							<h6>Récepeur de radiocommande</h6>
+							<img src="../img/product-RECB/recb_bot1.jpg" alt="Récepeur de radiocommande">
+						</div>
+						<div class="span3">
+							<h6>Récepeur de radiocommande</h6>
+							<img src="../img/product-RECB/recb_bot2.jpg" alt="Radiocommande industrielle">
+						</div>
+						<div class="span3">
+							<h6>Récepeur de radiocommande</h6>
+							<img src="../img/product-RECB/recb_bot3.jpg" alt="Radiocommande industrielle">
+						</div>                                                
+					</div>                      
 				</div>
 			</div>
  <?php include 'footer.php';?>
