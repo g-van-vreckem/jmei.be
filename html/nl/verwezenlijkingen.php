@@ -14,6 +14,7 @@
 				<!--Sidebar content-->
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
+<<<<<<< HEAD
 							<li class="nav-header">Gepersonaliseerde radiobesturingen-ceci est un test</li>
                          <li class="active"><a href="#blog-2015-04">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-02">Radiobesturing-afstandsbediening met dubbele snelheid <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -27,6 +28,21 @@
 							<li><a href="#blog-2014-02">CANbus proportionele bediening <i class="icon-chevron-right pull-right"></i></a></li>                         <li><a href="#blog-2014-01">Beschermboog <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2013-12">Afstandsbediening met displays <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2013-11">Bediening voor landbouwmachine <i class="icon-chevron-right pull-right"></i></a></li>
+=======
+							<li class="nav-header">Radiocommandes personnalisées</li>
+                         <li class="active"><a href="#blog-2015-04">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
+                         <li><a href="#blog-2015-02">Radio-télécommande double vitesse <i class="icon-chevron-right pull-right"></i></a></li> 
+                         <li><a href="#blog-2014-11">Télécommande forestière <i class="icon-chevron-right pull-right"></i></a></li> 
+                         <li><a href="#blog-2014-10">Télécommande Safeball <i class="icon-chevron-right pull-right"></i></a></li>                               
+                         <li><a href="#blog-2014-09">Télécommande avec répéteur radio <i class="icon-chevron-right pull-right"></i></a></li>                         
+                         <li><a href="#blog-2014-06">Radiocommande pour locotracteur <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-05">Radio scan code-barres <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-04">Radiocommande pour bande transporteuse <i class="icon-chevron-right pull-right"></i></a></li>
+                         <li><a href="#blog-2014-03">Télécommande ultra-compacte <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2014-02">Commande proportionnelle CANbus <i class="icon-chevron-right pull-right"></i></a></li>                         <li><a href="#blog-2014-01">Arceau de protection <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-12">Télécommande avec afficheurs <i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2013-11">Commande de machine agricole <i class="icon-chevron-right pull-right"></i></a></li>
+>>>>>>> origin/master
 						</ul>
 					</div>
 				</div>
@@ -41,16 +57,28 @@
 					<hr> 
 					<a class="anchor" id="blog-2015-02"></a>
 					<section>
+<<<<<<< HEAD
 						<h3>Radiobesturing-afstandsbediening met dubbele snelheid - JMei S-LYT</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2015-02-slyt.jpg?v=1" alt="télécommande pour le levage">
 					  <p>JMei S-LYT.<br>Een ultralichte radiobesturing-afstandsbediening voor hijswerkzaamheden.<br>Deze ‘plug and play’ afstandsbediening biedt talrijke configuratiemogelijkheden (3e snelheid, dubbele takel, tandemfunctie, meester-slaaf, pitch and catch: verzending van de rolbrug via één zender en ontvangst via een andere, ...).</p>
+=======
+						<h3>Radio-télécommande double vitesse - JMei S-LYT</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2015-02-slyt.jpg?v=1" alt="télécommande pour le levage">
+					  <p>JMei S-LYT.<br>Radio-télécommande industrielle ultra-légère adaptée aux applications de levage.<br>Cette commande à distance "plug and play" permet de nombreuses configurations (3e vitesse, double palan, fonction Tandem, maître-esclave, pitch and catch: envois du pont roulant depuis un émetteur et réception via un autre,...).</p>
+>>>>>>> origin/master
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-11"></a>
 					<section>
+<<<<<<< HEAD
 						<h3>Bediening voor bosbouw - afstandsbediening voor lier</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2014-11-700.jpg?v=1" alt="télécommande forestière">
 					  <p>Afstandsbediening voor boslier.<br>Deze draadloze afstandsbediening voor bos- en landbouw is vervaardigd in licht en sterk aluminium.<br>Extra veilig dankzij de noodstop van militaire kwaliteit, geschikt voor bediening van twee afzonderlijke lieren.<br>De extra functies omvatten motorstart op afstand, regeling van het toerental en activering van een geluidssignaal (claxon).</p>
+=======
+						<h3>Commande forestière - Télécommande pour treuil</h3>
+						<img class="img-polaroid blog" src="../img/custom-product/2014-11-700.jpg?v=1" alt="télécommande forestière">
+					  <p>Commande à distance pour treuil forestier.<br>Cette télécommande sans fil forestière et agricole en aluminium allie légèreté et robustesse.<br>Hautement sécuritaire avec son arrêt d'urgence de qualité militaire, elle permet la commande de deux treuils indépendants.<br>Les fonctions supplémentaires permettent de commander l'allumage du moteur à distance, de régler le régime moteur et d'activer un avertisseur sonore (klaxon).</p>
+>>>>>>> origin/master
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-10"></a>

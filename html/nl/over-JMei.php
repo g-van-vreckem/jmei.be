@@ -2,7 +2,6 @@
 	include 'common.php';
 	$title = 'Industriële radiobesturing, made in Belgium';
 	$description = 'JMei kan terugblikken op 25 jaar ervaring voor ontwerp en productie van radiobesturingen, en biedt als enige fabrikant in België oplossingen op maat van elke klant';
-	$keywords = 'JMei,radiocommandes industrielles,Belgium,fabrication de radiocommandes,fabricant en Belgique,solutions sur-mesure,société IRC,idées innovantes,équipe dynamique,radiocommande industrielle,produits de haute qualité,environnements industriels,service rapide et personnalisé,matériaux de haute qualité,prix attractifs,leaders européens,normes de sécurité,gamme de radiocommandes,Boîtes à boutons double vitesse,Pupitres à commandes progressives,Retour d\'informations,Options sécuritaires,Bus de terrain,profibus,can bus,ethernet,profinet,Mines et carrières,Maritime,Forêts et équipements agricoles,Transport routier,Bâtiments et Travaux Publics,BTP,Eolien et énergies renouvelables,transmissions radioélectriques,solutions personnalisées';
 
 	$pageId = 'about';
 	include 'header.php';

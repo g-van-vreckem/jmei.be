@@ -14,7 +14,11 @@
 				<div id="i1" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB90</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">Universele knoppendoos met dubbele snelheid</p>
+=======
+                        <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
                     <div class="tile-over">
@@ -23,6 +27,7 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
+<<<<<<< HEAD
 							<p><strong>Dé referentie voor hijswerkzaamheden, aanpasbaar voor elke industriële toepassing.</strong><br>
 							  <br>
 							Een robuuste, compacte en voordelige knoppendoos.<br>
@@ -42,6 +47,27 @@
 							Tandemconfiguratie, JMei beveiligde start of geheugenstick verkrijgbaar.<br>
 							<br>
 							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
+=======
+							<p><strong>La référence pour le levage, adaptable à toute application industrielle.</strong><br>
+							  <br>
+							Boîte à boutons robuste, compacte et économique.<br>
+							<br>
+							Proposée en 2 versions:<br>
+							<br>
+							RCB90L (Light): <br>
+							- 9  boutons double enfoncement	 (2V). <br>
+							- 8 boutons 2V + 1 sélecteur 3 positions.<br>
+							<br>
+							RCB90M (Medium): <br>
+							-
+							14 boutons double enfoncement	(2V). <br>
+							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
+							<p>Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
+							<br>
+							Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles.<br>
+							<br>
+							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+>>>>>>> origin/master
 						</div>
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
@@ -52,7 +78,11 @@
 				<div id="i2" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB700</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">Ultrarobuuste en personaliseerbare bediening</p>
+=======
+                        <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
                     <div class="tile-over">
@@ -81,7 +111,11 @@
 				<div id="i3" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Hélice</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">De meest compacte oplossing voor analoog vermogen</p>
+=======
+                        <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
                     <div class="tile-over">
@@ -125,7 +159,11 @@
 				<div id="i4" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">Universeel bedieningspaneel</p>
+=======
+                        <p class="tile-intro">Le pupitre ventral universel</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
                     <div class="tile-over">
@@ -156,7 +194,11 @@
 				<div id="i5" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB1000</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">De meest robuuste industriële radiobesturing met talloze mogelijkheden.</p>
+=======
+                        <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
@@ -187,7 +229,11 @@
 				<div id="i6" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
+<<<<<<< HEAD
                         <p class="tile-intro">Industriële draadloze gegevenstransmissie.</p>
+=======
+                        <p class="tile-intro">Transmission de données sans fil industrielle.</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
                     <div class="tile-over">
@@ -233,8 +279,13 @@
 			<div id="r3" class="row spaced-row">
 				<div id="i7" class="tile span4">
                     <div class="top-text">
+<<<<<<< HEAD
                         <h5 class="tile-title">Afstandsbediening type JMei pocket</h5>
                         <p class="tile-intro">De meest compacte, ultralichte afstandsbediening.</p>
+=======
+                        <h5 class="tile-title">Télécommande de type JMei pocket</h5>
+                        <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
+>>>>>>> origin/master
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
                     <div class="tile-over">
@@ -260,8 +311,13 @@
                 </div>													
 				<div id="i8" class="tile span4">
                     <div class="top-text">
+<<<<<<< HEAD
                         <h5 class="tile-title">Onze opties</h5>
                         <p class="tile-intro">Hardware key - Beveiligde start - Bediening van complexe systemen</p>
+=======
+                        <h5 class="tile-title">Nos options</h5>
+                        <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
+>>>>>>> origin/master
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">
                     <div class="tile-over">
@@ -293,7 +349,11 @@
 				<div id="i9" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Accessoires </h5>
+<<<<<<< HEAD
                         <p class="tile-intro">Voor extra gebruikscomfort van uw radiobesturing</p>
+=======
+                        <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
+>>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
                     <div class="tile-over">

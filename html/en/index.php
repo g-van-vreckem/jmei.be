@@ -101,6 +101,7 @@
 <!--						<h2>Exemple de réalisations</h2>-->
  <!-- /.Radios personnalisées! -->          
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/2016.gif?v=12" alt="Radiocommande Industrielle de sécurité"></a>
+
                </div>
                 <div class="span4">
                   <h2>Nos points forts</h2>

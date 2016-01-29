@@ -21,6 +21,7 @@ PAGESC;
 							<li class="nav-header">Regio</li>
 							<li><a href="#benelux">Benelux en wereldwijd<i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#france">Frankrijk<i class="icon-chevron-right pull-right"></i></a></li>
+
 						</ul>
 					</div>
 				</div>
@@ -31,6 +32,7 @@ PAGESC;
 						<h3>Benelux en wereldwijd</h3>
 						<p>JMei voorziet distributie in de Benelux en overal ter wereld</p>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-benelux">Neem contact op met ons team!</legend>
+
 						<div class="collapse" id="contact-benelux">
 							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-benelux" action="/sendmail.php">
@@ -47,12 +49,13 @@ PAGESC;
 									<input type="hidden" name="lang" value="fr">
 									<input type="hidden" name="reason" value="Sales Contact JMei">
 							  </fieldset>
+
 							</form>
 						</div>
 					</section>
 					<hr>
 					<a class="anchor" id="france"></a>
-					<section>						
+					<section>
 						<h3>Frankrijk</h3>
 						<p><a target="_blank" href="http://www.opsyselec.fr/">Opsyselec</a> verdeelt onze producten in Noord-Frankrijk, in de volgende departementen:</p>
 						<ul>
@@ -89,6 +92,7 @@ PAGESC;
 						</div>
 						<hr>
 						<p><a target="_blank" href="http://www.mediamesures.com/">MEDIA MESURES</a> verdeelt onze producten in Zuidoost-Frankrijk, in de volgende departementen:</p>
+
 						<ul>
 							<li>Provence-Alpes-Côte d'Azur (4, 5, 6, 13, 83, 84) </li>
 							<li>Rhône-Alpes (1, 7, 26, 38, 42, 69, 73, 74)</li>
@@ -97,6 +101,7 @@ PAGESC;
 							<li>Corsica  (2A, 2B)</li>
 						</ul>
 						<legend class="btn" data-toggle="collapse" data-target="#contact-mediamesures" >Neem contact op met het verkoopteam van MEDIA MESURES!</legend>
+
 						<div class="collapse" id="contact-mediamesures">
 							<p>&nbsp;</p>
 							<form class="contact-form" method="get" data-target="#contact-mediamesures" action="/sendmail.php">
@@ -118,7 +123,7 @@ PAGESC;
 										<textarea id="message-mediamesures" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
 									<button id="submit-btn-mediamesures" type="submit" class="btn">Verzenden</button>
-									<input type="hidden" name="lang" value="fr">
+									<input type="hidden" name="lang" value="nl">
 									<input type="hidden" name="reason" value="Sales Contact Media Mesures">
 								 </fieldset>
 							</form>
@@ -150,7 +155,7 @@ PAGESC;
 										<textarea id="message-sermadep" title="Please type your message!" name="message" rows="12" cols="72" class="required span9"></textarea>
 									</div>
 									<button id="submit-btn-sermadep" type="submit" class="btn">Verzenden</button>
-									<input type="hidden" name="lang" value="fr">
+									<input type="hidden" name="lang" value="nl">
 									<input type="hidden" name="reason" value="Sales Contact SER.MA.DEP">
 								 </fieldset>
 							</form>

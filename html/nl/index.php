@@ -15,6 +15,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei, industriële oplossingen.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Meer info...</a></p>
+
 							</div>
 						</div>
 					</div>
@@ -24,6 +25,7 @@
 							<div class="carousel-caption">
 								<p class="lead">Kwalitatief, voordelig, betrouwbaar. Welkom in de wereld van de JMei-radiobesturing!
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Meer info...</a></p>
+
 							</div>
 						</div>
 					</div>
@@ -68,6 +70,7 @@
 							<div class="carousel-caption">
 								<p class="lead">Elk type personalisatie van radiobesturingen met de nieuwste technologieën.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('JMPOCKET');?>">Meer info...</a></p>
+
 							</div>
 						</div>
 					</div>
@@ -77,6 +80,7 @@
 							<div class="carousel-caption">
 								<p class="lead">Afstandsbedieningen met een ontwerp dat voldoet aan de specifieke behoeften van klanten.
 								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB90');?>">Meer info...</a></p>
+
 							</div>
 						</div>
 					</div>
@@ -124,6 +128,7 @@
 					<p class="lead text-center">Snelle en kwalitatieve service</p>
 					<p class="lead text-center">Productie op maat</p>
 					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Meer info &raquo;</a></p>
+
 				</div>
                 <div class="span4">
 					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=6" alt="Radiocommande personnalisée"></a>

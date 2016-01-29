@@ -123,30 +123,7 @@
 			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products' ) );
 			self::addPage ( new Page ( 'ACCESSORY', 'nl', 'product-accessoires', 'products' ) );
 
-//<<<<<<< HEAD
-			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei RCB90', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'RCB90', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB90-datasheet.pdf', 'fr', 'RCB90-datasheet', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB700.pdf', 'en', 'JMei RCB700', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB700.pdf', 'fr', 'RCB700', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'Helice.pdf', 'fr', 'Helice', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'Helice-datasheet.pdf', 'fr', 'Helice-datasheet', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB1000.pdf', 'en', 'JMei RCB1000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB1000.pdf', 'fr', 'RCB1000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB1000-datasheet.pdf', 'fr', 'RCB1000-datasheet', '', Page::PDF, true, .6 ) );			
-			self::addPage ( new Page ( 'RCB3000.pdf', 'en', 'JMei RCB3000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB3000.pdf', 'fr', 'RCB3000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'fr', 'RCB3000-datasheet', '', Page::PDF, true, .6 ) );			
-			self::addPage ( new Page ( 'RCB6000.pdf', 'en', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB6000.pdf', 'fr', 'JMei RCB6000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB7000.pdf', 'en', 'JMei RCB7000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RCB7000.pdf', 'fr', 'JMei RCB7000', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RECB.pdf', 'fr', 'RECB', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'RECB-datasheet.pdf', 'fr', 'RECB-datasheet', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei TCA27', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'KEY.pdf', 'fr', 'JMei HARDKEY', '', Page::PDF, true, .6 ) );
-			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei TANDEM', '', Page::PDF, true, .6 ) );
-//=======
+
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'nl', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
@@ -206,8 +183,7 @@
 			self::addPage ( new Page ( 'TANDEM.pdf', 'en', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'nl', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
-//>>>>>>> origin/master
-	
+
 			self::addPage ( new Page ( 'POCKET.pdf', 'en', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'fr', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'nl', 'JMei-Pocket', '', Page::PDF, true, .6 ) );

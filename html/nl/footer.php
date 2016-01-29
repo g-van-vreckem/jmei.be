@@ -4,6 +4,7 @@
 				<div class="container">
 					<ul class="nav">
 						<li class="navbar-text navbar-inverse">&copy; JMei 2016</li>
+
 						<li<?php echo Site::addActiveClass('terms'); ?>><a href="<?php echo Site::relativeUrl('terms');?>">legal</a></li>
 						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Zoek ons op Google+</a></li>
 						<li><a href="https://www.facebook.com/JMei.be" rel="publisher">Facebook</a></li>

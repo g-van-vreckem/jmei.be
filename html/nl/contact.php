@@ -35,6 +35,7 @@ PAGESC;
             <div class="row">
                 <div class="span4">
                     <h2>Neem contact op met ons!</h2>
+
                     <p><b>JMei</b>
 					Solution-Electronic-Radio transmission<br>
 					Chaussée de Rochefort, 123<br>
@@ -60,6 +61,7 @@ van 8 tot 18 uur</p>
 				<div class="span12">
 					<div id="map-canvas"></div>
 					<small><a target="_blank" href="https://maps.google.be/maps?f=q&amp;source=embed&amp;hl=nl&amp;geocode=&amp;q=123+rue+de+rochefort,+Marloie&amp;aq=&amp;sll=50.154465,4.624975&amp;sspn=3.720241,5.751343&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Chauss%C3%A9e+de+Rochefort+123,+6900+Marche-en-Famenne,+Luxembourg,+R%C3%A9gion+wallonne&amp;z=14&amp;ll=50.199664,5.317268" style="color:#0000FF;text-align:left">Vergroting van de kaart</a></small>
+
 				</div>
 			</div>
 
