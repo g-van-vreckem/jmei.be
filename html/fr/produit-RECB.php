@@ -18,7 +18,7 @@
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<hr>
+					<p> <a href="<?php echo Site::relativeUrl('RECB-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p> 
 					<a id="description"></a>
 					<h4>Description</h4>
 						<p>Récepteur associé à toute la gamme des émetteurs JMei.</p>
