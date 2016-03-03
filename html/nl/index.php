@@ -101,10 +101,9 @@
                     <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Neem contact op met ons! &raquo;</a></p>
                 </div>
                 <div class="span4">
-						<h2>HNY 2016</h2>
- <!--						<h2>Voorbeelden van uitvoeringen</h2>-->
+ 						<h2>Voorbeelden van uitvoeringen</h2>
  <!-- /.Radios personnalisées! -->          
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/2016.gif?v=12" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=14" alt="Radiocommande Industrielle de sécurité"></a>
                </div>
                 <div class="span4">
                   <h2>Onze troeven</h2>
