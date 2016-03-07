@@ -12,65 +12,67 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Radiocommande RCB1000</h3>
+					<h3>Radiobesturing RCB1000</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p> <a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>  
+					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Downloaden in pdf-formaat</a></p>
+					<p> <a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Raadpleeg de technische productinformatie</a></p>  
                   <a id="description"></a>
-                  <h4>Description</h4>
-				  <p>Radiocommande extrêmement robuste et sécuritaire de haute performance de type pupitre ventral conçu pour les commandes de tout engin industriel dans les environnements lourds.</p>
-						<p>La RCB1000 est une télécommande sans fil configurable à souhait et de grande qualité. <br>Son design et les possibilités infinies de configuration autorisent toutes les possibilités de commandes de machines.</p>
-						<p>Boîtier ultra compact, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</p>
-						<p>Arrêt d'urgence coup-de-poing, garantit une sécurité maximale.</p>
+                  <h4>Beschrijving</h4>
+				  <p>Een uiterst robuuste en goed beveiligde zender met uitstekende prestaties, type bedieningspaneel voor bediening van industriële machines in veeleisende omgevingen.</p>
+						<p>De RCB1000 is een kwalitatieve, draadloze afstandsbediening die naar wens geconfigureerd kan worden. 
+Het ontwerp en de oneindige configuratiemogelijkheden bieden allerlei bedieningsopties voor machines
+.</p>
+						<p>De ultracompacte, uiterst stevige behuizing is gemaakt van verstevigd plastic voor industrieel gebruik. De behuizing is heel ergonomisch en met name geschikt voor veeleisende omgevingen.</p>
+						<p>Noodstop type vuistslag voor een maximale veiligheid.</p>
 					<a id="avantages"></a>
-					<h4>Avantages</h4>
+					<h4>Voordelen</h4>
 					<ul>
-						<li>2, 3 ou 4 manipulateurs 2 axes.</li>
-						<li>Jusque 8 manipulateurs uniaxes.</li>
-						<li>Sélecteurs à rappel ou positions fixes.</li>
-						<li>Bouton-poussoir standard ou avec témoins lumineux.</li>
-						<li>Fonctions TOR jusqu'à 6 vitesses par joystick.</li>
-						<li>Fonctions analogiques proportionnelles.</li>
-						<li>Face et inscription personnalisables.</li>
-						<li>Fonction inclinomètre en option.</li>
-						<li>Joysticks avec fonction homme-mort.</li>
-						<li>Arrêt d'urgence coup-de-poing qualité militaire.</li>
-						<li>Accumulateur interchangeable NiMH.</li>
-						<li>LED de diagnostic et retour d'information en option.</li>
-						<li>Ecran LCD graphique en option.</li>
-						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
+						<li>2, 3 of 4 tweeassige controllers.</li>
+						<li>Tot 8 eenassige controllers.</li>
+						<li>Selectieknoppen met vaste of terugstelpositie.</li>
+						<li>Standaard drukknop of met controlelampjes.</li>
+						<li>AON-functies tot 6 snelheden per joystick.</li>
+						<li>Proportionele analoge functies.</li>
+						<li>Personaliseerbaar voorvlak en opschrift.</li>
+						<li>Optionele inclinometerfunctie.</li>
+						<li>Joysticks met dodeman-functie.</li>
+						<li>Noodstop type vuistslag van militaire kwaliteit.</li>
+						<li>Verwisselbare NiMH-batterij.</li>
+						<li>Optionele diagnostische ledlampjes en feedback.</li>
+						<li>Lcd-scherm optioneel verkrijgbaar.</li>
+						<li>Exclusief systeem voor wijziging van het adres, de frequentie en de configuratie met knoppen om snel en veilig van zender te veranderen (één reservezender voor verschillende uitrustingen).</li>
 					</ul>
 					<hr>
 					<a id="options"></a>
-                  <h4>Options</h4>
-					<ul>
-						<li>Transmission en mode bidirectionnel.</li>
-						<li>Afficheur.</li>
-						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>  
-						<li>Système Tandem maître/esclave.</li>
-						<li>Démarrage sécurisé TCA27.</li>
-						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
-						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
+                  <h4>Opties</h4>
+<ul>
+	  <li>Bidirectionele gegevenstransmissie.</li>
+						<li>Display.</li>
+						<li>Identificatiestick (voor snelle vervanging van een beschadigde zender).</li>  
+						<li>Tandemsysteem meester/slaaf.</li>
+						<li>Beveiligde start TCA27.</li>
+						<li>Ontvanger type RECB of RCB7000, mogelijkheid tot verbinding met Profibus, Ethernet, Canbus, Profinet of een andere veldbus.</li>
+						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i>Meer info...</a></p> 
 					</ul>  
 					<a id="accessoires"></a>
-					<h4>Accessoires</h4>
+				  <h4>Accessoires</h4>
 					<ul>
-						<li>Housse de protection en cuir.</li>
-						<li>Chargeur à microprocesseur de conception JMei.</li>
-						<li>Accumulateur interchangeable NiMH.</li>
-						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
+						<li>Leren beschermhoes.</li>
+						<li>Lader met microprocessor naar een ontwerp van JMei.</li>
+						<li>Verwisselbare NiMH-batterij.</li>
+						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i>Meer info...</a></p> 
 					</ul>					
 					<hr>
 					<a id="applications"></a>
-					<h4>Applications</h4>
+					<h4>Toepassingen</h4>
 					<ul>
-						<li>Pont roulant.</li>
-						<li>Marine.</li>
-						<li>Camion hydraulique.</li>
-						<li>Engins spéciaux, …</li>
+						<li>Rolbrug.</li>
+						<li>Zeewezen.</li>
+						<li>Hydraulische vrachtwagens.</li>
+						<li>Speciale toestellen, …</li>
 					</ul>                  
                   <hr>
                   <a id="réalisations"></a>
