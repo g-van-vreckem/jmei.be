@@ -84,39 +84,47 @@
 				<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
 				<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
 			</div><!-- /.carousel -->
-
             <div class="row">
                 <div class="span4">
-<h2 class="text-center">Nos expériences</h2>
-					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=8" alt="Sadamec"></a>
+                    <h2>JMei</h2>
+                    <p>Chaussée de Rochefort, 123<br>
+						B-6900 Marloie<br>
+						Belgique<br>
+						Tel. : +32 84 34.41.75<br>
+						Fax : +32 84 34.41.77<br>
+						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
+                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-					<h2 class="text-center">Nos réalisations</h2>
+						<h2>Exemple de réalisations</h2>
+ <!-- /.Radios personnalisées! -->          
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=14" alt="Radiocommande Industrielle de sécurité"></a>
-                    						
                </div>
                 <div class="span4">
-<h2 class="text-center">Un gage de qualité</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=1" alt="Télécommande JMei"></a>
+                  <h2>Nos points forts</h2>
+                  <ul>
+                    <li>Personnalisation</li>
+                    <li>Flexibilité</li>
+                    <li>Innovation</li>
+                    <li>Réactivité</li>
+                    <li>Expérience</li>
+                    <li>Fiabilité</li>
+                  </ul>
+				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">Voir details &raquo;</a></p>
                 </div>
             </div>
             <div class="row">
                 <div class="span4">
-<h2 class="text-center">Pupitre Industriel</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box3.jpg?v=9" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=7" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
-                    <h2 class="text-center">JMei</h2>
-                    <p class="text-center">Chaussée de Rochefort, 123<br>
-						B-6900 Marloie - Belgique<br>
-						Tel. : +32 84 34.41.75<br>
-						Fax : +32 84 34.41.77<br>
-						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
-                </div>        
+                  <p class="lead text-center">Une équipe dynamique et professionnelle</p>
+					<p class="lead text-center">Un service rapide et de qualité </p>
+					<p class="lead text-center">Fabrication sur-mesure de vos produits</p>
+					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Voir details &raquo;</a></p>
+				</div>
                 <div class="span4">
-<h2 class="text-center">Boîte à boutons</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=1" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=6" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
