@@ -76,32 +76,32 @@ Het ontwerp en de oneindige configuratiemogelijkheden bieden allerlei bedienings
 					</ul>                  
                   <hr>
                   <a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+					<h4>Voorbeelden van uitvoeringen</h4>                       
 					<div class="row">
 						<div class="span3">
-							<h6>Radiocommande - prise en main sécuritaire</h6>
+							<h6>Radiobesturing - veilige grip</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot1.jpg" alt="Radiocommande avec prise en main sécuritaire">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande - joysticks personnalisés</h6>
+							<h6>Radiobesturing - gepersonaliseerde joysticks</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot2.jpg" alt="Radiocommande - joysticks personnalisés">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande industrielle analogique</h6>
+							<h6>Analoge industriële radiobesturing</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot3.jpg" alt="Radiocommande industrielle analogique">
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>Clé mémoire électronique pour radiocommande</h6>
+							<h6>Elektronische geheugenstick voor radiobesturing</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot4.jpg" alt="Clé mémoire électronique pour radiocommande">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande avec afficheur</h6>
+							<h6>Radiobesturing met display</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot5.jpg" alt="Radiocommande avec afficheur">
 						</div>						
 						<div class="span3">
-							<h6>Démarrage sécurisé pour télécommande</h6>
+							<h6>Beveiligde start voor afstandsbediening</h6>
 							<img src="../img/product-RCB1000/rcb1000_bot6.jpg" alt="Démarrage sécurisé pour télécommande">
 						</div>                        
 					</div>
