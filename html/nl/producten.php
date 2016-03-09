@@ -14,11 +14,7 @@
 				<div id="i1" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB90</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">Universele knoppendoos met dubbele snelheid</p>
-=======
-                        <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
                     <div class="tile-over">
@@ -27,7 +23,6 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-<<<<<<< HEAD
 							<p><strong>Dé referentie voor hijswerkzaamheden, aanpasbaar voor elke industriële toepassing.</strong><br>
 							  <br>
 							Een robuuste, compacte en voordelige knoppendoos.<br>
@@ -47,27 +42,6 @@
 							Tandemconfiguratie, JMei beveiligde start of geheugenstick verkrijgbaar.<br>
 							<br>
 							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
-=======
-							<p><strong>La référence pour le levage, adaptable à toute application industrielle.</strong><br>
-							  <br>
-							Boîte à boutons robuste, compacte et économique.<br>
-							<br>
-							Proposée en 2 versions:<br>
-							<br>
-							RCB90L (Light): <br>
-							- 9  boutons double enfoncement	 (2V). <br>
-							- 8 boutons 2V + 1 sélecteur 3 positions.<br>
-							<br>
-							RCB90M (Medium): <br>
-							-
-							14 boutons double enfoncement	(2V). <br>
-							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
-							<p>Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
-							<br>
-							Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles.<br>
-							<br>
-							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
->>>>>>> origin/master
 						</div>
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
@@ -78,11 +52,7 @@
 				<div id="i2" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB700</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">Ultrarobuuste en personaliseerbare bediening</p>
-=======
-                        <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
                     <div class="tile-over">
@@ -91,17 +61,13 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La robustesse et la légèreté de l'aluminium, un design ergonomique.</strong><br>
+							<p><strong>Robuust en licht aluminium, ergonomisch design.</strong><br>
+							  <br>Compacte zender, om aan een riem te dragen of op een houder te plaatsen (optioneel).<br>
+						    <br>Tot 12 ON/OFF-functies met vaste of terugstelpositie.<br>
+							  <br>Uni- of bidirectioneel (informatie naar de zender)..<br>
+							  <br>Uitstekend geschikt voor gebruik in bossen, steengroeves of andere moeilijke industriële omgevingen.<br>
 							  <br>
-						    Emetteur compact pouvant être porté à la ceinture, ou placé sur support (en option).<br>
-						    <br>
-							  Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
-							  <br>
-							  Bidirectionnelles ou non (informations envoyées à l'émetteur).<br>
-							  <br>
-							  Particulièrement bien adaptée pour l'utilisation en forêts, carrières, ou tout autre environnement industriel difficile.<br>
-							  <br>
-						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB700_2.jpg?v=2" data-type="img"></a>
                         <a href="../img/product-overview3/RCB700_3.jpg?v=1" data-type="img"></a>
@@ -111,11 +77,7 @@
 				<div id="i3" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Hélice</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">De meest compacte oplossing voor analoog vermogen</p>
-=======
-                        <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
                     <div class="tile-over">
@@ -124,21 +86,15 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>Adaptée pour tous les usages industriels.</strong><br>
-							  <br>
-							La référence des pupitres ventraux avec un encombrement minimal.<br>
+							<p><strong>Geschikt voor alle industriële toepassingen.</strong><br>
+							  <br>Dé referentie op het vlak van compacte bedieningspanelen.<br>
+							<br>Tot 12 ON/OFF-functies met vaste of terugstelpositie.<br>
+							<br>Tot 4 analoge functies.<br>
+							<br>Geschikt om te dragen aan een riem of met een schouderriem.<br>
+							<br>Model met verwisselbare batterijen (autonomie <15 u, laadtijd 4 u).<br>
+							<br>Draaghoes en feedbackmogelijkheid verkrijgbaar.<br>
 							<br>
-							Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
-							<br>
-							Jusqu'à 4 fonctions analogiques.<br>
-							<br>
-							Se porte à le ceinture ou en bandoulière.<br>
-							<br>
-							Modèle avec batteries interchangeables (autonomie &lt;15h, temps de charge de 4h).<br>
-							<br>
-							Housse de portage et retour d'informations disponibles.<br>
-							<br>
-							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
@@ -159,11 +115,7 @@
 				<div id="i4" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">Universeel bedieningspaneel</p>
-=======
-                        <p class="tile-intro">Le pupitre ventral universel</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
                     <div class="tile-over">
@@ -172,18 +124,13 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La radiocommande offrant le meilleur rapport dimensions / possibilités.<br>
-							</strong><br>
-							Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues. <br>
-                            <br>
-							Jusqu'à 8 fonctions analogiques (2 joysticks double axes / 6 joysticks &quot;palettes&quot;). <br>
-							<br>
-							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
-							<br>
-							Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
-                            <br>
-							Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau display disponibles.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p><strong>De radiobesturing met de beste verhouding afmetingen/mogelijkheden.<br>
+							</strong><br>Tot 48 ON/OFF-functies met vaste of terugstelpositie. <br>
+                            <br>Tot 8 analoge functies (2 dubbelassige joysticks/6 &quot;platte&quot; joysticks). <br>
+							<br>Deze volledig personaliseerbare versie biedt talloze mogelijkheden voor de gebruiker.<br>
+							<br>Configuratie uni- of bidirectioneel (feedback via ledlampjes of een lcd-display).<br>
+                            <br>Tandemconfiguratie, JMei beveiligde start, geheugenstick, beschermboog voor display verkrijgbaar.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB3000_2.jpg?v=1" data-type="img"></a>
                         <a href="../img/product-overview3/RCB3000_3.jpg" data-type="img"></a>
@@ -194,11 +141,7 @@
 				<div id="i5" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB1000</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">De meest robuuste industriële radiobesturing met talloze mogelijkheden.</p>
-=======
-                        <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
@@ -207,18 +150,14 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>L'émetteur industriel &quot;haut de gamme&quot;.</strong></p>
-							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues.<br>
-                            <br>
-							Jusqu'à 8 fonctions analogiques (3 joysticks double axe).</p>
-							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes.<br>
-							<br>
-							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
-							<br>
-							Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur LCD).<br>
-							<br>
-							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p><strong>De industriële zender van &quot;topniveau&quot;.</strong></p>
+							<p>Tot 48 ON/OFF-functies met vaste of terugstelpositie.<br>
+                            <br>Tot 8 analoge functies (3 dubbelassige joysticks).</p>
+							<p>Incrementele codeerinrichting, draaibare potentiometer, mogelijkheid tot integratie van uiteenlopende bedieningselementen.<br>
+							<br>Deze volledig personaliseerbare versie biedt talloze mogelijkheden voor de gebruiker.<br>
+							<br>Configuratie uni- of bidirectioneel (feedback via ledlampjes of een lcd-display).<br>
+							<br>Tandemconfiguratie, JMei beveiligde start, geheugenstick, leren beschermhoes verkrijgbaar.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
@@ -229,11 +168,7 @@
 				<div id="i6" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
-<<<<<<< HEAD
                         <p class="tile-intro">Industriële draadloze gegevenstransmissie.</p>
-=======
-                        <p class="tile-intro">Transmission de données sans fil industrielle.</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
                     <div class="tile-over">
@@ -242,24 +177,21 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Système d'échange de données uni ou bidirectionnel.<br>
+							<p>Uni- of bidirectioneel systeem voor gegevensuitwisseling.<br>
 							<br>
 							RCB7000:<br>
-							-4 entrées/sorties digitales optocouplées<br>
-							-4 entrées/sorties analogiques
-							<br>
-							-Liaison RS232/485<br>
+							-4 optogekoppelde digitale in-/uitgangen<br>
+							-4 analoge in-/uitgangen 
+							<br>-RS232/485-verbinding<br>
 							<br>
 							RCB6000:<br>
-							-40 entrées/sorties digitales optocouplées<br>
-							-8 entrées/sorties analogiques <br>
-							-Liaison RS232/485<br>
-							-Bus de terrain<br>
-							<br>
-							Ces modules peuvent fonctionner avec plusieurs participants (partage synchrone)<br>
-							<br>
-							Les data-acquisitions, data-conversions en font la référence en terme de modules de transmissions.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							-40 optogekoppelde digitale in-/uitgangen<br>
+							-8 analoge in-/uitgangen <br>
+							-RS232/485-verbinding<br>
+							-Veldbus<br>
+							<br>Deze modules functioneren met meerdere deelnemers (synchroon delen).<br>
+							<br>Door de gegevensverwerving en -omzetting is deze module een referentie op het vlak van transmissie.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB6000_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB6000_3.jpg" data-type="img"></a>
@@ -279,13 +211,8 @@
 			<div id="r3" class="row spaced-row">
 				<div id="i7" class="tile span4">
                     <div class="top-text">
-<<<<<<< HEAD
                         <h5 class="tile-title">Afstandsbediening type JMei pocket</h5>
                         <p class="tile-intro">De meest compacte, ultralichte afstandsbediening.</p>
-=======
-                        <h5 class="tile-title">Télécommande de type JMei pocket</h5>
-                        <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
->>>>>>> origin/master
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
                     <div class="tile-over">
@@ -294,16 +221,12 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Commande simple vitesse 6 fonctions (extensible à 8).<br>
-							<br>
-							SMART Communication Radio - 868MHz.<br>
-							<br>
-							Sélection automatique des canaux fréquences.<br>
-							<br>
-							Récepteur avec commandes intégrées (commande de secours).<br>
-							<br>
-							Tension d'utilisation: de 10 à 42V DC.</p>
-							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p>Bediening met een snelheid en 6 functies (uitbreidbaar tot 8).<br>
+							<br>SMART-radiocommunicatie - 868 MHz.<br>
+							<br>Automatische selectie van het frequentiekanaal.<br>
+							<br>Ontvanger met ingebouwde bedieningen (noodbediening).<br>
+							<br>Bedrijfsspanning: van 10 tot 32V DC.</p>
+							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 					  </div>
                         <a href="../img/product-overview3/POCKET_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/POCKET_3.jpg?v=1" data-type="img"></a>
                         <a href="../img/product-overview3/POCKET_4.jpg?v=1" data-type="img"></a>
@@ -311,27 +234,23 @@
                 </div>													
 				<div id="i8" class="tile span4">
                     <div class="top-text">
-<<<<<<< HEAD
                         <h5 class="tile-title">Onze opties</h5>
                         <p class="tile-intro">Hardware key - Beveiligde start - Bediening van complexe systemen</p>
-=======
-                        <h5 class="tile-title">Nos options</h5>
-                        <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
->>>>>>> origin/master
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">
+						<img class="bottom-img" src="../img/product-overview3/option.jpg?v=1" alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">                    
+                    
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>                  
                     <div class="tile-detail">
                         <div class="tile-desc">
-                        	<p>Clé hardware: Système de clé mémoire électronique, permet l'interchangeabilité des émetteurs.</p>
+                        	<p>Hardware key: systeem voor elektronische geheugenstick om zenders te verwisselen.</p>
 							<p><br>
-							Démarrage sécuritaire: TCA27, un système breveté JMei permettant le démarrage de vos radiocommandes avec la plus grande sécurité.</p>
+							Beveiligde start: TCA27, een gepatenteerd systeem van JMei om uw radiobesturing compleet veilig te starten.</p>
 							<p><br>
-							Commande de systèmes complexes: Personnalisation software de vos radiocommandes afin de répondre aux exigences les plus sévères de nos clients .</p>
-							<p><a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
+							Bediening van complexe systemen: software voor personalisatie van uw radiobesturingen om te voldoen aan de meest veeleisende behoeften van onze klanten.</p>
+							<p><a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>        
 						</div>
                         <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
@@ -349,11 +268,7 @@
 				<div id="i9" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Accessoires </h5>
-<<<<<<< HEAD
                         <p class="tile-intro">Voor extra gebruikscomfort van uw radiobesturing</p>
-=======
-                        <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
->>>>>>> origin/master
                     </div>
                     <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
                     <div class="tile-over">
@@ -362,12 +277,12 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-						  <p>Exemples d'accessoires disponibles pour votre radiocommande:</p>
-						  <p>- Batterie de réserve et chargeur (12-24V DC, 220V AC).</p>
-						  <p>- Housse de protection (nylon ou cuir).</p>
-						  <p>- Rosace directionnelle de couleur.</p>
-						  <p>- Sécurité Safeball (homme-mort radio-commandé).</p>                          
-						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						  <p>Voorbeelden van verkrijgbare accessoires voor uw radiobesturing:</p>
+						  <p>- Reservebatterij en lader (12-24V DC, 220V AC).</p>
+						  <p>- Beschermhoes (nylon of leer).</p>
+						  <p>- Gekleurde richtingaanwijzer.</p>
+						  <p>- Safeball-beveiliging (radiogestuurd &quot;dodeman-systeem&quot;).</p>                          
+						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Meer info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/access1.jpg?v=2" data-type="img"></a>
                         <a href="../img/product-overview3/access2.jpg?v=1" data-type="img"></a>
