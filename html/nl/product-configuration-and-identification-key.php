@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Clé mémoire - Adresse émetteur radio';
-	$description = 'Clé mémoire contenant les paramètres essentiels au bon fonctionnement d\'une radiocommande';
-	  $keywords = 'Clé mémoire,adresse émetteur,clé d\'identification,adresses fréquences stand-by paramétrables,clé d\'identification hardware,mémoire de la radiocommande,émetteur de réserve';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'KEY';
 	include 'header.php';

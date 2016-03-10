@@ -88,7 +88,7 @@
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">Nos expériences</h2>
-					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=9" alt="Sadamec"></a>
+					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
                 </div>
                 <div class="span4">
 					<h2 class="text-center">Nos réalisations</h2>

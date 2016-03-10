@@ -1,7 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'Industriële radiobesturing, made in Belgium';
-	$description = 'JMei kan terugblikken op 25 jaar ervaring voor ontwerp en productie van radiobesturingen, en biedt als enige fabrikant in België oplossingen op maat van elke klant';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'about';
 	include 'header.php';

@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RECB - Récepteur radio sécuritaire - Répéteur de télécommande';
-	$description = 'Récepteur de radiocommande industrielle JMei. Fonctions TOR, analogiques, CANbus, CANopen, Profibus ou Profinet. Arrêt de sécurité certifié.';
-	$keywords = 'JMei,RECB,Récepteur radio sécuritaire,Répéteur de télécommande,Récepteur de radiocommande industrielle,récepteur radio HF,commande de tout engin industriel,normes industrielles,Relais de sécurité,arrêt d\'urgence,PWM,entrée TOR,entrée analogique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,fiche Harting,Pont roulant,Grue tour,Camion hydraulique,Engins spéciaux,Automate';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 	$pageId = 'RECB';
 	$swiper = new Medias('/img/product-RECB/swiper/');	
 	include 'header.php';

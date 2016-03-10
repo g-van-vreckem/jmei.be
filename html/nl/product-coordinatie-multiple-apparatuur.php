@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Sytème TANDEM - Coordinations d\'équipements radio';
-	$description = 'Mise en tandem de ponts roulants via télécommande radio,commande de systèmes complexes';
-	$keywords = 'coordination d\'équipements radio,système tandem,gestion des fins de course,émetteur maître,émetteur esclave,mode tandem,prise en main du pont,dialogue entre les récepteurs';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'TANDEM';
 	include 'header.php';

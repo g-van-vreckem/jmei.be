@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB700 - Commande radio longue portée - Télécommande robuste';
-	$description = 'Radiocommande ultra-compacte, rigidité accrue de part son boîtier en aluminium, cette commande à distance prendra facilement place dans vos applications forestières et agricoles';
-	$keywords = 'JMei,RCB700,Commande radio longue portée,Télécommande robuste,Radiocommande ultra-compacte,boîtier en aluminium,commande à distance,applications forestières et agricoles,boîte à boutons sécuritaire,télécommande sans fil,Arrêt d\'urgence,Fonctions analogiques proportionnelles,retour d\'information,LCD graphique,émetteur de réserve,Lecteur code barre,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Télécommande avec retour d\'informations,Radiocommande avec lecteur code-barres,Télécommande sur-mesure,Radiocommande avec afficheur graphique,Arêt de sécurité haute performance,télécommande forestière,commande de treuils';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 	$pageId = 'RCB700';
 	$swiper = new Medias('/img/product-RCB700/swiper/');
 	include 'header.php';

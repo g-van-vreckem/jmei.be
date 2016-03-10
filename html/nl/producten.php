@@ -1,9 +1,8 @@
 <?php
 	include 'common.php';
-	//$title .= '';
-	$title = 'JMei - Radiocommandes personnalisées - Télécommandes sans fil bidirectionnelles';
-	$description = 'Gamme de radiocommandes industrielles JMei';
-	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,RCB90,RCB3000,RCB1000,RCB700,Helice,RCB6000,RCB7000,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'products';
 	include 'header.php';

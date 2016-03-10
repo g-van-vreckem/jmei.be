@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Radiocommande à distance - Radio télécommande sans fil industrielle';
-	$description = 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
-	$keywords = 'JMei,Radiocommande à distance,Radio télécommande,Radio télécommande sans fil industrielle,solution électronique,radiocommandes industrielles,radio-transmission,IRC,Collard-Belgium-Electronics,radiocommande,innovation constante,télécommandes,dernières technologies,Marloie,Radios personnalisées,                    Personnalisation,Flexibilité,Innovation,Réactivité,Expérience,Fiabilité,équipe dynamique et professionnelle,service rapide et de qualité,Fabrication sur-mesure';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'home';
 	include 'header.php';
@@ -91,14 +91,8 @@
 
             <div class="row">
                 <div class="span4">
-                    <h2>JMei</h2>
-                    <p>Chaussée de Rochefort, 123<br>
-						B-6900 Marloie<br>
-						Belgique<br>
-						Tel. : +32 84 34.41.75<br>
-						Fax : +32 84 34.41.77<br>
-						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Neem contact op met ons! &raquo;</a></p>
+<h2 class="text-center">Onze ervaringen</h2>
+					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
                 </div>
                 <div class="span4">
  						<h2>Voorbeelden van uitvoeringen</h2>
@@ -106,31 +100,27 @@
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=14" alt="Radiocommande Industrielle de sécurité"></a>
                </div>
                 <div class="span4">
-                  <h2>Onze troeven</h2>
-                  <ul>
-                    <li>Personalisatie</li>
-                    <li>Flexibiliteit</li>
-                    <li>Innovatie</li>
-                    <li>Reactievermogen</li>
-                    <li>Ervaring</li>
-                    <li>Betrouwbaarheid</li>
-                  </ul>
-				<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('realisations');?>">Meer info &raquo;</a></p>
+ <h2 class="text-center">Een garantie voor kwaliteit</h2>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2en.jpg?v=1" alt="Télécommande JMei"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box1.jpg?v=7" alt="Boîte à boutons industrielle"></a>
+<h2 class="text-center">Industriële afstandsbediening</h2>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box3.jpg?v=9" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
-                  <p class="lead text-center">Een dynamisch en professioneel team</p>
-					<p class="lead text-center">Snelle en kwalitatieve service</p>
-					<p class="lead text-center">Productie op maat</p>
-					<p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('about');?>">Meer info &raquo;</a></p>
-
+                    <h2 class="text-center">JMei</h2>
+                    <p class="text-center">Chaussée de Rochefort, 123<br>
+						B-6900 Marloie - Belgique<br>
+						Tel. : +32 84 34.41.75<br>
+						Fax : +32 84 34.41.77<br>
+						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
+                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Neem contact op met ons! &raquo;</a></p>
 				</div>
                 <div class="span4">
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box2.jpg?v=6" alt="Radiocommande personnalisée"></a>
+<h2 class="text-center">Knoppendoos</h2>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=1" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

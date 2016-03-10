@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Démarrage sécurisé - Prise en main';
-	$description = 'Le système de prise en main JMei/TCA27 permet d’accroître considérablement la sécurité lors de la commande à distance d’engins dangereux';
-	$keywords = 'clé de prise en main,démarrage sécurisé de radiocommande,TCA27,balise lumineuse,';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'TCA27';
 	$swiper = new Medias('/img/product-TCA27/swiper/');

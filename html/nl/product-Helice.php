@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Hélice - Télécommande radio forestière - Radiocommande bidirectionnelle';
-	$description = 'Radiocommande entièrement personnalisable. Robuste, légère et étanche, cette télécommande aura sa place dans vos applications forestières et agricoles, mine et carrière, génie civile. ';
-	$keywords = 'JMei,Hélice,Télécommande radio forestière,Radiocommande bidirectionnelle,Radiocommande entièrement personnalisable,applications forestières et agricoles,mine et carrière,génie civile,Emetteur sécuritaire,boîtier de commandes,télécommande sans fil,Arrêt d\'urgence,Fonctions analogiques,retour d\'information,Ecran LCD graphique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Levage et manutention,Domaine forestier,Domaine agricole,Génie civil,pompe à béton,Mines et carrières,Radiocommande avec afficheur,Radio télécommande agricole,Radiocommande,bande transporteuse';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 	$pageId = 'Helice';
 	$swiper = new Medias('/img/product-Helice/swiper/');	
 	include 'header.php';

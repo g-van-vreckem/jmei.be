@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Télécommande industrielle compacte - Radio télécommande RF';
-	$description = 'Commande à distance économique et légère, JMei radio pocket. La commande industrielle à petit prix, ultra-compacte';
-	$keywords = 'JMei,Télécommande industrielle compacte,Radio télécommande RF,télécommande,applications de manutention,grues,dépanneuses,camions de pompe à béton,équipement de levage,machines de construction,barrières d\'accès,émetteur compact,récepteur à commandes intégrées,systèmes radio,autorisation d\'accès,Récepteur avec commandes intégrées,Remorques,Treuils,Hydraulique,Contrôle industriel,Porte,barrière d\'accès industriel';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 	$pageId = 'JMPOCKET';
 	$swiper = new Medias('/img/product-JMPOCKET/swiper/');	
 	include 'header.php';

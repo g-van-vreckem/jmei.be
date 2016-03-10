@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB7000 - Transmission de données - Transceiver radio';
-	$description = 'Module de transmission de données sans fil industriel, échange de signaux TOR, analogiques, série, bus de terrain (field bus)';
-	$keywords = 'module de transmission industrielle,RCB7000,équipements de transmission sans fil,modules radio,applications radiocommandées,transmission à distance sans câblage,transmission d\'informations,transmission de tous signaux';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'RCB7000';
 	include 'header.php';
@@ -12,59 +12,57 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Module de transmission industrielle de type RCB7000</h3>
+					<a name="highlight"></a><h3>Industriële transmissiemodule type RCB7000</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB7000/rcb7000_1.jpg" alt="RCB7000 Transmission industrielle" />
 						</div>
 					</div>
 					<p></p>		
-					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB7000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Downloaden in pdf-formaat</a></p>
 
-					<a name="features"></a><h4>Caractéristiques</h4>
-					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
-Les modules RCB7000 permettent aussi d’échanger les signaux du type RS232 ou 485 ou autres
-.</p>
+					<a name="features"></a><h4>Kenmerken</h4>
+					<p>Draadloze transmissieapparatuur van JMei is geschikt voor de transmissie van elk type digitale of analoge signalen op afstanden <strong>tot 5.000 m</strong> en beperken aanzienlijk het gebruik van kabels voor controle of meting tussen apparaten en de PLC/automaat of tussen apparaten onderling. De RCB7000-modules zijn ook geschikt voor uitwisseling van signalen type RS232 of 485 of andere.</p>
 
-					<a name="specifications"></a><h4>Spécifications</h4>
+					<a name="specifications"></a><h4>Specificaties</h4>
 					<img src="../img/product-RCB7000/rcb7000_2_en.gif" alt="RCB7000 transmission unidirectionnelle ou bidirectionnelle - Multicanaux, fréquence industrielle" />
                     
-<p>Le système de base RCB7000 est composé d’un boîtier émetteur et d’un boîtier récepteur, ces appareils permettent d’envoyer ou de recevoir par radio fréquence tous types de signaux soit tout-ou-rien, mais aussi les signaux analogiques.
-                      <br>
-                  Ces modules radio peuvent communiquer en mode unidirectionnel mais aussi en mode bidirectionnel tout en utilisant une seule fréquence (technologie basée sur un tranceiver). </p>
-					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et/ou l’environnement électromagnétique peut être très perturbant</strong>.<br />
-				  Ils travaillent soit dans la bande de fréquence 434MHz ou 868MHz (fréquence libre de droit pour l’utilisateur) tout en utilisant une puissance de faible niveau (inf. à 10mW) et ceci afin de ne <strong>pas perturber les autres applications radiocommandées installées sur le site du client</strong>.</p>
+<p>Het basissysteem van de RCB7000 bestaat uit een zenderbehuizing en een ontvangerbehuizing die via radiofrequentie elk type signaal kunnen verzenden of ontvangen als alles-of-niets of als analoge signalen.
+      <br>
+                  Deze radiomodules kunnen zowel unidirectioneel als bidirectioneel communiceren op één enkele frequentie (technologie op basis van een tranceiver).</p>
+					<p>De transmissiemodules maken gebruik van een technologie die gebaseerd is op onze uitgebreide ervaring op dit vlak (+/- 15 jaar), met bewezen prestaties <strong>in industriële sectoren zoals de staalindustrie, smelterijen of plaatsen waar de elektromagnetische omgeving heel storend kan zijn</strong>.<br />
+				  Ze functioneren op frequentieband 434MHz of 868MHz (een frequentie die van rechtswege vrij is voor de gebruiker) met een laag vermogen (minder dan 10mW) om <strong>de andere radiogestuurde toepassingen op de site van de klant niet te verstoren</strong>.</p>
 					
-					<a name="uses"></a><h4>Applications</h4>
+					<a name="uses"></a><h4>Toepassingen</h4>
 <ul>
-						<li>Transmission à distance sans câblage de tous types signaux analogiques de mesure, par exemple poids, pression, température, vitesse, ou autres vers un PC Central ou automate de gestion.</li>
-						<li>Transmission d'informations vers tout types d'afficheurs.</li>
-						<li>Transmission de tous signaux TOR ou digitaux, par exemple position d’engins mobiles, zonage de ponts roulants ou tous engins mobiles, commande de machine à distance pompes, moteurs ou autres, transmission d’information entre un engin mobile (Clark, chargeur sur pneus) et un poste fixe.</li>
+						<li>Draadloze transmissie op afstand van elk type analoge meetsignalen, bijvoorbeeld gewicht, druk, temperatuur, snelheid enz. naar een centrale pc of beheerautomaat.</li>
+                        <li>Gegevenstransmissie naar elk type display.</li>
+                        <li>Transmissie van AON- of digitale signalen, zoals de positie van mobiele inrichtingen, zonering van rolbruggen of andere mobiele voorzieningen, bediening van machines, pompen, motoren enz. op afstand, gegevenstransmissie tussen een mobiel apparaat (Clark, lader op wielen) en een vaste post.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Fiabilisation du transfert, sécurité d’utilisation</h4>
-					<p>Les modules JMei/RCB6000 sont pourvus de dispositifs et de codes de contrôle développés afin de garantir une très grande fiabilité quant aux perturbations ou coupures pouvant provenir d’autres sources de radiofréquences installées sur le site et par les moyens suivants:</p>
+					<a name="uses"></a><h4>Betrouwbare transmissie, beveiligd gebruik</h4>
+					<p>De modules JMei/ BCR7000  zijn uitgerust met voorzieningen en codes voor controle die ontwikkeld werden om een heel hoge betrouwbaarheidsgraad te garanderen met betrekking tot storingen of onderbrekingen van andere radiofrequentiebronnen ter plaatse. Dit gebeurt als volgt:</p>
 					<ul>
-					  <li>Adresse identifiante du récepteur et de l’émetteur codées JMei (codage 32 Bits).</li>
-						<li>Codage de la trame envoyé par code 16 bits CRC.</li>
-						<li>Relecture permanente par protocole interne et vérification des messages.</li>
-						<li>En cas de perturbation, le canal de transmission peut facilement être reprogrammé par PC sur site, 64 canaux sont possibles.</li>
-						<li>En mode bidirectionnel, il existe aussi la possibilité de vérifier si les signaux de contacts TOR ont bien été exécutés.</li>
+					  <li>Identificatieadres van de ontvanger en zender met JMei-codering (32 bits).</li>
+                      <li>Codering van de verzonden gegevens met een CRC-code van 16 bits.</li>
+                      <li>Permanente aflezing en controle van berichten volgens een intern protocol.</li>
+                      <li>Bij een storing kan het transmissiekanaal gemakkelijk geherprogrammeerd worden via een pc ter plaatse (64 kanalen mogelijk).</li>
+                      <li>In bidirectionele modus is het ook mogelijk om na te gaan of de AON-contactsignalen goed uitgevoerd werden.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Composition du système</h4>
+					<a name="uses"></a><h4>Samenstelling van het systeem</h4>
 					<ul>
-						<li>2 boîtiers émetteur ou récepteur en  polycarbonate (ou aluminium, en option).</li>
-						<li>Protection étanchéité  IP65, pouvant être placé à l’extérieur ou à l’intérieur de bâtiments, possibilité d’installation en armoire électrique aussi prévue.</li>
-						<li>Alimentation 24 ou 48 V AC/DC, (alimentation par batteries disponible).</li>
-						<li>Boîtier prévu avec vis de fixation et silent bloc.</li>
-						<li>Antenne omnidirectionnelle  qui ne nécessite pas de précaution particulière pour son installation et insensible à la présence de masse métallique dans le champ de propagation.</li>
-						<li>Possibilité de coupler plusieurs boîtiers émetteur récepteur entre eux  afin de constituer un réseau .</li>
-						<li>Option : Au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
+							<li>2 zender- of ontvangerbehuizingen in polycarbonaat (of aluminium, optioneel). </li>
+                        <li>Waterdichtheid klasse IP65, geschikt voor plaatsing buiten of binnen, mogelijk voor installatie in een elektriciteitskast. </li>
+                        <li>Voeding 24 of 48 V AC/DC, (voeding met batterijen mogelijk). </li>
+                        <li>Behuizing met bevestigingsschroeven en silent block. </li>
+                        <li>Omnidirectionele antenne die geen speciale voorzorgsmaatregelen vereist voor de installatie en niet gevoelig is voor de aanwezigheid van een metaalmassa in het verspreidingsveld. </li>
+                        <li>Mogelijkheid om meerdere zender-/ontvangerbehuizingen onderling te koppelen om een netwerk te vormen. </li>
+                        <li>Optie: bij de ontvangermodule is communicatie naar de clientapplicatie van het type Ethernet, Profibus of een andere veldbus mogelijk. </li>
 					</ul>
 
-					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
-					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
+					<a name="uses"></a><h4>Referenties voor dit type uitrusting</h4>
+					<p>Dit type uitrusting werd recent geïnstalleerd bij: Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>
