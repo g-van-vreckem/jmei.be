@@ -1,51 +1,49 @@
 <?php
 	include 'common.php';
-	$title = 'JMei radiocommandes industrielles, made in Belgium';
-	$description = 'Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients';
-	$keywords = 'JMei,radiocommandes industrielles,Belgium,fabrication de radiocommandes,fabricant en Belgique,solutions sur-mesure,société IRC,idées innovantes,équipe dynamique,radiocommande industrielle,produits de haute qualité,environnements industriels,service rapide et personnalisé,matériaux de haute qualité,prix attractifs,leaders européens,normes de sécurité,gamme de radiocommandes,Boîtes à boutons double vitesse,Pupitres à commandes progressives,Retour d\'informations,Options sécuritaires,Bus de terrain,profibus,can bus,ethernet,profinet,Mines et carrières,Maritime,Forêts et équipements agricoles,Transport routier,Bâtiments et Travaux Publics,BTP,Eolien et énergies renouvelables,transmissions radioélectriques,solutions personnalisées';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'about';
 	include 'header.php';
 	include 'nav.php';
 
-?>
-			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
-            
-			<h4>Un nouveau départ</h4>
-			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
+?>          
+<h4>A new start</h4>
+			<p>In June 2013, JMei took over leadership of the company IRC. With innovative ideas, a new management and a dynamic team, we are committed to developing our products and to giving our customers the greatest satisfaction.</p>
 
-			<h4>Bienvenue dans le monde de la radiocommande industrielle JMei (made in Belgium)</h4>
-			<p>Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients. Dès le début, JMei a décidé de développer des produits de haute qualité, fiables et robustes, adaptés à tous types d'environnements industriels, même les plus difficiles.</p>
+			<h4>Welcome to the world of JMei industrial radio remote controls (Made in Belgium)</h4>
+			<p>With 30 years of experience in the design and manufacture of radio remote controls, and the only manufacturer of these in Belgium, the company JMei offers tailor-made solutions for all its customers. Since the start, JMei has decided to develop high-quality, reliable and robust products, suitable for all types of industrial environments, even the most difficult.</p>
 
-			<h4>Une équipe professionnelle et dynamique</h4>
-			<p>JMei, composé d’une équipe jeune et compétente, offre un service rapide et personnalisé. Tous nos produits sont entièrement conçus et fabriqués dans notre propre atelier. Nous n'utilisons que des matériaux de haute qualité pour une utilisation optimale et à haut niveau de sécurité. De plus, notre politique d'entreprise est de maintenir des prix attractifs, ce qui nous place parmi les leaders européens sur le marché des radiocommandes.</p>
+			<h4>A professional and dynamic team</h4>
+			<p>JMei, made up of a young, skilled team, offers a rapid and custom-designed service. All our products are entirely designed and manufactured in our own workshop. We only use high-quality materials for optimum use at a high level of security. Furthermore, our company policy is to keep prices attractive, which puts us amongst the European leaders in the market for radio remote controls.</p>
 
-			<h4>Un service rapide et haut-de-gamme</h4>
-			<p>L’organisation de notre équipe nous permet de fournir n'importe quel appareil sur-mesure pour un prix imbattable. Notre délai de livraison est court : nous pouvons concevoir et produire une radio qui réponde totalement à vos besoins rapidement.<br>
-			Tous nos équipements répondent aux dernières normes de sécurité, ce qui  rend leur utilisation très sûre.</p>
+			<h4>Rapid, top-of-the-range service</h4>
+			<p>
+The way our team is organised enables us to supply any device custom-built for an unbeatable price. Our turnaround time is short: we can design and produce a radio quickly that meets all your needs.<br>
+All of our equipment meet the latest safety standards, which makes their use very safe.</p>
 
-			<h4>Une réalisation personnalisée de vos commandes</h4>
-			<p>Grâce à notre large gamme de radiocommandes, vous trouverez la solution la plus adaptée à vos besoins :</p>
+			<h4>Customise production of your orders</h4>
+			<p>Thanks to our wide range of radio remote controls, you can find the solution best suited to your needs:</p>
 			<ul>
-				<li>Boîtes à boutons double vitesse</li>
-				<li>Pupitres à commandes progressives</li>
-				<li>Retour d’informations</li>
-				<li>Options sécuritaires</li>
-				<li>Bus de terrain (profibus, can bus, ethernet, profinet,…)</li>
+				<li>Boxes with double speed buttons </li>
+                <li>Desks with gradual controls </li>
+                <li>Feedback </li>
+                <li>Safety options </li>
+                <li>Fieldbus (profibus, can bus, ethernet, profinet, etc.) </li>
 			</ul>
-			<p>Nous sommes actifs dans les domaines d’applications suivants :</p>
+			<p>We are active in the following application areas:</p>
 			<ul>
-				<li>Mines et carrières</li>
-				<li>Maritime</li>
-				<li>Forêts et équipements agricoles</li>
-				<li>Transport routier</li>
-				<li>Bâtiments et Travaux Publics (BTP)</li>
-				<li>Eolien et énergies renouvelables</li>
+				<li>Mines and quarries </li>
+                <li>Maritime </li>
+                <li>Forestry and agricultural equipment </li>
+                <li>Road transport </li>
+                <li>Buildings and Public Works </li>
+                <li>Wind and renewable energy </li>
 			</ul>
-			<h4>JMei, votre partenaire en transmissions radioélectriques</h4>
-			<p>Toujours à l'écoute de nos clients, nous donnons la plus grande priorité à la création et à l'innovation dans les solutions personnalisées que nous proposons.</p>
+			<h4>JMei, your partner in radio-electric transmissions</h4>
+			<p>We always listen to our customers and give the highest priority to creation and innovation in the custom-designed solutions that we offer.</p>
 
-			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, c'est toujours un plaisir pour nous de parler de notre passion!</p>
+			<p>Please do not hesitate to  <a href="<?php echo Site::relativeUrl('contact');?>">contact us</a>, it's always a pleasure for us to talk about our passion!</p>
 
  <?php include 'footer.php';?>

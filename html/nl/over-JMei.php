@@ -13,7 +13,7 @@
 			<p>In juni 2013 heeft JMei het bedrijf IRC overgenomen. We streven ernaar om met een nieuw management, een dynamisch team en innoverende ideeën producten te ontwikkelen en aan te bieden die beantwoorden aan de behoeften van onze klanten.</p>
 
 			<h4>Welkom in de wereld van industriële radiobesturing van JMei (made in Belgium)</h4>
-			<p>JMei kan terugblikken op 25 jaar ervaring voor ontwerp en productie van radiobesturingen, en biedt als enige fabrikant in België oplossingen op maat van elke klant. Van bij het begin heeft JMei beslist om kwalitatieve, betrouwbare en robuuste producten te ontwikkelen die geschikt zijn voor elke industriële omgeving, ook de meest veeleisende.</p>
+			<p>JMei kan terugblikken op 30 jaar ervaring voor ontwerp en productie van radiobesturingen, en biedt als enige fabrikant in België oplossingen op maat van elke klant. Van bij het begin heeft JMei beslist om kwalitatieve, betrouwbare en robuuste producten te ontwikkelen die geschikt zijn voor elke industriële omgeving, ook de meest veeleisende.</p>
 
 			<h4>Een professioneel en dynamisch team</h4>
 			<p>Het jonge, competente team van JMei biedt een snelle, gepersonaliseerde service. Al onze producten worden van begin tot einde ontworpen en vervaardigd in onze werkplaats. We gebruiken materialen van uitstekende kwaliteit voor een optimale toepassing met een hoog veiligheidsniveau. Ons bedrijfsbeleid houdt ook in dat we voordelige prijzen hanteren, zodat we deel uitmaken van de Europese top op het vlak van radiobesturing.</p>

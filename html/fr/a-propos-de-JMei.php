@@ -16,7 +16,7 @@
 			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
 
 			<h4>Bienvenue dans le monde de la radiocommande industrielle JMei (made in Belgium)</h4>
-			<p>Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients. Dès le début, JMei a décidé de développer des produits de haute qualité, fiables et robustes, adaptés à tous types d'environnements industriels, même les plus difficiles.</p>
+			<p>Forts d’une expérience de 30 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients. Dès le début, JMei a décidé de développer des produits de haute qualité, fiables et robustes, adaptés à tous types d'environnements industriels, même les plus difficiles.</p>
 
 			<h4>Une équipe professionnelle et dynamique</h4>
 			<p>JMei, composé d’une équipe jeune et compétente, offre un service rapide et personnalisé. Tous nos produits sont entièrement conçus et fabriqués dans notre propre atelier. Nous n'utilisons que des matériaux de haute qualité pour une utilisation optimale et à haut niveau de sécurité. De plus, notre politique d'entreprise est de maintenir des prix attractifs, ce qui nous place parmi les leaders européens sur le marché des radiocommandes.</p>
