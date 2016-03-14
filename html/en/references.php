@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Commande à distance pour l\'industrie et machines mobiles';
-	$description = 'De nombreuses sociétés font confiance à la société JMei de part la qualité de ses produits et la richesse de ses services';
-	$keywords = 'levage,industrie,métallurgie,mines,carrières,applications maritimes,transmission de données,équipement mobile,génie civil,domaine forestier et agricole,commande à distance';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'references';
 	include 'header.php';
@@ -12,7 +12,7 @@
 			<div class="span12">
 				<div class="row">
 					<div class="span6">
-						<h4 class="bt-warning">Levage &amp; Industrie</h4>
+						<h4 class="bt-warning">Lifting &amp; Industry</h4>
 	<img src="/img/references/stgobain.jpg" alt="Saint Gobain" class="refer-left" />
 	<img src="/img/references/glaverbel.jpg" alt="Glaverbel" class="refer" />
 	<img src="/img/references/electrabel.jpg" alt="Electrabel" class="refer-left" />
@@ -24,7 +24,7 @@
 	<img src="/img/references/ferry.jpg" "Ferry Capitain" class="refer-left" />
 					</div>
 					<div class="span6">
-						<h4>Métallurgie</h4>
+						<h4>Metal industry</h4>
 	<img src="/img/references/asco.jpg" alt="ASCQ metals" class="refer-left" />
 	<img src="/img/references/arcelor.jpg" alt="Arcelor" class="refer" />
 	<img src="/img/references/myriad.jpg"  alt="Myriad" class="refer-left" />
@@ -41,12 +41,12 @@
 				<hr>
 				<div class="row">
 					<div class="span6">
-						<h4>Mines et carrières</h4>
+						<h4>Mines and quarries</h4>
 	<img src="/img/references/carmeuse.jpg" alt="Carmeuse Natural Chemicals" class="refer-left" />
     <img src="/img/references/lhoist.jpg" alt="Lhoist" class="refer-left" />
 					</div>
 					<div class="span6">
-						<h4>Applications maritimes</h4>
+						<h4>Maritime applications</h4>
 	<img src="/img/references/jandenul.jpg" alt="Jan de Nul group" class="refer-left" />
 	<img src="/img/references/pac.jpg" alt="Port Autonome de Charleroi" class="refer" />
 					</div>
@@ -54,14 +54,14 @@
 				<hr>
 				<div class="row">
 					<div class="span6">
-						<h4>Transmission de données</h4>
+						<h4>Data transmission</h4>
 	<img src="/img/references/edf.jpg" alt="EDF" class="refer-left" />
 	<img src="/img/references/sncf.jpg" "sncf" class="refer" />
 	<img src="/img/references/psa.jpg" alt="PSA Peugeot Citroën" class="refer-left" />
 	<img src="/img/references/alstom.jpg" alt="Alstom" class="refer" />
 					</div>
 					<div class="span6">
-						<h4>Equipement mobile</h4>
+						<h4>Mobile equipment</h4>
 	<img src="/img/references/manitou.jpg"  alt="Manitou" class="refer-left" />
 	<img src="/img/references/airbus.jpg" alt="Airbus" class="refer" />
 	<img src="/img/references/massenza.jpg" alt="Massenza" class="refer-left" />
@@ -70,12 +70,12 @@
 				<hr>
 				<div class="row">
 					<div class="span6">
-						<h4>Génie civil</h4>
+						<h4>Civil engineering</h4>
 	<img src="/img/references/naessens.jpg" alt="Willy Naessens" class="refer-left" />
 	<img src="/img/references/cbr.jpg" alt="CBR" class="refer" />
 					</div>
 					<div class="span6">
-						<h4>Domaine forestier et agricole</h4>
+						<h4>Forestry and agricultural sector</h4>
 	<a href="http://www.binetruy-sarl.com"><img src="/img/references/binetruy.jpg" alt="Binetruy - La Forêt Passion" class="refer-left" /></a>
 	<a href="http://www.warzee-sa.be/"><img src="/img/references/warzee.png" alt="Warzee sa - Manufacturing of agricultural machines and civil engineering to Hamois" class="refer" /></a>
 	

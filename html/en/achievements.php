@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
-	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -14,7 +14,7 @@
 				<!--Sidebar content-->
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
-							<li class="nav-header">Radiocommandes personnalisées</li>
+							<li class="nav-header">CUSTOMISED RADIO REMOTE CONTROLS</li>
 							<li class="active"><a href="#blog-2015-10">Technologie Infra-Rouge <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-05">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-02">Radio-télécommande double vitesse <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -158,20 +158,20 @@
 					<hr>                
 					<a class="anchor" id="blog-2013-12"></a>
 					<section>
-						<h3>RCB3000 bidirectionelle</h3>
+						<h3>Bi-directional RCB3000</h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-12-3000.jpg" alt="RCB3000 personnalisée avec retour d'informations">
-						<p>RCB3000 réalisée sur-mesure selon le cahier des charges du client. <br>
-					    Modèle avec retour d'informations sur afficheurs 7 segments: affichage de poids, température et pression.<br>
-					    Des validations de mouvements (venant du récepteur) sont indiquées par voyants LED au-dessus de chaque manipulateur.
+						<p>RCB3000 produced custom-built according to the customer's . <br>
+					    Model with feedback on 7-segment display units: displaying weight, temperature and pressure.<br>
+					    Confirmations of movements (coming from the receiver unit) are indicated through LED warning lights above each switch.
 						</p>
 					</section>
 					<hr>
 					<a class="anchor" id="blog-2013-11"></a>
 					<section>
-						<h3>RCB700 - OEM groupe Warzee S.A.</h3>
+						<h3>RCB700 - Warzee S.A. OEM Group </h3>
 						<img class="img-polaroid blog" src="../img/custom-product/2013-11-700.jpg" alt="RCB700 - Commande de machine agricole - Warzee">
-						<p>RCB700 entièrement personnalisée.<br>
-						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence.
+						<p>Completely customised RCB700.<br>
+						  Remote control of a remote unwinder (on the fork of an agricultural machine) from the machine's cab using radio frequencies.
 						</p>
 					</section>
 					<hr>
