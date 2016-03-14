@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'SADAMEC - Service et pièces pour télécommande SADamec TEChnologie';
-	$description = 'La société JMei assure l\'entretien, le dépannage, la mise à niveau ou tout simplement la fourniture de pièces de rechange pour l\'ensemble du matériel de télécommande SADamec TEChnologie';
-	$keywords = 'JMei,entretien,dépannage,télécommande SADAMEC,service SADamec,SADamec radiocommande,SADAMEC,services SADamec,radios sur-mesure,SADamec TEChnologie,Brochot télécommande,Brochot remote controls,Brochot.fr,Brochot Group,Sadamec Illkirch Graffenstaden';
+	$title = 'SADAMEC - SADamec TEChnologie radio service';
+	$description .= '';
+	$keywords = 'JMei,wireless remote controls,wired remote controls,radio-controlled,SADAMEC,SADamec remote control,service SADamec,SADamec TEChnology,Brochot télécommande,Brochot remote controls,Brochot.fr,Brochot Group,Sadamec Illkirch Graffenstaden';
 
 	$pageId = 'sadamec';
 	$swiper = new Medias('/img/sadamec/swiper/');	
@@ -12,20 +12,20 @@
 ?>
 <?php echo $swiper->html; ?>
 					<hr>                             
-			<h4>Un service radio SADamec TEChnologie assuré</h4>
-				<p>Il y a quelques mois, POK- fabricant de matériel de lutte contre l'incendie nous annonçait que dans le cadre de son département Lance Monitor Radiocommandée et ensuite dans son nouveau département POK Technology, pouvoir réaliser les études, le développement et la réalisation de commandes à distance sans fil ou filaire pour le secteur de la sécurité incendie <u>et pour l'industrie</u>.<br>Cette démarche était renforcée par l'arrivée du directeur technique de SADAMEC.</p>
-					<hr> 
-			<h4>Les télécommandes SADamec confiées à la société JMei </h4>
-				<p>Aujourd'hui, POK décide de se centrer sur son activité principale liée au secteur de l'incendie et cède à la société <strong>JMei</strong> la partie radio commande du secteur industriel.<br>C'est donc<strong> JMei</strong> qui pourra vous aider pour entretenir, dépanner et mettre à niveau ou tout simplement vous offrir des pièces de rechange pour l'ensemble du matériel de <strong>télécommande SADAMEC</strong>.<br>
-				  Les services de la société Sadamec Illkirch Graffenstaden
-				sont donc dès à présent assurés par JMei.<br>
-				</p>
+			<h4>A guaranteed SADamec TEChnologie radio service</h4>
+				<p>A few months ago, POK, a manufacturer of fire-fighting equipment, told us that it is able to carry out research, development and production of wireless or wired remote controls for the fire-safety sector <u>and for industry</u> in its Radio-controlled Lance Monitor department and then in its new POK Technology department.<br>This approach was strengthened by the arrival of SADAMEC's technical manager.</p>
+<hr> 
+			<h4>SADamec remote controls assigned to JMei</h4>
+				<p>POK has decided now to focus on its main business activity in the fire sector and transfer the industrial sector radio control part to <strong>JMei</strong>.<br>So it is <strong>JMei</strong> who can help you to maintain, repair and upgrade or quite simple offer you spare parts for all <strong>SADAMEC remote control</strong> equipment.<br>This means that the services of Sadamec Illkirch Graffenstaden are now provided by JMei   
+</p>
 				<hr> 
-			<h4>POK et JMei redonnent naissance aux services SADamec</h4>
-				<p><strong>JMei</strong> est au cœur du métier de la radiocommande depuis 30 ans par les sociétés Collard-IRC et JMei. Elle est basée en Belgique francophone (Ardenne belge) et impliquée sur le marché français.<br>Elle se fera un plaisir de vous satisfaire dans des délais courts et d'analyser avec vous vos besoins en radiocommande.<br>JMei fabrique vos radios sur-mesure en respectant les normes sécuritaires imposées dans votre secteur.<br>
-<strong>POK et JMei</strong> sont certains de par cette décision de mieux répondre aux demandes du secteur industriel.</p>
+			<h4>POK and JMei breathe new life into SADamec services</h4>
+				<p><strong>JMei</strong> has been at the heart of the radio control business for 30 years through the companies Collard-IRC and JMei. It is based in the French-speaking part of Belgium (the Belgian Ardennes) and has an involvement in the French market.<br>It would be a pleasure for it to meet your requirements within short lead times and to analyse your radio control needs with you.
+JMei manufactures your radios to order, observing the safety standards that are imposed in your sector
+.<br>
+<strong>POK and JMei</strong> are sure that this decision means they can best respond to the demands of the industrial sector.</p>
 
-			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, JMei sera toujours en mesure de vous proposer la meilleure solution!</p>
+			<p>Please do not hesitate to <a href="<?php echo Site::relativeUrl('contact');?>">contact us</a>, JMei will always be able to offer you the best solution!</p>
 					<hr>             
  					<div class="row">
 						<div class="span3">
