@@ -1,8 +1,9 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - Clé mémoire - Démarrage sécurisé - Système tandem';
-	$description = 'Options pour les radiocommandes JMei. Clé mémoire émetteur, système de sécurité, coordination d\'équipements';
-	  $keywords = 'JMei,Clé mémoire,Démarrage sécurisé,Système tandem,Options pour les radiocommandes,système de sécurité,radiocommandes,clé mémoire de la radiocommande,clé d\'identification hardware,mémoire externe,émetteur de secours,émetteur de réserve,boîte à boutons,radiocommande,TCA27,commande d’engins dangereux,fonctions de sécurité,source infrarouge,balise lumineuse,système de démarrage,Commande de systèmes complexes,ponts roulants,limiteurs de charge,Radiocommandes multi-émetteurs,Radiocommandes multi-récepteurs,Radiocommandes en réseau';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
+	
 	$pageId = 'OPTION';
 	$swiper = new Medias('/img/product-option/swiper/');		
 	include 'header.php';
@@ -18,129 +19,125 @@
 					</div>
 					<p></p>                
 					<hr>
-					<p> <a href="#hardkey" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Clé hardware</a></p> 
-					<p> <a href="#TCA27" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Démarrage sécuritaire</a></p> 
-					<p> <a href="#tandem" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Commande de systèmes complexes</a></p> 
+					<p> <a href="#hardkey" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Hardware key</a></p> 
+					<p> <a href="#TCA27" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Secure starting</a></p> 
+					<p> <a href="#tandem" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Control of complex systems</a></p> 
 					<hr>                  
 					<a class="anchor" id="hardkey"></a>
-					<h3>Clé hardware</h3>    
+					<h3>Hardware key</h3>    
 						<a id="clef-description"></a>                
 						<h4>Description</h4>
-							<p>Toutes les émetteurs de la gamme des radiocommandes JMei sont paramétrables en adresses, fréquences et stand-by par leurs manipulateurs.<br>
-							Ces données mémoire peuvent être modifiées aisément par le personnel de maintenance dans le cas de permutation ou remplacement d'un émetteur (en cas de panne ou de casse).</p>
-					<p>Afin de simplifier ces opérations et de minimiser les interventions de la maintenance, <strong>les paramètres essentiels de fonctionnement (adresse, fréquence, stand-by, ...) peuvent être inscrits dans une "clé d'identification hardware", véritable clé mémoire de la radiocommande</strong>.</p>
-					<p>Cette mémoire externe, amovible, est aisément interchangeable par l'opérateur et est unique pour un engin donné.</p>
-					<p>En cas de défaillance d'un émetteur, l'opérateur peut retirer aisément (dévisser sans outillage spécialisé), la clé d'identification et la replacer sur l'émetteur de secours. L'ensemble des paramètres de l'engin concerné sera transféré dans l'émetteur de réserve ainsi configuré et prêt à être utilisé. De plus, cette clé est <strong>placée sur chaque type d’émetteur JMei en un endroit protégé (contre les risques de casses) mais facile d’accès</strong>.</p>
+							<p>All transmitters of from the JMei radio remote control range can be configured in terms of addresses, frequencies and stand-by using their switches.<br>
+				  These memory data can be easily modified by maintenance personnel in the event of switching or replacement of a transmitter (in case of breakdown or breakage).</p>
+					<p>In order to simplify these operations and to minimise service calls, <strong>the essential operational parameters (address, frequency, stand-by, etc.) may be enclosed within a "hardware identification key", a real radio control memory key</strong>.</p>
+					<p>This external memory, which is removable, can be easily changed by the operator and is unique for a given piece of machinery.</p>
+					<p>In the event of failure of a transmitter, the operator can easily remove (unscrew without special tools), the identification key and put it back on the emergency transmitter. All of the settings for the piece of machinery concerned will be transferred into the reserve, configured and ready-to-use. In addition, this key is <strong>fitted on each type of JMei transmitter at a protected location (against the risks of breakages) but one that is easy to access</strong>.</p>
 						<a id="clef-avantages"></a>                
-						<h4>Avantages</h4>
-							<ul>
-								<li>Permet d’échanger un émetteur de travail par un émetteur de réserve rapidement et par un personnel non qualifié.</li>
-								<li>Permet de sécuriser une application avec un émetteur défini par la clé d’identification.</li>
-								<li>Clé robuste, placée en un endroit protégé contre les casses éventuelles.</li>
-						</ul>
+						<h4>Advantages</h4>
+						<ul>
+							<li>Enables an operating transmitter to be exchanged with a reserve transmitter quickly and by unqualified staff. </li>
+                            <li>Enables an application to be secured with a transmitter defined by the identification key. </li>
+                            <li>Robust key, placed in a location protected against potential breakages.</li>
+					    </ul>
 					<div class="row">
 						<div class="span3">
-							<h6>Clé mémoire pour boîte à boutons RCB90</h6>
-							<img src="../img/product-option/key_bot1.jpg" alt="Clé mémoire pour boîte à boutons RCB90">
+							<h6>Memory key for RCB90 pendant control</h6>
+							<img src="../img/product-option/key_bot1.jpg" alt="Memory key for RCB90 pendant control">
 						</div>
 						<div class="span3">
-							<h6>Clé mémoire pour radiocommande RCB3000</h6>
-							<img src="../img/product-option/key_bot2.jpg" alt="Clé mémoire pour radiocommande RCB3000">
+							<h6>Memory key for RCB3000 radio remote control</h6>
+							<img src="../img/product-option/key_bot2.jpg" alt="Memory key for RCB3000 radio remote control">
 						</div>
 						<div class="span3">
-							<h6>Clé mémoire pour radiocommande RCB1000</h6>
-							<img src="../img/product-option/key_bot3.jpg" alt="Clé mémoire pour radiocommande RCB1000">
+							<h6>Memory key for RCB1000 radio remote control</h6>
+							<img src="../img/product-option/key_bot3.jpg" alt="Memory key for RCB1000 radio remote control">
 						</div>                                                
 					</div>                        
 					<hr> 
 					<a class="anchor" id="TCA27"></a>
-					<h3>Démarrage sécuritaire</h3>    
+					<h3>Secure starting</h3>    
 						<a id="tca27-description"></a>                
 						<h4>Description</h4>
-<p>Le système JMei/TCA27 permet d’accroître considérablement la sécurité lors de la commande d’engins dangereux.</p>
-<p>Un accident typique qui peut se produire lors de l’utilisation d’une radiocommande est l’emploi d’un émetteur qui ne correspond pas (qui n’est pas appareillé) au pont roulant, grue ou tout type d’application radiocommandée, c'est-à-dire que <strong>l’opérateur peut par inadvertance confondre un émetteur avec un autre</strong>.</p>
-<p>Il est dès lors recommandé d’équiper ces radiocommandes d’un système nommé aussi, <strong>clé de prise en main</strong> qui permet au démarrage du système d’assurer à 100% une correspondance émetteur, récepteur, application.</p>
-<p>JMei a <strong>développé et breveté un équipement (TCA27)</strong> unique qui permet d’assurer toutes les fonctions de sécurité de la clé de prise en main <strong>sans pour autant devoir utiliser une source infrarouge</strong>.</p><br>
-<p>Le système TCA27 consiste en l’installation d’une balise lumineuse composée de 4 diodes de 4 couleurs différentes (rouge, jaune, bleu et vert) en un endroit visible et dans l’environnement proche de l’application (pont roulant, grue ou autre).</p>
-<p>Cette balise est <strong>commandée par la radiocommande sur la même fréquence et adresse</strong> que pour les autres fonctions de celle-ci.</p>
-<p>Au démarrage de la radiocommande, la balise génère un code couleur composé de 2 couleurs, <strong>ce code est aléatoire c’est-à-dire qu’il sera différent à chaque démarrage.
+<p>The JMei/TCA27 system enables safety to be increased considerably when controlling dangerous machinery.</p>
+<p>A typical accident which may occur when using a radio remote control is the use of a transmitter that does not correspond to (which does not match) the travelling crane, crane or any type of radio-controlled application, that is to say that <strong>the operator may inadvertently confuse one transmitter with another</strong>.</p>
+<p>Therefore it is recommended that these radio remote controls are fitted with a system also known as <strong>a security key </strong> which enables at system start-up to fully ensure that transmitter, receiver and application match up.</p>
+<p>JMei has <strong>developed and patented a piece of equipment (TCA27)</strong> which is unique and which provides all of the safety features of the security key  <strong>without having to use an infra-red source</strong>.</p><br>
+<p>The TCA27 system consists of the installation of a light marker composed of 4 diodes of 4 different colours (red, yellow, blue and green) at a visible place and in the immediate surroundings of the application (travelling crane, crane or other).</p>
+<p>This marker is <strong>controlled by the radio remote control on the same frequency and at the same address</strong> as for the other functions of the latter.</p>
+<p>When the radio remote control starts up, the marker generates a colour code consisting of 2 colours; <strong>this code is random i.e. it will be different at each start-up
 </strong>.</p>
-<p>Sur l’émetteur, 4 touches de fonction standard sont cependant pourvues des couleurs rouge, jaune, bleue et verte. L’opérateur confirme donc la couleur vue sur la balise successivement par pression sur la touche correspondante de l’émetteur, l’opération de validation des deux couleurs aléatoires peut prendre 5 secondes au maximum.</p>
-<p>Le code aléatoire de 2 couleurs est tout a fait suffisant pour la majorité des applications, mais JMei peut aussi configurer le système pour une confirmation d’un code de 3 couleurs ou quatre si le besoin s’en faisait sentir.</p>
+<p>On the transmitter, 4 standard function keys are however given the colours red, yellow, blue and green. The operator therefore confirms the colour seen on the marker successively by pressing the corresponding key on the transmitter, and the confirmation operation of two random colours can take 5 seconds at most.</p>
+<p>The random 2-colour code is quite sufficient for the majority of applications, but JMei can also configure the system to confirm a code of 3 colours or four if the need arises.</p>
 						<a id="tca27-avantages"></a>                
-						<h4>Avantages</h4>
+						<h4>Advantages</h4>
 					<ul>
-						<li>Pas d’interférences possibles avec d’autres sources électromagnétiques, la fréquence utilisée par le système de démarrage est identique à celle employée pour les autres fonctions de la radiocommande.</li>
-						<li>Système totalement insensible à l’environnement industriel où est placée la radiocommande.</li>
-						<li>Pas de maintenance de capteur ou autres appareils servant à capter une source lumineuse placée sur le pont roulant et qui doit servir à la clé de démarrage.</li>
-						<li>Pas de câblage compliqué, la balise est placée dans l’environnement proche du récepteur.</li>
-						<li><strong>Le système de démarrage JMei peut même être placé sur des radiocommandes qui ne seraient pas de fabrication JMei.</strong></li>
+						<li>No interference possible with other electromagnetic sources, the frequency used by the start-up system is identical to the one used for the other functions of the radio remote control. </li>
+                        <li>System totally insensitive to the industrial environment where the radio remote control is placed. </li>
+                        <li>No maintenance of the sensor or other devices used to detect a light source placed on the travelling crane and which must be used by the start-up key. </li>
+                        <li>No complicated wiring, the marker is placed in the immediate surroundings of the receiver unit. </li>
+                        <li><strong>The JMei start-up system can even be fitted on radio controls which are not manufactured by JMei.</strong></li>
 					</ul>
 					<div class="row">
 						<div class="span3">
-							<h6>RCB90 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot1.jpg" alt="Démarrage sécurisé pour radiocommande">
+							<h6>RCB90 - Secure Start-up</h6>
+							<img src="../img/product-option/tca27_bot1.jpg" alt="RCB90 - Secure Start-up">
 						</div>
 						<div class="span3">
-							<h6>RCB3000 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot2.jpg" alt="Sécurité de télécommande industrielle">
+							<h6>RCB3000 - Secure Start-up</h6>
+							<img src="../img/product-option/tca27_bot2.jpg" alt="RCB3000 - Secure Start-up">
 						</div>
 						<div class="span3">
-							<h6>RCB1000 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot3.jpg" alt="Sécurité de radiocommande industrielle">
+							<h6>RCB1000 - Secure Start-up</h6>
+							<img src="../img/product-option/tca27_bot3.jpg" alt="RCB1000 - Secure Start-up">
 						</div>                                                
 					</div>                    
 					<hr>
 					<a class="anchor" id="tandem"></a>
-					<h3>Commande de systèmes complexes</h3>    
+					<h3>Control of complex systems</h3>    
 						<a id="tandem-description"></a>                
 						<h4>Description</h4>
-				  <p>Ce système permet la commande simultanée de deux engins (par exemple : ponts roulants) par un seul émetteur. Ceci permet le transport de longues charges en toute sécurité. Avec l’option « bidirectionnel » le système assure également la gestion des fins de course rendant ainsi le couplage très sécuritaire.</p>
-					<p><strong>Fonctionnement "seul"</strong><br>
-					  Soit le pont "maître" commandé par l'émetteur "maître".
-Soit le pont "esclave" commandé par l'émetteur "esclave".
-Dans ce mode de fonctionnement les ponts sont indépendants et travaillent sur deux fréquences séparées.</p>
-				  <p><strong>Fonctionnement "tandem"</strong><br>
-					  Soit l'émetteur "esclave" éteint.
-Soit l'émetteur "maître" démarré avec le mode "Tandem" activé (ce mode s'active via une combinaison simple de touches au démarrage de l'émetteur; ceci pour éviter toute activation non-intentionnelle).<br>
-Dans ce mode de fonctionnement, les deux ponts sont pilotés par l'émetteur "maître".
+				  <p>This system enables simultaneous control of two pieces of machinery (for example: travelling cranes) by a single transmitter. This allows the transport of long loads completely safely. With the "bi-directional" option, the system also ensures the management of travel limits, thus making the coupling very safe.</p>
+					<p><strong>"Sole" operation</strong><br>
+				  Either the "master" bridge is controlled by the "master" transmitter. Or the "slave" bridge is controlled by the "slave" transmitter. In this operating mode, the bridges are independent and are working on two separate frequencies.</p>
+				  <p><strong>"Tandem" operation</strong><br>
+					  Either the "slave" transmitter is switched off. Or the "master" transmitter is started with "Tandem" mode activated (this mode is activated by a simple combination of buttons when the transmitter starts up, in order to avoid any unintentional activation).<br>
+In this operating mode, the two bridges are controlled by the "master" transmitter.
 <br>
-L'émetteur maître est pourvu d'un sélecteur 1, 1+2, 2 qui permet de choisir quel pont est piloté : le "maître" (1), l' "esclave" (2) ou les deux simultanément (1+2).
+The master transmitter is fitted with a 1, 1+2 or 2 selector switch which chooses which bridge is to be controlled: the "master" (1), the "slave" (2) or both simultaneously (1+2).
 <br>
-La fréquence de travail est alors unique pour les deux ponts et est celle du "maître".
+The working frequency is thus unique for the two bridges and it is that of the "master".
 <br>
-L'activation du pont esclave par les deux émetteurs simultanément est impossible.
+Activation of the slave bridge by the two transmitters simultaneously is impossible.
 <br>
-Lorsqu’un pont est piloté par l'émetteur "maître" mais n'est pas sélectionné par le sélecteur 1,1+2,2 seul le contacteur général reste enclenché. La commande "klaxon" reste toutefois active.				  </p>
-				  <p>Diverses variantes de "prise en main" du pont "esclave" sont possibles:</p>
-					<ul>
-					  <li>Extinction de l'émetteur "esclave" (système standard).</li>
-						<li>Autorisation préalable par l'émetteur "esclave" puis extinction de celui-ci.</li>
-						<li>Autorisation préalable par l'émetteur "esclave" ce dernier restant allumé et son arrêt de sécurité est alors actif sur les deux ponts!</li>
+When a bridge is controlled by the "master" transmitter but is not selected by the 1.1 + 2.2 selector switch, only the general contact switch remains engaged. The "horn" command remains active.</p>
+				  <p>Various "handling" options of the "slave" bridge are possible:</p>
+				  <ul>
+					  <li>Turning off the &quot;slave&quot; transmitter (standard system). </li>
+                      <li>Prior authorisation by the &quot;slave&quot; transmitter and then turning the latter off. </li>
+                      <li>Prior authorisation by the &quot;slave&quot; transmitter, with the latter remaining switched on and its safety stop is then active on both bridges!</li>
 					</ul>
-					<p>Le système "Tandem" présenté ici peut être réalisé avec 2, 3 ou 4 engins simultanément. <br>
-				    Dans ce cas, les ponts sont activés deux-à-deux (ponts contigus) ou tous ensemble.</p>
-				  <p>Le système peut être avantageusement complété par l'option "bidirectionnel" qui permet le dialogue entre les récepteurs (et éventuellement entre les émetteurs).
-Dans ce cas, les fins de course des différents ponts peuvent être raccordées aux récepteurs correspondants et transmises vers l'autre pont. En mode "Tandem" avec les deux ponts actifs en même temps (sélecteur en 1+2), les fins de course du deuxième pont agissent sur le premier et inversement. Ceci permet par exemple de stopper la translation des DEUX ponts lorsque l'un des ponts arrive en fin de course. Ce système permet également la gestion conjointe des limiteurs de charge. Avec cette option, les deux ponts sont accouplés "logiquement" pour ne plus former qu'un seul et ce, en toute sécurité.</p> 
+					<p>The "Tandem" system presented here can be done with 2, 3 or 4 machines simultaneously.<br>
+				    In this case, the bridges are active side-by-side (contiguous bridges) or all together.</p>
+				  <p>The system can be advantageously supplemented by the "bi-directional" option which allows a dialogue between receivers (and possibly between transmitters). In this case, the travel limits of the various bridges can be connected to the respective receivers and transmitted to the other bridge. In "Tandem" mode with the two bridges active at the same time (selector switch at 1 +2), the travel limits of the second bridge act on the first and vice versa. This means, for example, that the translatory movement of BOTH bridges can be stopped when one of the bridges arrives at the travel limit. This system also allows joint management of load limiters. With this option, both bridges are coupled "logically" to form a single bridge in complete safety.</p> 
 						<a id="tandem-avantages"></a>                
-						<h4>Avantages</h4>
-							<ul>
-								<li>Permet d’échanger un émetteur de travail par un émetteur de réserve rapidement et par un personnel non qualifié.</li>
-								<li>Permet de sécuriser une application avec un émetteur défini par la clé d’identification.</li>
-								<li>Clé robuste, placée en un endroit protégé contre les casses éventuelles.</li>
-						</ul>
+						<h4>Advantages</h4>
+						<ul>
+							<li>Enables an operating transmitter to be exchanged with a reserve transmitter quickly and by unqualified staff. </li>
+                            <li>Enables an application to be secured with a transmitter defined by the identification key. </li>
+                            <li>Robust key, placed in a location protected against potential breakages.</li>
+					    </ul>
 					<div class="row">
 						<div class="span3">
-							<h6>Radiocommandes multi-émetteurs</h6>
-							<img src="../img/product-option/tandem_1.jpg" alt="Radiocommandes multi-émetteurs">
+							<h6>Multi-transmitter radio remote controls</h6>
+							<img src="../img/product-option/tandem_1.jpg" alt="Multi-transmitter radio remote controls">
 						</div>
 						<div class="span3">
-							<h6>Radiocommandes multi-récepteurs</h6>
-							<img src="../img/product-option/tandem_2.jpg" alt="Radiocommandes multi-récepteurs">
+							<h6>Multi-receiver radio remote controls</h6>
+							<img src="../img/product-option/tandem_2.jpg" alt="Multi-receiver radio remote controls">
 						</div>
 						<div class="span3">
-							<h6>Radiocommandes en réseau</h6>
-							<img src="../img/product-option/tandem_3.jpg" alt="Radiocommandes en réseau">
+							<h6>Network radio remote controls</h6>
+							<img src="../img/product-option/tandem_3.jpg" alt="Network radio remote controls">
 						</div>                                                
 					</div>                        
 				</div>

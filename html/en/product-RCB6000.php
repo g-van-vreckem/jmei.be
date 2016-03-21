@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB6000 - Transmission de données sans fil industrielle';
-	$description = 'Communication sans fil sécurisée entre machines mobiles, prévue avec transmission arrêt d’urgence';
-	$keywords = 'Module de transmission industrielle,RCB6000,transmission sans fil,échange de signaux,radio-fréquence,signaux tout-ou-rien,signaux analogiques,modules radio,mode bidirectionnel,sidérurgie,fonderies,bande de fréquence 434MHz,applications radiocommandées,transmission à distance sans câblage,signaux analogiques de mesure,communication sans fil sécurisée,transmission d\'arrêt d\'urgence';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'RCB6000';
 	include 'header.php';
@@ -12,66 +12,63 @@
 			<div class="row">
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Module de transmission industrielle de type RCB6000</h3>
+					<a name="highlight"></a><h3>RCB6000-type industrial transmission module</h3>
 					<div class="row">
 						<div class="span4">
 							<img class="img-polaroid" src="../img/product-RCB6000/rcb6000_1.jpg" alt="RCB6000 Transmission industrielle" />
 						</div>
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RCB6000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p><a href="<?php echo Site::relativeUrl('RCB6000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Download PDF</a></p>
 
-					<a name="features"></a><h4>Caractéristiques</h4>
-					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
-Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 485 ou autres
-.</p>
-					<p>De plus les modules JMei/ RCB 6000 sont conçus avec <strong>une carte processeur qui inclut deux microcontrôleurs qui relisent chacun les messages en continu</strong> et qui assurent ainsi une sécurité supérieure  en cas de défaillance du système.
+					<a name="features"></a><h4>Characteristics</h4>
+					<p>JMei wireless transmission equipment enables all types of digital or analogue signals to be transmitted over distances <strong>of up to 5000m</strong>, and thus allow for significant reductions in all types of control or measurement cables between devices and PLC/automatic control system or between the devices themselves.
+RCB6000 modules also enables RS232 or 485 type signals or other to also be exchanged.</p>
+					<p>Furthermore, JMei/ RCB 6000 modules are designed with <strong>a processor card that includes two microcontrollers that each relay messages continuously</strong> and which thus provide greater security in the event of system failure.
                       <br>
-                      En effet ces deux microcontrôleurs agissent simultanément sur un relais d’arrêt d’urgence monté sur la carte processeur et qui coupe instantanément  tous les échanges de signaux possibles
-.</p>
+                  In effect these two microcontrollers are acting simultaneously on an emergency stop relay mounted on the processor card and which instantly cut all possible signal exchanges.</p>
 
 					<a name="specifications"></a>
 					<h4>Spécifications</h4>
 					<img src="../img/product-RCB6000/rcb6000_2_en.gif" alt="RCB6000 transmission unidirectionnelle ou bidirectionnelle - Multicanaux, fréquence industrielle" />
-					<p>Le système de base RCB6000 est composé d’un boîtier émetteur et d’un boîtier récepteur, ces appareils permettent d’envoyer ou de recevoir par radio fréquence tous types de signaux soit tout-ou-rien, mais aussi les signaux analogiques.
+					<p>The BCR6000 base system is composed of a transmitter unit and a receiver unit; these devices allow all types of signals to be sent or received by radio frequency, whether binary, or also analogue signals.
                       <br>
-                  Ces modules radio peuvent communiquer en mode unidirectionnel mais aussi en mode bidirectionnel tout en utilisant une seule fréquence (technologie basée sur un tranceiver). </p>
-					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et où l’environnement électromagnétique peut être très perturbant</strong>.<br />
-				  Ils travaillent soit dans la bande de fréquence 434MHz ou 868MHz (fréquence libre de droit pour l’utilisateur) tout en utilisant une puissance de faible niveau (inf. à 10mW) et ceci afin de ne <strong>pas perturber les autres applications radiocommandées installées sur le site du client</strong>.</p>
+                  These radio modules can communicate in uni-directional mode but also in bi-directional mode while using a single frequency (technology based on a transceiver).</p>
+					<p>The transmission modules employ a technology based on our long experience in this area ( + /- 15 years), that is, proven within <strong>industrial environments such as. for example, steel plants, foundries, and areas where the electromagnetic environment can be very disturbing</strong>.<br />
+				  They work either in the 434MHz or 868MHz frequency band (frequency that is rights-free for the user) while using low-level power (less than 10mW), in order <strong>not to disrupt the other radio control applications installed on the customer's site</strong>.</p>
 					
 					<a name="uses"></a><h4>Applications</h4>
 					<ul>
-						<li>Transmission à distance sans câblage de tous types signaux analogiques de mesure, par exemple poids, pression, température, vitesse, ou autres vers un PC Central ou automate de gestion.</li>
-						<li><strong>Communication sans fil sécurisée entre machines mobiles, prévue avec transmission arrêt d’urgence</strong>.</li>
-						<li>Transmission d'informations vers tous types d'afficheurs.</li>
-						<li>Transmission de tous signaux TOR ou digitaux, par exemple position d’engins mobiles, zonage de ponts roulants ou tous engins mobiles, commande de machine à distance pompes, moteurs ou autres, transmission d’information entre un engin mobile (Clark, chargeur sur pneus) et un poste fixe.</li>
+						<li>Wireless remote transmission of all types of analogue measurement signals, e.g. weight, pressure, temperature, speed, or other to a central PC or management PLC. </li>
+                        <li><strong>Secure wireless communication between mobile machines, provided with emergency stop transmission</strong>. </li>
+                        <li>Transmission of information to all types of displays. </li>
+                        <li>Transmission of all binary or digital signals, for example the position of mobile machinery, zoning of travelling cranes or all mobile machinery, machine remote control of pumps, motors or other, transmission of information between mobile equipment (Clark, charger on tyres) and a fixed work station.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Fiabilisation du transfert, sécurité d’utilisation</h4>
-					<p>Les modules JMei/RCB6000 sont pourvus de dispositifs et de codes de contrôle développés afin de garantir une très grande fiabilité quant aux perturbations ou coupures pouvant provenir d&rsquo;autres sources de radiofréquences installées sur le site et par les moyens suivants:</p>
+					<a name="uses"></a><h4>Making transfer reliable, safety of use</h4>
+					<p>JMei/RCB6000 modules are fitted with devices and control codes developed in order to ensure very high reliability with respect to disturbances or cuts that can originate from other sources of radio frequencies installed on the site and by the following means:</p>
 					<ul>
-					  <li>Adresse identifiante du récepteur et de l’émetteur codées JMei (codage 32 Bits).</li>
-						<li>Codage de la trame envoyé par code 16 bits CRC.</li>
-						<li>Relecture permanente par protocole interne et vérification des messages.</li>
-						<li>En cas de perturbation, le canal de transmission peut facilement être reprogrammé par PC sur site, 64 canaux sont possibles.</li>
-						<li>En mode bidirectionnel, il existe aussi la possibilité de vérifier si les signaux de contacts TOR ont bien été exécutés.</li>
-						<li>Sécurisation renforcée : l’ensemble des relais de sorties est piloté par deux microprocesseurs indépendants qui dialoguent entre eux et vérifient leur bon fonctionnement respectif.
-En cas de défaillance ou de dysfonctionnement de l'un d'entre eux, le système se place en sécurité et attend une nouvelle mise en service venant de l'émetteur.</li>
+						<li>Identifying address of the receiver unit and the JMei programmed transmitter (32-bit encoding). </li>
+                        <li>Encoding of the frame sent by 16-bit CRC code </li>
+                        <li>Continuous re-reading through internal protocol and message checking. </li>
+                        <li>In the event there is disturbance, the transmission channel can easily be reprogrammed by PC on site - 64 channels are possible. </li>
+                        <li>In bidirectional mode, there is also the possibility of checking if the binary switch signals have been executed. </li>
+                        <li>Enhanced security: the set of output relays is controlled by two independent microprocessors which interact with each other and check that they are operating properly. In the event of a failure or malfunction of one of them, the system is placed in safety mode and awaits a new start-up coming from the transmitter.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Composition du système</h4>
+					<a name="uses"></a><h4>Composition of the system</h4>
 					<ul>
-						<li>2 boîtiers émetteur ou récepteur en  polycarbonate (ou aluminium, en option).</li>
-						<li>Protection étanchéité  IP65, pouvant être placé à l’extérieur ou à l’intérieur de bâtiments, possibilité d’installation en armoire électrique aussi prévue.</li>
-						<li>Alimentation 24 ou 48 V AC/DC, (alimentation par batteries disponible).</li>
-						<li>Boîtier prévu avec vis de fixation et silent bloc.</li>
-						<li>Antenne omnidirectionnelle  qui ne nécessite pas de précaution particulière pour son installation et insensible à la présence de masse métallique dans le champ de propagation.</li>
-						<li>Possibilité de coupler plusieurs boîtiers émetteur/récepteur entre eux  afin de constituer un réseau .</li>
-						<li>Option : au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
+						<li>2 transmitter or receiver units made of polycarbonate (or aluminium, as an option). </li>
+                        <li>IP65 sealing protection, which can be placed on the outside or on the inside of buildings, can also be installed in electrical cabinets. </li>
+                        <li>24 or 48 V AC/DC power supply, (battery power supply available). </li>
+                        <li>Housing provided with fixing screws and silent block. </li>
+                        <li>Omni-directional antenna that does not require special precautions for its installation and insensitive to the presence of metal mass in the flow field. </li>
+                        <li>Multiple transmitter/receiver units can be coupled to each other in order to make up a network . </li>
+                        <li>Option: at the receiver unit module, communication to the client application and of an Ethernet or Profibus or any other fieldbus type is possible.</li>
 					</ul>
 
-					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
-					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
+					<a name="uses"></a><h4>References for this type of equipment</h4>
+					<p>This type of equipment has already been installed recently at: Arcelor Mittal, Riva Sidérurgie, Manoir Industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Automotive Industry: Peugeot/SA group, Glaverbel, Sidmar Gent, Airbus  industrie, SNCF.</p>
 				</div>
 			</div>
  <?php include 'footer.php';?>

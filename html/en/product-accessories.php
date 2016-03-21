@@ -1,8 +1,9 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - accessoires pour télécommandes industrielles';
-	$description = 'Accessoires pour les radiocommandes JMei. Chargeur de batteries, accumulateur, housse de protection, ceinture de portage';
-	$keywords = 'JMei,accessoires pour télécommandes industrielles,Chargeur de batteries,accumulateur,housse de protection,ceinture de portage,Bandoulière de portage pour radiocommande,Ceinture de portage pour radiocommande,Harnais de portage pour radiocommande,Housse de protection,Chargeur à microprocesseur,Rosace directionnelle';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
+	
 	$pageId = 'ACCESSORY';
 	$swiper = new Medias('/img/product-accessories/swiper/');		
 	include 'header.php';
@@ -12,97 +13,97 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Accessoires disponibles pour vos radiocommandes JMei</h3>
+					<h3>Accessories available for your JMei radio remote controls</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                     
 					</div>
 					<p></p>
 					<hr>
-					<h4>Pad/Harnais de portage</h4>
+					<h4>Carrying Pad/Harness</h4>
 					<div class="row">
 						<div class="span3">
 							<h5>RCB90</h5>
-							<img src="../img/product-accessories/houssercb90.jpg" alt="Bandoulière pour télécommande industrielle"> 
-							<p>Bandoulière de portage pour radiocommande RCB90.</p>
+							<img src="../img/product-accessories/houssercb90.jpg" alt="Shoulder Carry Strap for RCB90 radio remote control"> 
+							<p>Shoulder Carry Strap for RCB90 radio remote control.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<img src="../img/product-accessories/pad3000.jpg" alt="Ceinture pour télécommande industrielle">  
-							<p>Ceinture de portage pour radiocommande RCB3000.</p>
+							<img src="../img/product-accessories/pad3000.jpg" alt="Carry belt for RCB3000 radio remote control">  
+							<p>Carry belt for RCB3000 radio remote control.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-accessories/pad1000.jpg" alt="Harnais pour télécommande industrielle"> 
-							<p>Harnais de portage pour radiocommande RCB1000.</p>
+							<img src="../img/product-accessories/pad1000.jpg" alt="Carry harness for RCB1000 radio remote control"> 
+							<p>Carry harness for RCB1000 radio remote control.</p>
 						</div>
 					</div>                                     
 					<hr>
-					<h4>Housse de protection</h4>
+					<h4>Protective cover</h4>
 					<div class="row">
 						<div class="span3">
 							<h5>RCB90</h5>
-							<img src="../img/product-accessories/houssercb90.jpg" alt="Housse de protection télécommande RCB90"> 
-							<p>Housse de protection en nylon pour les modèles RCB90.</p>
+							<img src="../img/product-accessories/houssercb90.jpg" alt="Nylon protective cover for RCB90 models"> 
+							<p>Nylon protective cover for RCB90 models.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB3000</h5>
-							<img src="../img/product-accessories/houssercb3000.jpg" alt="Housse de protection télécommande RCB3000"> 
-							<p>Housse de protection en nylon pour les modèles RCB3000.</p>
+							<img src="../img/product-accessories/houssercb3000.jpg" alt="Nylon protective cover for RCB3000 models"> 
+							<p>Nylon protective cover for RCB3000 models.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB1000</h5>
-							<img src="../img/product-accessories/houssercb1000.jpg" alt="Housse de protection télécommande RCB1000"> 
-							<p>Housse de protection en cuir pour les modèles RCB1000.</p>
+							<img src="../img/product-accessories/houssercb1000.jpg" alt="Leather protective cover for RCB1000 models"> 
+							<p>Leather protective cover for RCB1000 models.</p>
 						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
 							<h5>RCB700</h5>
-							<img src="../img/product-accessories/jmei.jpg" alt="Chargeur radiocommande RCB90"> 
-							<p>Housse de protection en nylon pour les modèles RCB700.</p>
+							<img src="../img/product-accessories/jmei.jpg" alt="Nylon protective cover for RCB700 models"> 
+							<p>HNylon protective cover for RCB700 models.</p>
 						</div>
 						<div class="span3">
 							<h5>Hélice</h5>
-							<img src="../img/product-accessories/houssehelice.jpg" alt="Housse de protection télécommande pour l'industrie"> 
-							<p>Housse de protection en nylon pour les modèles Hélice.</p>
+							<img src="../img/product-accessories/houssehelice.jpg" alt="Nylon protective cover for Hélice models"> 
+							<p>HNylon protective cover for Hélice models.</p>
 						</div>
 						<div class="span3">
 							<h5>JMei Pocket</h5>
-							<img src="../img/product-accessories/houssepocket.jpg" alt="Housse de protection en silicone">
-							<p>Housse de protection en silicone pour les modèles JMei Pocket.</p>
+							<img src="../img/product-accessories/houssepocket.jpg" alt="Silicon protective cover for JMei Pocket models">
+							<p>Silicon protective cover for JMei Pocket models.</p>
 						</div>
 					</div>
 				<hr>
-					<h4>Chargeur/Batterie</h4>
+					<h4>Charger/Battery</h4>
 					<div class="row">
 						<div class="span3">
 							<h5>RCB90 / Hélice</h5>
-							<img src="../img/product-accessories/charger90.jpg" alt="Chargeur radiocommande RCB90"> 
-							<p>Chargeur JMei à microprocesseur pour batteries NiMH RCB90 / Hélice.</p>
+							<img src="../img/product-accessories/charger90.jpg" alt="JMei Charger with microprocessor for RCB90/Hélice NiMH batteries"> 
+							<p>JMei Charger with microprocessor for RCB90/Hélice NiMH batteries.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB3000 / RCB1000</h5>
-							<img src="../img/product-accessories/charger3000.jpg" alt="Chargeur radiocommande RCB3000"> 
-							<p>Chargeur JMei à microprocesseur pour batteries NiMH RCB3000 / RCB10000.</p>
+							<img src="../img/product-accessories/charger3000.jpg" alt="JMei Charger with microprocessor for RCB3000/RCB1000 NiMH batteries"> 
+							<p>JMei Charger with microprocessor for RCB3000/RCB1000 NiMH batteries.</p>
 						</div>
 						<div class="span3">
 							<h5>RCB700</h5>
-							<img src="../img/product-accessories/charger700.jpg" alt="Chargeur radiocommande RCB700">
-								<p>Chargeur à microprocesseur pour batteries NiMH RCB700.</p>
+							<img src="../img/product-accessories/charger700.jpg" alt="Charger with microprocessor for RCB700 NiMH batteries">
+								<p>Charger with microprocessor for RCB700 NiMH batteries.</p>
 						</div>
 					</div> 
 				<hr>
-					<h4>Accessoires divers</h4>
+					<h4>Miscellaneous Accessories</h4>
 					<div class="row">
 						<div class="span3">
-							<h5>Rosace directionnelle</h5>
-							<img src="../img/product-accessories/rosace.jpg" alt="Rosace directionnelle pour pont roulant"> 
-							<p>Rosace directionnelle qui indique les directions du pont roulant.</p>
+							<h5>Directional Escutcheon</h5>
+							<img src="../img/product-accessories/rosace.jpg" alt="Directional Rosette which indicates the directions of the travelling crane"> 
+							<p>Directional Escutcheon which indicates the directions of the travelling crane.</p>
 						</div>
 						<div class="span3">
 							<h5>Safeball</h5>
-							<img src="../img/product-accessories/safeball.jpg" alt="Homme mort pour télécommande de sécurité "> 
-							<p>Le système "homme-mort" radio-commandé.</p>
+							<img src="../img/product-accessories/safeball.jpg" alt="The radio-controlled dead-man system"> 
+							<p>The radio-controlled "dead-man" system.</p>
 						</div>
 					</div>                                                              
 				</div>

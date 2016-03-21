@@ -1,9 +1,9 @@
 <?php
 	include 'common.php';
 	//$title .= '';
-	$title = 'JMei - Radiocommandes personnalisées - Télécommandes sans fil bidirectionnelles';
-	$description = 'Gamme de radiocommandes industrielles JMei';
-	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,RCB90,RCB3000,RCB1000,RCB700,Helice,RCB6000,RCB7000,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle';
+	$title .= '';
+	$description .= '';
+	$keywords .= '';
 
 	$pageId = 'products';
 	include 'header.php';
@@ -14,34 +14,32 @@
 				<div id="i1" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB90</h5>
-                        <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
+                        <p class="tile-intro">Universal double speed pendant control</p>
                     </div>
-                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
+                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="Universal double speed pendant control" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La référence pour le levage, adaptable à toute application industrielle.</strong><br>
+							<p><strong>The benchmark for lifting systems, adaptable to any industrial application.</strong><br>
 							  <br>
-							Boîte à boutons robuste, compacte et économique.<br>
+							Robust, compact and economic pendant control.<br>
 							<br>
-							Proposée en 2 versions:<br>
+							Offered in 2 versions:<br>
 							<br>
 							RCB90L (Light): <br>
-							- 9  boutons double enfoncement	 (2V). <br>
-							- 8 boutons 2V + 1 sélecteur 3 positions.<br>
+							- 9 two-stage buttons (2V).<br>
+							- 8 x 2V buttons + 1 x 3-position selector switch.<br>
 							<br>
 							RCB90M (Medium): <br>
-							-
-							14 boutons double enfoncement	(2V). <br>
-							- 11 boutons 2V + 3 sélecteurs 3 positions.							</p>
-							<p>Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur 7 segments).<br>
+							- 14 two-stage buttons (2V). <br>
+							- 11 x 2V buttons + 3 x 3-position selector switches.							</p>
+							<p>Configuration in uni- or bi-directional mode (feedback on LED indicator lights or 7-segment display).<br>
+							<br>Tandem configuration, JMei secure or memory key start available.<br>
 							<br>
-							Configuration en tandem, démarrage sécurisé JMei ou clé mémoire disponibles.<br>
-							<br>
-							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<a href="<?php echo Site::relativeUrl('RCB90');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
@@ -52,26 +50,26 @@
 				<div id="i2" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB700</h5>
-                        <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
+                        <p class="tile-intro">An ultra-robust, ultra-customisable remote control</p>
                     </div>
-                    <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                    <img src="../img/product-overview3/RCB700.jpg?v=2" alt="ultra-customisable remote control" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La robustesse et la légèreté de l'aluminium, un design ergonomique.</strong><br>
+							<p><strong>The robustness and lightness of aluminium, in an ergonomic design.</strong><br>
 							  <br>
-						    Emetteur compact pouvant être porté à la ceinture, ou placé sur support (en option).<br>
+						    Compact transmitter which can be worn on a belt, or fitted on a bracket (optional).<br>
 						    <br>
-							  Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
+							  Up to 12 ON/OFF spring-back or press-and-hold functions.<br>
 							  <br>
-							  Bidirectionnelles ou non (informations envoyées à l'émetteur).<br>
+							  Bi-directional or not (information sent to the transmitter).<br>
 							  <br>
-							  Particulièrement bien adaptée pour l'utilisation en forêts, carrières, ou tout autre environnement industriel difficile.<br>
+							  Especially suitable for use in forests, quarries, or any other difficult industrial environment.<br>
 							  <br>
-						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						    <a href="<?php echo Site::relativeUrl('RCB700');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB700_2.jpg?v=2" data-type="img"></a>
                         <a href="../img/product-overview3/RCB700_3.jpg?v=1" data-type="img"></a>
@@ -81,30 +79,30 @@
 				<div id="i3" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">Hélice</h5>
-                        <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
+                        <p class="tile-intro">The most compact solutions enabling the power of analogue</p>
                     </div>
-                    <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
+                    <img src="../img/product-overview3/Helice.jpg?v=1" alt="The most compact solutions" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>Adaptée pour tous les usages industriels.</strong><br>
+							<p><strong>Suitable for all industrial uses.</strong><br>
 							  <br>
-							La référence des pupitres ventraux avec un encombrement minimal.<br>
+							The benchmark for control panels with minimal footprint.<br>
 							<br>
-							Jusqu'à 12 fonctions ON/OFF à rappels ou maintenues.<br>
+							Up to 12 ON/OFF spring-back or press-and-hold functions.<br>
 							<br>
-							Jusqu'à 4 fonctions analogiques.<br>
+							Up to 4 analogue functions.<br>
 							<br>
-							Se porte à le ceinture ou en bandoulière.<br>
+							Can be worn on a belt or shoulder strap.<br>
 							<br>
-							Modèle avec batteries interchangeables (autonomie &lt;15h, temps de charge de 4h).<br>
+							Model with interchangeable batteries (battery life < 15 hours, charging time of 4 hours).<br>
 							<br>
-							Housse de portage et retour d'informations disponibles.<br>
+							Carry pouch and feedback available.<br>
 							<br>
-							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
@@ -125,27 +123,27 @@
 				<div id="i4" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
-                        <p class="tile-intro">Le pupitre ventral universel</p>
+                        <p class="tile-intro">The universal control panel</p>
                     </div>
-                    <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
+                    <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="The universal control panel" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>La radiocommande offrant le meilleur rapport dimensions / possibilités.<br>
+							<p><strong>The radio remote control offering the best size/possibility ratio.<br>
 							</strong><br>
-							Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues. <br>
+							Up to 48 ON/OFF spring-back or press-and-hold functions. <br>
                             <br>
-							Jusqu'à 8 fonctions analogiques (2 joysticks double axes / 6 joysticks &quot;palettes&quot;). <br>
+							Up to 8 analogue functions (2 double-axis joysticks / 6 &quot;paddle&quot; joysticks).<br>
 							<br>
-							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
+							Completely customisable, this version allows many possibilities for the user.<br>
 							<br>
-							Configuration en uni ou bidirectionnelle (retour d'informations sur voyants LED ou afficheur LCD).<br>
+							Configuration in uni- or bi-directional mode (feedback on LED indicator lights or LCD display).<br>
                             <br>
-							Configuration en tandem, démarrage sécurisé JMei, clé mémoire et arceau display disponibles.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							Tandem Configuration, JMei secured start-up, memory key and display arch available.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB3000');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB3000_2.jpg?v=1" data-type="img"></a>
                         <a href="../img/product-overview3/RCB3000_3.jpg" data-type="img"></a>
@@ -156,27 +154,27 @@
 				<div id="i5" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB1000</h5>
-                        <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
+                        <p class="tile-intro">The most robust industrial radio remote control, offering infinite possibilities.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="robust industrial radio remote control" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>L'émetteur industriel &quot;haut de gamme&quot;.</strong></p>
-							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues.<br>
+							<p><strong>The &quot;top of the range&quot; industrial transmitter.</strong></p>
+							<p>Up to 48 ON/OFF spring-back or press-and-hold functions.<br>
                             <br>
-							Jusqu'à 8 fonctions analogiques (3 joysticks double axe).</p>
-							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes.<br>
+							Up to 8 analogue functions (3 dual axis joysticks).</p>
+							<p>An incremental encoder and rotary potentiometer, this unit enables the integration of a multitude of control mechanisms.<br>
 							<br>
-							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
+							Completely customisable, this version allows many possibilities for the user.<br>
 							<br>
-							Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur LCD).<br>
+							Configuration in uni- or bi-directional mode (feedback on LED indicator lights or LCD display).<br>
 							<br>
-							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							Tandem Configuration, JMei secured start-up, memory key, protective leather cover available.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB1000');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
@@ -187,33 +185,33 @@
 				<div id="i6" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">RCB6000/RCB7000</h5>
-                        <p class="tile-intro">Transmission de données sans fil industrielle.</p>
+                        <p class="tile-intro">Industrial wireless data transmission.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
+                    <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="Industrial wireless data transmission" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Système d'échange de données uni ou bidirectionnel.<br>
+							<p>Uni- or bi-directional data exchange system.<br>
 							<br>
 							RCB7000:<br>
-							-4 entrées/sorties digitales optocouplées<br>
-							-4 entrées/sorties analogiques
+							-4 optocoupled digital Inputs/outputs<br>
+							-4 analogue inputs/outputs 
 							<br>
-							-Liaison RS232/485<br>
+							-RS232/485 connection <br>
 							<br>
 							RCB6000:<br>
-							-40 entrées/sorties digitales optocouplées<br>
-							-8 entrées/sorties analogiques <br>
-							-Liaison RS232/485<br>
-							-Bus de terrain<br>
+							-40 optocoupled digital inputs/outputs<br>
+							-8 analogue inputs/outputs<br>
+							-RS232/485 connection<br>
+							-Fieldbus<br>
 							<br>
-							Ces modules peuvent fonctionner avec plusieurs participants (partage synchrone)<br>
+							These modules can operate with several participants (synchronous sharing)<br>
 							<br>
-							Les data-acquisitions, data-conversions en font la référence en terme de modules de transmissions.</p>
-							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							Data acquisitions and data conversions are the benchmark for this in terms of transmission modules.</p>
+							<p><a href="<?php echo Site::relativeUrl('RCB6000');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/RCB6000_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB6000_3.jpg" data-type="img"></a>
@@ -233,26 +231,26 @@
 			<div id="r3" class="row spaced-row">
 				<div id="i7" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Télécommande de type JMei pocket</h5>
-                        <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
+                        <h5 class="tile-title">JMei Pocket remote control</h5>
+                        <p class="tile-intro">An ultra-compact, ultra-light remote control.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
+                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="ultra-light remote control">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Commande simple vitesse 6 fonctions (extensible à 8).<br>
+							<p>Single-speed 6-function control (expandable to 8).<br>
 							<br>
-							SMART Communication Radio - 868MHz.<br>
+							SMART Radio Communication - 868Mhz.<br>
 							<br>
-							Sélection automatique des canaux fréquences.<br>
+							Automatic channel frequency selection.<br>
 							<br>
-							Récepteur avec commandes intégrées (commande de secours).<br>
+							Receiver with integrated controls (emergency control).<br>
 							<br>
-							Tension d'utilisation: de 10 à 42V DC.</p>
-							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							Operating Voltage: 10 to 42V DC.</p>
+							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 					  </div>
                         <a href="../img/product-overview3/POCKET_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/POCKET_3.jpg?v=1" data-type="img"></a>
                         <a href="../img/product-overview3/POCKET_4.jpg?v=1" data-type="img"></a>
@@ -260,22 +258,22 @@
                 </div>													
 				<div id="i8" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Nos options</h5>
-                        <p class="tile-intro">La clé hardware - Démarrage sécuritaire - Commande de systèmes complexes</p>
+                        <h5 class="tile-title">Our options</h5>
+                        <p class="tile-intro">Hardware key - Safety start - Complex system control</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">
+                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="Safety start">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>                  
                     <div class="tile-detail">
                         <div class="tile-desc">
-                        	<p>Clé hardware: Système de clé mémoire électronique, permet l'interchangeabilité des émetteurs.</p>
+                        	<p>Hardware key: Electronic memory key system, allowing transmitter interchangeability.</p>
 							<p><br>
-							Démarrage sécuritaire: TCA27, un système breveté JMei permettant le démarrage de vos radiocommandes avec la plus grande sécurité.</p>
+							Secure starting: TCA27, a JMei patented system allowing your radio remote controls to start up with the utmost security.</p>
 							<p><br>
-							Commande de systèmes complexes: Personnalisation software de vos radiocommandes afin de répondre aux exigences les plus sévères de nos clients .</p>
-							<p><a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>        
+							Control of complex systems: Customisation of the software of your radio remote controls in order to meet the most stringent requirements of our customers.</p>
+							<p><a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-jmei">More info...&raquo;</a></p>        
 						</div>
                         <a href="../img/product-overview3/KEY_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/KEY_3.jpg" data-type="img"></a>
@@ -292,8 +290,8 @@
                 </div>													
 				<div id="i9" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Accessoires </h5>
-                        <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
+                        <h5 class="tile-title">Accessories</h5>
+                        <p class="tile-intro">For better operating convenience of your radio remote controls</p>
                     </div>
                     <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
                     <div class="tile-over">
@@ -302,12 +300,12 @@
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-						  <p>Exemples d'accessoires disponibles pour votre radiocommande:</p>
-						  <p>- Batterie de réserve et chargeur (12-24V DC, 220V AC).</p>
-						  <p>- Housse de protection (nylon ou cuir).</p>
-						  <p>- Rosace directionnelle de couleur.</p>
-						  <p>- Sécurité Safeball (homme-mort radio-commandé).</p>                          
-						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+						  <p>Examples of accessories available for your radio remote control:</p>
+						  <p>- Spare battery and charger (12-24V DC, 220V AC).</p>
+						  <p>- Protective cover (nylon or leather).</p>
+						  <p>- Directional colour escutcheon.</p>
+						  <p>- Safeball safety device (radio-controlled dead-man).</p>                          
+						  <p><a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-jmei">More info...&raquo;</a></p>
 						</div>
                         <a href="../img/product-overview3/access1.jpg?v=2" data-type="img"></a>
                         <a href="../img/product-overview3/access2.jpg?v=1" data-type="img"></a>
