@@ -13,7 +13,7 @@
 <?php include 'product-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Radiocommande Hélice</h3>
+					<h3>Hélice Radio remote control</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
