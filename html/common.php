@@ -263,6 +263,7 @@
 				case 'www.jmei.eu':
 					return self::MARLOIE;
 					break;
+				case 'jmei.picmilk.com':
 				case 'www.jmei.fr':
 				  return self::FOURMIES;
 					break;

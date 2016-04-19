@@ -1,4 +1,4 @@
-		</div> 
+		</div>
 		<div class="navbar navbar-inverse navbar-fixed-bottom">
 			<div class="navbar-inner">
 				<div class="container">
@@ -8,7 +8,7 @@
 						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Retrouvez-nous sur Google+</a></li>
 						<li><a href="https://www.facebook.com/JMei.be" rel="publisher">Facebook</a></li>
 						<li><a href="https://www.linkedin.com/company/jmei-solution-electronic-radio-transmission" rel="publisher">LinkedIn</a></li>
-						<li><a href="https://twitter.com/JMeiBelgium" rel="publisher">Twitter</a></li>                        
+						<li><a href="https://twitter.com/JMeiBelgium" rel="publisher">Twitter</a></li>
 					</ul>
 					<ul class="nav pull-right">
 						<li class="dropdown">
@@ -16,7 +16,9 @@
 							<ul class="dropdown-menu">
 								<li class="active"><a href="#"><i class="cus-flag-fr"></i> Français</a></li>
 								<li><a href="<?php echo Site::relativeUrl($pageId, 'en');?>"><i class="cus-flag-gb"></i> English</a></li>
+<?php if (Site::$domExtension != Site::FOURMIES) { ?>
 								<li><a href="<?php echo Site::relativeUrl($pageId, 'nl');?>"><i class="cus-flag-nl"></i> Neederlands</a></li>
+<?php } ?>
 							</ul>
 						</li>
 					</ul>

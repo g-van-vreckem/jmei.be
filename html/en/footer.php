@@ -1,4 +1,4 @@
-		</div> 
+		</div>
 		<div class="navbar navbar-inverse navbar-fixed-bottom">
 			<div class="navbar-inner">
 				<div class="container">
@@ -14,7 +14,9 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="cus-flag-gb"></i> English <b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li ><a href="<?php echo Site::relativeUrl($pageId, 'fr');?>"><i class="cus-flag-fr"></i> Français</a></li>
+<?php if (Site::$domExtension != Site::FOURMIES) { ?>
 								<li><a href="<?php echo Site::relativeUrl($pageId, 'nl');?>"><i class="cus-flag-nl"></i> Neederlands</a></li>
+<?php } ?>
 								<li class="active"><a href="#"><i class="cus-flag-gb"></i> English</a></li>
 							</ul>
 						</li>
