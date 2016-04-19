@@ -5,10 +5,6 @@
 	$keywords .= '';
 
 	$pageId = 'distribution';
-	$pageFooterScripts = <<<PAGESC
-		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;language=en"></script> <!-- Translator Task: Adapt the &language= -->
-
-PAGESC;
 	include 'header.php';
 	include 'nav.php';
 
@@ -52,7 +48,7 @@ PAGESC;
 					</section>
 					<hr>
 					<a class="anchor" id="france"></a>
-					<section>						
+					<section>
 						<h3>France</h3>
 						<p><a target="_blank" href="http://www.opsyselec.fr/">Opsyselec</a> distribue nos produits dans le Nord de la  France et couvre les départements suivants:</p>
 						<ul>

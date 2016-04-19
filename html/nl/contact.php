@@ -6,7 +6,7 @@
 
 	$pageId = 'contact';
 	$pageFooterScripts = <<<PAGESC
-		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;language=nl"></script> <!-- Translator Task: Adapt the &language= -->
+		<script  async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDlgbq6h0-9enhfTnPCxxLTAaB3MMfh9GY&amp;callback=initMap&amp;language=nl"></script> <!-- Translator Task: Adapt the &language= -->
 
 PAGESC;
 	include 'header.php';
@@ -29,7 +29,7 @@ PAGESC;
 						<input type="hidden" name="lang" value="nl">
 						<input type="hidden" name="reason" value="Contact">
 					 </fieldset>
-				</form>	
+				</form>
 			</div>
             <!-- Example row of columns -->
             <div class="row">
@@ -47,7 +47,7 @@ PAGESC;
                 </div>
                 <div class="span4">
                     <h2>Openingsuren</h2>
-                    <p>We zijn elke werkdag (maandag - vrijdag)<br> open 
+                    <p>We zijn elke werkdag (maandag - vrijdag)<br> open
 van 8 tot 18 uur</p>
 				</div>
                 <div class="span4">
@@ -59,7 +59,7 @@ van 8 tot 18 uur</p>
 			</div>
 			<div class="row">
 				<div class="span12">
-					<div id="map-canvas"></div>
+					<div id="map-canvas" data-jmei="marloie"></div>
 					<small><a target="_blank" href="https://maps.google.be/maps?f=q&amp;source=embed&amp;hl=nl&amp;geocode=&amp;q=123+rue+de+rochefort,+Marloie&amp;aq=&amp;sll=50.154465,4.624975&amp;sspn=3.720241,5.751343&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Chauss%C3%A9e+de+Rochefort+123,+6900+Marche-en-Famenne,+Luxembourg,+R%C3%A9gion+wallonne&amp;z=14&amp;ll=50.199664,5.317268" style="color:#0000FF;text-align:left">Vergroting van de kaart</a></small>
 
 				</div>

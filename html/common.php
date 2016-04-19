@@ -2,8 +2,8 @@
 	mb_detect_order('UTF-8');
 	mb_http_output('UTF-8');
 	mb_internal_encoding('UTF-8');
-	header('Cache-Control: no-cache'); 
-	header('Expires: -1'); 
+	header('Cache-Control: no-cache');
+	header('Expires: -1');
 	header('X-UA-Compatible: IE=edge,chrome=1');
 
 	$ext = '.php'; //correct URL depending on the URL rewrite rules
@@ -11,84 +11,90 @@
 	$pageHeaderCss = '';
 	$pageHeaderScripts = '';
 	$pageFooterScripts = '';
-	
-	DEFINE('SHOW_CERTIFICATION', false);	
+
+	DEFINE('SHOW_CERTIFICATION', false);
 	define('SITE_ROOT', __DIR__ . DIRECTORY_SEPARATOR);
 	class Site {
+		const FOURMIES = 'fourmies.';
+		const MARLOIE = 'default.';
+
 		public static $canonicalSiteURL = 'http://www.jmei.be';
 		public static $pages;
 		public static $curPage;
 		private static $instance;
 		public static $siteRoot;
-		
+		public static $domExtension;
+
 		function __construct ( ) {
 			self::$siteRoot = __DIR__ . DIRECTORY_SEPARATOR;
-			$pages = Array ( );
-			
-			$pages['fr'] = Array ( );
-			$pages['en'] = Array ( );
-			$pages['nl'] = Array ( );
-			
+			self::$domExtension = self::detectDomExtension();
+
+			self::$pages = Array ( );
+
+			self::$pages['fr'] = Array ( );
+			self::$pages['en'] = Array ( );
+			self::$pages['nl'] = Array ( );
+
 			self::addPage ( new Page ( 'about', 'en' ) );
 			self::addPage ( new Page ( 'about', 'fr', 'a-propos-de-JMei' ) );
 			self::addPage ( new Page ( 'about', 'nl', 'over-JMei' ) );
-			
+
 			self::addPage ( new Page ( 'home', 'en', 'index' ) );
 			self::addPage ( new Page ( 'home', 'fr', 'index') );
 			self::addPage ( new Page ( 'home', 'nl', 'index') );
-			
+
 			self::addPage ( new Page ( 'products', 'en', 'products' ) );
 			self::addPage ( new Page ( 'products', 'fr', 'produits' ) );
 			self::addPage ( new Page ( 'products', 'nl', 'producten' ) );
-			
+
 			self::addPage ( new Page ( 'contact', 'en' ) );
 			self::addPage ( new Page ( 'contact', 'fr') );
 			self::addPage ( new Page ( 'contact', 'nl') );
-			
+
 			self::addPage ( new Page ( 'distribution', 'en' ) );
 			self::addPage ( new Page ( 'distribution', 'fr' ) );
 			self::addPage ( new Page ( 'distribution', 'nl', 'distributie' ) );
-			
+
 			self::addPage ( new Page ( 'references', 'en' ) );
 			self::addPage ( new Page ( 'references', 'fr' ) );
 			self::addPage ( new Page ( 'references', 'nl', 'referenties' ) );
-			
+
 			self::addPage ( new Page ( 'realisations', 'en', 'achievements' ) );
 			self::addPage ( new Page ( 'realisations', 'fr' ) );
 			self::addPage ( new Page ( 'realisations', 'nl', 'uitvoeringen' ) ); //verwezenlijkingen?
-			
+
 			self::addPage ( new Page ( 'sadamec', 'en', 'radio-sadamec' ) );
 			self::addPage ( new Page ( 'sadamec', 'fr', 'radio-sadamec' ) );
 			self::addPage ( new Page ( 'sadamec', 'nl', 'radio-sadamec' ) );
-			
+
 			self::addPage ( new Page ( 'terms', 'en', 'terms', '', Page::PAGE_PHP, true, .5 ) );
 			self::addPage ( new Page ( 'terms', 'fr', 'mentions-legales', '', Page::PAGE_PHP, true, .5 ) );
 			self::addPage ( new Page ( 'terms', 'nl', 'legal-kennisgevingen', '', Page::PAGE_PHP, true, .5 ) );
-			
+
 			self::addPage ( new Page ( 'TCA27', 'en', 'product-TCA27', 'products' ) );
 			self::addPage ( new Page ( 'TCA27', 'fr', 'produit-TCA27', 'products' ) );
 			self::addPage ( new Page ( 'TCA27', 'nl', 'product-TCA27', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'RECB', 'en', 'product-RECB', 'products' ) );
 			self::addPage ( new Page ( 'RECB', 'fr', 'produit-RECB', 'products' ) );
 			self::addPage ( new Page ( 'RECB', 'nl', 'product-RECB', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'Helice', 'en', 'product-Helice', 'products' ) );
 			self::addPage ( new Page ( 'Helice', 'fr', 'produit-Helice', 'products' ) );
 			self::addPage ( new Page ( 'Helice', 'nl', 'product-Helice', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'RCB90', 'en', 'product-RCB90', 'products' ) );
 			self::addPage ( new Page ( 'RCB90', 'fr', 'produit-RCB90', 'products' ) );
 			self::addPage ( new Page ( 'RCB90', 'nl', 'product-RCB90', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'RCB700', 'en', 'product-RCB700', 'products' ) );
 			self::addPage ( new Page ( 'RCB700', 'fr', 'produit-RCB700', 'products' ) );
 			self::addPage ( new Page ( 'RCB700', 'nl', 'product-RCB700', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'RCB1000', 'en', 'product-RCB1000', 'products' ) );
 			self::addPage ( new Page ( 'RCB1000', 'fr', 'produit-RCB1000', 'products' ) );
 			self::addPage ( new Page ( 'RCB1000', 'nl', 'product-RCB1000', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'RCB3000', 'en', 'product-RCB3000', 'products' ) );
 			self::addPage ( new Page ( 'RCB3000', 'fr', 'produit-RCB3000', 'products' ) );
 			self::addPage ( new Page ( 'RCB3000', 'nl', 'product-RCB3000', 'products' ) );
@@ -100,25 +106,25 @@
 			self::addPage ( new Page ( 'RCB7000', 'en', 'product-RCB7000', 'products' ) );
 			self::addPage ( new Page ( 'RCB7000', 'fr', 'produit-RCB7000', 'products' ) );
 			self::addPage ( new Page ( 'RCB7000', 'nl', 'product-RCB7000', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'TANDEM', 'en', 'product-multi-equipement-coordination', 'products' ) );
 			self::addPage ( new Page ( 'TANDEM', 'fr', 'produit-coordination-equipements-multiples', 'products' ) );
 			self::addPage ( new Page ( 'TANDEM', 'nl', 'product-coordinatie-multiple-apparatuur', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'KEY', 'en', 'product-configuration-and-identification-key', 'products' ) );
 			self::addPage ( new Page ( 'KEY', 'fr', 'produit-clef-de-configuration-et-identification', 'products' ) );
 			self::addPage ( new Page ( 'KEY', 'nl', 'product-configuration-and-identification-key', 'products' ) );
-			
+
 //			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
 
 			self::addPage ( new Page ( 'JMPOCKET', 'en', 'product-JMei-Pocket', 'products' ) );
 			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products' ) );
 			self::addPage ( new Page ( 'JMPOCKET', 'nl', 'product-JMei-Pocket', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'OPTION', 'en', 'product-options', 'products' ) );
 			self::addPage ( new Page ( 'OPTION', 'fr', 'produit-options', 'products' ) );
 			self::addPage ( new Page ( 'OPTION', 'nl', 'productopties', 'products' ) );
-			
+
 			self::addPage ( new Page ( 'ACCESSORY', 'en', 'product-accessories', 'products' ) );
 			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products' ) );
 			self::addPage ( new Page ( 'ACCESSORY', 'nl', 'product-accessoires', 'products' ) );
@@ -127,59 +133,59 @@
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'fr', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90.pdf', 'nl', 'JMei-RCB90', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB90-datasheet.pdf', 'en', 'JMei-RCB90-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90-datasheet.pdf', 'fr', 'JMei-RCB90-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB90-datasheet.pdf', 'nl', 'JMei-RCB90-technische-specificaties', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB700.pdf', 'en', 'JMei-RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'fr', 'JMei-RCB700', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB700.pdf', 'nl', 'JMei-RCB700', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'Helice.pdf', 'en', 'JMei-Helice', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice.pdf', 'fr', 'JMei-Helice', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice.pdf', 'nl', 'JMei-Helice', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'Helice-datasheet.pdf', 'en', 'JMei-Helice-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice-datasheet.pdf', 'fr', 'JMei-Helice-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Helice-datasheet.pdf', 'nl', 'JMei-Helice-technische-specificaties', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB1000.pdf', 'en', 'JMei-RCB1000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000.pdf', 'fr', 'JMei-RCB1000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000.pdf', 'nl', 'JMei-RCB1000', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB1000-datasheet.pdf', 'en', 'JMei-RCB1000-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000-datasheet.pdf', 'fr', 'JMei-RCB1000-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB1000-datasheet.pdf', 'nl', 'JMei-RCB1000-technische-specificaties', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB3000.pdf', 'en', 'JMei-RCB3000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000.pdf', 'fr', 'JMei-RCB3000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000.pdf', 'nl', 'JMei-RCB3000', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'en', 'JMei-RCB3000-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'fr', 'JMei-RCB3000-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB3000-datasheet.pdf', 'nl', 'JMei-RCB3000-technische-specificaties', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB6000.pdf', 'en', 'JMei-RCB6000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB6000.pdf', 'fr', 'JMei-RCB6000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB6000.pdf', 'nl', 'JMei-RCB6000', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RCB7000.pdf', 'en', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB7000.pdf', 'fr', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB7000.pdf', 'nl', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'RECB.pdf', 'en', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'fr', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'nl', 'JMei-RECB', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'TCA27.pdf', 'en', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TCA27.pdf', 'nl', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'KEY.pdf', 'en', 'JMei-HARDKEY', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'KEY.pdf', 'fr', 'JMei-HARDKEY', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'KEY.pdf', 'nl', 'JMei-HARDKEY', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'TANDEM.pdf', 'en', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'nl', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
@@ -187,23 +193,23 @@
 			self::addPage ( new Page ( 'POCKET.pdf', 'en', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'fr', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'nl', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'en', 'JMei-Pocket-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'fr', 'JMei-Pocket-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'nl', 'JMei-Pocket-technische-specificaties', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'SCAN.pdf', 'en', 'JMei-Scan', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'SCAN.pdf', 'fr', 'JMei-Scan', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'SCAN.pdf', 'nl', 'JMei-Scan', '', Page::PDF, true, .6 ) );
-			
+
 			self::addPage ( new Page ( 'DH.pdf', 'fr', 'JMei-Dossier-Entreprise', '', Page::PDF, true, .6 ) );
 		}
-		
+
 		public static function get_instance() {
 			if(!isset(self::$instance)) {
 				$c = __CLASS__;
 				self::$instance = new $c;
-			} 
+			}
 			return self::$instance;
 		}
 		public static function addPage($r) {
@@ -235,23 +241,45 @@
 		}
 		public static function addActiveClass ( $id, $class='' ) {
 			$c = self::curPage();
-			
+
 			if ( $c->alias == $id || $c->activate == $id ) {
 				return ' class="active' . ( ( $class === '' ) ? '' : ( ' ' . $class ) ) . '"';
 			} else {
 				return ( $class === '' ) ? '' : ( ' class="' . $class . '"');
 			}
 		}
+		public static function mapDom($file, $extension = null) {
+			if (!$extension) {
+				$extension = self::$domExtension;
+			}
+			$fileParts = pathinfo($file);
+			return $fileParts['dirname'] . DIRECTORY_SEPARATOR . $fileParts['filename'] . '.' . $extension . $fileParts['extension'];
+		}
+		public static function detectDomExtension() {
+			switch($_SERVER['HTTP_HOST']) {
+				case 'jmei.be':
+				case 'jmei.eu':
+				case 'www.jmei.be':
+				case 'www.jmei.eu':
+					return self::MARLOIE;
+					break;
+				case 'www.jmei.fr':
+				  return self::FOURMIES;
+					break;
+				default:
+				  return self::MARLOIE;
+			}
+		}
 	}
-	
+
 	class Page {
 		const PAGE_PHP = 1;
 		const PDF = 2;
-		
+
 		const REL = 1;
 		const ABS = 2;
 		const FULL = 3;
-		
+
 		const FEAT_GOOGLE_MAP = 1;
 		const FEAT_SWIPER = 2;
 
@@ -261,7 +289,7 @@
 		public $visible = true;
 		public $activate;
 		public $priority;
-		
+
 		function __construct ( $alias, $lang, $file = '', $activate = '', $fileType = self::PAGE_PHP, $visible = true, $priority = 1, $lastModified = 0 ) {
 			$this->alias = $alias;
 			$this->lang = $lang;
@@ -288,7 +316,7 @@
 				Case self::ABS:
 						return '/' . $this->lang . '/' . $this->urlLast();
 					break;
-				
+
 				Case self::FULL:
 						return Site::$canonicalSiteURL . '/' . $this->lang . '/' . $this->urlLast();
 					break;
@@ -303,7 +331,7 @@
 				Case self::PDF:
 					return $fn . 'pdf' . DIRECTORY_SEPARATOR . $this->file . '.pdf';
 					break;
-			}						
+			}
 		}
 		public function filename() {
 			$fn =  __DIR__ . DIRECTORY_SEPARATOR . $this->lang . DIRECTORY_SEPARATOR;
@@ -314,7 +342,7 @@
 				Case self::PDF:
 					return $fn . 'pdf' . DIRECTORY_SEPARATOR . $this->file . '.pdf';
 					break;
-			}			
+			}
 		}
 		private function urlLast () {
 			if ( $this->file == 'index' ) return '';
@@ -440,7 +468,7 @@ HTML;
 							</div>
 
 HTML;
-			
+
 			}
 			$this->html .= <<<'HTML'
 						</div>
@@ -451,7 +479,7 @@ HTML;
 		/**
 		 * Return the filename extension including the '.' normalized to lowercase
 		 * @param String $filename
-		 * @return String 
+		 * @return String
 		 */
 		public static function extension($filename) {
 			return strtolower(strrchr($filename, '.'));
@@ -459,7 +487,7 @@ HTML;
 		/**
 		 * Return the filename amputated from it's extension
 		 * @param string $filename
-		 * @return string 
+		 * @return string
 		 */
 		public static function base($filename) {
 			return substr($filename, 0, strlen($filename) - strlen(self::extension($filename)));
@@ -467,5 +495,3 @@ HTML;
 
 	}
 	Site::get_instance();
-	
-?>

@@ -4,12 +4,6 @@ var $c; //container child of $openedDetail
 var detailHeight = 0; // height of the detail view (used to properly clalculate where to scroll when previous detail closes while new detail opens)
 
 jQuery(document).ready(function($) {
-	// Google maps init;
-	if (typeof(google) != "undefined") {
-		if (typeof(google.maps) != "undefined") {
-			google.maps.event.addDomListener(window, 'load', initializeMap);
-		}
-	}
     $('.carousel').carousel({
 		interval: 4000,
 		pause: "false"
@@ -31,7 +25,7 @@ jQuery(document).ready(function($) {
 				type: $form.attr('method'),
 				url: $form.attr('action'),
 				data: $form.serialize(),
-				 
+
 				success: function(data, status) {
 					$target.html(data);
 				}
@@ -42,7 +36,7 @@ jQuery(document).ready(function($) {
 	// Handle hash change for section display
 	/*
 	$.address.strict(false);
-	$.address.externalChange(function(event) { 
+	$.address.externalChange(function(event) {
 		$('#' + event.value ).click();
 	});
 	*/
@@ -56,7 +50,7 @@ jQuery(document).ready(function($) {
 			}
 			$openedTile.removeClass("active");
 		}
-		
+
 		$openedTile = $(this);
 		var title = $(".tile-title", this).html();
 		var intro = $(".tile-intro", this).html();
@@ -101,7 +95,7 @@ jQuery(document).ready(function($) {
 				medias += 	'							<a class="carousel-control right" href="#myCarousel" data-slide="next"><span data-icon="&#xe003;"></span></a>\r\n';
 				medias += 	'						</div>\r\n';
 				hascarousel = true;
-			
+
 		}
 		$openedTile.addClass("active");
 		if (typeof $openedDetail  != 'undefined') {
@@ -142,7 +136,7 @@ function mediaHtml( a, id ) {
 	if (a.getAttribute("data-type") == "img") {
 		//image
 		return '<img src="' + a.getAttribute("href") +'">';
-	} 
+	}
 }
 
 function closeDetail() {
@@ -164,9 +158,9 @@ function scrollToTile(target, hash) {
 }
 function scrollToPosition(position, hash) {
 	$('html, body').stop().animate(
-		{'scrollTop':position}, 
-		400, 
-		'swing', 
+		{'scrollTop':position},
+		400,
+		'swing',
 		function () {
 			if (hash!=undefined) {
 				//$.address.value(hash);
@@ -178,7 +172,14 @@ function scrollToPosition(position, hash) {
 
 // Google Map -------------------------------------------------
 
-function initializeMap() {
+function initMap() {
+	var el = document.getElementById('map-canvas');
+	if (el.getAttribute('data-jmei')=='marloie') {
+		var myLatlng = new google.maps.LatLng(50.199701,5.317264);
+	}
+	if (el.getAttribute('data-jmei')=='fourmies') {
+		var myLatlng = new google.maps.LatLng(50.0224684,4.0318365);
+	}
 	var mapStyles = [
 		{"featureType": "landscape",
 			"stylers": [
@@ -224,7 +225,6 @@ function initializeMap() {
 		}
 	];
 	var markerIcon = '/img/googlemap-marker.png';
-	var myLatlng = new google.maps.LatLng(50.199701,5.317264);
 	var mapOptions = {
 		zoom: 15,
 		center: myLatlng,
@@ -234,7 +234,7 @@ function initializeMap() {
 		scaleControl: false,
 		mapTypeId: google.maps.MapTypeId.ROADMAP,
 	};
-	var map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
+	var map = new google.maps.Map(el, mapOptions);
 	var marker = new google.maps.Marker({
       position: myLatlng,
       map: map,
