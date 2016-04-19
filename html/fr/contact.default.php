@@ -1,5 +1,5 @@
 <?php
-	include 'common.php';
+	require_once 'common.php';
 	$title = 'JMei Solution-Electronic-Radio transmission - Société de développement électronique et radio RC';
 	$description = 'JMei - Radiocommande industrielle - Nous contacter...';
 	$keywords = 'JMei,Solution,Electronic,Radio transmission,développement électronique,radio RC,Radiocommande industrielle,Marloie';
@@ -18,13 +18,13 @@ PAGESC;
 					<legend>Contactez-nous!</legend>
 					<fieldset>
 						<label>Votre Nom <span>(Requis)</span></label>
-						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
+						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12" required>
 						<label>Votre adresse e-mail <span>(Requis)</span></label>
-						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
+						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12" required>
 						<label>Votre numéro de Téléphone</label>
 						<input id="phone" type="text" title="Your phone number" name="phone" class="inputtext span12">
 						<label>Message <span>(Requis)</label>
-						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
+						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12" required></textarea>
 						<button id="submit-btn" type="submit" class="btn">Envoi</button>
 						<input type="hidden" name="lang" value="fr">
 						<input type="hidden" name="reason" value="Contact">

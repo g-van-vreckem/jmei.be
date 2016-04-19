@@ -18,13 +18,13 @@ PAGESC;
 					<legend>Contact Us!</legend>
 					<fieldset>
 						<label>Your name <span>(Required)</span></label>
-						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
+						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12" required>
 						<label>Your email address <span>(Required)</span></label>
-						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
+						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12" required>
 						<label>Your phone number</label>
 						<input id="phone" type="text" title="Your phone number" name="phone" class="inputtext span12">
 						<label>Message <span>(Required)</label>
-						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
+						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12" required></textarea>
 						<button id="submit-btn" type="submit" class="btn">Submit</button>
 						<input type="hidden" name="lang" value="en">
 						<input type="hidden" name="reason" value="Contact">

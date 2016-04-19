@@ -18,13 +18,13 @@ PAGESC;
 					<legend>Neem contact op met ons!</legend>
 					<fieldset>
 						<label>Uw naam  <span>(verplicht)</span></label>
-						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12">
+						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12" required>
 						<label>Uw e-mailadres <span>(verplicht)</span></label>
-						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12">
+						<input id="email" type="email" title="Your email is required!" name="email" class="inputtext required email span12" required>
 						<label>Uw telefoonnummer</label>
 						<input id="phone" type="text" title="Your phone number" name="phone" class="inputtext span12">
 						<label>Bericht  <span>(verplicht)</label>
-						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12"></textarea>
+						<textarea id="message" title="Please type your message!" name="message" rows="12" cols="72" class="required span12" required></textarea>
 						<button id="submit-btn" type="submit" class="btn">Verzenden</button>
 						<input type="hidden" name="lang" value="nl">
 						<input type="hidden" name="reason" value="Contact">

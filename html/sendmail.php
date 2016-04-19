@@ -2,15 +2,34 @@
 /*
  * Template Name: sendmail.php
  */
+
 $fromName = 'JMei';
 $fromEmail = 'noreply@jmei.be';
 $to = 'info@jmei.be,mpiraprez@msn.com';
+$hrefTo = 'info@jmei.be';
 $msg_replyToName=  'Annonymous';
 $msg_replyToEmail= 'noreply@jmei.be';
 $msg_text=  '';
 $msg_lang=  'en';
 $msg_reason='';
 $msg_phone='';
+
+switch($_SERVER['HTTP_HOST']) {
+	case 'jmei.picmilk.com':
+	case 'jmei.fr':
+	case 'www.jmei.fr':
+		$fromEmail = 'noreply@jmei.fr';
+		$to = 'contact@jmei.fr,mpiraprez@msn.com';
+		$hrefTo = 'contact@jmei.fr';
+		$msg_lang=  'fr';
+		break;
+	case 'jmei.be':
+	case 'jmei.eu':
+	case 'www.jmei.be':
+	case 'www.jmei.eu':
+	default:
+}
+
 
 if ( isset( $_REQUEST["name"] ) ) $msg_replyToName =  $_REQUEST["name"];
 if ( isset( $_REQUEST["email"] ) ) $msg_replyToEmail = $_REQUEST["email"];
@@ -25,8 +44,8 @@ function validateEmail( $email ) {
 if ( $msg_text ) {
 	$sec_replyToName = trim(preg_replace('/[:@<>\\/\r\n]+/', '', $msg_replyToName));
 	$sec_replyToEmail = stripslashes($msg_replyToEmail);
-	$sec_text = stripslashes($msg_text); 
-	$sec_reason = stripslashes($msg_reason); 
+	$sec_text = stripslashes($msg_text);
+	$sec_reason = stripslashes($msg_reason);
 	$site = $_SERVER['HTTP_HOST'];
 	$from = mb_encode_mimeheader($fromName, "UTF-8", "B") . ' <' . $fromEmail . '>';
 	$replyTo = mb_encode_mimeheader($sec_replyToName, "UTF-8", "B") . ' <' . $sec_replyToEmail . '>';
@@ -41,14 +60,14 @@ Email: {$msg_replyToEmail}
 
 Phone: {$msg_phone}
 
-Message: 
+Message:
 $msg_text
 BODY;
 	$message = str_replace("\r\n", "\n", $message);
 	// Build $headers Variable
 	$headers = '';
-	$headers .= "MIME-Version: 1.0 \n"; 
-	$headers .= "Content-Type: text/plain; charset=UTF-8 \n"; 
+	$headers .= "MIME-Version: 1.0 \n";
+	$headers .= "Content-Type: text/plain; charset=UTF-8 \n";
 	$headers .= "From: $from \n";
 	$headers .= "Reply-To: $replyTo \n";
 	$to = "$to";
@@ -66,7 +85,7 @@ BODY;
 			if ($msgCount === false) {
 				$URLsubject = rawurlencode($subject);
 				$URLmessage = rawurlencode($msg_text);
-				echo "<p class='text-warning'>Nous n'avons pas pu envoyé votre message, Utilisez ce bouton:</p><p><a class='btn' href='mailto:{$to}?subject={$URLsubject}&amp;body={$URLmessage}'>Contactez Nous</a></p>";
+				echo "<p class='text-warning'>Nous n'avons pas pu envoyé votre message, Utilisez ce bouton:</p><p><a class='btn' href='mailto:{$hrefTo}?subject={$URLsubject}&amp;body={$URLmessage}'>Contactez Nous</a></p>";
 			} else {
 				echo '<p><b>Votre message a été envoyé, nous vous contacterons dès que possible.<br>Merci.</b></p>';
 			}
@@ -75,7 +94,7 @@ BODY;
 			if ($msgCount === false) {
 				$URLsubject = rawurlencode($subject);
 				$URLmessage = rawurlencode($msg_text);
-				echo "<p class='text-warning'>Nous n'avons pas pu envoyé votre message, Utilisez ce bouton:</p><p><a class='btn' href='mailto:{$to}?subject={$URLsubject}&amp;body={$URLmessage}'>Contactez Nous</a></p>";
+				echo "<p class='text-warning'>Nous n'avons pas pu envoyé votre message, Utilisez ce bouton:</p><p><a class='btn' href='mailto:{$hrefTo}?subject={$URLsubject}&amp;body={$URLmessage}'>Contactez Nous</a></p>";
 			} else {
 				echo '<p><b>Votre message a été envoyé, nous vous contacterons dès que possible.<br>Merci.</b></p>';
 			}
@@ -84,7 +103,7 @@ BODY;
 			if ($msgCount === false) {
 				$URLsubject = rawurlencode($subject);
 				$URLmessage = rawurlencode($msg_text);
-				echo "<p class='text-warning'>We had a problem sending your email, try this button instead:</p><p><a class='btn' href='mailto:{$to}?subject={$URLsubject}&amp;body={$URLmessage}'>Contact Us</a></p>";
+				echo "<p class='text-warning'>We had a problem sending your email, try this button instead:</p><p><a class='btn' href='mailto:{$hrefTo}?subject={$URLsubject}&amp;body={$URLmessage}'>Contact Us</a></p>";
 			} else {
 				echo '<p><b>Your message has been sent, we will contact you as soon as possible.<br>Thank you.</b></p>';
 			}
