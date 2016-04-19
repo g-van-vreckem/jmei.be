@@ -1,9 +1,6 @@
 <?php
 class langs {
-	private static $default_lang_redirect = 'en';
-	private static $accepted_lang = array('en'=>'en', 'fr'=>'fr'); //list of locale for which a translation exists
-	
-	public static function get_lang_redirect_from_browser() {
+	public static function get_lang_redirect_from_browser($default_lang_redirect, $accepted_lang) {
 		$accept = array();
 		if (isset($_SERVER['HTTP_ACCEPT_LANGUAGE'])) {
 			// break up string into pieces (languages and q factors)
@@ -16,22 +13,32 @@ class langs {
 				foreach ($accept as $accept_lang => $val) {
 					if ($val === '') $accept[$accept_lang] = 1.1 - 0.0001*$i++;
 				}
-				// sort list based on value	
+				// sort list based on value
 				arsort($accept, SORT_NUMERIC);
 			}
 		}
 		// look through sorted list and use first one that matches our languages
 		foreach ($accept as $accept_lang => $val) {
 			$lang = substr($accept_lang,0,2);
-			if (isset(self::$accepted_lang[$lang])) {
-				return self::$accepted_lang[$lang];
+			if (isset($accepted_lang[$lang])) {
+				return $accepted_lang[$lang];
 			}
 		}
-		return self::$default_lang_redirect;
-	}	
+		return $default_lang_redirect;
+	}
 }
-// 307 Temporary Redirect
-// Relative URL not standard but tolerated and part of HTTPbis
-header('Location: ' . langs::get_lang_redirect_from_browser(), true, 307);
+
+switch($_SERVER['HTTP_HOST']) {
+	case 'jmei.picmilk.com':
+	case 'jmei.fr':
+	case 'www.jmei.fr':
+		header('Location: ' . langs::get_lang_redirect_from_browser('fr', ['en'=>'en', 'fr'=>'fr']), true, 307);
+		break;
+	case 'jmei.be':
+	case 'jmei.eu':
+	case 'www.jmei.be':
+	case 'www.jmei.eu':
+	default:
+		header('Location: ' . langs::get_lang_redirect_from_browser('en', ['en'=>'en', 'fr'=>'fr', 'nl'=>'nl']), true, 307);
+}
 die;
-?>

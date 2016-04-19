@@ -264,6 +264,7 @@
 					return self::MARLOIE;
 					break;
 				case 'jmei.picmilk.com':
+				case 'jmei.fr':
 				case 'www.jmei.fr':
 				  return self::FOURMIES;
 					break;
