@@ -27,7 +27,7 @@
 
 		function __construct ( ) {
 			self::$siteRoot = __DIR__ . DIRECTORY_SEPARATOR;
-			self::$domExtension = self::detectDomExtension();
+			self::applyDomainCustomisation();
 
 			self::$pages = Array ( );
 
@@ -255,21 +255,21 @@
 			$fileParts = pathinfo($file);
 			return $fileParts['dirname'] . DIRECTORY_SEPARATOR . $fileParts['filename'] . '.' . $extension . $fileParts['extension'];
 		}
-		public static function detectDomExtension() {
+		public static function applyDomainCustomisation() {
 			switch($_SERVER['HTTP_HOST']) {
+				case 'jmei.picmilk.com':
+				case 'jmei.fr':
+				case 'www.jmei.fr':
+					self::$canonicalSiteURL = 'http://www.jmei.fr';
+				  self::$domExtension = self::FOURMIES;
+					break;
 				case 'jmei.be':
 				case 'jmei.eu':
 				case 'www.jmei.be':
 				case 'www.jmei.eu':
-					return self::MARLOIE;
-					break;
-				case 'jmei.picmilk.com':
-				case 'jmei.fr':
-				case 'www.jmei.fr':
-				  return self::FOURMIES;
-					break;
 				default:
-				  return self::MARLOIE;
+					self::$canonicalSiteURL = 'http://www.jmei.be';
+				  self::$domExtension = self::MARLOIE;
 			}
 		}
 	}
