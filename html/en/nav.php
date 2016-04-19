@@ -15,7 +15,9 @@
 							<li<?php echo Site::addActiveClass('products'); ?>><a href="<?php echo Site::relativeUrl('products');?>">Products</a></li>
 							<li<?php echo Site::addActiveClass('references'); ?>><a href="<?php echo Site::relativeUrl('references');?>">References</a></li>
 							<li<?php echo Site::addActiveClass('realisations'); ?>><a href="<?php echo Site::relativeUrl('realisations');?>">Realisations</a></li>
+<?php if(Site::$domExtension == Site::MARLOIE) { ?>
 							<li<?php echo Site::addActiveClass('distribution'); ?>><a href="<?php echo Site::relativeUrl('distribution');?>">Distribution</a></li>
+<?php } ?>
 							<li<?php echo Site::addActiveClass('sadamec'); ?>><a href="<?php echo Site::relativeUrl('sadamec');?>">Radio Sadamec</a></li>
 						</ul>
 					</div>
