@@ -42,7 +42,7 @@ PAGESC;
 						Belgique<br>
 						Tel. : +32 84 34.41.75<br>
 						Fax : +32 84 34.41.77<br>
-						<a href="mailto:info@jmei.com">info@jmei.be</a></p>
+						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
                 </div>
                 <div class="span4">
                     <h2>Heures d'ouverture</h2>
