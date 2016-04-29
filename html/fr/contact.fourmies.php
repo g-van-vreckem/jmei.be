@@ -37,8 +37,8 @@ PAGESC;
                     <h2>Contactez-nous!</h2>
                     <p><b>JMei-France</b><br>
 											Solution-Electronic-Radio transmission<br>
-											ZA La Marliere - 4, rue Raymond Chomel<br>
-											Ruche d'Entreprises<br>
+											ZA La Marliere<br>
+					  4, rue Raymond Chomel<br>
 											F-59610 Fourmies<br>
 											France<br>
 											Tel. : +33 3 66 24 01 16<br>

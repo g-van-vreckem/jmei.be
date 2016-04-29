@@ -11,7 +11,7 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01FR.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei, les solutions industrielles éprouvées.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
@@ -92,7 +92,7 @@
                 </div>
                 <div class="span4">
 					<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=14" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=15" alt="Radiocommande Industrielle de sécurité"></a>
 
                </div>
                 <div class="span4">
@@ -102,15 +102,14 @@
             </div>
             <div class="row">
                 <div class="span4">
-<h2 class="text-center">Pupitre Industriel</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box3.jpg?v=9" alt="Boîte à boutons industrielle"></a>
+<h2 class="text-center">JMei international</h2>
+					<a href="index.default.php"><img src="../img/home/box3EU.jpg?v=9" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei-France</h2>
                     <p class="text-center">
-											ZA La Marliere - 4, rue Raymond Chomel<br>
-											Ruche d'Entreprises<br>
-											F-59610 Fourmies - France<br>
+											ZA La Marliere<br>
+					  4, rue Raymond Chomel<br>									F-59610 Fourmies - France<br>
 											Tel. : +33 3 66 24 01 16<br>
 											<a href="mailto:contact@jmei.fr">contact@jmei.fr</a>
 										</p>
