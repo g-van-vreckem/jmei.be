@@ -11,15 +11,15 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item active">
-						<img src="../img/home/slide-01FR.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01MA.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">JMei, les solutions industrielles éprouvées.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
+								<p class="lead">JMei, nominé à la Marianne de Cristal.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
+						<img src="../img/home/slide-01FR.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
