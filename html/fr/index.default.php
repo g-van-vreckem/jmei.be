@@ -103,7 +103,7 @@
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">JMei France</h2>
-					<a href="index.fourmies.php"><img src="../img/home/box3FR.jpg?v=10" alt="Boîte à boutons industrielle"></a>
+					<a href="http://www.jmei.fr"><img src="../img/home/box3FR.jpg?v=10" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei</h2>

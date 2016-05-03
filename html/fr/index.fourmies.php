@@ -103,7 +103,7 @@
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">JMei international</h2>
-					<a href="index.default.php"><img src="../img/home/box3EU.jpg?v=9" alt="Boîte à boutons industrielle"></a>
+					<a href="http://www.jmei.be"><img src="../img/home/box3EU.jpg?v=9" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei-France</h2>
