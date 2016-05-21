@@ -203,6 +203,7 @@
 			self::addPage ( new Page ( 'SCAN.pdf', 'nl', 'JMei-Scan', '', Page::PDF, true, .6 ) );
 
 			self::addPage ( new Page ( 'DH.pdf', 'fr', 'JMei-Dossier-Entreprise', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'ENTREPRENDRE.pdf', 'fr', 'JMei-Article-Entreprendre-2016', '', Page::PDF, true, .6 ) );
 		}
 
 		public static function get_instance() {
