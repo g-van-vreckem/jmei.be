@@ -92,7 +92,7 @@
                 </div>
                 <div class="span4">
 					<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=15" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=16" alt="Radiocommande Industrielle de sécurité"></a>
 
                </div>
                 <div class="span4">
