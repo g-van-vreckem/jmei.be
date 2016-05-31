@@ -16,7 +16,7 @@
 			<h4>JMei, votre partenaire en solution électronique, radiocommandes industrielles & radiotransmission</h4>
 			<p> JMei prend les commandes de vos applications industrielles, en combinant des idées innovantes et le savoir-faire de sociétés renommées dans le domaine: Collard-Belgium-Electronics, Sadamec et IRC Electronics.</p>
 
-			<h4>De la télécommande, à la plus-value en passant par l'expérience</h4>
+			<h4>De la télécommande à la plus-value, en passant par l'expérience</h4>
 			<p>Grâce à sa large gamme de radiocommandes hautement personnalisables, JMei offre à chaque client la solution la plus adaptée à sa demande et à ses besoins : boîtes à boutons double vitesse, pupitres à commandes progressives, retour d’informations, options sécuritaires, bus de terrain….</p>
 
 			<h4>Notre force: les mixtes technologiques</h4>
