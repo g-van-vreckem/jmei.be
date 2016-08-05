@@ -177,6 +177,8 @@
 			self::addPage ( new Page ( 'RECB.pdf', 'en', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'fr', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'nl', 'JMei-RECB', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'RECB-datasheet.pdf', 'fr', 'JMei-RECB-fiche-technique', '', Page::PDF, true, .6 ) );
 
 			self::addPage ( new Page ( 'TCA27.pdf', 'en', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
