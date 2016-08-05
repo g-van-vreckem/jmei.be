@@ -1,8 +1,8 @@
 <?php
 	require_once 'common.php';
-	$title = 'JMei - Radiocommande à distance - Radio télécommande sans fil industrielle';
-	$description = 'JMei, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
-	$keywords = 'JMei,Radiocommande à distance,Radio télécommande,Radio télécommande sans fil industrielle,solution électronique,radiocommandes industrielles,radio-transmission,IRC,Collard-Belgium-Electronics,radiocommande,innovation constante,télécommandes,dernières technologies,Marloie,Radios personnalisées,                    Personnalisation,Flexibilité,Innovation,Réactivité,Expérience,Fiabilité,équipe dynamique et professionnelle,service rapide et de qualité,Fabrication sur-mesure';
+	$title = 'JMei FRANCE - Radiocommande à distance - Radio télécommande sans fil industrielle';
+	$description = 'JMei FRANCE, votre partenaire en solution électronique, radiocommandes industrielles et radio-transmission';
+	$keywords = 'JMei,FRANCE,Radiocommande à distance,Radio télécommande,Radio télécommande sans fil industrielle,solution électronique,radiocommandes industrielles,radio-transmission,IRC,Collard-Belgium-Electronics,radiocommande,innovation constante,télécommandes,dernières technologies,Marloie,Radios personnalisées,                    Personnalisation,Flexibilité,Innovation,Réactivité,Expérience,Fiabilité,équipe dynamique et professionnelle,service rapide et de qualité,Fabrication sur-mesure';
 
 	$pageId = 'home';
 	include 'header.php';
@@ -11,14 +11,14 @@
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
 					<div class="item">
-						<img src="../img/home/slide-01MA.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
+						<img src="../img/home/slide-01.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei, nominé à la Marianne de Cristal.<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('about');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img src="../img/home/slide-01FR.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
 						<div class="container">
 							<div class="carousel-caption">
@@ -71,8 +71,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
-						<img src="../img/home/slide-08.jpg?v=1" alt="Commande pont roulant">
+					<div class="item active">
+						<img src="../img/home/slide-08.jpg?v=2" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.

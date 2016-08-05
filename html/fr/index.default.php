@@ -62,7 +62,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item active">
+					<div class="item">
 						<img src="../img/home/slide-07.jpg?v=7" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">
@@ -71,8 +71,8 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
-						<img src="../img/home/slide-08.jpg?v=1" alt="Commande pont roulant">
+					<div class="item active">
+						<img src="../img/home/slide-08.jpg?v=2" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.
