@@ -10,7 +10,7 @@
 ?>
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
-					<div class="item active">
+					<div class="item">
 						<img src="../img/home/slide-01.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
@@ -62,7 +62,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
+					<div class="item active">
 						<img src="../img/home/slide-07.jpg?v=7" alt="JMei radiocommande ex inradco ex collard">
 						<div class="container">
 							<div class="carousel-caption">

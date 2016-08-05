@@ -10,7 +10,7 @@
 ?>
 			<div id="myCarousel" class="carousel slide">
 				<div class="carousel-inner">
-					<div class="item active">
+					<div class="item">
 						<img src="../img/home/slide-01MA.jpg?v=9" alt="JMei Solution-Electronic-Radio transmission">
 						<div class="container">
 							<div class="carousel-caption">
@@ -18,7 +18,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="item">
+					<div class="item active">
 						<img src="../img/home/slide-01FR.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
 						<div class="container">
 							<div class="carousel-caption">
