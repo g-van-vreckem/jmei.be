@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-							<li class="active"><a href="#blog-2016-05">Télécommande pour engin sur rail <i class="icon-chevron-right pull-right"></i></a></li> 
+							<li class="active"><a href="#blog-2016-08">Commande pour véhicules industriels<i class="icon-chevron-right pull-right"></i></a></li>                             
+							<li><a href="#blog-2016-05">Télécommande pour engin sur rail <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-04">Pupitre fixe déporté <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-03">Commande de théatre <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2015-10">Technologie Infra-Rouge <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -36,6 +37,15 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2016-08"></a>
+					<section>
+					  <h3>Commande radio pour véhicules de nettoyage industriels</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2016-08-1000.jpg?v=1" alt="commande camion">
+					  <p>Cette télécommande novatrice répond aux attentes des clients les plus exigeants dans le domaine de l'environnement et du nettoyage industriel.<br>
+						Cette technologie est réalisée sur base du cahier des charges du client embarquant une personnalisation totale de ses fonctions.<br> 
+						Avec ce modèle, les plus hautes normes de qualité, de sécurité et de finition sont appliquées afin de rentabiliser au maximum l'investissement.</p>
+					</section>
+					<hr>                 
 					<a class="anchor" id="blog-2016-05"></a>
 					<section>
 					  <h3>Télécommande pour locomotive - engin sur rail</h3>
