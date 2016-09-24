@@ -43,9 +43,13 @@
 			self::addPage ( new Page ( 'home', 'fr', 'index') );
 			self::addPage ( new Page ( 'home', 'nl', 'index') );
 
-			self::addPage ( new Page ( 'products', 'en', 'products' ) );
-			self::addPage ( new Page ( 'products', 'fr', 'produits' ) );
-			self::addPage ( new Page ( 'products', 'nl', 'producten' ) );
+			self::addPage ( new Page ( 'products-radios', 'en', 'radio-control' ) );
+			self::addPage ( new Page ( 'products-radios', 'fr', 'radiocommande' ) );
+			self::addPage ( new Page ( 'products-radios', 'nl', 'radio-control' ) );
+
+			self::addPage ( new Page ( 'products-solutions', 'en', 'electronic-solutions' ) );
+			self::addPage ( new Page ( 'products-solutions', 'fr', 'solutions-electroniques' ) );
+			self::addPage ( new Page ( 'products-solutions', 'nl', 'elektronische-oplossingen' ) );
 
 			self::addPage ( new Page ( 'contact', 'en' ) );
 			self::addPage ( new Page ( 'contact', 'fr') );
@@ -71,63 +75,86 @@
 			self::addPage ( new Page ( 'terms', 'fr', 'mentions-legales', '', Page::PAGE_PHP, true, .5 ) );
 			self::addPage ( new Page ( 'terms', 'nl', 'legal-kennisgevingen', '', Page::PAGE_PHP, true, .5 ) );
 
-			self::addPage ( new Page ( 'TCA27', 'en', 'product-TCA27', 'products' ) );
-			self::addPage ( new Page ( 'TCA27', 'fr', 'produit-TCA27', 'products' ) );
-			self::addPage ( new Page ( 'TCA27', 'nl', 'product-TCA27', 'products' ) );
+			self::addPage ( new Page ( 'TCA27', 'en', 'product-TCA27', 'products-solutions' ) );
+			self::addPage ( new Page ( 'TCA27', 'fr', 'produit-TCA27', 'products-solutions' ) );
+			self::addPage ( new Page ( 'TCA27', 'nl', 'product-TCA27', 'products-solutions' ) );
 
-			self::addPage ( new Page ( 'RECB', 'en', 'product-RECB', 'products' ) );
-			self::addPage ( new Page ( 'RECB', 'fr', 'produit-RECB', 'products' ) );
-			self::addPage ( new Page ( 'RECB', 'nl', 'product-RECB', 'products' ) );
+			self::addPage ( new Page ( 'RECB', 'en', 'product-RECB', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RECB', 'fr', 'produit-RECB', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RECB', 'nl', 'product-RECB', 'products-solutions' ) );
 
-			self::addPage ( new Page ( 'Helice', 'en', 'product-Helice', 'products' ) );
-			self::addPage ( new Page ( 'Helice', 'fr', 'produit-Helice', 'products' ) );
-			self::addPage ( new Page ( 'Helice', 'nl', 'product-Helice', 'products' ) );
+			self::addPage ( new Page ( 'RECF', 'en', 'product-RECF', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RECF', 'fr', 'produit-RECF', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RECF', 'nl', 'product-RECF', 'products-solutions' ) );
 
-			self::addPage ( new Page ( 'RCB90', 'en', 'product-RCB90', 'products' ) );
-			self::addPage ( new Page ( 'RCB90', 'fr', 'produit-RCB90', 'products' ) );
-			self::addPage ( new Page ( 'RCB90', 'nl', 'product-RCB90', 'products' ) );
+			self::addPage ( new Page ( 'Helice', 'en', 'product-Helice', 'products-radios' ) );
+			self::addPage ( new Page ( 'Helice', 'fr', 'produit-Helice', 'products-radios' ) );
+			self::addPage ( new Page ( 'Helice', 'nl', 'product-Helice', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'RCB700', 'en', 'product-RCB700', 'products' ) );
-			self::addPage ( new Page ( 'RCB700', 'fr', 'produit-RCB700', 'products' ) );
-			self::addPage ( new Page ( 'RCB700', 'nl', 'product-RCB700', 'products' ) );
+			self::addPage ( new Page ( 'RCB90', 'en', 'product-RCB90', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB90', 'fr', 'produit-RCB90', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB90', 'nl', 'product-RCB90', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'RCB1000', 'en', 'product-RCB1000', 'products' ) );
-			self::addPage ( new Page ( 'RCB1000', 'fr', 'produit-RCB1000', 'products' ) );
-			self::addPage ( new Page ( 'RCB1000', 'nl', 'product-RCB1000', 'products' ) );
+			self::addPage ( new Page ( 'RCB700', 'en', 'product-RCB700', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB700', 'fr', 'produit-RCB700', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB700', 'nl', 'product-RCB700', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'RCB3000', 'en', 'product-RCB3000', 'products' ) );
-			self::addPage ( new Page ( 'RCB3000', 'fr', 'produit-RCB3000', 'products' ) );
-			self::addPage ( new Page ( 'RCB3000', 'nl', 'product-RCB3000', 'products' ) );
+			self::addPage ( new Page ( 'RCB1000', 'en', 'product-RCB1000', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB1000', 'fr', 'produit-RCB1000', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB1000', 'nl', 'product-RCB1000', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'RCB6000', 'en', 'product-RCB6000', 'products' ) );
-			self::addPage ( new Page ( 'RCB6000', 'fr', 'produit-RCB6000', 'products' ) );
-			self::addPage ( new Page ( 'RCB6000', 'nl', 'product-RCB6000', 'products' ) );
+			self::addPage ( new Page ( 'RCB3000', 'en', 'product-RCB3000', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB3000', 'fr', 'produit-RCB3000', 'products-radios' ) );
+			self::addPage ( new Page ( 'RCB3000', 'nl', 'product-RCB3000', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'RCB7000', 'en', 'product-RCB7000', 'products' ) );
-			self::addPage ( new Page ( 'RCB7000', 'fr', 'produit-RCB7000', 'products' ) );
-			self::addPage ( new Page ( 'RCB7000', 'nl', 'product-RCB7000', 'products' ) );
+			self::addPage ( new Page ( 'RCB6000', 'en', 'product-RCB6000', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RCB6000', 'fr', 'produit-RCB6000', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RCB6000', 'nl', 'product-RCB6000', 'products-solutions' ) );
 
+			self::addPage ( new Page ( 'RCB7000', 'en', 'product-RCB7000', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RCB7000', 'fr', 'produit-RCB7000', 'products-solutions' ) );
+			self::addPage ( new Page ( 'RCB7000', 'nl', 'product-RCB7000', 'products-solutions' ) );
+
+			self::addPage ( new Page ( 'SMSCMD', 'en', 'product-SMS', 'products-solutions' ) );
+			self::addPage ( new Page ( 'SMSCMD', 'fr', 'produit-SMS', 'products-solutions' ) );
+			self::addPage ( new Page ( 'SMSCMD', 'nl', 'product-SMS', 'products-solutions' ) );
+
+/*
 			self::addPage ( new Page ( 'TANDEM', 'en', 'product-multi-equipement-coordination', 'products' ) );
 			self::addPage ( new Page ( 'TANDEM', 'fr', 'produit-coordination-equipements-multiples', 'products' ) );
 			self::addPage ( new Page ( 'TANDEM', 'nl', 'product-coordinatie-multiple-apparatuur', 'products' ) );
-
-			self::addPage ( new Page ( 'KEY', 'en', 'product-configuration-and-identification-key', 'products' ) );
-			self::addPage ( new Page ( 'KEY', 'fr', 'produit-clef-de-configuration-et-identification', 'products' ) );
-			self::addPage ( new Page ( 'KEY', 'nl', 'product-configuration-and-identification-key', 'products' ) );
+*/
+			self::addPage ( new Page ( 'KEY', 'en', 'product-configuration-and-identification-key', 'products-solutions' ) );
+			self::addPage ( new Page ( 'KEY', 'fr', 'produit-clef-de-configuration-et-identification', 'products-solutions' ) );
+			self::addPage ( new Page ( 'KEY', 'nl', 'product-configuration-and-identification-key', 'products-solutions' ) );
 
 //			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
 
-			self::addPage ( new Page ( 'JMPOCKET', 'en', 'product-JMei-Pocket', 'products' ) );
-			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products' ) );
-			self::addPage ( new Page ( 'JMPOCKET', 'nl', 'product-JMei-Pocket', 'products' ) );
+			self::addPage ( new Page ( 'JMPOCKET', 'en', 'product-JMei-Pocket', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMPOCKET', 'nl', 'product-JMei-Pocket', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'OPTION', 'en', 'product-options', 'products' ) );
-			self::addPage ( new Page ( 'OPTION', 'fr', 'produit-options', 'products' ) );
-			self::addPage ( new Page ( 'OPTION', 'nl', 'productopties', 'products' ) );
+			self::addPage ( new Page ( 'JMSLYT', 'en', 'product-JMei-S-LYT', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMSLYT', 'fr', 'produit-JMei-S-LYT', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMSLYT', 'nl', 'product-JMei-S-LYT', 'products-radios' ) );
 
-			self::addPage ( new Page ( 'ACCESSORY', 'en', 'product-accessories', 'products' ) );
-			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products' ) );
-			self::addPage ( new Page ( 'ACCESSORY', 'nl', 'product-accessoires', 'products' ) );
+			self::addPage ( new Page ( 'SADAMEC-BC', 'en', 'product-sadamec-bc', 'products-radios' ) );
+			self::addPage ( new Page ( 'SADAMEC-BC', 'fr', 'produit-sadamec-bc', 'products-radios' ) );
+			self::addPage ( new Page ( 'SADAMEC-BC', 'nl', 'product-sadamec-bc', 'products-radios' ) );
+
+			self::addPage ( new Page ( 'SADAMEC-PV', 'en', 'product-sadamec-pv', 'products-radios' ) );
+			self::addPage ( new Page ( 'SADAMEC-PV', 'fr', 'produit-sadamec-pv', 'products-radios' ) );
+			self::addPage ( new Page ( 'SADAMEC-PV', 'nl', 'product-sadamec-pv', 'products-radios' ) );
+
+
+
+			self::addPage ( new Page ( 'OPTION', 'en', 'product-options', 'products-solutions' ) );
+			self::addPage ( new Page ( 'OPTION', 'fr', 'produit-options', 'products-solutions' ) );
+			self::addPage ( new Page ( 'OPTION', 'nl', 'productopties', 'products-solutions' ) );
+
+			self::addPage ( new Page ( 'ACCESSORY', 'en', 'product-accessories', 'products-solutions' ) );
+			self::addPage ( new Page ( 'ACCESSORY', 'fr', 'produit-accessoires', 'products-solutions' ) );
+			self::addPage ( new Page ( 'ACCESSORY', 'nl', 'product-accessoires', 'products-solutions' ) );
 
 
 			self::addPage ( new Page ( 'RCB90.pdf', 'en', 'JMei-RCB90', '', Page::PDF, true, .6 ) );

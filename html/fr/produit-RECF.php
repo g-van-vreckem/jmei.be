@@ -1,10 +1,10 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RECB - Récepteur radio sécuritaire - Répéteur de télécommande';
+	$title = 'JMei - RECF - Récepteur radio sécuritaire - Répéteur de télécommande';
 	$description = 'Récepteur de radiocommande industrielle JMei. Fonctions TOR, analogiques, CANbus, CANopen, Profibus ou Profinet. Arrêt de sécurité certifié.';
-	$keywords = 'JMei,RECB,Récepteur radio sécuritaire,Répéteur de télécommande,Récepteur de radiocommande industrielle,récepteur radio HF,commande de tout engin industriel,normes industrielles,Relais de sécurité,arrêt d\'urgence,PWM,entrée TOR,entrée analogique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,fiche Harting,Pont roulant,Grue tour,Camion hydraulique,Engins spéciaux,Automate';
-	$pageId = 'RECB';
-	$swiper = new Medias('/img/product-RECB/swiper/');	
+	$keywords = 'JMei,RECF,Récepteur radio sécuritaire,Répéteur de télécommande,Récepteur de radiocommande industrielle,récepteur radio HF,commande de tout engin industriel,normes industrielles,Relais de sécurité,arrêt d\'urgence,PWM,entrée TOR,entrée analogique,Profibus,Ethernet,Canbus,Profinet,bus de terrain,fiche Harting,Pont roulant,Grue tour,Camion hydraulique,Engins spéciaux,Automate';
+	$pageId = 'RECF';
+	$swiper = new Medias('/img/product-RECF/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 ?>
@@ -12,13 +12,13 @@
 <?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Récepteur radio RECB</h3>
+					<h3>Récepteur radio RECF</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                    
 					</div>
 					<p></p>
-					<p><a href="<?php echo Site::relativeUrl('RECB.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p> <a href="<?php echo Site::relativeUrl('RECB-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p> 
+					<p><a href="<?php echo Site::relativeUrl('RECF.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+					<p> <a href="<?php echo Site::relativeUrl('RECF-datasheet-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p> 
 					<a id="description"></a>
 					<h4>Description</h4>
 						<p>Récepteur associé à toute la gamme des émetteurs JMei.</p>
@@ -60,21 +60,21 @@
 						<li>Engins spéciaux.</li>
 						<li>Automate,…</li>
 					</ul> 
-                 <hr>									
-                  <a id="réalisations"></a>
+					<hr>
+					<a id="réalisations"></a>
 					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
 							<h6>Récepeur de radiocommande</h6>
-							<img src="../img/product-RECB/recb_bot1.jpg" alt="Récepeur de radiocommande">
+							<img src="../img/product-RECF/recf_bot1.jpg" alt="Récepeur de radiocommande">
 						</div>
 						<div class="span3">
 							<h6>Récepeur de radiocommande</h6>
-							<img src="../img/product-RECB/recb_bot2.jpg" alt="Radiocommande industrielle">
+							<img src="../img/product-RECF/recf_bot2.jpg" alt="Radiocommande industrielle">
 						</div>
 						<div class="span3">
 							<h6>Récepeur de radiocommande</h6>
-							<img src="../img/product-RECB/recb_bot3.jpg" alt="Radiocommande industrielle">
+							<img src="../img/product-RECF/recf_bot3.jpg" alt="Radiocommande industrielle">
 						</div>                                                
 					</div>                      
 				</div>

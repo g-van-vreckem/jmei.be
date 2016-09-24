@@ -10,7 +10,7 @@
 
 ?>
 			<div class="row">
-<?php include 'product-nav.php'; ?>
+<?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a name="highlight"></a><h3>Module de transmission industrielle de type RCB6000</h3>
 					<div class="row">

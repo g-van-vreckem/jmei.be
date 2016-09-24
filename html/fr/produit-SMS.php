@@ -9,10 +9,10 @@
 	include 'nav.php';
 ?>
 			<div class="row">
-<?php include 'products-radios-nav.php'; ?>
+<?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Radiocommande RCB700</h3>
+					<h3>Commande par SMS</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                        
 					</div>

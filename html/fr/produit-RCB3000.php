@@ -9,7 +9,7 @@
 	include 'nav.php';
 ?>
  			<div class="row">
-<?php include 'product-nav.php'; ?>
+<?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
 					<h3>Radiocommande RCB3000</h3>
