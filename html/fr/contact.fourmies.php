@@ -35,7 +35,7 @@ PAGESC;
             <div class="row">
                 <div class="span4">
                     <h2>Contactez-nous!</h2>
-                    <p><b>JMei-France</b><br>
+                    <p><b>JMei FRANCE SARL</b><br>
 											Solution-Electronic-Radio transmission<br>
 											ZA La Marliere<br>
 					  4, rue Raymond Chomel<br>
@@ -51,9 +51,9 @@ PAGESC;
 				</div>
                 <div class="span4">
                     <h2>Comptabilité</h2>
-					<p>JMei sprl<br>
-					TVA: FR41819060476<br>
-					<a href="pdf/JMeiFrance.pdf">Coordonnées bancaires</a></p>
+					<p>JMei FRANCE SARL<br>
+					TVA: FR<br>
+					<a href="pdf/JMeiFranceSARL.pdf">Coordonnées bancaires</a></p>
 				</div>
 			</div>
 			<div class="row">

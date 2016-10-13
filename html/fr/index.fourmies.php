@@ -106,7 +106,7 @@
 					<a href="http://www.jmei.be"><img src="../img/home/box3EU.jpg?v=9" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
-                    <h2 class="text-center">JMei-France</h2>
+                    <h2 class="text-center">JMei France SARL</h2>
                     <p class="text-center">
 											ZA La Marliere<br>
 					  4, rue Raymond Chomel<br>									F-59610 Fourmies - France<br>
