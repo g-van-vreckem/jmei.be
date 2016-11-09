@@ -52,7 +52,7 @@ PAGESC;
                 <div class="span4">
                     <h2>Comptabilité</h2>
 					<p>JMei FRANCE SARL<br>
-					TVA: FR<br>
+					TVA: FR96822149621<br>
 					<a href="pdf/JMeiFranceSARL.pdf">Coordonnées bancaires</a></p>
 				</div>
 			</div>

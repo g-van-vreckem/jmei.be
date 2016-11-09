@@ -92,7 +92,7 @@
                 </div>
                 <div class="span4">
 					<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=17" alt="Radiocommande Industrielle de sécurité"></a>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=18" alt="Radiocommande Industrielle de sécurité"></a>
 
                </div>
                 <div class="span4">
@@ -115,8 +115,8 @@
                     <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
                 </div>
                 <div class="span4">
-<h2 class="text-center">Boîte à boutons</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=1" alt="Radiocommande personnalisée"></a>
+<h2 class="text-center">Industrial Wireless</h2>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=2" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
