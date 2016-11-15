@@ -13,17 +13,29 @@
 <?php echo $swiper->html; ?>
 					<hr>                             
 			<h4>Un service radio SADamec TEChnologie assuré</h4>
-				<p>Il y a quelques mois, POK- fabricant de matériel de lutte contre l'incendie nous annonçait que dans le cadre de son département Lance Monitor Radiocommandée et ensuite dans son nouveau département POK Technology, pouvoir réaliser les études, le développement et la réalisation de commandes à distance sans fil ou filaire pour le secteur de la sécurité incendie <u>et pour l'industrie</u>.<br>Cette démarche était renforcée par l'arrivée du directeur technique de SADAMEC.</p>
-					<hr> 
-			<h4>Les télécommandes SADamec confiées à la société JMei </h4>
-				<p>Aujourd'hui, POK décide de se centrer sur son activité principale liée au secteur de l'incendie et cède à la société <strong>JMei</strong> la partie radio commande du secteur industriel.<br>C'est donc<strong> JMei</strong> qui pourra vous aider pour entretenir, dépanner et mettre à niveau ou tout simplement vous offrir des pièces de rechange pour l'ensemble du matériel de <strong>télécommande SADAMEC</strong>.<br>
-				  Les services de la société Sadamec Illkirch Graffenstaden
-				sont donc dès à présent assurés par JMei.<br>
-				</p>
+				<p>En mars 2014, la société SADAMEC (acteur historique de la radiocommande en France) cessait son activité. <br>
+			    Celle-ci a été reprise par la société POK, à travers son département POK Technology.<br> 
+                POK reprend alors la réalisation des études et du développement des commandes à distance sans fil ou filaire pour le secteur de la sécurité incendie <u>et pour l&rsquo;industrie</u>.</p>
+<hr> 
+			<h4>Les télécommandes SADamec confiées à JMei </h4>
+				<p>En novembre 2014, se rendant compte que l&rsquo;activité radiocommande n&rsquo;est pas dans son «&nbsp;cœur de métier&nbsp;», la société POK l&rsquo;a transmise à la société JMei.<br>
+<strong>JMei</strong> peut dès à présent vous fournir en pièces détachées, assurer le dépannage et l&rsquo;entretien des <strong>radios SADamec</strong> et bien sûr analyser vos demandes en radiocommande (en ayant la capacité de mixer les technologies novatrices de JMei).<br>
+Les services de la société Illkirch Graffenstaden sont donc dès à présent assurés par JMei.</p>
 				<hr> 
 			<h4>POK et JMei redonnent naissance aux services SADamec</h4>
-				<p><strong>JMei</strong> est au cœur du métier de la radiocommande depuis 30 ans par les sociétés Collard-IRC et JMei. Elle est basée en Belgique francophone (Ardenne belge) et impliquée sur le marché français.<br>Elle se fera un plaisir de vous satisfaire dans des délais courts et d'analyser avec vous vos besoins en radiocommande.<br>JMei fabrique vos radios sur-mesure en respectant les normes sécuritaires imposées dans votre secteur.<br>
-<strong>POK et JMei</strong> sont certains de par cette décision de mieux répondre aux demandes du secteur industriel.</p>
+				<p><strong>JMei</strong> est au cœur de la radiocommande depuis 30 ans par les sociétés Collard-IRC et JMei. Elle est basée en Belgique francophone (Ardennes belges) et impliquée sur le marché français.
+                  <br>
+                  Elle se fera un plaisir de vous satisfaire dans des délais courts et d’analyser avec vous vos besoins en radiocommande.
+                  <br>
+JMei fabrique vos radios sur-mesure en respectant les normes sécuritaires imposées dans votre secteur. <br><strong>
+POK et JMei</strong> sont certains de par cette décision de mieux répondre aux demandes du secteur industriel.</p>
+				<hr> 
+			<h4>Description des radiocommandes SADamec</h4>
+				<p>La gamme de radiocommandes SADamec se décline sous la forme de boîtiers ceintures ou de pupitres ventraux.<br>
+				  L’ensemble des organes de commande de l’émetteur (boutons-poussoirs, commutateurs, commutateurs rotatifs, joysticks, manettes, etc.) est choisi en fonction de l’ergonomie de commande souhaitée.<br>
+				  Pour des applications nécessitant un retour d’informations, il est possible d’afficher des informations de type LEDs, voyants, afficheurs 7 segments, afficheur LCD (jusqu’à 40 caractères sur 4 lignes) ou même sur afficheur vidéo 5,7 pouces.
+                  <br>
+La <strong>technologie infra rouge (IR)</strong> peut être introduite dans nos boîtiers JMei et SADamec.</p>
 
 			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, JMei sera toujours en mesure de vous proposer la meilleure solution!</p>
 					<hr>             

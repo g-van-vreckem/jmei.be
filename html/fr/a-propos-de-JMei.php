@@ -2,30 +2,32 @@
 	include 'common.php';
 	$title = 'JMei radiocommandes industrielles, made in Belgium';
 	$description = 'Forts d’une expérience de 25 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients';
-	$keywords = 'JMei,radiocommandes industrielles,Belgium,fabrication de radiocommandes,fabricant en Belgique,solutions sur-mesure,société IRC,idées innovantes,équipe dynamique,radiocommande industrielle,produits de haute qualité,environnements industriels,service rapide et personnalisé,matériaux de haute qualité,prix attractifs,leaders européens,normes de sécurité,gamme de radiocommandes,Boîtes à boutons double vitesse,Pupitres à commandes progressives,Retour d\'informations,Options sécuritaires,Bus de terrain,profibus,can bus,ethernet,profinet,Mines et carrières,Maritime,Forêts et équipements agricoles,Transport routier,Bâtiments et Travaux Publics,BTP,Eolien et énergies renouvelables,transmissions radioélectriques,solutions personnalisées';
+	$keywords = 'JMei,radiocommandes industrielles,Belgium,fabrication de radiocommandes,fabricant en Belgique,solutions sur-mesure,société IRC,idées innovantes,équipe dynamique,radiocommande industrielle,produits de haute qualité,environnements industriels,service rapide et personnalisé,matériaux de haute qualité,prix attractifs,leaders européens,normes de sécurité,gamme de radiocommandes,Boîtes à boutons double vitesse,Pupitres à commandes progressives,Retour d\'informations,Options sécuritaires,Bus de terrain,profibus,can bus,ethernet,profinet,Mines et carrières,Maritime,Forêts et équipements agricoles,Transport routier,Bâtiments et Travaux Publics,BTP,Eolien et énergies renouvelables,transmissions radioélectriques,solutions personnalisées,Collard-Belgium-Electronics,Sadamec,IRC Electronics';
 
 	$pageId = 'about';
 	include 'header.php';
 	include 'nav.php';
 
 ?>
+			<p><a href="<?php echo Site::relativeUrl('ECAM.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Promouvoir 2016&quot; - AIECAM (avril 2016)</a></p>
+			<p><a href="http://www.ccilb.be/fr/news/278-Innovation+et+technologie+%26lsquo%3Bmade+in+Famenne%26rsquo%3B+%3A+chez+JMEI%2C+on+innove+presque+naturellement" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait du magazine &quot;Entreprendre&quot; - Num 176 (avril 2016)</a></p>
 			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
 			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
             
-			<h4>Un nouveau départ</h4>
-			<p>En juin 2013, JMei a repris les commandes de la société IRC. Avec des idées innovantes, une nouvelle direction et une équipe dynamique, nous nous engageons à développer nos produits et à apporter à nos clients la plus grande satisfaction.</p>
+			<h4>JMei, votre partenaire en solution électronique, radiocommandes industrielles & radiotransmission</h4>
+			<p> JMei prend les commandes de vos applications industrielles, en combinant des idées innovantes et le savoir-faire de sociétés renommées dans le domaine: Collard-Belgium-Electronics, Sadamec et IRC Electronics.</p>
 
-			<h4>Bienvenue dans le monde de la radiocommande industrielle JMei (made in Belgium)</h4>
-			<p>Forts d’une expérience de 30 ans dans la conception et la fabrication de radiocommandes, et seul fabricant en Belgique, la société JMei propose des solutions sur-mesure pour tous ses clients. Dès le début, JMei a décidé de développer des produits de haute qualité, fiables et robustes, adaptés à tous types d'environnements industriels, même les plus difficiles.</p>
+			<h4>De la télécommande à la plus-value, en passant par l'expérience</h4>
+			<p>Grâce à sa large gamme de radiocommandes hautement personnalisables, JMei offre à chaque client la solution la plus adaptée à sa demande et à ses besoins : boîtes à boutons double vitesse, pupitres à commandes progressives, retour d’informations, options sécuritaires, bus de terrain….</p>
 
-			<h4>Une équipe professionnelle et dynamique</h4>
-			<p>JMei, composé d’une équipe jeune et compétente, offre un service rapide et personnalisé. Tous nos produits sont entièrement conçus et fabriqués dans notre propre atelier. Nous n'utilisons que des matériaux de haute qualité pour une utilisation optimale et à haut niveau de sécurité. De plus, notre politique d'entreprise est de maintenir des prix attractifs, ce qui nous place parmi les leaders européens sur le marché des radiocommandes.</p>
+			<h4>Notre force: les mixtes technologiques</h4>
+			<p>En constante évolution et innovation, JMei intègre dans ses produits des technologies telles que l’infrarouge, l’image, le transfert de données. Avec toujours le souci d’une sécurité renforcée..</p>
 
-			<h4>Un service rapide et haut-de-gamme</h4>
-			<p>L’organisation de notre équipe nous permet de fournir n'importe quel appareil sur-mesure pour un prix imbattable. Notre délai de livraison est court : nous pouvons concevoir et produire une radio qui réponde totalement à vos besoins rapidement.<br>
-			Tous nos équipements répondent aux dernières normes de sécurité, ce qui  rend leur utilisation très sûre.</p>
+			<h4>Made in Belgium au début, Made in France par la suite...</h4>
+			<p>La reprise d’une société concurrente, SADamec TECHnologie (société Alsacienne), permet le rayonnement de la société à l’étranger, en particulier en France.<br>
+<a href="<?php echo Site::relativeUrl('sadamec');?>">Lien Sadamec</a>		   		</p>
 
-			<h4>Une réalisation personnalisée de vos commandes</h4>
+			<h4>JMei : une société à haut potentiel technologique en pleine croissance</h4>
 			<p>Grâce à notre large gamme de radiocommandes, vous trouverez la solution la plus adaptée à vos besoins :</p>
 			<ul>
 				<li>Boîtes à boutons double vitesse</li>

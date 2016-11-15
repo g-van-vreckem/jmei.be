@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,10 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-							<li class="active"><a href="#blog-2016-04">Pupitre fixe déporté <i class="icon-chevron-right pull-right"></i></a></li> 
+							<li class="active"><a href="#blog-2016-10">Démarrage sécuritaire breveté<i class="icon-chevron-right pull-right"></i></a></li> 
+							<li><a href="#blog-2016-08">Commande pour véhicules industriels<i class="icon-chevron-right pull-right"></i></a></li>                             
+							<li><a href="#blog-2016-05">Télécommande pour engin sur rail <i class="icon-chevron-right pull-right"></i></a></li> 
+							<li><a href="#blog-2016-04">Pupitre fixe déporté <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-03">Commande de théatre <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2015-10">Technologie Infra-Rouge <i class="icon-chevron-right pull-right"></i></a></li> 
                          <li><a href="#blog-2015-05">Télécommande maritime <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -35,8 +38,36 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
-					<a class="anchor" id="blog-2016-04"></a>
+					<a class="anchor" id="blog-2016-10"></a>
 					<section>
+					  <h3>Démarrage sécuritaire pour télécommande sans fil</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2016-10-3000.jpg?v=2" alt="démarrage sécurisé">
+						<p><a href="../fr/produit-options.php#TCA27" class="btn btn-danger btn-small"><i class="icon-white icon-hand-down"></i> Plus d'infos...</a></p>
+					  <p>Système de démarrage sécurisé breveté JMei - TCA27 unique dans le domaine de la radiocommande industrielle.<br>
+					    Basé sur le principe de validation d'un code couleur aléatoire au démarrage de la radiocommande, cette solution unique utilise la transmission sans fil - radio de base.<br>
+					    Cette technologie ne nécessite pas de canal de fréquence radio supplémentaire, ni d'entretient, et s'adapte sur toutes les radiocommandes du marché.</p>
+					</section>
+					<hr>    
+					<a class="anchor" id="blog-2016-08"></a>
+					<section>
+					  <h3>Commande radio pour véhicules de nettoyage industriels</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2016-08-1000.jpg?v=1" alt="commande camion">
+					  <p>Cette télécommande novatrice répond aux attentes des clients les plus exigeants dans le domaine de l'environnement et du nettoyage industriel.<br>
+						Cette technologie est réalisée sur base du cahier des charges du client embarquant une personnalisation totale de ses fonctions.<br> 
+						Avec ce modèle, les plus hautes normes de qualité, de sécurité et de finition sont appliquées afin de rentabiliser au maximum l'investissement.</p>
+					</section>
+					<hr>                 
+					<a class="anchor" id="blog-2016-05"></a>
+					<section>
+					  <h3>Télécommande pour locomotive - engin sur rail</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2016-05-BC.jpg?v=1" alt="commande locotracteur">
+					  <p>Cette télécommande haute performance a été développée sur base du boitier ceinture industriel (BC391) développé par la société Sadamec. <br>
+					  La technologie radio utilisée permet le pilotage du locotracteur équipé de sa rame, c'est-à-dire dans les conditions les plus extrêmes.<br>
+Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus longues distances.</p>
+					</section>
+					<hr>                 
+					<a class="anchor" id="blog-2016-04"></a>
+				  <section>
 					  <h3>Pupitre de commande fixe et déporté</h3>
 					  <img class="img-polaroid blog" src="../img/custom-product/2016-04-1000.jpg?v=1" alt="pupitre de commande">
 					  <p>Pupitre de commande fixe déporté.<br>
