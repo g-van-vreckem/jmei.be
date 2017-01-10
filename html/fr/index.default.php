@@ -91,8 +91,11 @@
 					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
                 </div>
                 <div class="span4">
-					<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=18" alt="Radiocommande Industrielle de sécurité"></a>
+<!-- /.					<h2 class="text-center">Nos réalisations</h2>
+"../img/home/month-radio.jpg?v=18"
+-->
+				<h2 class="text-center">HNY 2017 (Cliquez)</h2>
+                    <a href="http://jmei.cmail20.com/t/ViewEmail/d/87AA573B23B745CA" target="_blank" style="text-align: left"><img src="../img/home/month-radio.jpg?v=19" alt="Radiocommande Industrielle de sécurité"></a>
 
                </div>
                 <div class="span4">
