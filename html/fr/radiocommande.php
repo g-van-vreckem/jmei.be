@@ -13,7 +13,7 @@
 			<div id="r1" class="row spaced-row">
 				<div id="i1" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">Télécommande de type JMei pocket</h5>
+                        <h5 class="tile-title">JMei pocket</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
@@ -41,30 +41,40 @@
 				<div id="i2" class="tile span4">
                     <div class="top-text">
                         <h5 class="tile-title">JMei S-LYT</h5>
-                        <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
+                        <p class="tile-intro">La mariage entre technologie et ergonomie.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/SLYT.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p><strong>L'émetteur industriel &quot;haut de gamme&quot;.</strong></p>
-							<p>Jusqu'à 48 fonctions ON/OFF à rappels ou maintenues.<br>
+							<p><strong>Le standard de la commande double vitesse.</strong></p>
+							<p>Déclinée en 3 versions:<br>
                             <br>
-							Jusqu'à 8 fonctions analogiques (3 joysticks double axe).</p>
-							<p>Codeur incrémental, potentiomètre rotatif, ce boîtier permet l'intégration d'une multitude d'organes de commandes.<br>
+							S-LYT 4:<br>
+							- 4  boutons double enfoncement	 (2V). <br>
+- 1 sélecteur à clé OFF-ON-Marche/Klaxon.							</p>
+							<p>S-LYT 8:<br>
+- 8  boutons double enfoncement	 (2V). <br>
+- 1 sélecteur à clé OFF-ON-Marche/Klaxon.<br>
+Possibilité d'un sélecteur de palan rotatif
+<br>
 							<br>
-							Totalement personnalisable, cette version permet énormément de possibilités pour l'utilisateur.<br>
+							S-LYT 12:<br>
+- 12  boutons double enfoncement	 (2V). <br>
+- 1 sélecteur à clé OFF-ON-Marche/Klaxon. <br>
 							<br>
-							Configuration en mode uni ou bidirectionnel (retour d'informations sur voyants LED ou afficheur LCD).<br>
+							Possibilité de programmation des fonctions en sélecteur de palans/chariots (2) ou fonctions maintenues (4).<br>
 							<br>
-							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
+						  Configuration en tandem, Pitch and Catch, Master/Slave disponible.</p>
 							<p><a href="<?php echo Site::relativeUrl('JMSLYT');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT_5.jpg" data-type="img"></a>
                     </div>
 				</div>
 				<div id="i3" class="tile span4">
