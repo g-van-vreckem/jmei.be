@@ -1,8 +1,8 @@
 <?php
 	include 'common.php';
-	$title = 'JMei - RCB1000 - Télécommande industrielle robuste - Radiocommande avec joystick';
-	$description = 'Pupitre de commande industriel haut de gamme, entièrement parsonnalisable, pour des applications industrielles les plus rudes';
-	$keywords = 'JMei,RCB1000,Télécommande,Télécommande industrielle robuste,Radiocommande,Radiocommande avec joystick,radiocommande sécuritaire,télécommande de haute performance,pupitre ventral,télécommande sans fil,Boîtier ultra compact,Arrêt d\'urgence coup-de-poing,manipulateurs 2 axes,manipulateurs uniaxes,Sélecteurs à rappel,Sélecteurs à positions fixes,Fonctions analogiques,inclinomètre,Joystiques avec fonction homme-mort,LED de diagnostic,retour d\'information,Pont roulant,Marine,Camion hydraulique,Engins spéciaux,Transmission bidirectionnel,Afficheur,Clé d\'identification,Système Tandem maître/esclave,Démarrage sécurisé TCA27,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Housse de protection en cuir,Chargeur à microprocesseur,Accumulateur NiMH</li>';
+	$title = 'JMei - S-LYT - Télécommande industrielle robuste - Radiocommande 2 vitesses';
+	$description = 'Boîte à boutons industrielle haut de gamme, entièrement parsonnalisable, pour des applications industrielles de lavage';
+	$keywords = 'JMei,SLYT,Télécommande,Télécommande industrielle robuste,Radiocommande,Radiocommande avec joystick,radiocommande sécuritaire,télécommande de haute performance,pupitre ventral,télécommande sans fil,Boîtier ultra compact,Arrêt d\'urgence coup-de-poing,manipulateurs 2 axes,manipulateurs uniaxes,Sélecteurs à rappel,Sélecteurs à positions fixes,Fonctions analogiques,inclinomètre,Joystiques avec fonction homme-mort,LED de diagnostic,retour d\'information,Pont roulant,Marine,Camion hydraulique,Engins spéciaux,Transmission bidirectionnel,Afficheur,Clé d\'identification,Système Tandem maître/esclave,Démarrage sécurisé TCA27,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Housse de protection en cuir,Chargeur à microprocesseur,Accumulateur NiMH</li>';
 	$pageId = 'RCB1000';
 	$swiper = new Medias('/img/product-RCB1000/swiper/');	
 	include 'header.php';
@@ -12,7 +12,7 @@
 <?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
-					<h3>Radiocommande RCB1000</h3>
+					<h3>Radiocommande JMei S-LYT</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
