@@ -101,7 +101,7 @@
                </div>
                 <div class="span4">
  <h2 class="text-center">Een garantie voor kwaliteit</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2en.jpg?v=2" alt="Télécommande JMei"></a>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=2" alt="Télécommande JMei"></a>
                 </div>
             </div>
             <div class="row">
