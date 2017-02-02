@@ -98,13 +98,13 @@
                </div>
                 <div class="span4">
 <h2 class="text-center">A guarantee of quality</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2en.jpg?v=2" alt="Télécommande JMei"></a>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=2" alt="Télécommande JMei"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">Industrial remote control</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box3.jpg?v=9" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box3.jpg?v=10" alt="Boîte à boutons industrielle"></a>
 				</div>
                 <div class="span4">
                     <h2 class="text-center">JMei</h2>

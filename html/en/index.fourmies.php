@@ -118,7 +118,7 @@
                 </div>
                 <div class="span4">
 <h2 class="text-center">Pendant control</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=1" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=2" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

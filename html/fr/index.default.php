@@ -94,19 +94,17 @@
 <!-- /.					<h2 class="text-center">Nos réalisations</h2>
 "../img/home/month-radio.jpg?v=18"
 -->
-				<h2 class="text-center">HNY 2017 (Cliquez)</h2>
-                    <a href="http://jmei.cmail20.com/t/ViewEmail/d/87AA573B23B745CA" target="_blank" style="text-align: left"><img src="../img/home/month-radio.jpg?v=19" alt="Radiocommande Industrielle de sécurité"></a>
-
-               </div>
+				<h2 class="text-center">Nos réalisations</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=20" alt="Radiocommande Industrielle de sécurité"></a> </div>
                 <div class="span4">
 <h2 class="text-center">Un gage de qualité</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=1" alt="Télécommande JMei"></a>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=2" alt="Télécommande JMei"></a>
                 </div>
             </div>
             <div class="row">
                 <div class="span4">
-<h2 class="text-center">JMei France</h2>
-					<a href="http://www.jmei.fr"><img src="../img/home/box3FR.jpg?v=10" alt="Boîte à boutons industrielle"></a>
+<h2 class="text-center">Personnalisation</h2>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=11" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei</h2>
@@ -115,11 +113,11 @@
 						Tel. : +32 84 34.41.75<br>
 						Fax : +32 84 34.41.77<br>
 						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
+                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.fr">Site JMei FRANCE &raquo;</a></p>
                 </div>
                 <div class="span4">
 <h2 class="text-center">Industrial Wireless</h2>
-					<a href="<?php echo Site::relativeUrl('products');?>"><img src="../img/home/box4.jpg?v=2" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=3" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

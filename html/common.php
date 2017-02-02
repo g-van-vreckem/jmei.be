@@ -226,6 +226,10 @@
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'en', 'JMei-Pocket-datasheet', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'fr', 'JMei-Pocket-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'nl', 'JMei-Pocket-technische-specificaties', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'S-LYT.pdf', 'fr', 'JMei-S-LYT', '', Page::PDF, true, .6 ) );
+
+			self::addPage ( new Page ( 'S-LYT-datasheet.pdf', 'fr', 'JMei-S-LYT-fiche-technique', '', Page::PDF, true, .6 ) );
 
 			self::addPage ( new Page ( 'SCAN.pdf', 'en', 'JMei-Scan', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'SCAN.pdf', 'fr', 'JMei-Scan', '', Page::PDF, true, .6 ) );
