@@ -86,19 +86,33 @@
 			</div><!-- /.carousel -->
 
             <div class="row">
+<!--
                 <div class="span4">
 <h2 class="text-center">Nos expériences</h2>
 					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
+-->
+                <div class="span4">
+<h2 class="text-center">Notre présence...</h2>
+					<a href="http://avignon.sepem-industries.com"><img src="../img/home/box1av.jpg?v=10" alt="Sadamec"></a>
                 </div>
                 <div class="span4">
 <!-- /.					<h2 class="text-center">Nos réalisations</h2>
 "../img/home/month-radio.jpg?v=19"
 -->
+
+<!-- /
 				<h2 class="text-center">Nos réalisations</h2>
                     <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=20" alt="Radiocommande Industrielle de sécurité"></a> </div>
+-->
+				<h2 class="text-center">Notre partenariat</h2>
+                    <a style="text-align: left"><img src="../img/home/box3av.jpg?v=20" alt="Radiocommande Industrielle de sécurité"></a> </div>
                 <div class="span4">
+<!--
 <h2 class="text-center">Un gage de qualité</h2>
 					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2fr.jpg?v=2" alt="Télécommande JMei"></a>
+-->
+<h2 class="text-center">Venez nous visiter!</h2>
+					<a href="http://avignon.sepem-industries.com"><img src="../img/home/box2av.jpg?v=2" alt="SEPEM"></a>
                 </div>
             </div>
             <div class="row">
