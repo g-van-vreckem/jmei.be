@@ -296,7 +296,7 @@ Possibilité d'un sélecteur de palan rotatif
                         <h5 class="tile-title">Pupitre Ventral (PV)</h5>
                         <p class="tile-intro">La radiocommande modulable issue de SADamec, enrichie de la technologie JMei.</p>
                     </div>
-                    <img src="../img/product-overview3/PV.jpg" alt="Pupitre Ventral (PV)" class="bottom-img">
+                    <img src="../img/product-overview3/PV.jpg?v=1" alt="Pupitre Ventral (PV)" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -316,8 +316,8 @@ Possibilité d'un sélecteur de palan rotatif
 							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('SADAMEC-PV');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/RCB1000_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB1000_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/PV_1.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/PV_2.jpg" data-type="img"></a>
                     </div>
                 </div>
 			</div>
