@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-							<li class="active"><a href="#blog-2016-10">Démarrage sécuritaire breveté<i class="icon-chevron-right pull-right"></i></a></li> 
+							<li class="active"><a href="#blog-2017-06">Commande de portes industrielles<i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2016-10">Démarrage sécuritaire breveté<i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-08">Commande pour véhicules industriels<i class="icon-chevron-right pull-right"></i></a></li>                             
 							<li><a href="#blog-2016-05">Télécommande pour engin sur rail <i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-04">Pupitre fixe déporté <i class="icon-chevron-right pull-right"></i></a></li> 
@@ -38,6 +39,15 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2017-06"></a>
+					<section>
+					  <h3>Commande de portes industrielles</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2017-06-BC.jpg?v=2" alt="Commande portes industrielles">
+					  <p>Commande à distance industrielle pour l'ouverture / fermeture de volets.<br>
+					    Les commutateurs rotatifs permettent la sélection d'une entrée parmi 50 disponibles.<br>
+					    Chaque accès comporte 3 portes, commandables séparément en utilisant le commutateur de sous-sélection 3 positions.</p>
+					</section>
+					<hr>   
 					<a class="anchor" id="blog-2016-10"></a>
 					<section>
 					  <h3>Démarrage sécuritaire pour télécommande sans fil</h3>
@@ -45,7 +55,7 @@
 						<p><a href="../fr/produit-options.php#TCA27" class="btn btn-danger btn-small"><i class="icon-white icon-hand-down"></i> Plus d'infos...</a></p>
 					  <p>Système de démarrage sécurisé breveté JMei - TCA27 unique dans le domaine de la radiocommande industrielle.<br>
 					    Basé sur le principe de validation d'un code couleur aléatoire au démarrage de la radiocommande, cette solution unique utilise la transmission sans fil - radio de base.<br>
-					    Cette technologie ne nécessite pas de canal de fréquence radio supplémentaire, ni d'entretient, et s'adapte sur toutes les radiocommandes du marché.</p>
+					    Cette technologie ne nécessite pas de canal de fréquence radio supplémentaire, ni d'entretien, et s'adapte sur toutes les radiocommandes du marché.</p>
 					</section>
 					<hr>    
 					<a class="anchor" id="blog-2016-08"></a>

@@ -194,7 +194,7 @@ Possibilité d'un sélecteur de palan rotatif
                         <h5 class="tile-title">Boîtier Ceinture (BC)</h5>
                         <p class="tile-intro">La robustesse du boîtier métallique intégrant de l'analogique.</p>
                     </div>
-                    <img src="../img/product-overview3/BC.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/BC.jpg?v=1" alt="Sadamec - Commande pour machine industrielle" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -214,6 +214,7 @@ Possibilité d'un sélecteur de palan rotatif
 							Configuration en tandem, démarrage sécurisé JMei, clé mémoire, housse de protection en cuir disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('SADAMEC-BC');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
+                        <a href="../img/product-overview3/BC_1.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/BC_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/BC_3.jpg" data-type="img"></a>
                     </div>
