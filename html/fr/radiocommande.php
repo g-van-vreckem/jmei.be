@@ -43,7 +43,7 @@
                         <h5 class="tile-title">JMei S-LYT</h5>
                         <p class="tile-intro">La mariage entre technologie et ergonomie.</p>
                     </div>
-                    <img src="../img/product-overview3/SLYT.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/SLYT2.jpg?v=1" alt="S-LYT - Boite à boutons industrielle" class="bottom-img">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -51,12 +51,16 @@
                     <div class="tile-detail">
                         <div class="tile-desc">
 							<p><strong>Le standard de la commande double vitesse.</strong></p>
-							<p>Déclinée en 3 versions:<br>
+							<p>Déclinée en 4 versions:<br>
                             <br>
 							S-LYT 4:<br>
 							- 4  boutons double enfoncement	 (2V). <br>
-- 1 sélecteur à clé OFF-ON-Marche/Klaxon.							</p>
-							<p>S-LYT 8:<br>
+- 1 sélecteur à clé OFF-ON-Marche/Klaxon.							<br>
+							<br>S-LYT 6:<br>
+- 6  boutons double enfoncement	 (2V). <br>
+- 1 sélecteur à clé OFF-ON-Marche/Klaxon.
+<br>
+							<br>S-LYT 8:<br>
 - 8  boutons double enfoncement	 (2V). <br>
 - 1 sélecteur à clé OFF-ON-Marche/Klaxon.<br>
 Possibilité d'un sélecteur de palan rotatif
@@ -65,16 +69,19 @@ Possibilité d'un sélecteur de palan rotatif
 							S-LYT 12:<br>
 - 12  boutons double enfoncement	 (2V). <br>
 - 1 sélecteur à clé OFF-ON-Marche/Klaxon. <br>
+Possibilité d'un sélecteur de palan rotatif
+<br>
 							<br>
 							Possibilité de programmation des fonctions en sélecteur de palans/chariots (2) ou fonctions maintenues (4).<br>
 							<br>
-						  Configuration en tandem, Pitch and Catch, Master/Slave disponible.</p>
+						  Configurations en Tandem, Pitch and Catch, Master/Slave, Master/Master, disponibles.</p>
 							<p><a href="<?php echo Site::relativeUrl('JMSLYT');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/SLYT_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/SLYT_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/SLYT_4.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/SLYT_5.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_1.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_2.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_3.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_5.jpg" data-type="img"></a>
                     </div>
 				</div>
 				<div id="i3" class="tile span4">

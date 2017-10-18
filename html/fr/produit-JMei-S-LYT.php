@@ -25,16 +25,17 @@
 						<p>Son émetteur industriel, léger, ultra-robuste et étanche (IP66), est composé de nylon et de fibre de verre.
 Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'huile.</p>
 						<p>Le système S-LYT est composé de plus de 200 fonctions programmables par l'utilisateur pour convenir à tous types d'applications.</p>
-						<p>3 déclinaisons possibles : S-LYT4, S-LYT8 et S-LYT12 (4/8/12 fonctions double vitesse).</p>
+						<p>4 déclinaisons possibles : S-LYT4, S-LYT6, S-LYT8 et S-LYT12 (4/6/8/12 fonctions double vitesse).</p>
 					<a id="avantages"></a>
-					<h4>Avantages</h4>
+				  <h4>Avantages</h4>
 					<ul>
-					<li>62 canaux programmables via les boutons-poussoirs</li>
-					<li>Scan automatique des fréquences</li>
-					<li>&gt;1 million de ID codes</li>
+					<li>Choix de fréquence automatique (scan de fréquence libre)</li>
+					<li>Retour d'informations</li>
+					<li>Système sécurisé par accéléromètre</li>
+					<li>Autorisation de manipulations par système RFID</li>
 					<li>Système à double microprocesseur</li>
 					<li>Codage avancé avec CRC 32 bits</li>
-					<li>Système unique I-Chip</li>
+					<li>Reprogrammation des équipements sans contact</li>
 					<li>Boitier IP66</li>
 					<li>Boutons double vitesse (&gt;1 million de cycles)</li>
 					<li>Touches personnalisables</li>
@@ -46,12 +47,15 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
-						<li>Paramètres transférables entre émetteurs via I-Chip</li>
-                        <li>Fréquence programmable par les boutons</li>
+						<li>Paramètres transférables entre émetteurs via IR</li>
+                        <li>Fréquence programmable par les boutons (ou mode AUTO)</li>
                         <li>Opération tandem (via sélecteur rotatif ou programmation de fonction)</li>
                         <li>Opération Pitch &amp; Catch (contrôle de 2 opérateurs en opposition)</li>
                         <li>Opération Random Access (premier arrivé/premier servi)</li>
                         <li>Commande multi-récepteurs</li>
+                        <li>Démarrage sécurisé par RFID</li>
+                        <li>Système unique de vigilance par accéléromètre</li>
+                        <li>Retour d'informations digitales</li>
                         <li>Protection en caoutchouc</li>
                         <li>Sorties récepteur précâblées</li>
 						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
@@ -85,12 +89,12 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 							<img src="../img/product-SLYT/slyt_bot1.jpg" alt="Télécommande grue">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande - S-LYT8</h6>
-							<img src="../img/product-SLYT/slyt_bot2.jpg" alt="Télécommande pont roulant">
+							<h6>Radiocommande - S-LYT6</h6>
+							<img src="../img/product-SLYT/slyt_bot2.jpg?v=2"  alt="Télécommande pont roulant">
 						</div>
 						<div class="span3">
-							<h6>Radiocommande - S-LYT12</h6>
-							<img src="../img/product-SLYT/slyt_bot3.jpg" alt="Radio télécommande HF">
+							<h6>Radiocommande - S-LYT8</h6>
+							<img src="../img/product-SLYT/slyt_bot3.jpg?V=2" alt="Radio télécommande HF">
 						</div>                                                
 					</div>
 					<div class="row">
@@ -100,11 +104,11 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 						</div>
 						<div class="span3">
 							<h6>Radiocommande - S-LYT8 + sélecteur rotatif</h6>
-							<img src="../img/product-SLYT/slyt_bot5.jpg" alt="Radiocommande avec afficheur">
+							<img src="../img/product-SLYT/slyt_bot5.jpg?v=2" alt="Radiocommande avec afficheur">
 						</div>						
 						<div class="span3">
 							<h6>Support + Chargeur S-LYT4/8/12</h6>
-							<img src="../img/product-SLYT/slyt_bot6.jpg" alt="Démarrage sécurisé pour télécommande">
+							<img src="../img/product-SLYT/slyt_bot6.jpg?v=2" alt="Démarrage sécurisé pour télécommande">
 						</div>                        
 					</div>
 					</div>
