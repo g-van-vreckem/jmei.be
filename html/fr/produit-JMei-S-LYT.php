@@ -99,8 +99,8 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 					</div>
 					<div class="row">
 						<div class="span3">
-							<h6>Récepteur S-LYT</h6>
-							<img src="../img/product-SLYT/slyt_bot4.jpg" alt="Clé mémoire électronique pour radiocommande">
+							<h6>Radiocommande - S-LYT12</h6>
+							<img src="../img/product-SLYT/slyt_bot4.jpg?v=1" alt="Clé mémoire électronique pour radiocommande">
 						</div>
 						<div class="span3">
 							<h6>Radiocommande - S-LYT8 + sélecteur rotatif</h6>

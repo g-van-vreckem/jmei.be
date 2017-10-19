@@ -82,6 +82,7 @@ Possibilité d'un sélecteur de palan rotatif
                         <a href="../img/product-overview3/SLYT2_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/SLYT2_4.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/SLYT2_5.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/SLYT2_6.jpg" data-type="img"></a>
                     </div>
 				</div>
 				<div id="i3" class="tile span4">

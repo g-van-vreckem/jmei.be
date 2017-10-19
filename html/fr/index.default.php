@@ -19,7 +19,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-02.jpg?v=3" alt="Radiocommande pour silo de stockage à grain">
+						<img src="../img/home/slide-02.jpg?v=4" alt="Radiocommande pour silo de stockage à grain">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
