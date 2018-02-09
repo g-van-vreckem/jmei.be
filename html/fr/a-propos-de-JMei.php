@@ -9,6 +9,7 @@
 	include 'nav.php';
 
 ?>
+			<p><a href="<?php echo Site::relativeUrl('Lettre-Wallonie-Bruxelles.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le magasine &quot;Lettre Wallonie-Bruxelles en France&quot; - (2017 - JMei Page15)</a></p>
 			<p><a href="<?php echo Site::relativeUrl('ECAM.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Promouvoir 2016&quot; - AIECAM (avril 2016)</a></p>
 			<p><a href="http://www.ccilb.be/fr/news/278-Innovation+et+technologie+%26lsquo%3Bmade+in+Famenne%26rsquo%3B+%3A+chez+JMEI%2C+on+innove+presque+naturellement" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait du magazine &quot;Entreprendre&quot; - Num 176 (avril 2016)</a></p>
 			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>

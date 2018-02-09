@@ -227,9 +227,9 @@
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'fr', 'JMei-Pocket-fiche-technique', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET-datasheet.pdf', 'nl', 'JMei-Pocket-technische-specificaties', '', Page::PDF, true, .6 ) );
 			
-			self::addPage ( new Page ( 'S-LYT.pdf', 'fr', 'JMei-S-LYT', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'S-LYT.pdf', 'fr', 'JMei-S-LYT-GEN2', '', Page::PDF, true, .6 ) );
 
-			self::addPage ( new Page ( 'S-LYT-datasheet.pdf', 'fr', 'JMei-S-LYT-fiche-technique', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'S-LYT-datasheet.pdf', 'fr', 'JMei-S-LYT-GEN2-fiche-technique', '', Page::PDF, true, .6 ) );
 
 			self::addPage ( new Page ( 'SCAN.pdf', 'en', 'JMei-Scan', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'SCAN.pdf', 'fr', 'JMei-Scan', '', Page::PDF, true, .6 ) );
@@ -238,6 +238,7 @@
 			self::addPage ( new Page ( 'DH.pdf', 'fr', 'JMei-Dossier-Entreprise', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'ENTREPRENDRE.pdf', 'fr', 'JMei-Article-Entreprendre-2016', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'ECAM.pdf', 'fr', 'PromouvoirECAM2016', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'Lettre-Wallonie-Bruxelles.pdf', 'fr', 'LWB-37', '', Page::PDF, true, .6 ) );
 		}
 
 		public static function get_instance() {

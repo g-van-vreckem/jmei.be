@@ -86,7 +86,7 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommande - S-LYT4</h6>
-							<img src="../img/product-SLYT/slyt_bot1.jpg" alt="Télécommande grue">
+							<img src="../img/product-SLYT/slyt_bot1.jpg?v=3" alt="Télécommande grue">
 						</div>
 						<div class="span3">
 							<h6>Radiocommande - S-LYT6</h6>

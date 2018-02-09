@@ -95,7 +95,10 @@
 "../img/home/month-radio.jpg?v=18"
 -->
 				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=21" alt="Radiocommande Industrielle de sécurité"></a> </div>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=21" alt="Radiocommande Industrielle de sécurité">
+<!--				<h2 class="text-center">JOYEUSES FÊTES</h2>
+                <a href="../../ressource/2018.gif"><img src="../../ressource/2018.gif" alt="Radiocommande Industrielle de sécurité"></a>-->
+                    </a> </div>
                 <div class="span4">
 <h2 class="text-center">Un gage de qualité</h2>
 					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=2" alt="Télécommande JMei"></a>
