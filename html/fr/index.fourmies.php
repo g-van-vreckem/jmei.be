@@ -95,7 +95,7 @@
 "../img/home/month-radio.jpg?v=19"
 -->
 				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=21" alt="Radiocommande Industrielle de sécurité">
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=22" alt="Radiocommande Industrielle de sécurité">
 <!--				<h2 class="text-center">JOYEUSES FÊTES</h2>
                 <a href="../../ressource/2018.gif"><img src="../../ressource/2018.gif" alt="Radiocommande Industrielle de sécurité">-->                    
                     
@@ -108,7 +108,7 @@
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">Personnalisation</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=10" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=11" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei France SARL</h2>
@@ -122,7 +122,7 @@
                 </div>
                 <div class="span4">
 <h2 class="text-center">Industrial Wireless</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=3" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=4" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>
