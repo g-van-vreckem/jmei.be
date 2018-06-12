@@ -45,7 +45,7 @@
 					  <h3>Radiocommande forestière</h3>
 					  <img class="img-polaroid blog" src="../img/custom-product/2018-06-700.jpg?v=2" alt="Radiocommande forestière">
 					  <p>Radio-télécommande pour applications forestière et agricole.<br>
-					    Cette télécommande robuste est composée de deux fonctions de treuils (treuillage/détreuillage), d'une fonction de gestion du régime moteur, d'un fonction klaxon et d'un arrêt de sécurité.<br>
+					    Cette télécommande robuste est composée de deux fonctions de treuils (treuillage/détreuillage), d'une fonction de gestion du régime moteur, d'une fonction klaxon et d'un arrêt de sécurité.<br>
 					    Son boîtier métallique et son antenne externe assurent une robustesse et un confort d'utilisation en longue distance.</p>
 					</section>
 					<hr> 
