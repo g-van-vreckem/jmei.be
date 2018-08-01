@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière,commande de nacelles';
 
 	$pageId = 'realisations';
 	include 'header.php';
@@ -15,7 +15,8 @@
 					<div>
 						<ul id="leftnav" class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Radiocommandes personnalisées</li>
-							<li class="active"><a href="#blog-2018-06">Radiocommande forestière<i class="icon-chevron-right pull-right"></i></a></li>
+							<li class="active"><a href="#blog-2018-08">Commande de nacelles<i class="icon-chevron-right pull-right"></i></a></li>
+							<li><a href="#blog-2018-06">Radiocommande forestière<i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2017-06">Commande de portes industrielles<i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#blog-2016-10">Démarrage sécuritaire breveté<i class="icon-chevron-right pull-right"></i></a></li> 
 							<li><a href="#blog-2016-08">Commande pour véhicules industriels<i class="icon-chevron-right pull-right"></i></a></li>                             
@@ -40,6 +41,17 @@
 				</div>
 				<div class="span9">
 				<!--Body content-->
+					<a class="anchor" id="blog-2018-06"></a>
+					<section>
+					  <h3>Commande de nacelles</h3>
+					  <img class="img-polaroid blog" src="../img/custom-product/2018-08-700.jpg?v=2" alt="Commande nacelles">
+					  <p>Commande à distance développée pour le pilotage de nacelles industrielles.<br>
+					  Cet organe de commande, en aluminium robuste et boutons anti-vandales est fixé dans la nacelle par son support chargeur.<br>
+					  La télécommande peut également être déportée pour le pilotage de l'engin depuis l'éxtérieur de la nacelle
+					  (déplacement de la nacelle par son mode roulage).<br>
+					  Le retour d'informations permet de visualiser à distance l'état de la machine par les témoins LED (positionnement des roues dans l'axe et l'état des différents fin de courses).</p>
+					</section>
+					<hr> 
 					<a class="anchor" id="blog-2018-06"></a>
 					<section>
 					  <h3>Radiocommande forestière</h3>
