@@ -47,7 +47,7 @@
 					  <img class="img-polaroid blog" src="../img/custom-product/2018-08-700.jpg?v=2" alt="Commande nacelles">
 					  <p>Commande à distance développée pour le pilotage de nacelles industrielles.<br>
 					  Cet organe de commande, en aluminium robuste et boutons anti-vandales est fixé dans la nacelle par son support chargeur.<br>
-					  La télécommande peut également être déportée pour le pilotage de l'engin depuis l'éxtérieur de la nacelle
+					  La télécommande peut également être déportée pour le pilotage de l'engin depuis l'extérieur de la nacelle
 					  (déplacement de la nacelle par son mode roulage).<br>
 					  Le retour d'informations permet de visualiser à distance l'état de la machine par les témoins LED (positionnement des roues dans l'axe et l'état des différents fin de courses).</p>
 					</section>
