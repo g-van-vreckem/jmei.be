@@ -62,59 +62,64 @@ END;
 <a class="anchor" id="blog-2018-010-PV"></a>
 					<section>
 					  <h3>Radiocommande PV JMei-SADamec</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-PV.jpg?v=1" alt="Commande nacelles">
-					  <p>Télécommande Pupitre Ventrale (PV) SADamec - Technologie JMei.<br>
+					  <img class="blog" src="../img/custom-product/2018-10-PV.jpg?v=1" alt="Télécommande Sadamec">
+					  <p>Télécommande Pupitre Ventral (PV) SADamec - Technologie JMei.<br>
 					    Ce boîtier aluminium custom fait de cette télécommande la plus personnalisable de sa catégorie.<br>
-					    Equipé d'une électronique développée par les ingénieurs de JMei, cette télécommande marie la technologie JMei et SADamec.<br>
-					    Les manipulateurs de conception interne ainsi que d'autres organes de commandes soulèvents toutes les limites technologiqes.
+					    Equipée d'une électronique développée par les ingénieurs de JMei, cette télécommande marie la technologie JMei et SADamec.<br>
+					    Les manipulateurs de conception interne ainsi que d'autres organes de commandes franchissent les limites technologiques.
                       </p>
+						<p><a href="../fr/produit-sadamec-pv.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 <a class="anchor" id="blog-2018-010-BC"></a>
 					<section>
 					  <h3>Radiocommande BC JMei-SADamec</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-BC.jpg?v=1" alt="Commande nacelles">
+					  <img class="blog" src="../img/custom-product/2018-10-BC.jpg?v=1" alt="Radiocommande Sadamec">
 					  <p>Télécommande Boîtier Ceinture (BC) SADamec - Technologie JMei.<br>
 					    Le boîtier en aluminium ultra résistant assure l'utilisation de cette commande à distance dans les milieux les plus difficiles.<br>
-					    Cette application comporte 3 ponts roulants, de couleurs différentes, sur le même chemin de roulement. La couleur des radiocommande a été adaptée pour carrespondre à chaque pont.
+					    Cette application comporte 3 ponts roulants, de couleurs différentes, sur le même chemin de roulement. La couleur des radiocommande a été adaptée pour correspondre à chaque pont.
 					  </p>
+						<p><a href="../fr/produit-sadamec-bc.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 <a class="anchor" id="blog-2018-010-SE"></a>
 					<section>
 					  <h3>Pilotage radio d'applications de transport de personnes par câble</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-SE.jpg?v=1" alt="Commande nacelles">
+					  <img class="blog" src="../img/custom-product/2018-10-SE.jpg?v=1" alt="Transport de personnes par câble">
 					  <p>Télécommande hautement sécuritaire (PLe) développée pour la commande d'applications de transport de personnes par câble.<br>
 					    Ce système dialogue en mode bidirectionnel avec l'intelligence du système automate  des 
 					  téléphériques, permettant de visualiser l'état du système depuis les pilones.<br>
-					  Des systèmes répéteurs HF assurents la continuité de la transmission.
+					  Des systèmes répéteurs HF assurent la continuité de la transmission.
 					  </p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 <a class="anchor" id="blog-2018-010-AR"></a>
 					<section>
 					  <h3>Commande de camion articulé</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-AR.jpg?v=1" alt="Commande nacelles">
+					  <img class="blog" src="../img/custom-product/2018-10-AR.jpg?v=1" alt="Camion articulé">
 					  <p>Radio télécommande multi-récepteurs concue spécialement pour le pilotage de camions articulés.<br>
-					    La remorque multi-directionelle est contrôlée à partie de cette commande à distance, en plus du camion, permettant 
+					    La remorque multi-directionelle est contrôlée à partir de cette commande à distance, en plus du camion, permettant 
 					  le passage de l'engin dans les endroits les plus périlleux.</p>
+						<p><a href="../fr/produit-RCB1000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>            
 					<a class="anchor" id="blog-2018-010-REP"></a>
 					<section>
 					  <h3>Répéteur UHF pour radio-télécommande</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-REP.jpg?v=1" alt="Commande nacelles">
+					  <img class="blog" src="../img/custom-product/2018-10-REP.jpg?v=1" alt="Répéteur de signal UHF">
 					  <p>Répéteur de signal UHF pour radiocommande industrielle.<br>
-					    Ce système permet d'accroître la distance entre l'opérateur et l'application radiocommandé.<br>
-					  Très untilisé dans les applications telles que locotracteurs, transport de personnes par câbles,...<br>
+					    Ce système permet d'accroître la distance entre l'opérateur et l'application radiocommandée.<br>
+					  Très utilisé dans les applications telles que locotracteurs, transport de personnes par câbles,...<br>
 					  Possibilité de fonctionnement en cascade.
 					  </p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>                  
 					<a class="anchor" id="blog-2018-010-BER"></a>
 					<section>
 					  <h3>Commande de ponts flottants motorisés (PFM)</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-BER.jpg?v=1" alt="Commande nacelles">
+					  <img class="blog" src="../img/custom-product/2018-10-BER.jpg?v=1" alt="Commande de ponts flottants motorisés">
 					  <p>Radio commande concue pour le pilotage de PFM.<br>
 					    Développée avec les exigences les plus sévères pour le domaine militaire.<br>
 					    Les manipulateurs ont été spécialement conçus pour cette application.<br>
@@ -127,10 +132,11 @@ END;
 					  <h3>Commande de nacelles</h3>
 					  <img class="blog" src="../img/custom-product/2018-08-700B.jpg?v=2" alt="Commande nacelles">
 					  <p>Commande à distance développée pour le pilotage de nacelles industrielles.<br>
-					  Cet organe de commande, en aluminium robuste et boutons anti-vandales est fixé dans la nacelle par son support chargeur.<br>
+					  Cet organe de commande, en aluminium robuste et boutons anti-vandale est fixé dans la nacelle par son support chargeur.<br>
 					  La télécommande peut également être déportée pour le pilotage de l'engin depuis l'extérieur de la nacelle
 					  (déplacement de la nacelle par son mode roulage).<br>
 					  Le retour d'informations permet de visualiser à distance l'état de la machine par les témoins LED (positionnement des roues dans l'axe et l'état des différents fin de courses).</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2018-06"></a>
@@ -140,6 +146,7 @@ END;
 					  <p>Radio-télécommande pour applications forestière et agricole.<br>
 					    Cette télécommande robuste est composée de deux fonctions de treuils (treuillage/détreuillage), d'une fonction de gestion du régime moteur, d'une fonction klaxon et d'un arrêt de sécurité.<br>
 					    Son boîtier métallique et son antenne externe assurent une robustesse et un confort d'utilisation en longue distance.</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2017-06"></a>
@@ -149,16 +156,17 @@ END;
 					  <p>Commande à distance industrielle pour l'ouverture / fermeture de volets.<br>
 					    Les commutateurs rotatifs permettent la sélection d'une entrée parmi 50 disponibles.<br>
 					    Chaque accès comporte 3 portes, commandables séparément en utilisant le commutateur de sous-sélection 3 positions.</p>
+						<p><a href="../fr/produit-sadamec-bc.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>   
 					<a class="anchor" id="blog-2016-10"></a>
 					<section>
 					  <h3>Démarrage sécuritaire pour télécommande sans fil</h3>
 					  <img class="blog" src="../img/custom-product/2016-10-3000B.jpg?v=2" alt="démarrage sécurisé">
-						<p><a href="../fr/produit-options.php#TCA27" class="btn btn-danger btn-small"><i class="icon-white icon-hand-down"></i> Plus d'infos...</a></p>
 					  <p>Système de démarrage sécurisé breveté JMei - TCA27 unique dans le domaine de la radiocommande industrielle.<br>
 					    Basé sur le principe de validation d'un code couleur aléatoire au démarrage de la radiocommande, cette solution unique utilise la transmission sans fil - radio de base.<br>
 					    Cette technologie ne nécessite pas de canal de fréquence radio supplémentaire, ni d'entretien, et s'adapte sur toutes les radiocommandes du marché.</p>
+						<p><a href="../fr/produit-options.php#TCA27" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>    
 					<a class="anchor" id="blog-2016-08"></a>
@@ -168,6 +176,7 @@ END;
 					  <p>Cette télécommande novatrice répond aux attentes des clients les plus exigeants dans le domaine de l'environnement et du nettoyage industriel.<br>
 						Cette technologie est réalisée sur base du cahier des charges du client embarquant une personnalisation totale de ses fonctions.<br> 
 						Avec ce modèle, les plus hautes normes de qualité, de sécurité et de finition sont appliquées afin de rentabiliser au maximum l'investissement.</p>
+						<p><a href="../fr/produit-RCB1000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>                 
 					<a class="anchor" id="blog-2016-05"></a>
@@ -177,6 +186,7 @@ END;
 					  <p>Cette télécommande haute performance a été développée sur base du boitier ceinture industriel (BC391) développé par la société Sadamec. <br>
 					  La technologie radio utilisée permet le pilotage du locotracteur équipé de sa rame, c'est-à-dire dans les conditions les plus extrêmes.<br>
 Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus longues distances.</p>
+						<p><a href="../fr/produit-sadamec-bc.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>                 
 					<a class="anchor" id="blog-2016-04"></a>
@@ -196,6 +206,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 					  <p>Commande radio HF développée pour la manutention d’équipements de scène et de théâtre.<br>
 					  Les sélecteurs à 2 positions fixes permettent la sélection des plans/treuils électriques, choix de la fonction &quot;montée&quot; ou &quot;descente&quot;visualisés par des LED bicolores.<br>
 					  Un bouton-poussoir de &quot;validation&quot; permet la montée et descente synchrone des équipements.					  </p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2015-10"></a>
@@ -206,6 +217,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 					  Le solution Haute-Fréquence permet la commande de l'application à distance de manière confortable et sécuritaire.<br>
 					  La solution Infra-Rouge 
 					  permet un démarrage sécurisé ainsi qu'un zonage précis, n'autorisant la commande de certaine fonctions délicates qu'après mise en sécurité totale de l'opérateur.</p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2015-05"></a>
@@ -213,6 +225,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						<h3>Télécommande bidirectionnelle pour treuils maritimes</h3>
 						<img class="blog" src="../img/custom-product/2015-04-1000.jpg?v=1" alt="télécommande pour le levage">
 					  <p>Double radiocommande maritime avec retour d'infos.<br>Cette télécommande totalement étanche (IP67) a été développée spécifiquement pour la commande de treuils sur bateaux de dragage.<br>L'émetteur est divisé en 2 télécommandes (winch1 et 2) totalement distinctes.<br>Le récepteur utilise différents protocoles de communication afin d'accroître au maximum la sécurité du transfert des informations.</p>
+						<p><a href="../fr/produit-RCB1000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2015-02"></a>
@@ -220,6 +233,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						<h3>Radio-télécommande double vitesse - JMei S-LYT</h3>
 						<img class="blog" src="../img/custom-product/2015-02-slytB.jpg?v=1" alt="télécommande pour le levage">
 					  <p>JMei S-LYT.<br>Radio-télécommande industrielle ultra-légère adaptée aux applications de levage.<br>Cette commande à distance "plug and play" permet de nombreuses configurations (3e vitesse, double palan, fonction Tandem, maître-esclave, pitch and catch: envois du pont roulant depuis un émetteur et réception via un autre,...).</p>
+						<p><a href="../fr/produit-JMei-S-LYT.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-11"></a>
@@ -227,6 +241,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						<h3>Commande forestière - Télécommande pour treuil</h3>
 						<img class="blog" src="../img/custom-product/2014-11-700.jpg?v=1" alt="télécommande forestière">
 					  <p>Commande à distance pour treuil forestier.<br>Cette télécommande sans fil forestière et agricole en aluminium allie légèreté et robustesse.<br>Hautement sécuritaire avec son arrêt d'urgence de qualité militaire, elle permet la commande de deux treuils indépendants.<br>Les fonctions supplémentaires permettent de commander l'allumage du moteur à distance, de régler le régime moteur et d'activer un avertisseur sonore (klaxon).</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-10"></a>
@@ -239,6 +254,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						Le système radiocommandé sera actif au moment où les deux contacts de la safeball seront actionnés.<br>
 						Ce système peut être couplé avec tous les modèles de télécommande RC de la gamme JMei.
 						</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-09"></a>
@@ -256,6 +272,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						Une alimentation sur batterie (en option) permet une utilisation et un positionnement modulables du répéteur.<br>
 						Son développement en mode multi-fréquences permet de conserver la vitesse initiale de transmission du système.<br>
 						Utilisation en mode uni/bidirectionnel.</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-06"></a>
@@ -266,6 +283,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 							<br>
 						  Le manipulateur uniaxe est composé de positions fixes (système de freinage) et de positions à rappels (accélération).<br>
 						  Ajouté à la commande du locotracteur, une transmission d'inclinomètres permet la visualisation d'une inclinaison trop importante de l'émetteur (et donc de l'opérateur) en salle de contrôle déportée.</p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>
 					<a  class="anchor" id="blog-2014-05"></a>
@@ -276,6 +294,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						  <p>Télécommande avec lecteur de code-barres intégré.<br>
 							Ce système de commande permet d'accroître la sécurité du personnel (l'obligation de scan avant l'utilisation de la radiocommande permet la prise en considération de la présence de l'opérateur à un endroit connu du process).<br>
 							Radiocommande utile également dans les systèmes de logistiques complexes.</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>
 					<a class="anchor" id="blog-2014-04"></a>
@@ -287,6 +306,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						  Cette commande a distance a été réalisée pour la commande de 8 moteurs différents.<br>
 						  L'émetteur envoie des commandes sur 1 des 8 récepteurs,  sélectionné à l'aide d'un commutateur rotatif.<br>
 						La validation de la sélection est affichée sur afficheur 7 segments, via une communication bidirectionnelle afin d'accroître la sécurité.</p>
+						<p><a href="../fr/produit-Helice.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>
 					<a  class="anchor" id="blog-2014-03"></a>
@@ -296,8 +316,9 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						  <p>Radiocommande pocket industrielle.
 							<br>
 						  Cette télécommande ultra-compacte est destinée pour des commandes simples d'applications industrielles.<br>
-						  Son récepteur avec fonctions intégrées permet de pallier à la perte ou déterioration de l'émetteur.<br>
+						  Son récepteur avec fonctions intégrées permet de pallier à la perte ou déterioration de l'émetteur.
 						  </p>
+						<p><a href="../fr/produit-JMei-Pocket.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-02"></a>
@@ -308,8 +329,9 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 							<br>
 						  Cet émetteur est destiné principalement à la commande de trois fonctions bien distinctes de l'application.<br>
 						  Afin d'accroître la sécurité lors des différentes manipulations, les couleurs présentes sur  la machine industrielle (différentes selon les mouvements) ont été 
-						  recopiées sur les actionneurs de l'émetteur de la télécommande.<br>
+						  recopiées sur les actionneurs de l'émetteur de la télécommande.
 						  </p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr> 
 					<a class="anchor" id="blog-2014-01"></a>
@@ -329,6 +351,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 					    Modèle avec retour d'informations sur afficheurs 7 segments: affichage de poids, température et pression.<br>
 					    Des validations de mouvements (venant du récepteur) sont indiquées par voyants LED au-dessus de chaque manipulateur.
 						</p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>
 					<a class="anchor" id="blog-2013-11"></a>
@@ -338,6 +361,7 @@ Un répéteur radio (placé en option) permet le pilotage de l'engin sur de plus
 						<p>RCB700 entièrement personnalisée.<br>
 						  Commande à distance d'une dérouleuse déportée (sur la fourche d'une machine agricole) depuis la cabine de la machine par radio-fréquence.
 						</p>
+						<p><a href="../fr/produit-RCB700.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
 					</section>
 					<hr>
 				</div>

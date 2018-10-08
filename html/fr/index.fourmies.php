@@ -23,7 +23,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Qualité, coût, fiabilité. Bienvenue dans le monde de la radiocommande JMei!
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -32,7 +32,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Flexibilité, innovation, solution à vos besoins spécifiques.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB1000');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -41,7 +41,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei puise sa force  grâce à l'innovation constante.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('Helice');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -50,7 +50,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Des télécommandes conçues pour répondre aux besoins spécifiques des clients.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB3000');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -58,7 +58,7 @@
 						<img src="../img/home/slide-06.jpg?v=6" alt="Télécommande industrielle avec code barre">
 						<div class="container">
 							<div class="carousel-caption">
-								<p class="lead">Nous sommes vos yeux.. déportés!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB700');?>">Plus d'infos...</a></p>
+								<p class="lead">Nous sommes vos yeux.. déportés!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">A chaque procédé industriel sa solution radio.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('JMPOCKET');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
@@ -76,7 +76,7 @@
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.
-								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('RCB90');?>">Plus d'infos...</a></p>
+								<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
 							</div>
 						</div>
 					</div>
