@@ -119,7 +119,7 @@ END;
 					<a class="anchor" id="blog-2018-010-BER"></a>
 					<section>
 					  <h3>Commande de ponts flottants motorisés (PFM)</h3>
-					  <img class="blog" src="../img/custom-product/2018-10-BER.jpg?v=1" alt="Commande de ponts flottants motorisés">
+					  <img class="blog" src="../img/custom-product/2018-10-BER2.jpg?v=1" alt="Commande de ponts flottants motorisés">
 					  <p>Radio commande concue pour le pilotage de PFM.<br>
 					    Développée avec les exigences les plus sévères pour le domaine militaire.<br>
 					    Les manipulateurs ont été spécialement conçus pour cette application.<br>
