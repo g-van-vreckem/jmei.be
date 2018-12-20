@@ -94,10 +94,10 @@
 <!-- /.					<h2 class="text-center">Nos réalisations</h2>
 "../img/home/month-radio.jpg?v=19"
 -->
-				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=24" alt="Radiocommande Industrielle de sécurité">
-<!--				<h2 class="text-center">JOYEUSES FÊTES</h2>
-                <a href="../../ressource/2018.gif"><img src="../../ressource/2018.gif" alt="Radiocommande Industrielle de sécurité">-->                    
+<!--				<h2 class="text-center">Nos réalisations</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=24" alt="Radiocommande Industrielle de sécurité">--> 
+				<h2 class="text-center">JOYEUSES FÊTES</h2>
+                <a href="../../ressource/2019.gif?v=1"><img src="../../ressource/2019.gif?v=1" alt="Radiocommande Industrielle de sécurité">                   
                     
                     </a> </div>
                 <div class="span4">
