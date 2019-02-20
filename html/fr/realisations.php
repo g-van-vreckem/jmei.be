@@ -59,6 +59,22 @@ END;
 				</div>
 				<div class="span12">
 				<!--Body content-->
+<a class="anchor" id="blog-2019-002-RCB1000"></a>
+					<section>
+					  <h3>Développement spécifique pour l'armée de terre française</h3>
+					  <img class="blog" src="../img/custom-product/2019-02-RCB1000.jpg?v=1" alt="Télécommande militaire">
+
+<div class='row text-center'><br>
+	<div class="embed-responsive embed-responsive-16by9">
+		<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/v7XNlQcTLzY">
+        </iframe>
+	</div>
+</div>
+	    <p>Télécommande RCB1000 adaptée - Technologie JMei.<br>
+Application Radiocommande JMei pour l'armée de terre française.<br>
+Développement spécifique pour la commande à distance de PFM - Pont Flottant Motorisé.<br>
+Ce produit répond aux exigences du cahier des charges imposé en étant conforme aux normes militaires les plus sévères.</p>
+						<p><a href="../fr/produit-RCB1000.php" class="btn btn-outline-info btn-sm"> Vers la page produit (standard JMei)...</a></p>
 <a class="anchor" id="blog-2018-010-PV"></a>
 					<section>
 					  <h3>Radiocommande PV JMei-SADamec</h3>
