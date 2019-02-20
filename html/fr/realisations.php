@@ -64,12 +64,10 @@ END;
 					  <h3>Développement spécifique pour l'armée de terre française</h3>
 					  <img class="blog" src="../img/custom-product/2019-02-RCB1000.jpg?v=1" alt="Télécommande militaire">
 
-<div class='row text-center'><br>
 	<div class="embed-responsive embed-responsive-16by9">
 		<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/v7XNlQcTLzY">
         </iframe>
 	</div>
-</div>
 	    <p>Télécommande RCB1000 adaptée - Technologie JMei.<br>
 Application Radiocommande JMei pour l'armée de terre française.<br>
 Développement spécifique pour la commande à distance de PFM - Pont Flottant Motorisé.<br>
