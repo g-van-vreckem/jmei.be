@@ -37,7 +37,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-01.jpg?v=2" alt="Commande à distance remorque">
+						<img src="../img/home/slide-02.jpg?v=3" alt="Commande à distance remorque">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">JMei puise sa force  grâce à l'innovation constante.
@@ -55,7 +55,7 @@
 						</div>
 					</div>
 					<div class="item">
-						<img src="../img/home/slide-06.jpg?v=6" alt="Télécommande industrielle avec code barre">
+						<img src="../img/home/slide-06.jpg?v=7" alt="Télécommande industrielle avec code barre">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Nous sommes vos yeux.. déportés!<a class="btn btn-jmei pull-right" href="<?php echo Site::relativeUrl('realisations');?>">Plus d'infos...</a></p>
@@ -72,7 +72,7 @@
 						</div>
 					</div>
 					<div class="item active">
-						<img src="../img/home/slide-02.jpg?v=2" alt="Commande pont roulant">
+						<img src="../img/home/slide-04.jpg?v=3" alt="Commande pont roulant">
 						<div class="container">
 							<div class="carousel-caption">
 								<p class="lead">Tous les types de personnalisation de la radiocommande avec les dernières technologies.
@@ -80,6 +80,7 @@
 							</div>
 						</div>
 					</div>
+                    
 				</div>
 				<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
 				<a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
@@ -107,7 +108,7 @@
             <div class="row">
                 <div class="span4">
 <h2 class="text-center">Personnalisation</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=12" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=13" alt="Boîte à boutons industrielle"></a>
                 </div>
                 <div class="span4">
                     <h2 class="text-center">JMei France SARL</h2>
@@ -121,7 +122,7 @@
                 </div>
                 <div class="span4">
 <h2 class="text-center">Industrial Wireless</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=5" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=6" alt="Radiocommande personnalisée"></a>
                 </div>
             </div>
 <?php include 'footer.php';?>

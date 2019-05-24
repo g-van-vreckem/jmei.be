@@ -130,9 +130,13 @@
 
 //			self::addPage ( new Page ( 'Saga', 'en', 'product-RCB7000', 'products' ) );
 
-			self::addPage ( new Page ( 'JMPOCKET', 'en', 'product-JMei-Pocket', 'products-radios' ) );
-			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products-radios' ) );
-			self::addPage ( new Page ( 'JMPOCKET', 'nl', 'product-JMei-Pocket', 'products-radios' ) );
+//			self::addPage ( new Page ( 'JMPOCKET', 'en', 'product-JMei-Pocket', 'products-radios' ) );
+//			self::addPage ( new Page ( 'JMPOCKET', 'fr', 'produit-JMei-Pocket', 'products-radios' ) );
+//			self::addPage ( new Page ( 'JMPOCKET', 'nl', 'product-JMei-Pocket', 'products-radios' ) );
+
+			self::addPage ( new Page ( 'JMMINI', 'en', 'product-JMei-Mini', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMMINI', 'fr', 'produit-JMei-Mini', 'products-radios' ) );
+			self::addPage ( new Page ( 'JMMINI', 'nl', 'product-JMei-Mini', 'products-radios' ) );
 
 			self::addPage ( new Page ( 'JMSLYT', 'en', 'product-JMei-S-LYT', 'products-radios' ) );
 			self::addPage ( new Page ( 'JMSLYT', 'fr', 'produit-JMei-S-LYT', 'products-radios' ) );
@@ -219,6 +223,10 @@
 			self::addPage ( new Page ( 'TANDEM.pdf', 'fr', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TANDEM.pdf', 'nl', 'JMei-TANDEM', '', Page::PDF, true, .6 ) );
 
+			self::addPage ( new Page ( 'MINI.pdf', 'en', 'JMei-Mini', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'MINI.pdf', 'fr', 'JMei-Mini', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'MINI.pdf', 'nl', 'JMei-Mini', '', Page::PDF, true, .6 ) );
+			
 			self::addPage ( new Page ( 'POCKET.pdf', 'en', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'fr', 'JMei-Pocket', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'POCKET.pdf', 'nl', 'JMei-Pocket', '', Page::PDF, true, .6 ) );

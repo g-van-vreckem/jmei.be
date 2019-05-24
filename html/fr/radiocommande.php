@@ -13,29 +13,23 @@
 			<div id="r1" class="row spaced-row">
 				<div id="i1" class="tile span4">
                     <div class="top-text">
-                        <h5 class="tile-title">JMei pocket</h5>
+                        <h5 class="tile-title">JMei Mini</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMPocket.jpg?v=1" alt="Radio commande JMPocket">
+                    <img class="bottom-img" src="../img/product-overview3/JMMini.jpg?v=1" alt="Radio commande JMPocket">
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
                     </div>
                     <div class="tile-detail">
                         <div class="tile-desc">
-							<p>Commande simple vitesse 6 fonctions (extensible à 8).<br>
-							<br>
-							SMART Communication Radio - 868MHz.<br>
-							<br>
-							Sélection automatique des canaux fréquences.<br>
-							<br>
-							Récepteur avec commandes intégrées (commande de secours).<br>
-							<br>
-							Tension d'utilisation: de 10 à 42V DC.</p>
-							<p><a href="<?php echo Site::relativeUrl('JMPOCKET');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
+							<p>Commande simple vitesse 8 fonctions.<br>
+							<br>32 canaux programmables.<br>      						   							<br>Reprogrammation (jumelage) à distance sans fil.<br>
+							<br>Fonctions programmables.<br>
+							<br>Installation rapide et facile.</p>
+							<p><a href="<?php echo Site::relativeUrl('JMMINI');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 					  </div>
-                        <a href="../img/product-overview3/POCKET_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/POCKET_3.jpg?v=1" data-type="img"></a>
-                        <a href="../img/product-overview3/POCKET_4.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/MINI_1.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_3.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_4.jpg?v=1" data-type="img"></a>
                     </div>
                 </div>
 				<div id="i2" class="tile span4">
