@@ -9,6 +9,7 @@
 	include 'nav.php';
 
 ?>
+			<p><a href="http://www.jmei.be/ressource/opinions_ucm_23052019.mp4" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission "Opinions UCM" (25 MAI 2019)</a></p>
 			<p><a href="https://www.ucmmagazine.be/portraits/jmei-de-lingenierie-sur-mesure/" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait &quot;UCM MAGAZINE&quot; - Num 13 (mars 2019)</a></p>
 			<p><a href="<?php echo Site::relativeUrl('Entreprendre198.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait du magazine &quot;Entreprendre&quot; - Num 198 (novembre 2018)</a></p>
 			<p><a href="<?php echo Site::relativeUrl('Lettre-Wallonie-Bruxelles.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le magasine &quot;Lettre Wallonie-Bruxelles en France&quot; - (2017 - JMei Page15)</a></p>
