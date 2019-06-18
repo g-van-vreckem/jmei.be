@@ -59,6 +59,15 @@ END;
 				</div>
 				<div class="span12">
 				<!--Body content-->
+<a class="anchor" id="blog-2019-006-RCB3000"></a>
+					<section>
+					  <h3>Commande USB</h3>
+					  <img class="blog" src="../img/custom-product/2019-06-3000.jpg?v=1" alt="Télécommande militaire">
+
+	    <p><br>
+	    Commande RCB3000 adaptée - Pilotage via centrale informatique USB.<br> 
+	    Développée suivant cahier des charges sécifique, cette commande  dialogue avec un système de gestion de commandes via le protocole USB.</p>
+						<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>                
 <a class="anchor" id="blog-2019-002-RCB1000"></a>
 					<section>
 					  <h3>Développement spécifique pour l'armée de terre française</h3>
