@@ -72,29 +72,29 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommande avec afficheur</h6>
-							<img src="../img/product-Helice/helice_bot1.jpg" alt="Radiocommande avec afficheur">
+							<img src="../img/product-Helice/helice_bot1.jpg?v=1" alt="Radiocommande avec afficheur">
 						</div>
 						<div class="span3">
 							<h6>Radio télécommande agricole</h6>
-							<img src="../img/product-Helice/helice_bot2.jpg" alt="Radio télécommande agricole">
+							<img src="../img/product-Helice/helice_bot2.jpg?v=1" alt="Radio télécommande agricole">
 						</div>
 						<div class="span3">
 							<h6>Radiocommande - bande transporteuse</h6>
-							<img src="../img/product-Helice/helice_bot3.jpg" alt="Radiocommande pour bande transporteuse">
+							<img src="../img/product-Helice/helice_bot3.jpg?v=1" alt="Radiocommande pour bande transporteuse">
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
 							<h6>Ceinture de portage pour télécommande</h6>
-							<img src="../img/product-Helice/helice_bot4.jpg" alt="Ceinture de portage pour télécommande">
+							<img src="../img/product-Helice/helice_bot4.jpg?v=1" alt="Ceinture de portage pour télécommande">
 						</div>
 						<div class="span3">
 							<h6>Arrêt d'urgence haute qualité</h6>
-							<img src="../img/product-Helice/helice_bot5.jpg" alt="Arrêt d'urgence télécommande">
+							<img src="../img/product-Helice/helice_bot5.jpg?v=1" alt="Arrêt d'urgence télécommande">
 						</div>						
 						<div class="span3">
 							<h6>Housse de protection en nylon</h6>
-							<img src="../img/product-Helice/helice_bot6.jpg" alt="Housse de protection télécommande">
+							<img src="../img/product-Helice/helice_bot6.jpg?v=1" alt="Housse de protection télécommande">
 						</div>                        
 					</div> 
 				</div>

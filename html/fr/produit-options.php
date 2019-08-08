@@ -2,14 +2,14 @@
 	include 'common.php';
 	$title = 'JMei - Clé mémoire - Démarrage sécurisé - Système tandem';
 	$description = 'Options pour les radiocommandes JMei. Clé mémoire émetteur, système de sécurité, coordination d\'équipements';
-	  $keywords = 'JMei,Clé mémoire,Démarrage sécurisé,Système tandem,Options pour les radiocommandes,système de sécurité,radiocommandes,clé mémoire de la radiocommande,clé d\'identification hardware,mémoire externe,émetteur de secours,émetteur de réserve,boîte à boutons,radiocommande,TCA27,commande d’engins dangereux,fonctions de sécurité,source infrarouge,balise lumineuse,système de démarrage,Commande de systèmes complexes,ponts roulants,limiteurs de charge,Radiocommandes multi-émetteurs,Radiocommandes multi-récepteurs,Radiocommandes en réseau';
+	  $keywords = 'JMei,Clé mémoire,Démarrage sécurisé,Système tandem,Options pour les radiocommandes,système de sécurité,radiocommandes,clé mémoire de la radiocommande,clé d\'identification hardware,mémoire externe,émetteur de secours,émetteur de réserve,boîte à boutons,radiocommande,TCA27,commande d’engins dangereux,fonctions de sécurité,source infrarouge,balise lumineuse,système de démarrage,Commande de systèmes complexes,ponts roulants,limiteurs de charge,Radiocommandes multi-émetteurs,Radiocommandes multi-récepteurs,Radiocommandes en réseau,démarrage RFID,démarrage IR';
 	$pageId = 'OPTION';
 	$swiper = new Medias('/img/product-option/swiper/');		
 	include 'header.php';
 	include 'nav.php';
 ?>
 			<div class="row">
-<?php include 'product-nav.php'; ?>
+<?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
 					<h3>Options disponibles pour vos radiocommandes JMei</h3>
@@ -21,7 +21,24 @@
 					<p> <a href="#hardkey" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Clé hardware</a></p> 
 					<p> <a href="#TCA27" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Démarrage sécuritaire</a></p> 
 					<p> <a href="#tandem" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Commande de systèmes complexes</a></p> 
-					<hr>                  
+					<hr>
+					<a class="anchor" id="startup"></a>
+					<h3>Démarrage RFID / IR</h3>
+					<div class="row">
+						<div class="span3">
+							<h5>Démarrage par badges RFID</h5>
+							<img src="../img/product-option/rfidstartup.jpg" alt="Démarrage RFID"> 
+							<p>Système de démarrage RFID-TAC.</p>
+					<p><a href="<?php echo Site::relativeUrl('RFID.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
+						</div>
+						<div class="span3">
+							<h5>Démarrage infrarouge (IR)</h5>
+							<img src="../img/product-option/irstartup.jpg" alt="Démarrage et zonage IR (infrarouge)"> 
+							<p>Démarrage et zonage IR (infrarouge).
+					<p><a href="<?php echo Site::relativeUrl('IR.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>                          </p>
+						</div>
+                    		</div>
+                                      
 					<a class="anchor" id="hardkey"></a>
 					<h3>Clé hardware</h3>    
 						<a id="clef-description"></a>                

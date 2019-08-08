@@ -106,9 +106,9 @@
 							<br>
 							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Helice_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_2.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_4.jpg?v=1" data-type="img"></a>
                     </div>
                 </div>											
 			</div>

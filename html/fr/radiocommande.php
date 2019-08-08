@@ -3,7 +3,7 @@
 	//$title .= '';
 	$title = 'JMei - Radiocommandes personnalisées - Télécommandes sans fil bidirectionnelles';
 	$description = 'Gamme de radiocommandes industrielles JMei';
-	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,RCB90,RCB3000,RCB1000,RCB700,Helice,RCB6000,RCB7000,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle';
+	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,JMei Mini,JMei S-LYT,RCB90,RCB3000,RCB1000,RCB700,Helice,Bpoîtier Ceinture,BC,Pupiytre Ventral,PV,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle';
 
 	$pageId = 'products-radios';
 	include 'header.php';
@@ -186,9 +186,9 @@ Possibilité d'un sélecteur de palan rotatif
 							<br>
 							<a href="<?php echo Site::relativeUrl('Helice');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 						</div>
-                        <a href="../img/product-overview3/Helice_2.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Helice_3.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/Helice_4.jpg" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_2.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_3.jpg?v=1" data-type="img"></a>
+                        <a href="../img/product-overview3/Helice_4.jpg?v=1" data-type="img"></a>
                     </div>
                 </div>
 				<div id="i6" class="tile span4">

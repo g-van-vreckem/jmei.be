@@ -86,6 +86,10 @@
 			self::addPage ( new Page ( 'RECF', 'en', 'product-RECF', 'products-solutions' ) );
 			self::addPage ( new Page ( 'RECF', 'fr', 'produit-RECF', 'products-solutions' ) );
 			self::addPage ( new Page ( 'RECF', 'nl', 'product-RECF', 'products-solutions' ) );
+			
+			self::addPage ( new Page ( 'REPHF', 'en', 'product-repeater-hf', 'products-solutions' ) );
+			self::addPage ( new Page ( 'REPHF', 'fr', 'produit-repeteur-hf', 'products-solutions' ) );
+			self::addPage ( new Page ( 'REPHF', 'nl', 'product-repeater-hf', 'products-solutions' ) );
 
 			self::addPage ( new Page ( 'Helice', 'en', 'product-Helice', 'products-radios' ) );
 			self::addPage ( new Page ( 'Helice', 'fr', 'produit-Helice', 'products-radios' ) );
@@ -118,7 +122,6 @@
 			self::addPage ( new Page ( 'SMSCMD', 'en', 'product-SMS', 'products-solutions' ) );
 			self::addPage ( new Page ( 'SMSCMD', 'fr', 'produit-SMS', 'products-solutions' ) );
 			self::addPage ( new Page ( 'SMSCMD', 'nl', 'product-SMS', 'products-solutions' ) );
-
 /*
 			self::addPage ( new Page ( 'TANDEM', 'en', 'product-multi-equipement-coordination', 'products' ) );
 			self::addPage ( new Page ( 'TANDEM', 'fr', 'produit-coordination-equipements-multiples', 'products' ) );
@@ -204,13 +207,27 @@
 			self::addPage ( new Page ( 'RCB7000.pdf', 'en', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB7000.pdf', 'fr', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RCB7000.pdf', 'nl', 'JMei-RCB7000', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'RELAIS-SMS.pdf', 'en', 'JMei-SMS', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RELAIS-SMS.pdf', 'fr', 'JMei-SMS', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RELAIS-SMS.pdf', 'nl', 'JMei-SMS', '', Page::PDF, true, .6 ) );
 
 			self::addPage ( new Page ( 'RECB.pdf', 'en', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'fr', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'RECB.pdf', 'nl', 'JMei-RECB', '', Page::PDF, true, .6 ) );
 			
 			self::addPage ( new Page ( 'RECB-datasheet.pdf', 'fr', 'JMei-RECB-fiche-technique', '', Page::PDF, true, .6 ) );
-
+			self::addPage ( new Page ( 'RECF.pdf', 'fr', 'JMei-RECF', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'RECF-datasheet.pdf', 'fr', 'JMei-RECF-fiche-technique', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'REPETEUR.pdf', 'en', 'JMei-REPHF', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'REPETEUR.pdf', 'fr', 'JMei-REPHF', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'REPETEUR.pdf', 'nl', 'JMei-REPHF', '', Page::PDF, true, .6 ) );
+			
+			self::addPage ( new Page ( 'IR.pdf', 'fr', 'Badge-IR', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'RFID.pdf', 'fr', 'Badge-RFID', '', Page::PDF, true, .6 ) );
+			
 			self::addPage ( new Page ( 'TCA27.pdf', 'en', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TCA27.pdf', 'fr', 'JMei-TCA27', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'TCA27.pdf', 'nl', 'JMei-TCA27', '', Page::PDF, true, .6 ) );

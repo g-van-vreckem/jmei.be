@@ -65,15 +65,15 @@
 					<h4>Exemples de réalisations</h4>                       
 					<div class="row">
 						<div class="span3">
-							<h6>Récepeur de radiocommande</h6>
+							<h6>Récepteur de radiocommande</h6>
 							<img src="../img/product-RECB/recb_bot1.jpg" alt="Récepeur de radiocommande">
 						</div>
 						<div class="span3">
-							<h6>Récepeur de radiocommande</h6>
+							<h6>Récepteur de radiocommande</h6>
 							<img src="../img/product-RECB/recb_bot2.jpg" alt="Radiocommande industrielle">
 						</div>
 						<div class="span3">
-							<h6>Récepeur de radiocommande</h6>
+							<h6>Récepteur de radiocommande</h6>
 							<img src="../img/product-RECB/recb_bot3.jpg" alt="Radiocommande industrielle">
 						</div>                                                
 					</div>                      
