@@ -5,21 +5,37 @@
 	$keywords .= '';
 
 	$pageId = 'distribution';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	include 'header.php';
 	include 'nav.php';
 
 ?>
-			<div class="row">
-				<div class="span3">
+<!--			<div class="row">
+				<div class="span3">-->
 				<!--Sidebar content-->
-					<div class="sidenavmix">
+<!--					<div class="sidenavmix">
 						<ul class="nav nav-tabs nav-stacked">
 							<li class="nav-header">Region</li>
 							<li><a href="#benelux">Benelux &amp; Monde <i class="icon-chevron-right pull-right"></i></a></li>
 							<li><a href="#france">France <i class="icon-chevron-right pull-right"></i></a></li>
 						</ul>
 					</div>
-				</div>
+				</div>-->
 				<div class="span9">
 				<!--Body content-->
 					<a  class="anchor" id="benelux"></a>

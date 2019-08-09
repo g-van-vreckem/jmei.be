@@ -5,6 +5,22 @@
 	$keywords = 'JMei,FRANCE,Radiocommande à distance,Radio télécommande,Radio télécommande sans fil industrielle,solution électronique,radiocommandes industrielles,radio-transmission,IRC,Collard-Belgium-Electronics,radiocommande,innovation constante,télécommandes,dernières technologies,Marloie,Radios personnalisées,                    Personnalisation,Flexibilité,Innovation,Réactivité,Expérience,Fiabilité,équipe dynamique et professionnelle,service rapide et de qualité,Fabrication sur-mesure';
 
 	$pageId = 'home';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	include 'header.php';
 	include 'nav.php';
 ?>
@@ -88,29 +104,37 @@
 
             <div class="row">
                 <div class="span4">
+					<section>
 <h2 class="text-center">Nos expériences</h2>
 					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
+					</section>
                 </div>
                 <div class="span4">
 <!-- /.					<h2 class="text-center">Nos réalisations</h2>
 "../img/home/month-radio.jpg?v=19"
 -->
+				<section>
 				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.jpg?v=27" alt="Radiocommande Industrielle de sécurité"> 
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=27" alt="Radiocommande Industrielle de sécurité"> 
 				<!--<h2 class="text-center">JOYEUSES FÊTES</h2>
                 <a href="../../ressource/2019.gif?v=1"><img src="../../ressource/2019.gif?v=1" alt="Radiocommande Industrielle de sécurité">-->
-                    </a> </div>
+                    </a></section>  </div>
                 <div class="span4">
+                <section>
 <h2 class="text-center">Un gage de qualité</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2fr.jpg?v=2" alt="Télécommande JMei"></a>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2fr.png?v=2" alt="Télécommande JMei"></a>
+					</section>
                 </div>
             </div>
             <div class="row">
                 <div class="span4">
+                <section>
 <h2 class="text-center">Personnalisation</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.jpg?v=13" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.png?v=13" alt="Boîte à boutons industrielle"></a>
+                </section>
                 </div>
                 <div class="span4">
+                	<section>
                     <h2 class="text-center">JMei France SARL</h2>
                     <p class="text-center">
 											ZA La Marliere<br>
@@ -119,10 +143,13 @@
 											<a href="mailto:contact@jmei.fr">contact@jmei.fr</a>
 										</p>
                     <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.be">Site JMei Europe &raquo;</a></p>
+                    </section>
                 </div>
                 <div class="span4">
+                <section>
 <h2 class="text-center">Industrial Wireless</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.jpg?v=6" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.png?v=6" alt="Radiocommande personnalisée"></a>
+                    </section>
                 </div>
             </div>
 <?php include 'footer.php';?>

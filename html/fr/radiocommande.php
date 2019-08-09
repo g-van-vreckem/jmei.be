@@ -6,17 +6,35 @@
 	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,JMei Mini,JMei S-LYT,RCB90,RCB3000,RCB1000,RCB700,Helice,Bpoîtier Ceinture,BC,Pupiytre Ventral,PV,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle';
 
 	$pageId = 'products-radios';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	include 'header.php';
 	include 'nav.php';
 
-?>
+?>	
 			<div id="r1" class="row spaced-row">
-				<div id="i1" class="tile span4">
-                    <div class="top-text">
+				<div id="i1" class="tile span4"> 
+                <section>													
+					<div class="top-text">	
                         <h5 class="tile-title">JMei Mini</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
                     <img class="bottom-img" src="../img/product-overview3/JMMini.jpg?v=1" alt="Radio commande JMPocket">
+				</section>  
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -30,14 +48,16 @@
 							<p><a href="<?php echo Site::relativeUrl('JMMINI');?>" class="btn btn-jmei">Plus d'infos...&raquo;</a></p>
 					  </div>
                         <a href="../img/product-overview3/MINI_1.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_2.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_3.jpg?v=1" data-type="img"></a><a href="../img/product-overview3/MINI_4.jpg?v=1" data-type="img"></a>
-                    </div>
+                    </div>          
                 </div>
 				<div id="i2" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">JMei S-LYT</h5>
                         <p class="tile-intro">La mariage entre technologie et ergonomie.</p>
                     </div>
                     <img src="../img/product-overview3/SLYT2.jpg?v=1" alt="S-LYT - Boite à boutons industrielle" class="bottom-img">
+                </section>
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -80,11 +100,13 @@ Possibilité d'un sélecteur de palan rotatif
                     </div>
 				</div>
 				<div id="i3" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
                     </div>
-                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">
+                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">	
+                </section>
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -115,7 +137,7 @@ Possibilité d'un sélecteur de palan rotatif
                         <a href="../img/product-overview3/RCB90_2.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_3.jpg" data-type="img"></a>
                         <a href="../img/product-overview3/RCB90_4.jpg" data-type="img"></a>
-                        <a href="../img/product-overview3/RCB90_5.jpg" data-type="img"></a>                        
+                        <a href="../img/product-overview3/RCB90_5.jpg" data-type="img"></a> 
                     </div>
                 </div>
 			</div>

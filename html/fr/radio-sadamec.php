@@ -10,7 +10,7 @@
 section {
     margin-bottom: 15px;
     padding: 10px;
-    background-color: #F5F5F5;
+    background-color: #FAFAFA;
 }
 
 container, hr {
@@ -30,8 +30,8 @@ $swiper = new Medias('/img/sadamec/swiper/');
 	<section>
 <?php echo $swiper->html; ?>
 	<br> 
-	<img src="/img/sadamec/sad.jpg" alt="Sadamec" class="refer-left" />
-	<img src="/img/sadamec/sadamec.jpg?v=1" alt="Sadamec" class="refer" />
+	<img src="/img/sadamec/sad.png" alt="Sadamec" class="refer-left" />
+	<img src="/img/sadamec/sadamec.png?v=1" alt="Sadamec" class="refer" />
 	</section>
 	<hr>
 	<section>
