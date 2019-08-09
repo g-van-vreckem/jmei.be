@@ -33,7 +33,7 @@ END;
                         <h5 class="tile-title">JMei Mini</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMMini.jpg?v=1" alt="Radio commande JMPocket">
+                    <img class="bottom-img" src="../img/product-overview3/JMMini.png?v=1" alt="Radio commande JMPocket">
 				</section>  
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
@@ -56,7 +56,7 @@ END;
                         <h5 class="tile-title">JMei S-LYT</h5>
                         <p class="tile-intro">La mariage entre technologie et ergonomie.</p>
                     </div>
-                    <img src="../img/product-overview3/SLYT2.jpg?v=1" alt="S-LYT - Boite à boutons industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/SLYT2.png?v=1" alt="S-LYT - Boite à boutons industrielle" class="bottom-img">
                 </section>
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
@@ -105,7 +105,7 @@ Possibilité d'un sélecteur de palan rotatif
                         <h5 class="tile-title">RCB90</h5>
                         <p class="tile-intro">La boîte à boutons double vitesse universelle</p>
                     </div>
-                    <img src="../img/product-overview3/RCB90.jpg?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">	
+                    <img src="../img/product-overview3/RCB90.png?v=1" alt="RCB90 - Radiocommande - Commande de ponts" class="bottom-img">	
                 </section>
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
@@ -152,11 +152,13 @@ Possibilité d'un sélecteur de palan rotatif
 		<div class="container">
 			<div id="r2" class="row spaced-row">
 				<div id="i4" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB700</h5>
                         <p class="tile-intro">La commande ultra-robuste, ultra-personnalisable</p>
                     </div>
-                    <img src="../img/product-overview3/RCB700.jpg?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                    <img src="../img/product-overview3/RCB700.png?v=2" alt="RCB700 - Commande de machines agricoles - radciocommande personnalisée" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -181,11 +183,13 @@ Possibilité d'un sélecteur de palan rotatif
 					</div>
                 </div>
 				<div id="i5" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Hélice</h5>
                         <p class="tile-intro">La solution la plus compacte permettant la puissance de l'analogique</p>
                     </div>
-                    <img src="../img/product-overview3/Helice.jpg?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
+                    <img src="../img/product-overview3/Helice.png?v=1" alt="Hélice - Radiocommande pour remorque - Commande étanche" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -214,11 +218,13 @@ Possibilité d'un sélecteur de palan rotatif
                     </div>
                 </div>
 				<div id="i6" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Boîtier Ceinture (BC)</h5>
                         <p class="tile-intro">La robustesse du boîtier métallique intégrant de l'analogique.</p>
                     </div>
-                    <img src="../img/product-overview3/BC.jpg?v=1" alt="Sadamec - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/BC.png?v=1" alt="Sadamec - Commande pour machine industrielle" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -255,11 +261,13 @@ Possibilité d'un sélecteur de palan rotatif
 		<div class="container">
 			<div id="r3" class="row spaced-row">
 				<div id="i7" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB3000</h5>
                         <p class="tile-intro">Le pupitre ventral universel</p>
                     </div>
-                    <img src="../img/product-overview3/RCB3000.jpg?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
+                    <img src="../img/product-overview3/RCB3000.png?v=1" alt="RCB3000 - Radiocommande pour machine hydraulique" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -286,11 +294,13 @@ Possibilité d'un sélecteur de palan rotatif
                     </div>
                 </div>
 				<div id="i8" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB1000</h5>
                         <p class="tile-intro">La radiocommande industrielle la plus robuste, offrant une infinité de possibilités.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB1000.jpg?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                    <img src="../img/product-overview3/RCB1000.png?v=1" alt="RCB1000 - Commande pour machine industrielle" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -317,11 +327,13 @@ Possibilité d'un sélecteur de palan rotatif
                     </div>
                 </div>
 				<div id="i9" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Pupitre Ventral (PV)</h5>
                         <p class="tile-intro">La radiocommande modulable issue de SADamec, enrichie de la technologie JMei.</p>
                     </div>
-                    <img src="../img/product-overview3/PV.jpg?v=1" alt="Pupitre Ventral (PV)" class="bottom-img">
+                    <img src="../img/product-overview3/PV.png?v=1" alt="Pupitre Ventral (PV)" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>

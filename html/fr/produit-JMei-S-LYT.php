@@ -4,6 +4,22 @@
 	$description = 'Boîte à boutons industrielle haut de gamme, entièrement parsonnalisable, pour des applications industrielles de lavage';
 	$keywords = 'JMei,SLYT,Télécommande,Télécommande industrielle robuste,radiocommande,boutons-poussoirs,radiocommande sécuritaire,S-LYT,ergonomique,boutons-poussoirs,émetteur industriel,étanche (IP66),résistant aux saletés,fonctions programmables,S-LYT4,S-LYT8,S-LYT12,canaux programmables,scan automatique des fréquences,I-Chip,boitier IP66,boutons double vitesse,touches personnalisables,tandem,sélecteur rotatif,Pitch & Catch,multi-récepteurs,pont roulant,grue tour,porte industrielle,pompe,bande transporteuse';
 	$pageId = 'JMSLYT';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-SLYT/swiper/');	
 	include 'header.php';
 	include 'nav.php';
@@ -12,13 +28,17 @@
 <?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Radiocommande JMei S-LYT</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('S-LYT.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-					<p> <a href="<?php echo Site::relativeUrl('S-LYT-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>  
+					<p> <a href="<?php echo Site::relativeUrl('S-LYT-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>
+				</section>
+				<hr>
+				<section>
                   <a id="description"></a>
                   <h4>Description</h4>
 				  <p>La télécommande JMei S-LYT est une boîte à boutons (HF) ergonomique munie de fonctions (boutons-poussoirs) à double vitesse.</p>
@@ -26,6 +46,9 @@
 Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'huile.</p>
 						<p>Le système S-LYT est composé de plus de 200 fonctions programmables par l'utilisateur pour convenir à tous types d'applications.</p>
 						<p>4 déclinaisons possibles : S-LYT4, S-LYT6, S-LYT8 et S-LYT12 (4/6/8/12 fonctions double vitesse).</p>
+				</section>
+				<hr>
+				<section>   
 					<a id="avantages"></a>
 				  <h4>Avantages</h4>
 					<ul>
@@ -43,7 +66,9 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 					<li>Boutons «&nbsp;Snap-action&nbsp;» étudiés pour un confort d&rsquo;utilisation, même avec des gants</li>
 					<li>Accumulateur interchangeable NIMH ou batteries AA classiques (autonomie &gt;100h)</li>
 					</ul>
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
@@ -60,6 +85,9 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
                         <li>Sorties récepteur précâblées</li>
 						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
+				</section>
+				<hr>
+				<section>
 					<a id="accessoires"></a>
 				  <h4>Accessoires</h4>
 					<ul>
@@ -69,7 +97,9 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
 						<li>Support chargeur mural.</li>
 					  <p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
@@ -79,36 +109,51 @@ Il est très résistant aux saletés, liquide, acide, graisse et infiltration d'
                       <li>Pompe</li>
                       <li>Bande transporteuse</li>
                       <li>…</li>
-					</ul>                  
+					</ul>  
+				</section>                
                   <hr>
                   <a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+				<section>	
+					<h4>Exemples de réalisations</h4> 
+				</section>
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Radiocommande - S-LYT4</h6>
-							<img src="../img/product-SLYT/slyt_bot1.jpg?v=3" alt="Télécommande grue">
+							<img src="../img/product-SLYT/slyt_bot1.png?v=3" alt="Télécommande grue">
+				</section> 
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande - S-LYT6</h6>
-							<img src="../img/product-SLYT/slyt_bot2.jpg?v=2"  alt="Télécommande pont roulant">
+							<img src="../img/product-SLYT/slyt_bot2.png?v=2"  alt="Télécommande pont roulant">
+				</section> 
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande - S-LYT8</h6>
-							<img src="../img/product-SLYT/slyt_bot3.jpg?V=2" alt="Radio télécommande HF">
-						</div>                                                
+							<img src="../img/product-SLYT/slyt_bot3.png?V=2" alt="Radio télécommande HF">
+				</section> 
+						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Radiocommande - S-LYT12</h6>
-							<img src="../img/product-SLYT/slyt_bot4.jpg?v=1" alt="Clé mémoire électronique pour radiocommande">
+							<img src="../img/product-SLYT/slyt_bot4.png?v=1" alt="Clé mémoire électronique pour radiocommande">
+				</section> 
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande - S-LYT8 + sélecteur rotatif</h6>
-							<img src="../img/product-SLYT/slyt_bot5.jpg?v=2" alt="Radiocommande avec afficheur">
+							<img src="../img/product-SLYT/slyt_bot5.png?v=2" alt="Radiocommande avec afficheur">
+				</section> 
 						</div>						
 						<div class="span3">
+				<section>
 							<h6>Support + Chargeur S-LYT4/8/12</h6>
-							<img src="../img/product-SLYT/slyt_bot6.jpg?v=2" alt="Démarrage sécurisé pour télécommande">
+							<img src="../img/product-SLYT/slyt_bot6.png?v=2" alt="Démarrage sécurisé pour télécommande">
+				</section>           
 						</div>                        
 					</div>
 					</div>

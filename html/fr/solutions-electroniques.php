@@ -6,17 +6,35 @@
 	$keywords = 'JMei,Radiocommandes personnalisées,Télécommandes sans fil bidirectionnelles,radiocommandes industrielles,RCB90,RCB3000,RCB1000,RCB700,Helice,RCB6000,RCB7000,Boîte à boutons,boutons double enfoncement,retour d\'informations,démarrage sécurisé,clé mémoire,commande ultra-robuste,Emetteur compact,environnement industriel difficile,pupitres ventraux,pupitre ventral universel,radiocommande industrielle,émetteur industriel Haut de gamme,Transmission de données sans fil industrielle,télécommande ultra compacte,clé hardware,Démarrage sécuritaire,Commande de systèmes complexes,confort d\'utilisation de radiocommandes,accessoires pour radiocommande,Batterie de réserve,chargeur,Housse de protection,Rosace directionnelle,CANopen,Ethenet,Profibus,Profinet,RS232/485,USB,répéteur radio,répéteur ondes HF';
 	
 	$pageId = 'products-solutions';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	include 'header.php';
 	include 'nav.php';
 
 ?>
 			<div id="r1" class="row spaced-row">
 				<div id="i1" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB6000</h5>
                         <p class="tile-intro">Transmission de données sans fil industrielle.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB6000.jpg?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
+                    <img src="../img/product-overview3/RCB6000.png?v=1" alt="RCB6000 - transmission de données sans fil" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -40,11 +58,13 @@
                     </div>
                 </div>
 				<div id="i2" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">RCB7000</h5>
                         <p class="tile-intro">Transmission de données sans fil industrielle.</p>
                     </div>
-                    <img src="../img/product-overview3/RCB7000.jpg?v=1" alt="RCB7000 - transmission de données sans fil" class="bottom-img">
+                    <img src="../img/product-overview3/RCB7000.png?v=1" alt="RCB7000 - transmission de données sans fil" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -69,11 +89,13 @@
                     </div>
 				</div>
 				<div id="i3" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Commandes par SMS</h5>
                         <p class="tile-intro">Transmission de commandes par SMS.</p>
                     </div>
-                    <img src="../img/product-overview3/SMS.jpg?v=2" alt="Commande SMS - JMei" class="bottom-img">
+                    <img src="../img/product-overview3/SMS.png?v=2" alt="Commande SMS - JMei" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -103,11 +125,13 @@
 		<div class="container">
 			<div id="r2" class="row spaced-row">
 				<div id="i4" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Récepteur RECB </h5>
                         <p class="tile-intro">Récepteur embarquant les dernières technologies</p>
                     </div>
-                    <img src="../img/product-overview3/RECB.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                    <img src="../img/product-overview3/RECB.png" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -127,11 +151,13 @@
                     </div>
                 </div>
 				<div id="i5" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Récepteur RECF </h5>
                         <p class="tile-intro">Le récepteur radio compact pour bus de terrain</p>
                     </div>
-                    <img src="../img/product-overview3/RECF.jpg" alt="Récepteur Bus de terrain" class="bottom-img">
+                    <img src="../img/product-overview3/RECF.png" alt="Récepteur Bus de terrain" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -152,11 +178,13 @@
                     </div>
                 </div>
 				<div id="i6" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Répéteur radio HF</h5>
                         <p class="tile-intro">Pour une transmission longues distances</p>
                     </div>
-                    <img src="../img/product-overview3/REP.jpg?v=1" alt="Répéteur d'ondes radio HF" class="bottom-img">
+                    <img src="../img/product-overview3/REP.png?v=1" alt="Répéteur d'ondes radio HF" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -185,11 +213,13 @@
 		<div class="container">
 			<div id="r3" class="row spaced-row">
 				<div id="i7" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Accessoires</h5>
                         <p class="tile-intro">Pour un meilleur confort d'utilisation de vos radiocommandes</p>
                     </div>
-                    <img src="../img/product-overview3/accessory.jpg" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                    <img src="../img/product-overview3/accessory.png" alt="Radiocommande personnalisée - Commande de systèmes complexes" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -214,11 +244,13 @@
                     </div>
                 </div>
 				<div id="i8" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Nos options</h5>
                         <p class="tile-intro">La clé hardware - Démarrage sécuritaire / IR / RFID - Commande de systèmes complexes</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/option.jpg?v=1 alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes">
+                    <img src="../img/product-overview3/OPTION.png?v=1" alt="options des radios commandes JMei: la clé hardware, le démarrage sécuritaire, la commande de systèmes complexes"class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
@@ -247,11 +279,13 @@
                     </div>
                 </div>
 				<div id="i9" class="tile span4">
+                <section>	
                     <div class="top-text">
                         <h5 class="tile-title">Personnalisation</h5>
                         <p class="tile-intro">Vos radiocommandes sur-mesures.</p>
                     </div>
-                    <img src="../img/product-overview3/CUSTOM.jpg?v=2" alt="Radiocommandes personnalisées" class="bottom-img">
+                    <img src="../img/product-overview3/CUSTOM.png?v=2" alt="Radiocommandes personnalisées" class="bottom-img">
+                </section>	
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>
                         <span class="opened" aria-hidden="true" data-icon="&#xe001;"></span>
