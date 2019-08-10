@@ -4,6 +4,22 @@
 	$description = 'Radiocommande en tôle d’aluminium extrêmement robuste et sécuritaire de haute performance de type pupitre ventral conçue pour les commandes de tout engin industriel dans les environnements lourds';
 	$keywords = 'JMei,Sadamec,Pupitre Ventral,Télécommande sans fil,Radiocommande,Commande à distance robuste,radiocommande sécuritaire,télécommande de haute performance,pupitre ventral,télécommande sans fil,Boîtier ultra compact,Arrêt d\'urgence coup-de-poing,manipulateurs 2 axes,manipulateurs uniaxes,Sélecteurs à rappel,Sélecteurs à positions fixes,Fonctions analogiques,inclinomètre,Joystiques avec fonction homme-mort,LED de diagnostic,retour d\'information,Pont roulant,Marine,Camion hydraulique,Engins spéciaux,Transmission bidirectionnel,Afficheur,Clé d\'identification,Système Tandem maître/esclave,Démarrage sécurisé TCA27,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Housse de protection en cuir,Chargeur à microprocesseur,Accumulateur NiMH,						ccombinateur Sadamec,Clé de démarrage antivandale,Télécommande suivant cahier des charges,Personnalisation de fonctions,Boitier de couleur</li>';
 	$pageId = 'SADAMEC-PV';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-PV/swiper/');	
 	include 'header.php';
 	include 'nav.php';
@@ -12,6 +28,7 @@
 <?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Radiocommande PV - Pupitre Ventral - Sadamec</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
@@ -20,12 +37,18 @@
 <!-- 
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<p> <a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p> -->
+				</section>
+				<hr>
+				<section>
                   <a id="Histoire Sadamec"></a>
                   <h4>Histoire Sadamec – JMei</h4>
 				  <p>La société Sadamec, acteur historique de la radiocommande en France depuis plus de 30 ans, a cessé son activité depuis fin 2013.
 La technologie et le savoir-faire Sadamec ont été transmis à notre société, JMei
 .</p>
 						<p>Aujourd’hui, JMei peut vous fournir en pièces détachées, assurer le SAV des radios Sadamec et vous fournir en matériel radiocommande compatible avec votre matériel Sadamec (en ayant la capacité de mixer les technologies novatrices de JMei).</p>
+				</section>
+				<hr>
+				<section>
                   <a id="description"></a>
                   <h4>Description</h4>
 				  <p>Radiocommande en tôle d’aluminium extrêmement robuste et sécuritaire de haute performance de type pupitre ventral conçue pour les commandes de tout engin industriel dans les environnements lourds.</p>
@@ -33,6 +56,9 @@ La technologie et le savoir-faire Sadamec ont été transmis à notre société,
 Son design et les possibilités infinies de configuration autorisent toutes les possibilités de commandes de machines.</p>
 						<p>Boîtier compact, très robuste, réalisé en tôle d’aluminium et spécialement conçu pour une utilisation industrielle.</p>
 						<p>Arrêt d&rsquo;urgence coup-de-poing, garantit une sécurité maximale.</p>
+				</section>
+				<hr>
+				<section>
 					<a id="avantages"></a>
 				  <h4>Avantages</h4>
 					<ul>
@@ -51,7 +77,9 @@ Son design et les possibilités infinies de configuration autorisent toutes les 
 						<li>LED de diagnostic et retour d'information en option.</li>
 						<li>Ecran LCD graphique en option.</li>
 					</ul>
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
@@ -60,6 +88,9 @@ Son design et les possibilités infinies de configuration autorisent toutes les 
 						<li>Système Tandem maître/esclave.</li>
 						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
+				</section>
+				<hr>
+				<section>	
 					<a id="accessoires"></a>
 				  <h4>Accessoires</h4>
 					<ul>
@@ -70,6 +101,9 @@ Son design et les possibilités infinies de configuration autorisent toutes les 
 					</ul>					
 					<hr>
 					<a id="applications"></a>
+				</section>
+				<hr>
+				<section>	
 					<h4>Applications</h4>
 					<ul>
 						<li>Pont roulant.</li>
@@ -77,9 +111,12 @@ Son design et les possibilités infinies de configuration autorisent toutes les 
 						<li>Domaine nucléaire.</li>
 						<li>Pont polaire, …</li>
 					</ul>                  
-                  <hr>
+				</section>
+				<hr>
+				<section>	
                   <a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>  
+				</section>                    
 					<div class="row">
 						<div class="span3">
 							<h6>Télécommande - combinateur Sadamec</h6>

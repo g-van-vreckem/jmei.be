@@ -4,6 +4,22 @@
 	$description = 'Radiocommande ultra-compacte, rigidité accrue de part son boîtier en aluminium, cette commande à distance prendra facilement place dans vos applications forestières et agricoles';
 	$keywords = 'JMei,RCB700,Commande radio longue portée,Télécommande robuste,Radiocommande ultra-compacte,boîtier en aluminium,commande à distance,applications forestières et agricoles,boîte à boutons sécuritaire,télécommande sans fil,Arrêt d\'urgence,Fonctions analogiques proportionnelles,retour d\'information,LCD graphique,émetteur de réserve,Lecteur code barre,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Télécommande avec retour d\'informations,Radiocommande avec lecteur code-barres,Télécommande sur-mesure,Radiocommande avec afficheur graphique,Arêt de sécurité haute performance,télécommande forestière,commande de treuils';
 	$pageId = 'RCB700';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-RCB700/swiper/');
 	include 'header.php';
 	include 'nav.php';
@@ -12,18 +28,24 @@
 <?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Radiocommande RCB700</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                        
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB700.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-
+				</section>
+				<hr>
+				<section>
 					<a id="description"></a>
 					<h4>Description</h4>
 						<p>Emetteur de type boîte à boutons sécuritaire de haute performance conçu pour les commandes de tout engin industriel.<br>La RCB700 est une télécommande sans fil configurable à souhait et de grande qualité. <br>Réalisée dans des boîtiers en aluminium, extrêmement robuste, elle offre une multitude de possibilités.</p>
 						<p>La taille du boîtier est modulable et permet de personnaliser notre production suivant le souhait du client.</p>
 						<p>Arrêt d'urgence coup-de-poing,  garantit une sécurité maximale.</p>
+				</section>
+				<hr>
+				<section>
 					<a id="avantages"></a>
 				  <h4>Avantages</h4>
 					<ul>
@@ -38,7 +60,9 @@
 						<li>Ecran LCD graphique en option.</li>
 						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
 					</ul>
-       				<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
@@ -47,7 +71,10 @@
 						<li>Lecteur code barre</li>
 						<li>Clé d'identification (remplacement rapide d'un émetteur endommagé).</li>
 						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
-					</ul>  
+					</ul> 
+				</section>
+				<hr>
+				<section>	
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
@@ -58,7 +85,9 @@
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
 						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
-					<hr>
+				</section>
+				<hr>
+				<section>	
 					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
@@ -69,9 +98,12 @@
 						<li>Machines forestières.</li>
 						<li>Equipements de sidérurgie.</li>
 					</ul>                  
-                  <hr>					                    									
+				</section>
+				<hr>
+				<section>								
                   <a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>    
+				</section>                 
 					<div class="row">
 						<div class="span3">
 							<h6>Télécommande avec retour d'informations</h6>                            

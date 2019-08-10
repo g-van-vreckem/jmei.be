@@ -4,6 +4,22 @@
 	$description = 'Pupitre de commande industriel haut de gamme, entièrement parsonnalisable, pour des applications industrielles les plus rudes';
 	$keywords = 'JMei,RCB1000,Télécommande,Télécommande industrielle robuste,Radiocommande,Radiocommande avec joystick,radiocommande sécuritaire,télécommande de haute performance,pupitre ventral,télécommande sans fil,Boîtier ultra compact,Arrêt d\'urgence coup-de-poing,manipulateurs 2 axes,manipulateurs uniaxes,Sélecteurs à rappel,Sélecteurs à positions fixes,Fonctions analogiques,inclinomètre,Joystiques avec fonction homme-mort,LED de diagnostic,retour d\'information,Pont roulant,Marine,Camion hydraulique,Engins spéciaux,Transmission bidirectionnel,Afficheur,Clé d\'identification,Système Tandem maître/esclave,Démarrage sécurisé TCA27,Profibus,Ethernet,Canbus,Profinet,bus de terrain,Housse de protection en cuir,Chargeur à microprocesseur,Accumulateur NiMH</li>';
 	$pageId = 'RCB1000';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-RCB1000/swiper/');	
 	include 'header.php';
 	include 'nav.php';
@@ -12,6 +28,7 @@
 <?php include 'products-radios-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Radiocommande RCB1000</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
@@ -19,12 +36,18 @@
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB1000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 					<p> <a href="<?php echo Site::relativeUrl('RCB1000-datasheet.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i>Consulter la fiche technique</a></p>  
+				</section>
+				<hr>
+				<section>
                   <a id="description"></a>
                   <h4>Description</h4>
 				  <p>Radiocommande extrêmement robuste et sécuritaire de haute performance de type pupitre ventral conçu pour les commandes de tout engin industriel dans les environnements lourds.</p>
 						<p>La RCB1000 est une télécommande sans fil configurable à souhait et de grande qualité. <br>Son design et les possibilités infinies de configuration autorisent toutes les possibilités de commandes de machines.</p>
 						<p>Boîtier ultra compact, très robuste, réalisé en plastique renforcé pour un usage industriel, boîtier très ergonomique, adapté spécialement aux environnements agressifs.</p>
 						<p>Arrêt d'urgence coup-de-poing, garantit une sécurité maximale.</p>
+				</section>
+				<hr>
+				<section>
 					<a id="avantages"></a>
 					<h4>Avantages</h4>
 					<ul>
@@ -43,7 +66,9 @@
 						<li>Ecran LCD graphique en option.</li>
 						<li>Système exclusif de changements d'adresse, de fréquence, configuration par les boutons permettant l'interchangeabilité rapide et sécurisante des émetteurs (un seul émetteur de réserve pour plusieurs équipements).</li>
 					</ul>
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="options"></a>
                   <h4>Options</h4>
 					<ul>
@@ -55,6 +80,9 @@
 						<li>Récepteur type RECB ou RCB7000, possibilité de connexion Profibus, Ethernet, Canbus, Profinet ou autre bus de terrain.</li>
 						<p> <a href="<?php echo Site::relativeUrl('OPTION');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>  
+				</section>
+				<hr>
+				<section>	
 					<a id="accessoires"></a>
 					<h4>Accessoires</h4>
 					<ul>
@@ -63,7 +91,9 @@
 						<li>Accumulateur interchangeable NiMH.</li>
 						<p> <a href="<?php echo Site::relativeUrl('ACCESSORY');?>" class="btn btn-default btn-mini"><i class="icon-black icon-plus-sign"></i> Plus d'infos...</a></p> 
 					</ul>					
-					<hr>
+				</section>
+				<hr>
+				<section>	
 					<a id="applications"></a>
 					<h4>Applications</h4>
 					<ul>
@@ -72,9 +102,12 @@
 						<li>Camion hydraulique.</li>
 						<li>Engins spéciaux, …</li>
 					</ul>                  
-                  <hr>
+				</section>
+				<hr>
+				<section>	
                   <a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4>        
+				</section>            
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommande - prise en main sécuritaire</h6>
