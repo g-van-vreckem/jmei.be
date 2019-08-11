@@ -32,7 +32,6 @@ END;
 					<h3>Radiocommande RCB90</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>
-
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB90.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
@@ -63,17 +62,19 @@ END;
 					</ul>
 				</section>
 				<hr>
-				<section>
+				
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
+                <section>
 				  <h4>Certifications</h4>
 					<ul>
 						<li>EMC: EN61000-6-2 et EN61000-6-4</li>
 						<li>Safety: EN 60950</li>
 						<li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
+                 </section>
 <?php endif ?>
-				</section>
+				
 				<hr>
 				<section>
 					<a id="options"></a>
