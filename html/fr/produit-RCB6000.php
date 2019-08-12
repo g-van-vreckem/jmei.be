@@ -5,6 +5,22 @@
 	$keywords = 'Module de transmission industrielle,RCB6000,transmission sans fil,échange de signaux,radio-fréquence,signaux tout-ou-rien,signaux analogiques,modules radio,mode bidirectionnel,sidérurgie,fonderies,bande de fréquence 434MHz,applications radiocommandées,transmission à distance sans câblage,signaux analogiques de mesure,communication sans fil sécurisée,transmission d\'arrêt d\'urgence';
 
 	$pageId = 'RCB6000';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	include 'header.php';
 	include 'nav.php';
 
@@ -12,15 +28,19 @@
 			<div class="row">
 <?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
-					<a name="highlight"></a><h3>Module de transmission industrielle de type RCB6000</h3>
+					<a name="highlight"></a>
+					<section>
+                    <h3>Module de transmission industrielle de type RCB6000</h3>
 					<div class="row">
 						<div class="span4">
-							<img class="img-polaroid" src="../img/product-RCB6000/rcb6000_1.jpg" alt="RCB6000 Transmission industrielle" />
+							<img class="img-polaroid" src="../img/product-RCB6000/rcb6000_1.png" alt="RCB6000 Transmission industrielle" />
 						</div>
 					</div>
 					<p></p>
 					<p><a href="<?php echo Site::relativeUrl('RCB6000.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
-
+				</section>
+				<hr>
+				<section>
 					<a name="features"></a><h4>Caractéristiques</h4>
 					<p>Les équipements de transmission sans fil JMei permettent de transmettre tous types de signaux digitaux ou analogiques sur des distances <strong>pouvant atteindre 5000m</strong>, et permettent  ainsi de réduire fortement tous types de câbles de contrôle ou de mesure entre appareils et PLC/Automate ou entre appareils eux-mêmes.
 Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 485 ou autres
@@ -29,7 +49,9 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
                       <br>
                       En effet ces deux microcontrôleurs agissent simultanément sur un relais d’arrêt d’urgence monté sur la carte processeur et qui coupe instantanément  tous les échanges de signaux possibles
 .</p>
-
+				</section>
+				<hr>
+				<section>
 					<a name="specifications"></a>
 					<h4>Spécifications</h4>
 					<img src="../img/product-RCB6000/rcb6000_2_en.gif" alt="RCB6000 transmission unidirectionnelle ou bidirectionnelle - Multicanaux, fréquence industrielle" />
@@ -38,7 +60,9 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
                   Ces modules radio peuvent communiquer en mode unidirectionnel mais aussi en mode bidirectionnel tout en utilisant une seule fréquence (technologie basée sur un tranceiver). </p>
 					<p>Les modules de transmission emploient une technologie basée sur notre longue expérience dans ce domaine (+/- 15ans), cad éprouvée dans <strong>des milieux industriels tels que par exemple les sidérurgies, les fonderies, et où l’environnement électromagnétique peut être très perturbant</strong>.<br />
 				  Ils travaillent soit dans la bande de fréquence 434MHz ou 868MHz (fréquence libre de droit pour l’utilisateur) tout en utilisant une puissance de faible niveau (inf. à 10mW) et ceci afin de ne <strong>pas perturber les autres applications radiocommandées installées sur le site du client</strong>.</p>
-					
+				</section>
+				<hr>
+				<section>
 					<a name="uses"></a><h4>Applications</h4>
 					<ul>
 						<li>Transmission à distance sans câblage de tous types signaux analogiques de mesure, par exemple poids, pression, température, vitesse, ou autres vers un PC Central ou automate de gestion.</li>
@@ -46,7 +70,9 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
 						<li>Transmission d'informations vers tous types d'afficheurs.</li>
 						<li>Transmission de tous signaux TOR ou digitaux, par exemple position d’engins mobiles, zonage de ponts roulants ou tous engins mobiles, commande de machine à distance pompes, moteurs ou autres, transmission d’information entre un engin mobile (Clark, chargeur sur pneus) et un poste fixe.</li>
 					</ul>
-
+				</section>
+				<hr>
+				<section>
 					<a name="uses"></a><h4>Fiabilisation du transfert, sécurité d’utilisation</h4>
 					<p>Les modules JMei/RCB6000 sont pourvus de dispositifs et de codes de contrôle développés afin de garantir une très grande fiabilité quant aux perturbations ou coupures pouvant provenir d&rsquo;autres sources de radiofréquences installées sur le site et par les moyens suivants:</p>
 					<ul>
@@ -58,7 +84,9 @@ Les modules RCB6000 permettent aussi d’échanger les signaux du type RS232 ou 
 						<li>Sécurisation renforcée : l’ensemble des relais de sorties est piloté par deux microprocesseurs indépendants qui dialoguent entre eux et vérifient leur bon fonctionnement respectif.
 En cas de défaillance ou de dysfonctionnement de l'un d'entre eux, le système se place en sécurité et attend une nouvelle mise en service venant de l'émetteur.</li>
 					</ul>
-
+				</section>
+				<hr>
+				<section>
 					<a name="uses"></a><h4>Composition du système</h4>
 					<ul>
 						<li>2 boîtiers émetteur ou récepteur en  polycarbonate (ou aluminium, en option).</li>
@@ -69,9 +97,12 @@ En cas de défaillance ou de dysfonctionnement de l'un d'entre eux, le système 
 						<li>Possibilité de coupler plusieurs boîtiers émetteur/récepteur entre eux  afin de constituer un réseau .</li>
 						<li>Option : au niveau du module récepteur, une communication vers l’application client et du type Ethernet ou Profibus ou tout autre bus de terrain est possible.</li>
 					</ul>
-
+				</section>
+				<hr>
+				<section>
 					<a name="uses"></a><h4>Références pour ce type d’équipements</h4>
 					<p>Ce type d’équipement a déjà été installé récemment chez :  Arcelor Mittal, Riva Sidérurgie, Manoir industrie, Asco Métal, Burgo Ardenne, SAM Neuvemaison, Iton seine, Industrie automobile groupe Peugeot/SA, Glaverbel, Sidmar Gent, Airbus industrie, SNCF.</p>
+				</section>
 				</div>
 			</div>
  <?php include 'footer.php';?>

@@ -19,8 +19,8 @@ img.blog {
 margin-bottom: 10px;
 }
 </style>
-END;	
-	$swiper = new Medias('/img/product-RCB90/swiper/');
+END;
+	$swiper = new Medias('/img/product-RCB90/swiper/');	
 	include 'header.php';
 	include 'nav.php';
 ?>
@@ -65,14 +65,12 @@ END;
 				
 <?php if ( SHOW_CERTIFICATION ) : ?>
 					<a name="certification"></a>
-                <section>
 				  <h4>Certifications</h4>
 					<ul>
 						<li>EMC: EN61000-6-2 et EN61000-6-4</li>
 						<li>Safety: EN 60950</li>
 						<li>Spectrum (R&amp;TTE Directive 1999/5/EC): EN300-220.</li>
 					</ul>
-                 </section>
 <?php endif ?>
 				
 				<hr>
@@ -111,38 +109,50 @@ END;
 						<li>Pompe, jet d'eau.</li>
 					</ul>                  
 				</section>
-				<hr>
-				<section>								
+				<hr>								
                   <a id="réalisations"></a>
+				<section>
 					<h4>Exemples de réalisations</h4>    
 				</section>                 
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>RCB90/L - Boîte à boutons 9 fonctions</h6>
-							<img src="../img/product-RCB90/rcb90_bot1.jpg" alt="Télécommande grue">
+							<img src="../img/product-RCB90/rcb90_bot1.png" alt="Télécommande grue">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radio personnalisée (couleur du pont roulant)</h6>
-							<img src="../img/product-RCB90/rcb90_bot4.jpg" alt="Télécommande pour pont roulant personnalisée">
+							<img src="../img/product-RCB90/rcb90_bot4.png" alt="Télécommande pour pont roulant personnalisée">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>RCB90/M - Boîte à boutons 14 fonctions</h6>
-							<img src="../img/product-RCB90/rcb90_bot3.jpg" alt="Radiocommande industrielle">
-						</div>                                                
+							<img src="../img/product-RCB90/rcb90_bot3.png" alt="Radiocommande industrielle">
+				</section>
+						</div>
 					</div>
 					<div class="row">
 						<div class="span3">
+				<section> 
 							<h6>Arrêt d'urgence haute qualité</h6>
-							<img src="../img/product-RCB90/rcb90_bot5.jpg" alt="Arrêt d'urgence télécommande">
+							<img src="../img/product-RCB90/rcb90_bot5.png" alt="Arrêt d'urgence télécommande">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande industrielle universelle</h6>
-							<img src="../img/product-RCB90/rcb90_bot2.jpg" alt="Boîte à boutons industrielle">
+							<img src="../img/product-RCB90/rcb90_bot2.png" alt="Boîte à boutons industrielle">
+				</section>
 						</div>						
 						<div class="span3">
+				<section>
 							<h6>Clé mémoire adresse télécommande</h6>
-							<img src="../img/product-RCB90/rcb90_bot6.jpg" alt="Clé mémoire adresse télécommande">
-						</div>                        
+							<img src="../img/product-RCB90/rcb90_bot6.png" alt="Clé mémoire adresse télécommande">
+				</section>
+						</div> 
 					</div>                  
 				</div>
 			</div>

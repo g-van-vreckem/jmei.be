@@ -110,30 +110,42 @@ END;
 				</section>            
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>Radiocommande - prise en main sécuritaire</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot1.jpg" alt="Radiocommande avec prise en main sécuritaire">
+							<img src="../img/product-RCB1000/rcb1000_bot1.png" alt="Radiocommande avec prise en main sécuritaire">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Radiocommande - joysticks personnalisés</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot2.jpg" alt="Radiocommande - joysticks personnalisés">
+							<img src="../img/product-RCB1000/rcb1000_bot2.png" alt="Radiocommande - joysticks personnalisés">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Radiocommande industrielle analogique</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot3.jpg" alt="Radiocommande industrielle analogique">
+							<img src="../img/product-RCB1000/rcb1000_bot3.png" alt="Radiocommande industrielle analogique">
+							</section>
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>Clé mémoire électronique pour radiocommande</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot4.jpg" alt="Clé mémoire électronique pour radiocommande">
+							<img src="../img/product-RCB1000/rcb1000_bot4.png" alt="Clé mémoire électronique pour radiocommande">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Radiocommande avec afficheur</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot5.jpg" alt="Radiocommande avec afficheur">
+							<img src="../img/product-RCB1000/rcb1000_bot5.png" alt="Radiocommande avec afficheur">
+							</section>
 						</div>						
 						<div class="span3">
+							<section>
 							<h6>Démarrage sécurisé pour télécommande</h6>
-							<img src="../img/product-RCB1000/rcb1000_bot6.jpg" alt="Démarrage sécurisé pour télécommande">
+							<img src="../img/product-RCB1000/rcb1000_bot6.png" alt="Démarrage sécurisé pour télécommande">
+							</section>
 						</div>                        
 					</div>
 					</div>

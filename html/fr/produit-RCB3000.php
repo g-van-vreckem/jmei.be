@@ -115,30 +115,42 @@ END;
 				</section>
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>RCB3000 bidirectionnelle</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot1.jpg" alt="Télécommande avec retour d'informations">
+							<img src="../img/product-RCB3000/rcb3000_bot1.png" alt="Télécommande avec retour d'informations">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Radiocommande avec afficheur LCD</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot2.jpg" alt="Radiocommande avec afficheur">
+							<img src="../img/product-RCB3000/rcb3000_bot2.png" alt="Radiocommande avec afficheur">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Télécommande suivant cahier des charges</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot3.jpg" alt="Télécommande industrielle personnalisée">
+							<img src="../img/product-RCB3000/rcb3000_bot3.png" alt="Télécommande industrielle personnalisée">
+							</section>
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>Radiocommande analogique</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot4.jpg" alt="Radio télécommande analogique">
+							<img src="../img/product-RCB3000/rcb3000_bot4.png" alt="Radio télécommande analogique">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Housse de protection en nylon</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot5.jpg" alt="Housse de protection radiocommande">
+							<img src="../img/product-RCB3000/rcb3000_bot5.png" alt="Housse de protection radiocommande">
+							</section>
 						</div>						
 						<div class="span3">
+							<section>
 							<h6>Radiocommande pour locotracteur</h6>
-							<img src="../img/product-RCB3000/rcb3000_bot6.jpg" alt="Télécommande pour locotracteur">
+							<img src="../img/product-RCB3000/rcb3000_bot6.png" alt="Télécommande pour locotracteur">
+							</section>
 						</div>                        
 					</div>                      
 				</div>

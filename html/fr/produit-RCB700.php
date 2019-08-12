@@ -106,32 +106,44 @@ END;
 				</section>                 
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Télécommande avec retour d'informations</h6>                            
-							<img src="../img/product-RCB700/rcb700_bot1.jpg?v=1" alt="Télécommande avec scanner">    
+							<img src="../img/product-RCB700/rcb700_bot1.png?v=1" alt="Télécommande avec scanner">   
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande avec lecteur code-barres</h6>
-							<img src="../img/product-RCB700/rcb700_bot2.jpg" alt="Radiocommande avec lecteur code-barres">
+							<img src="../img/product-RCB700/rcb700_bot2.png" alt="Radiocommande avec lecteur code-barres">
+				</section>      
                          <p><a href="<?php echo Site::relativeUrl('SCAN.pdf');?>">Consulter la fiche technique</a></p>
 						</div>
 						<div class="span3">
-							<h6>Télécommande forestière (commande de treuils)</h6>
-							<img src="../img/product-RCB700/rcb700_bot3.jpg?v=1" alt="télécommande forestière pour treuil">
+				<section>
+							<h6>Télécommande forestière (treuils)</h6>
+							<img src="../img/product-RCB700/rcb700_bot3.png?v=1" alt="télécommande forestière pour treuil">
+				</section>
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Télécommande sur-mesure</h6>
-							<img src="../img/product-RCB700/rcb700_bot4.jpg" alt="Télécommande sur-mesure">
+							<img src="../img/product-RCB700/rcb700_bot4.png" alt="Télécommande sur-mesure">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radiocommande avec afficheur graphique</h6>
-							<img src="../img/product-RCB700/rcb700_bot5.jpg" alt="Radiocommande avec afficheur graphique">
+							<img src="../img/product-RCB700/rcb700_bot5.png" alt="Radiocommande avec afficheur graphique">
+				</section>
 						</div>						
 						<div class="span3">
+				<section>
 							<h6>Arêt de sécurité haute performance</h6>
-							<img src="../img/product-RCB700/rcb700_bot6.jpg" alt="Arrêt d'urgence télécommande">
-						</div>                        
+							<img src="../img/product-RCB700/rcb700_bot6.png" alt="Arrêt d'urgence télécommande">
+				</section>
+						</div>
 					</div>                  
 				</div>
 			</div>

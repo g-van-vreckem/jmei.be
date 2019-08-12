@@ -4,6 +4,22 @@
 	$description = 'Prolonge la distance de fonctionnement des radiocommandes sécuritaires JMei.';
 	$keywords = 'JMei,répéteur,répéteur ondes HF,répéteur radio,prolongateur ondes,transmission radio très longue distance';
 	$pageId = 'REPHF';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-REPHF/swiper/');	
 	include 'header.php';
 	include 'nav.php';
@@ -12,17 +28,24 @@
 <?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Répéteur ondes radio HF - Relais de signal radio pour télécommande</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                    
 					</div>
 					<p></p>
 <!--					<p><a href="<?php echo Site::relativeUrl('REPHF.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>-->
+				</section>
+				<hr>
+				<section>
 					<a id="description"></a>
 					<h4>Description</h4>
 						<p>Le répéteur d'ondes HF est utilisé pour prolonger la distance de fonctionnement des radiocommandes sécuritaires JMei.</p>
 						<p>Configurable pour l’ensemble de la gamme de radiocommande JMei, le répéteur relaye le signal radio en mode uni ou bidirectionnel.</p>
 						<p>Répondant aux dernières normes industrielles, le répéteur peut être installé dans les zones techniques les plus contraignantes à tous les niveaux.</p>
+				</section>
+				<hr>
+				<section> 
 					<a id="avantages"></a>
                   <h4>Avantages</h4>
 					<ul>
@@ -34,7 +57,9 @@
 						<li>Système autonome sur batterie : en option.</li>
 						<li>Multi-fréquence : Possibilité de travail dans les gammes 434MHz, 868MHz ou 2.4Ghz.</li>
 					</ul>
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="applications"></a>
                   <h4>Applications</h4>
 					<ul>
@@ -43,21 +68,30 @@
 						<li>Transfert de données sans fil.</li>
 						<li>Automate.</li>
 				  </ul>
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a id="réalisations"></a>
-					<h4>Exemples de réalisations</h4>                       
+					<h4>Exemples de réalisations</h4> 
+				</section>                 
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Répéteur HF portable</h6>
-							<img src="../img/product-REPHF/rephf_bot1.jpg?v=2" alt="Répéteur HF">
+							<img src="../img/product-REPHF/rephf_bot1.png?v=2" alt="Répéteur HF">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Prolongateur d'ondes</h6>
-							<img src="../img/product-REPHF/rephf_bot2.jpg?v=2" alt="Radiocommande industrielle">
+							<img src="../img/product-REPHF/rephf_bot2.png?v=2" alt="Radiocommande industrielle">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Répéteur diagnostique</h6>
-							<img src="../img/product-REPHF/rephf_bot3.jpg?v=2" alt="Répéteur d'ondes">
+							<img src="../img/product-REPHF/rephf_bot3.png?v=2" alt="Répéteur d'ondes">
+				</section>
 						</div>                                                
 					</div>                      
 				</div>

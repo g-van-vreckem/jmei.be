@@ -4,6 +4,22 @@
 	$description = 'Options pour les radiocommandes JMei. Clé mémoire émetteur, système de sécurité, coordination d\'équipements';
 	  $keywords = 'JMei,Clé mémoire,Démarrage sécurisé,Système tandem,Options pour les radiocommandes,système de sécurité,radiocommandes,clé mémoire de la radiocommande,clé d\'identification hardware,mémoire externe,émetteur de secours,émetteur de réserve,boîte à boutons,radiocommande,TCA27,commande d’engins dangereux,fonctions de sécurité,source infrarouge,balise lumineuse,système de démarrage,Commande de systèmes complexes,ponts roulants,limiteurs de charge,Radiocommandes multi-émetteurs,Radiocommandes multi-récepteurs,Radiocommandes en réseau,démarrage RFID,démarrage IR';
 	$pageId = 'OPTION';
+	$pageHeaderCss = <<<END
+<style>
+section {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #FAFAFA;
+}
+
+container, hr {
+    display: none;
+}
+img.blog {
+margin-bottom: 10px;
+}
+</style>
+END;
 	$swiper = new Medias('/img/product-option/swiper/');		
 	include 'header.php';
 	include 'nav.php';
@@ -12,33 +28,40 @@
 <?php include 'products-solutions-nav.php'; ?>
 				<div class="span9">
 					<a id="highlight"></a>
+					<section>
 					<h3>Options disponibles pour vos radiocommandes JMei</h3>
 					<div class="row">
 <?php echo $swiper->html; ?>                     
 					</div>
 					<p></p>                
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<p> <a href="#hardkey" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Clé hardware</a></p> 
 					<p> <a href="#TCA27" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Démarrage sécuritaire</a></p> 
 					<p> <a href="#tandem" class="btn btn-info btn-mini"><i class="icon-white icon-hand-down"></i> Commande de systèmes complexes</a></p> 
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a class="anchor" id="startup"></a>
 					<h3>Démarrage RFID / IR</h3>
 					<div class="row">
 						<div class="span3">
 							<h5>Démarrage par badges RFID</h5>
-							<img src="../img/product-option/rfidstartup.jpg" alt="Démarrage RFID"> 
+							<img src="../img/product-option/rfidstartup.png" alt="Démarrage RFID"> 
 							<p>Système de démarrage RFID-TAC.</p>
 					<p><a href="<?php echo Site::relativeUrl('RFID.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>
 						</div>
 						<div class="span3">
 							<h5>Démarrage infrarouge (IR)</h5>
-							<img src="../img/product-option/irstartup.jpg" alt="Démarrage et zonage IR (infrarouge)"> 
+							<img src="../img/product-option/irstartup.png" alt="Démarrage et zonage IR (infrarouge)"> 
 							<p>Démarrage et zonage IR (infrarouge).
 					<p><a href="<?php echo Site::relativeUrl('IR.pdf');?>" class="btn btn-success btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le PDF</a></p>                          </p>
 						</div>
                     		</div>
-                                      
+				</section>
+				<hr>
+				<section>                 
 					<a class="anchor" id="hardkey"></a>
 					<h3>Clé hardware</h3>    
 						<a id="clef-description"></a>                
@@ -58,18 +81,20 @@
 					<div class="row">
 						<div class="span3">
 							<h6>Clé mémoire pour boîte à boutons RCB90</h6>
-							<img src="../img/product-option/key_bot1.jpg" alt="Clé mémoire pour boîte à boutons RCB90">
+							<img src="../img/product-option/key_bot1.png" alt="Clé mémoire pour boîte à boutons RCB90">
 						</div>
 						<div class="span3">
 							<h6>Clé mémoire pour radiocommande RCB3000</h6>
-							<img src="../img/product-option/key_bot2.jpg" alt="Clé mémoire pour radiocommande RCB3000">
+							<img src="../img/product-option/key_bot2.png" alt="Clé mémoire pour radiocommande RCB3000">
 						</div>
 						<div class="span3">
 							<h6>Clé mémoire pour radiocommande RCB1000</h6>
-							<img src="../img/product-option/key_bot3.jpg" alt="Clé mémoire pour radiocommande RCB1000">
+							<img src="../img/product-option/key_bot3.png" alt="Clé mémoire pour radiocommande RCB1000">
 						</div>                                                
 					</div>                        
-					<hr> 
+				</section>
+				<hr>
+				<section>
 					<a class="anchor" id="TCA27"></a>
 					<h3>Démarrage sécuritaire</h3>    
 						<a id="tca27-description"></a>                
@@ -96,18 +121,20 @@
 					<div class="row">
 						<div class="span3">
 							<h6>RCB90 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot1.jpg" alt="Démarrage sécurisé pour radiocommande">
+							<img src="../img/product-option/tca27_bot1.png" alt="Démarrage sécurisé pour radiocommande">
 						</div>
 						<div class="span3">
 							<h6>RCB3000 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot2.jpg" alt="Sécurité de télécommande industrielle">
+							<img src="../img/product-option/tca27_bot2.png" alt="Sécurité de télécommande industrielle">
 						</div>
 						<div class="span3">
 							<h6>RCB1000 - Démarrage sécurisé</h6>
-							<img src="../img/product-option/tca27_bot3.jpg" alt="Sécurité de radiocommande industrielle">
+							<img src="../img/product-option/tca27_bot3.png" alt="Sécurité de radiocommande industrielle">
 						</div>                                                
 					</div>                    
-					<hr>
+				</section>
+				<hr>
+				<section>
 					<a class="anchor" id="tandem"></a>
 					<h3>Commande de systèmes complexes</h3>    
 						<a id="tandem-description"></a>                
@@ -149,16 +176,17 @@ Dans ce cas, les fins de course des différents ponts peuvent être raccordées 
 					<div class="row">
 						<div class="span3">
 							<h6>Radiocommandes multi-émetteurs</h6>
-							<img src="../img/product-option/tandem_1.jpg" alt="Radiocommandes multi-émetteurs">
+							<img src="../img/product-option/tandem_1.png" alt="Radiocommandes multi-émetteurs">
 						</div>
 						<div class="span3">
 							<h6>Radiocommandes multi-récepteurs</h6>
-							<img src="../img/product-option/tandem_2.jpg" alt="Radiocommandes multi-récepteurs">
+							<img src="../img/product-option/tandem_2.png" alt="Radiocommandes multi-récepteurs">
 						</div>
 						<div class="span3">
 							<h6>Radiocommandes en réseau</h6>
-							<img src="../img/product-option/tandem_3.jpg" alt="Radiocommandes en réseau">
-						</div>                                                
+							<img src="../img/product-option/tandem_3.png" alt="Radiocommandes en réseau">
+						</div>  
+				</section>                                             
 					</div>                        
 				</div>
  <?php include 'footer.php';?>

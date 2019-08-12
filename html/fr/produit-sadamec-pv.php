@@ -119,30 +119,42 @@ Son design et les possibilités infinies de configuration autorisent toutes les 
 				</section>                    
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>Télécommande - combinateur Sadamec</h6>
-							<img src="../img/product-PV/pv_bot1.jpg" alt="Télécommande Sadamec">
+							<img src="../img/product-PV/pv_bot1.png" alt="Télécommande Sadamec">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Télécommande - Clé de démarrage antivandale</h6>
-							<img src="../img/product-PV/pv_bot2.jpg" alt="Clé de démarrage">
+							<img src="../img/product-PV/pv_bot2.png" alt="Clé de démarrage">
+							</section>  
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Télécommande - Suivant cahier des charges</h6>
-							<img src="../img/product-PV/pv_bot3.jpg" alt="Télécommande suivant cahier des charges">
+							<img src="../img/product-PV/pv_bot3.png" alt="Télécommande suivant cahier des charges">
+							</section>
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
+							<section>
 							<h6>Télécommande - retour d'informations</h6>
-							<img src="../img/product-PV/pv_bot4.jpg" alt="télécommande avec retour d'info">
+							<img src="../img/product-PV/pv_bot4.png" alt="télécommande avec retour d'info">
+							</section>
 						</div>
 						<div class="span3">
+							<section>
 							<h6>Télécommande - Personnalisation de fonctions</h6>
-							<img src="../img/product-PV/pv_bot5.jpg" alt="Télécommande cryptogramme personnalisable">
+							<img src="../img/product-PV/pv_bot5.png" alt="Télécommande cryptogramme personnalisable">
+							</section>
 						</div>						
 						<div class="span3">
+							<section>
 							<h6>Télécommande - Boitier de couleur</h6>
-							<img src="../img/product-PV/pv_bot6.jpg" alt="Télécomande rouge">
+							<img src="../img/product-PV/pv_bot6.png" alt="Télécomande rouge">
+							</section>
 						</div>                        
 					</div>
 					</div>

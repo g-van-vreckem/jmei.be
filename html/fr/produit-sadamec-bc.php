@@ -112,30 +112,42 @@ END;
 				</section>                   
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Commande pour locotracteur</h6>
-							<img src="../img/product-BC/bc_bot1.jpg" alt="commande pour locotracteur">
+							<img src="../img/product-BC/bc_bot1.png" alt="commande pour locotracteur">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Commande à distance sur-mesure</h6>
-							<img src="../img/product-BC/bc_bot2.jpg" alt="Commande à distance sur-mesure">
+							<img src="../img/product-BC/bc_bot2.png" alt="Commande à distance sur-mesure">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Ouverture de portes industrielles</h6>
-							<img src="../img/product-BC/bc_bot4.jpg" alt="Télécommande pour porte d'accès">
+							<img src="../img/product-BC/bc_bot4.png" alt="Télécommande pour porte d'accès">
+				</section>
 						</div>                                                
 					</div>
 					<div class="row">
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Commande pour locotracteur</h6>
-							<img src="../img/product-BC/bc_bot1.jpg" alt="commande pour locotracteur">
+							<img src="../img/product-BC/bc_bot1.png" alt="commande pour locotracteur">
+				</section>
 						</div>
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Commande à distance sur-mesure</h6>
-							<img src="../img/product-BC/bc_bot2.jpg" alt="Commande à distance sur-mesurer">
+							<img src="../img/product-BC/bc_bot2.png" alt="Commande à distance sur-mesurer">
+				</section>
 						</div>						
 						<div class="span3">
+				<section>
 							<h6>Radio télécommande - Bouton de couleur</h6>
-							<img src="../img/product-BC/bc_bot3.jpg" alt="Radio télécommande - Bouton de couleur">
+							<img src="../img/product-BC/bc_bot3.png" alt="Radio télécommande - Bouton de couleur">
+				</section>
 						</div>                        
 					</div>
 			  </div>
