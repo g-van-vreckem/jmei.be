@@ -265,6 +265,7 @@
 			self::addPage ( new Page ( 'ECAM.pdf', 'fr', 'PromouvoirECAM2016', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Lettre-Wallonie-Bruxelles.pdf', 'fr', 'LWB-37', '', Page::PDF, true, .6 ) );
 			self::addPage ( new Page ( 'Entreprendre198.pdf', 'fr', 'JMei-Article-Entreprendre-2018', '', Page::PDF, true, .6 ) );
+			self::addPage ( new Page ( 'Avenir-sem34-2019.pdf', 'fr', 'lavenir22082019', '', Page::PDF, true, .6 ) );
 		}
 
 		public static function get_instance() {
