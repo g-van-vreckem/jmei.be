@@ -9,8 +9,6 @@
 	$pageHeaderCss = <<<END
 <style>
 section {
-    margin-bottom: 15px;
-    padding: 10px;
     background-color: #FAFAFA;
 }
 
