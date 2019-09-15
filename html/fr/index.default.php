@@ -140,7 +140,7 @@ END;
 						Tel. : +32 84 34.41.75<br>
 						Fax : +32 84 34.41.77<br>
 						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.fr">Site JMei FRANCE &raquo;</a></p>
+                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous&nbsp;! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.fr">Site JMei FRANCE &raquo;</a></p>
                     </section>
                 </div>
                 <div class="span4">

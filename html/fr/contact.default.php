@@ -32,7 +32,7 @@ PAGESC;
         <section>
 			<div id="contact-feedback">
 				<form class="contact-form" method="get" data-target="#contact-feedback" action="/sendmail.php">
-					<legend>Contactez-nous!</legend>
+					<legend>Contactez-nous&nbsp;!</legend>
 					<fieldset>
 						<label>Votre Nom <span>(Requis)</span></label>
 						<input id="name" type="text" title="Your name is required!" name="name" class="inputtext required span12" required>
@@ -54,7 +54,7 @@ PAGESC;
             <div class="row">
                 <div class="span4">
                 	<section>
-                    <h2>Contactez-nous!</h2>
+                    <h2>Contactez-nous&nbsp;!</h2>
                     <p><b>JMei</b>
 					Solution-Electronic-Radio transmission<br>
 					Chaussée de Rochefort, 123<br>

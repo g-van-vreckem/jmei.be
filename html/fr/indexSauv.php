@@ -93,7 +93,7 @@
 						Tel. : +32 84 34.41.75<br>
 						Fax : +32 84 34.41.77<br>
 						<a href="mailto:info@jmei.be">info@jmei.be</a></p>
-                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a></p>
+                    <p><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous&nbsp;! &raquo;</a></p>
                 </div>
                 <div class="span4">
 						<h2>Exemple de réalisations</h2>

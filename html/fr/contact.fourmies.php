@@ -54,7 +54,7 @@ PAGESC;
             <div class="row">
                 <div class="span4">
                 	<section>
-                    <h2>Contactez-nous!</h2>
+                    <h2>Contactez-nous&nbsp;!</h2>
                     <p><b>JMei FRANCE SARL</b><br>
 											Solution-Electronic-Radio transmission<br>
 											ZA La Marliere<br>

@@ -142,7 +142,7 @@ END;
 											Tel. : +33 3 66 24 01 16<br>
 											<a href="mailto:contact@jmei.fr">contact@jmei.fr</a>
 										</p>
-                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.be">Site JMei Europe &raquo;</a></p>
+                    <p class="text-center"><a class="btn btn-jmei" href="<?php echo Site::relativeUrl('contact');?>">Contactez-nous&nbsp;! &raquo;</a> <a class="btn btn-jmei" href="http://www.jmei.be">Site JMei Europe &raquo;</a></p>
                     </section>
                 </div>
                 <div class="span4">
