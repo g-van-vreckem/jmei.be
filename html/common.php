@@ -4,7 +4,7 @@
 	mb_internal_encoding('UTF-8');
 	header('Cache-Control: no-cache');
 	header('Expires: -1');
-	header('X-UA-Compatible: IE=edge,chrome=1');
+	header('X-UA-Compatible: IE=edge');
 
 	$ext = '.php'; //correct URL depending on the URL rewrite rules
 	$keywords = '';
@@ -320,12 +320,12 @@
 		}
 		public static function applyDomainCustomisation() {
 			switch($_SERVER['HTTP_HOST']) {
-				case 'jmei.picmilk.com':
 				case 'jmei.fr':
 				case 'www.jmei.fr':
 					self::$canonicalSiteURL = 'http://www.jmei.fr';
 				  self::$domExtension = self::FOURMIES;
 					break;
+				case 'jmei.picmilk.com':
 				case 'jmei.be':
 				case 'jmei.eu':
 				case 'www.jmei.be':
