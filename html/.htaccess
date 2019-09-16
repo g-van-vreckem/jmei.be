@@ -368,8 +368,8 @@ FileETag None
 
 # Replace .php by .html
 #<IfModule mod_rewrite.c>
-	RewriteRule ^(.*)\.html$ $1.php
-	RewriteRule ^(.*)\.php$ $1.html [R=301,QSA,L]
+#	RewriteRule ^(.*)\.html$ $1.php
+#	RewriteRule ^(.*)\.php$ $1.html [R=301,QSA,L]
 #</IfModule>
 
 # ----------------------------------------------------------------------
