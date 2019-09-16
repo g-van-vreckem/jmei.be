@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière,commande de nacelles,SADamec,boîtier aluminium,transport de personnes par câble,PLe,téléphérique,répéteurs HF,camions articulés,remorque multi-directionelle,Répéteur UHF,locotracteurs,ponts flottants motorisés,PFM,militaire,simulateurs,commande USB,télécommande treuil proportionnel';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière,commande de nacelles,SADamec,boîtier aluminium,transport de personnes par câble,PLe,téléphérique,répéteurs HF,camions articulés,remorque multi-directionelle,Répéteur UHF,locotracteurs,ponts flottants motorisés,PFM,militaire,simulateurs,commande USB,télécommande treuil proportionnel,radio télécommande treuil,Radio télécomande pour palan';
 
 	$pageId = 'realisations';
 	$pageHeaderCss = <<<END
@@ -60,6 +60,16 @@ END;
 		</div>
 		<div class="span12">
 		<!--Body content-->
+			<a class="anchor" id="blog-2019-009-SLYT2"></a>
+			<section>
+				<h3>Radio télécommande pour treuil et palan - JMei S-LYT2</h3>
+				<img class="blog" src="../img/custom-product/2019-09-SLYT2.png?v=1" alt="Radio télécomande pour palan">
+				<p><br>
+					Radio télécommande double vitesse pour treuil et palan, la JMei S-LYT2 est la plus compacte de sa catégorie.<br> 
+					Ce développement est adapté dans le domaine du levage nécessitant uniquement les fonctions montées / descentes.</p>
+				<p><a href="../fr/produit-JMei-S-LYT.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p> 
+			</section>
+			<hr>
 			<a class="anchor" id="blog-2019-007-RCB700"></a>
 			<section>
 				<h3>Télécommande pour treuil proportionnel + alarmes</h3>
