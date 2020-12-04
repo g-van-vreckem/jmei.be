@@ -60,14 +60,24 @@ END;
 		</div>
 		<div class="span12">
 		<!--Body content-->
+			<a class="anchor" id="blog-2020-003-RCB3000"></a>
+			<section>
+				<h3>Télécommande Loco avec retour d'info</h3>
+				<img class="blog" src="../img/custom-product/2020-03-3000.png?v=1" alt="RTélécommande Loco avec rétour d'info">
+				<p><br>
+					Télécommande pour machines mobiles sur rail avec rétro-éclairage.<br> 
+					Manipulateur spécialement développé pour la conduite de locotracteurs.</p>
+				<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>
+			</section>
+			<hr>
 			<a class="anchor" id="blog-2019-009-SLYT2"></a>
 			<section>
-				<h3>Radio télécommande pour treuil et palan - JMei S-LYT2</h3>
+				<h3>Radio télécommande pour treuil et palan - JMei HANDY</h3>
 				<img class="blog" src="../img/custom-product/2019-09-SLYT2.png?v=1" alt="Radio télécomande pour palan">
 				<p><br>
-					Radio télécommande double vitesse pour treuil et palan, la JMei S-LYT2 est la plus compacte de sa catégorie.<br> 
+					Radio télécommande double vitesse pour treuil et palan, la JMei HANDY est la plus compacte de sa catégorie.<br> 
 					Ce développement est adapté dans le domaine du levage nécessitant uniquement les fonctions montées / descentes.</p>
-				<p><a href="../fr/produit-JMei-S-LYT.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p> 
+				<!--<p><a href="../fr/produit-JMei-S-LYT.php" class="btn btn-outline-info btn-sm"> Vers la page produit...</a></p>--> 
 			</section>
 			<hr>
 			<a class="anchor" id="blog-2019-007-RCB700"></a>

@@ -28,10 +28,10 @@ END;
 				<div id="i1" class="tile span4"> 
                 <section>													
 					<div class="top-text">	
-                        <h5 class="tile-title">JMei Mini</h5>
+                        <h5 class="tile-title">JMei MINI</h5>
                         <p class="tile-intro">La télécommande ultra compacte, ultra légère.</p>
                     </div>
-                    <img class="bottom-img" src="../img/product-overview3/JMMini.png?v=1" alt="Radio commande JMPocket">
+                    <img class="bottom-img" src="../img/product-overview3/JMMini.png?v=1" alt="Radio commande JMei MINI">
 				</section>  
                     <div class="tile-over">
                         <span class="closed" aria-hidden="true" data-icon="&#xe000;"></span>

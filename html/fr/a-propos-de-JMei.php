@@ -26,6 +26,7 @@ END;
 
 ?>
 			<section>
+			 <p><a href="<?php echo Site::relativeUrl('Equipment-353-2020.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;equipment-construction&quot; - Num 353 (novembre 2020)</a></p>
 			 <p><a href="<?php echo Site::relativeUrl('Avenir-sem34-2019.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait l'Avenir Huy-Waremme (22 août 2019)</a></p>
             <p><a href="http://www.jmei.be/ressource/opinions_ucm_23052019.mp4" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission "Opinions UCM" (25 MAI 2019)</a></p>
 			<p><a href="https://www.ucmmagazine.be/portraits/jmei-de-lingenierie-sur-mesure/" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait &quot;UCM MAGAZINE&quot; - Num 13 (mars 2019)</a></p>

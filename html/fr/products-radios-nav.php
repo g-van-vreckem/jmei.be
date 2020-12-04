@@ -6,7 +6,7 @@
 					<div class="nav-collapse collapse products">
 						<ul class="nav nav-tabs nav-stacked sidenavmix">
 							<li class="nav-header">Boîte à boutons</li>
-							<li<?php echo Site::addActiveClass('JMMINI'); ?>><a href="<?php echo Site::relativeUrl('JMMINI');?>">JMei Mini <i class="icon-chevron-right pull-right"></i></a></li>
+							<li<?php echo Site::addActiveClass('JMMINI'); ?>><a href="<?php echo Site::relativeUrl('JMMINI');?>">JMei MINI <i class="icon-chevron-right pull-right"></i></a></li>
 							<li<?php echo Site::addActiveClass('JMSLYT'); ?>><a href="<?php echo Site::relativeUrl('JMSLYT');?>">JMei S-LYT <i class="icon-chevron-right pull-right"></i></a></li>  
 							<li<?php echo Site::addActiveClass('RCB90'); ?>><a href="<?php echo Site::relativeUrl('RCB90');?>">RCB90 <i class="icon-chevron-right pull-right"></i></a></li>
 							<li class="nav-header">Compact</li>

@@ -3,7 +3,7 @@
 			<div class="navbar-inner">
 				<div class="container">
 					<ul class="nav">
-						<li class="navbar-text navbar-inverse">&copy; JMei 2018</li>
+						<li class="navbar-text navbar-inverse">&copy; JMei 2020</li>
 
 						<li<?php echo Site::addActiveClass('terms'); ?>><a href="<?php echo Site::relativeUrl('terms');?>">legal</a></li>
 						<li><a href="https://plus.google.com/+JmeiBe" rel="publisher">Zoek ons op Google+</a></li>

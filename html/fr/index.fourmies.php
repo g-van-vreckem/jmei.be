@@ -114,10 +114,12 @@ END;
 "../img/home/month-radio.jpg?v=19"
 -->
 				<section>
-				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=29" alt="Radiocommande Industrielle de sécurité"> 
+				<!--<h2 class="text-center">Nos réalisations</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=30" alt="Radiocommande Industrielle de sécurité"> -->
 				<!--<h2 class="text-center">JOYEUSES FÊTES</h2>
-                <a href="../../ressource/2019.gif?v=1"><img src="../../ressource/2019.gif?v=1" alt="Radiocommande Industrielle de sécurité">-->
+                <a href="../../ressource/2020.gif?v=1"><img src="../../ressource/2020.gif?v=1" alt="Radiocommande Industrielle de sécurité">-->
+				<h2 class="text-center">Nous sommes prêts...</h2>
+                <a href="https://youtu.be/_XytDR-UKCo" target="_blank"><img src="../img/home/month-radio19.jpg?v=30" alt="JMei plus fort que COVID-19">
                     </a></section>  </div>
                 <div class="span4">
                 <section>
