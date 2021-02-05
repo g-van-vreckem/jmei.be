@@ -105,7 +105,7 @@ END;
                 <div class="span4">
 					<section>
 					<h2 class="text-center">Nos expériences</h2>
-					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1.jpg?v=10" alt="Sadamec"></a>
+					<a href="<?php echo Site::relativeUrl('sadamec');?>"><img src="../img/home/box1EU.jpg?v=10" alt="Sadamec"></a>
 					</section>
                 </div>
                 <div class="span4">
@@ -113,17 +113,17 @@ END;
 "../img/home/month-radio.jpg?v=18"
 -->
 				<section>
-				<!--<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=32" alt="Radiocommande Industrielle de sécurité">-->
-				<h2 class="text-center">BEST WISHES 2021</h2>
-                <a href="../../ressource/2021.gif?v=1"><img src="../../ressource/2021.gif?v=1" alt="Radiocommande Industrielle de sécurité">
+				<h2 class="text-center">Nos réalisations</h2>
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=34" alt="Radiocommande Industrielle de sécurité">
+				<!--<h2 class="text-center">BEST WISHES 2021</h2>
+                <a href="../../ressource/2021.gif?v=1"><img src="../../ressource/2021.gif?v=1" alt="Radiocommande Industrielle de sécurité">-->
 				<!--<h2 class="text-center">Nous sommes prêts...</h2>
                 <a href="https://youtu.be/_XytDR-UKCo" target="_blank"><img src="../img/home/month-radio19.jpg?v=30" alt="JMei plus fort que COVID-19">-->
                     </a></section>  </div>
                 <div class="span4">
                 <section>
 <h2 class="text-center">Un gage de qualité</h2>
-					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.png?v=2" alt="Télécommande JMei"></a>
+					<a href="<?php echo Site::relativeUrl('about');?>"><img src="../img/home/box2.jpg?v=3" alt="Télécommande JMei"></a>
 					</section>
                 </div>
             </div>
@@ -131,7 +131,7 @@ END;
                 <div class="span4">
                 <section>
 <h2 class="text-center">Personnalisation</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.png?v=14" alt="Boîte à boutons industrielle"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box3.png?v=15" alt="Boîte à boutons industrielle"></a>
                 </section>
                 </div>
                 <div class="span4">
@@ -148,7 +148,7 @@ END;
                 <div class="span4">
                 <section>
 <h2 class="text-center">Industrial Wireless</h2>
-					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.png?v=6" alt="Radiocommande personnalisée"></a>
+					<a href="<?php echo Site::relativeUrl('products-radios');?>"><img src="../img/home/box4.png?v=7" alt="Radiocommande personnalisée"></a>
                     </section>
                 </div>
             </div>
