@@ -2,7 +2,7 @@
 	include 'common.php';
 	$title = 'JMei - Radiocommandes suivant cahier des charges - Transmission bidirectionnelle';
 	$description = 'Les radiocommandes JMei réalisées selon le cahier des charges du client';
-	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière,commande de nacelles,SADamec,boîtier aluminium,transport de personnes par câble,PLe,téléphérique,répéteurs HF,camions articulés,remorque multi-directionelle,Répéteur UHF,locotracteurs,ponts flottants motorisés,PFM,militaire,simulateurs,commande USB,télécommande treuil proportionnel,radio télécommande treuil,Radio télécomande pour palan,Pupitre déporté,aciérie';
+	$keywords = 'JMei,Radiocommandes suivant cahier des charges,Transmission bidirectionnelle,Radiocommandes personnalisées,Télécommande avec répéteur radio,Radio scan code-barres,Radiocommande pour bande transporteuse,Télécommande ultra-compacte,Commande proportionnelle CANbus,Télécommande avec afficheurs,Commande de machine agricole,réseau d\'antennes,commande à distance,transmission radio,silos à grains,cuveries,caves,tunnels,bus de terrain,transmission HF,distance de transmission,engins sur rails,commande à distance de locotracteur,transmission d\'inclinomètres,salle de contrôle déportée,lecteur de code-barres,sécurité du personnel,systèmes de logistiques,communication bidirectionnelle,actionneurs,Warzee,machine agricole,dérouleuse déportée,fourche d\'une machine agricole,radio-fréquence,safeball,homme-mort,télécommande de sécurité,sécurité redondante,radiocommande forestière,télécommande pour treuil,Commande à distance pour treuil forestier,télécommande sans fil forestière,JMei S-LYT,Radio-télécommande,applications de levage,commande à distance plug and play,double palan,fonction Tandem,maître-esclave,pitch and catch,envois du pont roulant depuis un émetteur et réception via un autre,télécomande maritime,télécommande bidirectionnelle,télécommande IR,télécommande infra-rouge,télécommande théatre,pupitre de commande,locomotive,engin sur rail,démarrage sécuritaire,Commande de portes industrielles,Radiocommande forestière,commande de nacelles,SADamec,boîtier aluminium,transport de personnes par câble,PLe,téléphérique,répéteurs HF,camions articulés,remorque multi-directionelle,Répéteur UHF,locotracteurs,ponts flottants motorisés,PFM,militaire,simulateurs,commande USB,télécommande treuil proportionnel,radio télécommande treuil,Radio télécomande pour palan,Pupitre déporté,aciérie,volvo,volvo FH,Volvo Dynamic Steering,EXSTER';
 
 	$pageId = 'realisations';
 	$pageHeaderCss = <<<END
@@ -60,6 +60,23 @@ END;
 		</div>
 		<div class="span12">
 		<!--Body content-->
+			<a class="anchor" id="blog-2021-003-RCB3000"></a>
+			<section>
+				<h3>Conduite à distance d'un camion routier</h3>
+				<img class="blog" src="../img/custom-product/2021-03-3000.png?v=1" alt="Télécommande Volvo EXSTER">
+
+				<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RqWSJLV7jjk?v=1">
+					</iframe>
+				</div>
+				<p><br><strong>Radio-télécommande développée pour Volvo Trucks.</strong><br>
+					Conduite à distance d'un Volvo FH équipé du module External Steering Interface (EXSTER).<br>
+					Le dialogue entre la télécommande JMei et l'interface BB-CAN de Vovlo permet la conduite externe du véhicule dans sa globalité.<br>
+					Le Volvo Dynamic Steering assure le contrôle précis de la direction, les autres fonctions de la télécommande JMei permettent le démarrage moteur, sélection de la boîte de vitesse, accélération, freinage, freins de parking et autres fonctionnalités assurant un travail en toute sécurité.<br>
+					Cette radiocommande est équipée d'un écran couleur indiquant les différents statuts du camion à distance</p>
+				<p><a href="../fr/produit-RCB3000.php" class="btn btn-outline-info btn-sm"> Vers la page produit (standard JMei)...</a></p>
+			</section>
+			<hr>
 			<a class="anchor" id="blog-2021-002-RCB1000"></a>
 			<section>
 				<h3>Pupitre déporté pour aciérie avec émetteur de maintenance</h3>

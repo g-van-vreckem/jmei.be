@@ -114,7 +114,7 @@ END;
 -->
 				<section>
 				<h2 class="text-center">Nos réalisations</h2>
-                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=34" alt="Radiocommande Industrielle de sécurité">
+                    <a href="<?php echo Site::relativeUrl('realisations');?>" style="text-align: left"><img src="../img/home/month-radio.png?v=36" alt="Radiocommande Industrielle de sécurité">
 				<!--<h2 class="text-center">BEST WISHES 2021</h2>
                 <a href="../../ressource/2021.gif?v=1"><img src="../../ressource/2021.gif?v=1" alt="Radiocommande Industrielle de sécurité">-->
 				<!--<h2 class="text-center">Nous sommes prêts...</h2>
