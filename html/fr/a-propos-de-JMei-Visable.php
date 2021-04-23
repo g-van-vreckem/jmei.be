@@ -25,9 +25,17 @@ END;
 	include 'nav.php';
 
 ?>
-        <section>
-			<h4>JMei: la normalisation et notre constante évolution</h4>
-			<img src="../img/about/iso.png?v=1" alt="JMei ISO9001">
+			<section>
+			 <p><a href="<?php echo Site::relativeUrl('Equipment-353-2020.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;equipment-construction&quot; - Num 353 (novembre 2020)</a></p>
+			 <p><a href="<?php echo Site::relativeUrl('Avenir-sem34-2019.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait l'Avenir Huy-Waremme (22 août 2019)</a></p>
+            <p><a href="http://www.jmei.be/ressource/opinions_ucm_23052019.mp4" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission "Opinions UCM" (25 MAI 2019)</a></p>
+			<p><a href="https://www.ucmmagazine.be/portraits/jmei-de-lingenierie-sur-mesure/" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait &quot;UCM MAGAZINE&quot; - Num 13 (mars 2019)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('Entreprendre198.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait du magazine &quot;Entreprendre&quot; - Num 198 (novembre 2018)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('Lettre-Wallonie-Bruxelles.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le magasine &quot;Lettre Wallonie-Bruxelles en France&quot; - (2017 - JMei Page15)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('ECAM.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Promouvoir 2016&quot; - AIECAM (avril 2016)</a></p>
+			<p><a href="http://www.ccilb.be/fr/news/278-Innovation+et+technologie+%26lsquo%3Bmade+in+Famenne%26rsquo%3B+%3A+chez+JMEI%2C+on+innove+presque+naturellement" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait du magazine &quot;Entreprendre&quot; - Num 176 (avril 2016)</a></p>
+			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
+			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
         </section>
         <hr> 
         <section>
@@ -77,19 +85,5 @@ END;
 			<p>Toujours à l'écoute de nos clients, nous donnons la plus grande priorité à la création et à l'innovation dans les solutions personnalisées que nous proposons.</p>
 
 			<p>N'hésitez pas à <a href="<?php echo Site::relativeUrl('contact');?>">nous contacter</a>, c'est toujours un plaisir pour nous de parler de notre passion!</p>
-        </section>
-        <hr> 
-		<section>
-			<h4>La presse en parle...</h4>
-			<p><a href="<?php echo Site::relativeUrl('Equipment-353-2020.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;equipment-construction&quot; - Num 353 (novembre 2020)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('Avenir-sem34-2019.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait l'Avenir Huy-Waremme (22 août 2019)</a></p>
-			<p><a href="http://www.jmei.be/ressource/opinions_ucm_23052019.mp4" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission "Opinions UCM" (25 MAI 2019)</a></p>
-			<p><a href="https://www.ucmmagazine.be/portraits/jmei-de-lingenierie-sur-mesure/" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait &quot;UCM MAGAZINE&quot; - Num 13 (mars 2019)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('Entreprendre198.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait du magazine &quot;Entreprendre&quot; - Num 198 (novembre 2018)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('Lettre-Wallonie-Bruxelles.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger le magasine &quot;Lettre Wallonie-Bruxelles en France&quot; - (2017 - JMei Page15)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('ECAM.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Promouvoir 2016&quot; - AIECAM (avril 2016)</a></p>
-			<p><a href="http://www.ccilb.be/fr/news/278-Innovation+et+technologie+%26lsquo%3Bmade+in+Famenne%26rsquo%3B+%3A+chez+JMEI%2C+on+innove+presque+naturellement" class="btn btn-success btn-small"><i class="icon-white icon-file"></i> Consulter l'extrait du magazine &quot;Entreprendre&quot; - Num 176 (avril 2016)</a></p>
-			<p><a href="http://www.tvlux.be/video/entreprendre/jmei-marloie_19945.html" class="btn btn-danger btn-small"><i class="icon-white icon-film"></i> Visualiser l'émission entreprendre - TV LUX (05 octobre 2015)</a></p>
-			<p><a href="<?php echo Site::relativeUrl('DH.pdf');?>" class="btn btn-info btn-small"><i class="icon-white icon-arrow-down"></i> Télécharger l'extrait &quot;Dossier Entreprises&quot; - La DH (28-29 mai 2014)</a></p>
         </section>
  <?php include 'footer.php';?>
